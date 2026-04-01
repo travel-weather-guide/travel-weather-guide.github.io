@@ -41,7 +41,7 @@
 ## 확정된 기술 스택
 
 ### 프레임워크 & 언어
-- **Frontend**: Next.js 15+ (App Router) + TypeScript (strict 모드)
+- **Frontend**: Next.js 16+ (App Router) + TypeScript (strict 모드)
 - **스타일링**: Tailwind CSS v4
 
 ### 데이터 전략: 빌드 타임 정적 JSON (런타임 API 호출 없음)
@@ -282,7 +282,7 @@ interface RecommendedDestination {
 
 - **톤**: 밝고 친근한 여행 분위기, 깔끔한 정보 전달
 - **색상**: 하늘색/코랄 계열 메인, 날씨에 따른 동적 색상
-- **폰트**: 한글 가독성 우선 (Pretendard 또는 Noto Sans KR)
+- **폰트**: Noto Sans KR (next/font/google)
 - **레이아웃**: 카드 기반 UI, 충분한 여백
 - **차트**: 직관적인 기온/강수량 시각화 (라인+바 차트)
 - **모바일**: 모바일 퍼스트, 터치 친화적
@@ -301,6 +301,12 @@ interface RecommendedDestination {
 - 타입: `src/types/`
 - 한국어 기본, 추후 i18n 확장 고려
 - Leaflet 컴포넌트는 반드시 `dynamic(() => import(...), { ssr: false })` 사용
+
+### 플랜 작성 원칙
+
+- **프로토타입 우선.** 오버엔지니어링 금지. 최소한의 구현으로 동작을 먼저 확인하고 점진적으로 확장한다.
+- **PLAN.md는 큰 틀만 잡는다.** 각 항목은 2~5줄로 목적과 범위를 알 수 있게 작성. 구체적인 구현 체크리스트는 PLAN-CURRENT.md에서 관리한다.
+- 한 Step이 다른 Step의 병목이 되지 않게 순서를 조정한다.
 
 ### 플랜 관리 흐름
 
@@ -346,3 +352,5 @@ interface RecommendedDestination {
 | 2026-04-01 | 데이터 전략 | 런타임 API → 빌드 타임 정적 JSON 확정 |
 | 2026-04-01 | 날씨 아이콘 | 미정 → Meteocons (Bas Milius, MIT) 확정 |
 | 2026-04-01 | 날씨 데이터 소스 | 미정 → Open-Meteo + Visual Crossing 확정 |
+| 2026-04-02 | Next.js 버전 | 15+ → 16+ (latest 기준 16.2.1) |
+| 2026-04-02 | 폰트 | Pretendard 또는 Noto Sans KR → Noto Sans KR 확정 (next/font/google 지원) |
