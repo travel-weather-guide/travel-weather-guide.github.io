@@ -38,10 +38,10 @@ description: 현재 진행 플랜을 완료 처리하고 PLAN-DONE.md에 기록
 {추가 메모가 있으면 여기에}
 ```
 
-### 3단계: PLAN.md 업데이트
+### 3단계: PLAN.md에서 해당 Phase 제거
 1. `PLAN.md`를 읽는다
-2. 해당 항목을 `[x]`로 체크하고 `(진행 중)` 표시 제거
-3. 완료 날짜 추가
+2. 완료된 Phase 섹션 전체(헤더 + 하위 항목)를 삭제한다
+3. 완료된 내용은 PLAN-DONE.md에만 보관한다
 
 ### 4단계: PLAN-CURRENT.md 초기화
 ```markdown
