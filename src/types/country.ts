@@ -1,0 +1,29 @@
+export type Continent =
+  | 'asia'
+  | 'europe'
+  | 'north-america'
+  | 'south-america'
+  | 'africa'
+  | 'oceania';
+
+export interface Country {
+  id: string;
+  name: { ko: string; en: string };
+  continent: Continent;
+  capital: string;
+  currency: string;
+  language: string;
+  timezone: string;
+  visaInfo: string;
+  regions: Region[];
+}
+
+export interface Region {
+  id: string;
+  name: { ko: string; en: string };
+  countryId: string;
+  latitude: number;
+  longitude: number;
+  climateType: string;
+  monthlyData: import('./weather').MonthlyData[];
+}

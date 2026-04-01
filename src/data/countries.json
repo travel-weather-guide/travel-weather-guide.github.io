@@ -1,0 +1,47 @@
+[
+  {
+    "id": "japan",
+    "name": {
+      "ko": "일본",
+      "en": "Japan"
+    },
+    "continent": "asia",
+    "regionCount": 4
+  },
+  {
+    "id": "thailand",
+    "name": {
+      "ko": "태국",
+      "en": "Thailand"
+    },
+    "continent": "asia",
+    "regionCount": 3
+  },
+  {
+    "id": "france",
+    "name": {
+      "ko": "프랑스",
+      "en": "France"
+    },
+    "continent": "europe",
+    "regionCount": 2
+  },
+  {
+    "id": "usa",
+    "name": {
+      "ko": "미국",
+      "en": "United States"
+    },
+    "continent": "north-america",
+    "regionCount": 3
+  },
+  {
+    "id": "australia",
+    "name": {
+      "ko": "호주",
+      "en": "Australia"
+    },
+    "continent": "oceania",
+    "regionCount": 2
+  }
+]

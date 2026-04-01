@@ -1,0 +1,595 @@
+{
+  "id": "japan",
+  "name": {
+    "ko": "일본",
+    "en": "Japan"
+  },
+  "continent": "asia",
+  "capital": "Tokyo",
+  "currency": "Japanese yen (¥)",
+  "language": "Japanese",
+  "timezone": "UTC+09:00",
+  "visaInfo": "",
+  "regions": [
+    {
+      "id": "tokyo",
+      "name": {
+        "ko": "도쿄",
+        "en": "Tokyo"
+      },
+      "countryId": "japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "climateType": "온대 습윤",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 9.4,
+          "tempLow": 0.2,
+          "rainfall": 55,
+          "rainyDays": 6.2,
+          "humidity": 65.1,
+          "sunshineHours": 7.4,
+          "uvIndex": 0,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 2,
+          "tempHigh": 11,
+          "tempLow": 1.1,
+          "rainfall": 49.4,
+          "rainyDays": 7.4,
+          "humidity": 64.2,
+          "sunshineHours": 8.1,
+          "uvIndex": 0,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 15.2,
+          "tempLow": 5.3,
+          "rainfall": 150.6,
+          "rainyDays": 12,
+          "humidity": 68.6,
+          "sunshineHours": 8,
+          "uvIndex": 0,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 18.9,
+          "tempLow": 9.6,
+          "rainfall": 161.9,
+          "rainyDays": 11.8,
+          "humidity": 70.6,
+          "sunshineHours": 8.5,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 22.9,
+          "tempLow": 14.4,
+          "rainfall": 168.4,
+          "rainyDays": 13.4,
+          "humidity": 75,
+          "sunshineHours": 8.2,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 26.5,
+          "tempLow": 18.9,
+          "rainfall": 202.8,
+          "rainyDays": 15.2,
+          "humidity": 79.5,
+          "sunshineHours": 8.2,
+          "uvIndex": 0,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 30.7,
+          "tempLow": 23.4,
+          "rainfall": 219,
+          "rainyDays": 18,
+          "humidity": 79.3,
+          "sunshineHours": 8.6,
+          "uvIndex": 0,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 32.3,
+          "tempLow": 24.6,
+          "rainfall": 144.9,
+          "rainyDays": 14.2,
+          "humidity": 77.6,
+          "sunshineHours": 10.5,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 28.2,
+          "tempLow": 21.3,
+          "rainfall": 188.4,
+          "rainyDays": 15,
+          "humidity": 80.8,
+          "sunshineHours": 7.7,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 21.8,
+          "tempLow": 14,
+          "rainfall": 158.3,
+          "rainyDays": 11.8,
+          "humidity": 77.1,
+          "sunshineHours": 7.1,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 17.5,
+          "tempLow": 8.5,
+          "rainfall": 80.5,
+          "rainyDays": 7.6,
+          "humidity": 73.8,
+          "sunshineHours": 7.6,
+          "uvIndex": 0,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 12,
+          "tempHigh": 11.6,
+          "tempLow": 2.2,
+          "rainfall": 50.3,
+          "rainyDays": 5.6,
+          "humidity": 67.3,
+          "sunshineHours": 7.8,
+          "uvIndex": 0,
+          "weatherSummary": "쌀쌀"
+        }
+      ]
+    },
+    {
+      "id": "osaka",
+      "name": {
+        "ko": "오사카",
+        "en": "Osaka"
+      },
+      "countryId": "japan",
+      "latitude": 34.6937,
+      "longitude": 135.5023,
+      "climateType": "온대 습윤",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 9.4,
+          "tempLow": 1.2,
+          "rainfall": 52.5,
+          "rainyDays": 7.2,
+          "humidity": 74.1,
+          "sunshineHours": 7.4,
+          "uvIndex": 0,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 2,
+          "tempHigh": 10.5,
+          "tempLow": 1.8,
+          "rainfall": 60,
+          "rainyDays": 6.8,
+          "humidity": 72.5,
+          "sunshineHours": 7.6,
+          "uvIndex": 0,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 14.5,
+          "tempLow": 5,
+          "rainfall": 126.6,
+          "rainyDays": 10.6,
+          "humidity": 73.2,
+          "sunshineHours": 8.2,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 4,
+          "tempHigh": 19,
+          "tempLow": 9.6,
+          "rainfall": 165.6,
+          "rainyDays": 9.4,
+          "humidity": 72.3,
+          "sunshineHours": 8.6,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 22.8,
+          "tempLow": 14.1,
+          "rainfall": 218.2,
+          "rainyDays": 13.4,
+          "humidity": 74.5,
+          "sunshineHours": 9,
+          "uvIndex": 0,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 6,
+          "tempHigh": 26.7,
+          "tempLow": 19.3,
+          "rainfall": 247.8,
+          "rainyDays": 13.8,
+          "humidity": 78.3,
+          "sunshineHours": 8.5,
+          "uvIndex": 0,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 30.7,
+          "tempLow": 24.2,
+          "rainfall": 274.2,
+          "rainyDays": 17.2,
+          "humidity": 79.6,
+          "sunshineHours": 9.4,
+          "uvIndex": 0,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 33,
+          "tempLow": 25.7,
+          "rainfall": 187.8,
+          "rainyDays": 15.4,
+          "humidity": 74.5,
+          "sunshineHours": 10.4,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 30,
+          "tempLow": 22.5,
+          "rainfall": 190,
+          "rainyDays": 14.2,
+          "humidity": 75.7,
+          "sunshineHours": 9.2,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 23.1,
+          "tempLow": 14.4,
+          "rainfall": 162.7,
+          "rainyDays": 9.2,
+          "humidity": 75.9,
+          "sunshineHours": 8.3,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 17.7,
+          "tempLow": 8.8,
+          "rainfall": 97.8,
+          "rainyDays": 7.2,
+          "humidity": 76.1,
+          "sunshineHours": 8,
+          "uvIndex": 0,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 12,
+          "tempHigh": 11.5,
+          "tempLow": 3,
+          "rainfall": 38.7,
+          "rainyDays": 5.6,
+          "humidity": 72.5,
+          "sunshineHours": 8.2,
+          "uvIndex": 0,
+          "weatherSummary": "쌀쌀"
+        }
+      ]
+    },
+    {
+      "id": "okinawa",
+      "name": {
+        "ko": "오키나와",
+        "en": "Okinawa"
+      },
+      "countryId": "japan",
+      "latitude": 26.3344,
+      "longitude": 127.8056,
+      "climateType": "아열대",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 19.2,
+          "tempLow": 15.2,
+          "rainfall": 81.7,
+          "rainyDays": 10.4,
+          "humidity": 70.1,
+          "sunshineHours": 7.2,
+          "uvIndex": 0,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 2,
+          "tempHigh": 20.2,
+          "tempLow": 16,
+          "rainfall": 80.1,
+          "rainyDays": 10.8,
+          "humidity": 73.2,
+          "sunshineHours": 7.6,
+          "uvIndex": 0,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 3,
+          "tempHigh": 21.7,
+          "tempLow": 17.1,
+          "rainfall": 145.3,
+          "rainyDays": 14.8,
+          "humidity": 76.6,
+          "sunshineHours": 8.1,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 4,
+          "tempHigh": 23.5,
+          "tempLow": 19.3,
+          "rainfall": 121.5,
+          "rainyDays": 14,
+          "humidity": 78.5,
+          "sunshineHours": 8.9,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 25.9,
+          "tempLow": 22,
+          "rainfall": 378.1,
+          "rainyDays": 19,
+          "humidity": 84.7,
+          "sunshineHours": 8.2,
+          "uvIndex": 0,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 6,
+          "tempHigh": 28.5,
+          "tempLow": 25,
+          "rainfall": 357.1,
+          "rainyDays": 21.4,
+          "humidity": 87.4,
+          "sunshineHours": 8.6,
+          "uvIndex": 0,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 30.5,
+          "tempLow": 26.8,
+          "rainfall": 175.3,
+          "rainyDays": 22,
+          "humidity": 82.5,
+          "sunshineHours": 11.2,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 30.3,
+          "tempLow": 26.5,
+          "rainfall": 260.6,
+          "rainyDays": 22.4,
+          "humidity": 82.7,
+          "sunshineHours": 10.9,
+          "uvIndex": 0,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 9,
+          "tempHigh": 29.6,
+          "tempLow": 25.8,
+          "rainfall": 175.8,
+          "rainyDays": 23.4,
+          "humidity": 81.8,
+          "sunshineHours": 10,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 27.6,
+          "tempLow": 23.7,
+          "rainfall": 126.9,
+          "rainyDays": 13.2,
+          "humidity": 73.8,
+          "sunshineHours": 9.6,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 24.5,
+          "tempLow": 20.8,
+          "rainfall": 129,
+          "rainyDays": 12.6,
+          "humidity": 73.7,
+          "sunshineHours": 7.9,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 20.5,
+          "tempLow": 17,
+          "rainfall": 189.7,
+          "rainyDays": 13.6,
+          "humidity": 70.9,
+          "sunshineHours": 5.9,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    },
+    {
+      "id": "hokkaido",
+      "name": {
+        "ko": "홋카이도",
+        "en": "Hokkaido"
+      },
+      "countryId": "japan",
+      "latitude": 43.0642,
+      "longitude": 141.3469,
+      "climateType": "냉대 습윤",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": -2.5,
+          "tempLow": -9.6,
+          "rainfall": 79.6,
+          "rainyDays": 18.6,
+          "humidity": 76.3,
+          "sunshineHours": 5.7,
+          "uvIndex": 0,
+          "weatherSummary": "혹한"
+        },
+        {
+          "month": 2,
+          "tempHigh": -1.6,
+          "tempLow": -8.1,
+          "rainfall": 66.2,
+          "rainyDays": 17.8,
+          "humidity": 76.7,
+          "sunshineHours": 6.6,
+          "uvIndex": 0,
+          "weatherSummary": "혹한"
+        },
+        {
+          "month": 3,
+          "tempHigh": 4.2,
+          "tempLow": -4.4,
+          "rainfall": 78.4,
+          "rainyDays": 12.8,
+          "humidity": 77.2,
+          "sunshineHours": 8.1,
+          "uvIndex": 0,
+          "weatherSummary": "혹한"
+        },
+        {
+          "month": 4,
+          "tempHigh": 11.8,
+          "tempLow": 2.1,
+          "rainfall": 85.8,
+          "rainyDays": 11.6,
+          "humidity": 69.9,
+          "sunshineHours": 9.3,
+          "uvIndex": 0,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 16.7,
+          "tempLow": 7.5,
+          "rainfall": 105.4,
+          "rainyDays": 13.2,
+          "humidity": 75.6,
+          "sunshineHours": 9.3,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 21.2,
+          "tempLow": 12.7,
+          "rainfall": 114.3,
+          "rainyDays": 13,
+          "humidity": 80.9,
+          "sunshineHours": 10.4,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 7,
+          "tempHigh": 25.5,
+          "tempLow": 17.8,
+          "rainfall": 103.5,
+          "rainyDays": 10.6,
+          "humidity": 82.7,
+          "sunshineHours": 10.9,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 26.4,
+          "tempLow": 19.1,
+          "rainfall": 179.4,
+          "rainyDays": 15.4,
+          "humidity": 82.5,
+          "sunshineHours": 9.3,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 22.5,
+          "tempLow": 14.3,
+          "rainfall": 121.7,
+          "rainyDays": 11.2,
+          "humidity": 79,
+          "sunshineHours": 8.7,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 16.1,
+          "tempLow": 7,
+          "rainfall": 115.5,
+          "rainyDays": 14,
+          "humidity": 76.1,
+          "sunshineHours": 8,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 9.2,
+          "tempLow": 1.2,
+          "rainfall": 128.6,
+          "rainyDays": 17.2,
+          "humidity": 74.6,
+          "sunshineHours": 6.2,
+          "uvIndex": 0,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 0.1,
+          "tempLow": -6.7,
+          "rainfall": 72,
+          "rainyDays": 16.4,
+          "humidity": 73.8,
+          "sunshineHours": 5.9,
+          "uvIndex": 0,
+          "weatherSummary": "혹한"
+        }
+      ]
+    }
+  ]
+}

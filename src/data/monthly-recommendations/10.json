@@ -1,0 +1,66 @@
+{
+  "month": 10,
+  "bestDestinations": [
+    {
+      "regionId": "osaka",
+      "category": "beach",
+      "reason": "오사카 — 여행 적합도 5점",
+      "rating": 5
+    },
+    {
+      "regionId": "okinawa",
+      "category": "beach",
+      "reason": "오키나와 — 여행 적합도 5점",
+      "rating": 5
+    },
+    {
+      "regionId": "los-angeles",
+      "category": "beach",
+      "reason": "로스앤젤레스 — 여행 적합도 5점",
+      "rating": 5
+    },
+    {
+      "regionId": "hokkaido",
+      "category": "beach",
+      "reason": "홋카이도 — 여행 적합도 3점",
+      "rating": 3
+    },
+    {
+      "regionId": "paris",
+      "category": "city",
+      "reason": "파리 — 여행 적합도 3점",
+      "rating": 3
+    }
+  ],
+  "hiddenGems": [],
+  "avoidList": [
+    {
+      "regionId": "bangkok",
+      "reason": "방콕 — 여행 비추천 시기"
+    },
+    {
+      "regionId": "chiang-mai",
+      "reason": "치앙마이 — 여행 비추천 시기"
+    },
+    {
+      "regionId": "phuket",
+      "reason": "푸켓 — 여행 비추천 시기"
+    },
+    {
+      "regionId": "nice",
+      "reason": "니스 — 여행 비추천 시기"
+    },
+    {
+      "regionId": "melbourne",
+      "reason": "멜버른 — 여행 비추천 시기"
+    },
+    {
+      "regionId": "tokyo",
+      "reason": "도쿄 — 여행 비추천 시기"
+    },
+    {
+      "regionId": "sydney",
+      "reason": "시드니 — 여행 비추천 시기"
+    }
+  ]
+}

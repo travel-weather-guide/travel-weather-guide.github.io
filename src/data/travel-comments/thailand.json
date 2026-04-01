@@ -1,0 +1,725 @@
+[
+  {
+    "regionId": "bangkok",
+    "month": 1,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 2,
+    "rating": 4,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 3,
+    "rating": 4,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 4,
+    "rating": 3,
+    "summary": "더운 날씨, 실내 활동 병행 권장",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "low",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 5,
+    "rating": 2,
+    "summary": "날씨가 좋지 않아 비추천",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "비 오는 날이 많아 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 6,
+    "rating": 2,
+    "summary": "날씨가 좋지 않아 비추천",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "비 오는 날이 많아 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 7,
+    "rating": 1,
+    "summary": "여행에 부적합한 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 8,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 9,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 10,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 11,
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "bangkok",
+    "month": 12,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 1,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 2,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 3,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 4,
+    "rating": 3,
+    "summary": "보통의 날씨, 여행 가능",
+    "highlights": [
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [
+      "폭염 주의, 충분한 수분 섭취 필수"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 5,
+    "rating": 1,
+    "summary": "여행에 부적합한 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 8,
+    "rating": 1,
+    "summary": "폭우 시즌, 여행 피하는 것이 좋음",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 9,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 10,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 11,
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "chiang-mai",
+    "month": 12,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "phuket",
+    "month": 1,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "phuket",
+    "month": 2,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 최적",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "phuket",
+    "month": 3,
+    "rating": 3,
+    "summary": "보통의 날씨, 여행 가능",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "phuket",
+    "month": 4,
+    "rating": 2,
+    "summary": "날씨가 좋지 않아 비추천",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "비 오는 날이 많아 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "phuket",
+    "month": 5,
+    "rating": 1,
+    "summary": "여행에 부적합한 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "phuket",
+    "month": 6,
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "phuket",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "phuket",
+    "month": 8,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "phuket",
+    "month": 9,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "phuket",
+    "month": 10,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "phuket",
+    "month": 11,
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "강수량이 많아 우산 필수, 야외 일정 유동적으로",
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "phuket",
+    "month": 12,
+    "rating": 3,
+    "summary": "보통의 날씨, 여행 가능",
+    "highlights": [
+      "특별한 장점 없음"
+    ],
+    "cautions": [
+      "비 오는 날이 많아 실내 대안 준비 권장",
+      "높은 습도, 체감 온도 상승에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "medium"
+  }
+]

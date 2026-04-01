@@ -1,0 +1,50 @@
+{
+  "month": 6,
+  "bestDestinations": [
+    {
+      "regionId": "new-york",
+      "category": "beach",
+      "reason": "뉴욕 — 여행 적합도 5점",
+      "rating": 5
+    },
+    {
+      "regionId": "los-angeles",
+      "category": "beach",
+      "reason": "로스앤젤레스 — 여행 적합도 5점",
+      "rating": 5
+    },
+    {
+      "regionId": "hawaii",
+      "category": "beach",
+      "reason": "하와이 — 여행 적합도 5점",
+      "rating": 5
+    },
+    {
+      "regionId": "hokkaido",
+      "category": "beach",
+      "reason": "홋카이도 — 여행 적합도 4점",
+      "rating": 4
+    },
+    {
+      "regionId": "paris",
+      "category": "city",
+      "reason": "파리 — 여행 적합도 4점",
+      "rating": 4
+    }
+  ],
+  "hiddenGems": [],
+  "avoidList": [
+    {
+      "regionId": "bangkok",
+      "reason": "방콕 — 여행 비추천 시기"
+    },
+    {
+      "regionId": "chiang-mai",
+      "reason": "치앙마이 — 여행 비추천 시기"
+    },
+    {
+      "regionId": "melbourne",
+      "reason": "멜버른 — 여행 비추천 시기"
+    }
+  ]
+}
