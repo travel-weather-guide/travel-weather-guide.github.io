@@ -302,6 +302,39 @@ interface RecommendedDestination {
 - 한국어 기본, 추후 i18n 확장 고려
 - Leaflet 컴포넌트는 반드시 `dynamic(() => import(...), { ssr: false })` 사용
 
+### 플랜 관리 흐름
+
+플랜 파일 3종:
+- `PLAN.md` — 마스터 백로그 (전체 구현 계획)
+- `PLAN-CURRENT.md` — 현재 진행 중인 항목 (체크리스트 + 진행 로그)
+- `PLAN-DONE.md` — 완료된 항목 아카이브
+
+```
+/start-phase 2-1
+  │  PLAN.md에서 해당 항목 추출
+  │  → PLAN-CURRENT.md에 체크리스트 생성
+  │  → PLAN.md에 (진행 중) 표시
+  │
+  ▼  구현 작업 진행
+  │
+  │  [자동] Stop 훅 — 매 턴 종료 시
+  │  index.html 변경 감지 → PLAN-CURRENT.md 업데이트 알림
+  │
+  ▼  모든 체크리스트 완료
+  │
+/complete-phase
+     PLAN-CURRENT.md → PLAN-DONE.md에 아카이빙
+     → PLAN.md에 [x] 체크 + 완료 날짜
+     → PLAN-CURRENT.md 초기화
+```
+
+### 훅
+
+| 이벤트 | 대상 | 동작 |
+|--------|------|------|
+| `PostToolUse` | `Edit\|Write` | CLAUDE.md 동기화 알림 |
+| `Stop` | 전체 | PLAN-CURRENT.md 진행 상황 업데이트 알림 |
+
 ---
 
 ## 결정 변경 로그
