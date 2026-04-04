@@ -1,39 +1,38 @@
 import { notFound } from 'next/navigation';
+import { readFileSync, readdirSync } from 'fs';
+import { join } from 'path';
 import type { Metadata } from 'next';
 import RegionList from '@/components/country/RegionList';
 import type { Country, TravelComment } from '@/types';
 
-import japanData from '@/data/countries/japan.json';
-import thailandData from '@/data/countries/thailand.json';
-import franceData from '@/data/countries/france.json';
-import usaData from '@/data/countries/usa.json';
-import australiaData from '@/data/countries/australia.json';
+const DATA_DIR = join(process.cwd(), 'src/data');
 
-import japanComments from '@/data/travel-comments/japan.json';
-import thailandComments from '@/data/travel-comments/thailand.json';
-import franceComments from '@/data/travel-comments/france.json';
-import usaComments from '@/data/travel-comments/usa.json';
-import australiaComments from '@/data/travel-comments/australia.json';
+function getCountry(countryId: string): Country | null {
+  try {
+    const raw = readFileSync(join(DATA_DIR, 'countries', `${countryId}.json`), 'utf-8');
+    return JSON.parse(raw) as Country;
+  } catch {
+    return null;
+  }
+}
 
-const countryMap: Record<string, Country> = {
-  japan: japanData as Country,
-  thailand: thailandData as Country,
-  france: franceData as Country,
-  usa: usaData as Country,
-  australia: australiaData as Country,
-};
+function getComments(countryId: string): TravelComment[] {
+  try {
+    const raw = readFileSync(join(DATA_DIR, 'travel-comments', `${countryId}.json`), 'utf-8');
+    return JSON.parse(raw) as TravelComment[];
+  } catch {
+    return [];
+  }
+}
 
-const commentsMap: Record<string, TravelComment[]> = {
-  japan: japanComments as TravelComment[],
-  thailand: thailandComments as TravelComment[],
-  france: franceComments as TravelComment[],
-  usa: usaComments as TravelComment[],
-  australia: australiaComments as TravelComment[],
-};
+function getAllCountryIds(): string[] {
+  const summaries = JSON.parse(readFileSync(join(DATA_DIR, 'countries.json'), 'utf-8'));
+  return summaries.map((c: { id: string }) => c.id);
+}
 
 export async function generateMetadata({ params }: { params: Promise<{ countryId: string }> }): Promise<Metadata> {
   const { countryId } = await params;
-  const country = countryMap[countryId];
+  const country = getCountry(countryId);
   if (!country) return {};
 
   return {
@@ -48,7 +47,7 @@ export async function generateMetadata({ params }: { params: Promise<{ countryId
 }
 
 export function generateStaticParams() {
-  return Object.keys(countryMap).map((countryId) => ({ countryId }));
+  return getAllCountryIds().map((countryId) => ({ countryId }));
 }
 
 export default async function CountryDetailPage({
@@ -57,10 +56,10 @@ export default async function CountryDetailPage({
   params: Promise<{ countryId: string }>;
 }) {
   const { countryId } = await params;
-  const country = countryMap[countryId];
+  const country = getCountry(countryId);
   if (!country) notFound();
 
-  const comments = commentsMap[countryId] ?? [];
+  const comments = getComments(countryId);
 
   return (
     <main className="mx-auto max-w-4xl px-4 py-8">

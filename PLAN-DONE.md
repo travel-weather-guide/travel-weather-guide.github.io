@@ -270,3 +270,35 @@
 |------|----------|
 | 04-04 | countries.json isoNumeric 추가, countryMapping.ts 동적 생성 전환 |
 | 04-04 | sitemap.ts / country/page.tsx 정적 import 제거, 빌드 성공 확인 |
+
+---
+
+## 데이터 확장 15개국 40지역 (2026-04-04 완료)
+
+- [x] 10개국 26개 지역 추가 + seasonOverrides + visaInfo
+- [x] isoNumeric 필드 추가 (CountryDef 인터페이스 + 15개국 값)
+- [x] 10개국 항목 countries.json 추가 (id, name, continent, regionCount, isoNumeric)
+- [x] 데이터 생성 스크립트 실행 (15개국 40개 지역)
+- [x] generate-data.ts에 isoNumeric 출력 추가
+- [x] spot check — 지역별 점수 정상 범위 확인
+- [x] [countryId]/page.tsx — fs 기반 동적 로딩 전환
+- [x] [countryId]/[regionId]/page.tsx — fs 기반 동적 로딩 전환
+- [x] 빌드 성공 확인 (62/62 페이지)
+
+### 추가 작업
+- 국가/지역 상세 페이지 하드코딩 import → fs 동적 로딩 완전 전환 (이전 Phase 누락분)
+
+### 핵심 결정
+- 신규 26지역 daily 데이터 미생성 (파이프라인 개선 Phase로 이관)
+- regions.ts가 모든 국가 메타데이터의 단일 소스
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-04 | Phase 시작 |
+| 04-04 | regions.ts 10개국 26지역 + seasonOverrides + visaInfo 추가 |
+| 04-04 | countries.json 10개국 추가 |
+| 04-04 | 데이터 생성 (15개국 40지역 성공) |
+| 04-04 | isoNumeric 누락 수정 (CountryDef + generate-data.ts 타입) |
+| 04-04 | [countryId]/page.tsx, [regionId]/page.tsx 하드코딩 import → fs 동적 로딩 전환 |
+| 04-04 | 빌드 성공 62/62 페이지 (26→62) |
