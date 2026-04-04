@@ -1,12 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-import japanData from '@/data/countries/japan.json';
-import thailandData from '@/data/countries/thailand.json';
-import franceData from '@/data/countries/france.json';
-import usaData from '@/data/countries/usa.json';
-import australiaData from '@/data/countries/australia.json';
-
-const allCountries = [japanData, thailandData, franceData, usaData, australiaData];
+import { getAllCountryIds, getCountry } from '@/utils/data';
 
 const BASE_URL = 'https://travel-weather.pages.dev';
 
@@ -16,7 +10,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/country`, changeFrequency: 'monthly', priority: 0.9, lastModified: new Date() },
   ];
 
-  for (const country of allCountries) {
+  for (const countryId of getAllCountryIds()) {
+    const country = getCountry(countryId);
     entries.push({
       url: `${BASE_URL}/country/${country.id}`,
       changeFrequency: 'monthly',

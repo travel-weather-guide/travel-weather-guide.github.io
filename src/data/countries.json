@@ -6,7 +6,8 @@
       "en": "Japan"
     },
     "continent": "asia",
-    "regionCount": 4
+    "regionCount": 4,
+    "isoNumeric": "392"
   },
   {
     "id": "thailand",
@@ -15,7 +16,8 @@
       "en": "Thailand"
     },
     "continent": "asia",
-    "regionCount": 3
+    "regionCount": 3,
+    "isoNumeric": "764"
   },
   {
     "id": "france",
@@ -24,7 +26,8 @@
       "en": "France"
     },
     "continent": "europe",
-    "regionCount": 2
+    "regionCount": 2,
+    "isoNumeric": "250"
   },
   {
     "id": "usa",
@@ -33,7 +36,8 @@
       "en": "United States"
     },
     "continent": "north-america",
-    "regionCount": 3
+    "regionCount": 3,
+    "isoNumeric": "840"
   },
   {
     "id": "australia",
@@ -42,6 +46,7 @@
       "en": "Australia"
     },
     "continent": "oceania",
-    "regionCount": 2
+    "regionCount": 2,
+    "isoNumeric": "036"
   }
 ]

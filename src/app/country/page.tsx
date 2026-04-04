@@ -1,20 +1,9 @@
 import SearchBar from '@/components/common/SearchBar';
 import CountryExplorer from '@/components/country/CountryExplorer';
 import type { Country } from '@/types';
+import { getAllCountryIds, getCountry } from '@/utils/data';
 
-import japanData from '@/data/countries/japan.json';
-import thailandData from '@/data/countries/thailand.json';
-import franceData from '@/data/countries/france.json';
-import usaData from '@/data/countries/usa.json';
-import australiaData from '@/data/countries/australia.json';
-
-const allCountries: Country[] = [
-  japanData as Country,
-  thailandData as Country,
-  franceData as Country,
-  usaData as Country,
-  australiaData as Country,
-];
+const allCountries: Country[] = getAllCountryIds().map((id) => getCountry(id));
 
 const regions = allCountries.flatMap((country) =>
   country.regions.map((r) => ({
