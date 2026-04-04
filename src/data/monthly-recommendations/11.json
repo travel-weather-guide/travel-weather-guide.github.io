@@ -4,31 +4,43 @@
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": "하와이 — 여행 적합도 5점",
+      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "tokyo",
-      "category": "beach",
-      "reason": "도쿄 — 여행 적합도 4점",
+      "category": "city",
+      "reason": "평균 13°C, 강수량 적음",
       "rating": 4
     },
     {
       "regionId": "osaka",
-      "category": "beach",
-      "reason": "오사카 — 여행 적합도 4점",
+      "category": "culture",
+      "reason": "평균 13°C, 강수량 적음",
       "rating": 4
     },
     {
       "regionId": "okinawa",
       "category": "beach",
-      "reason": "오키나와 — 여행 적합도 4점",
+      "reason": "평균 23°C의 쾌적한 기온",
       "rating": 4
     },
     {
       "regionId": "bangkok",
+      "category": "culture",
+      "reason": "평균 28°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "chiang-mai",
+      "category": "mountain",
+      "reason": "평균 25°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "los-angeles",
       "category": "city",
-      "reason": "방콕 — 여행 적합도 4점",
+      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 4
     }
   ],
@@ -36,27 +48,27 @@
   "avoidList": [
     {
       "regionId": "phuket",
-      "reason": "푸켓 — 여행 비추천 시기"
+      "reason": "강수량 295mm의 우기"
     },
     {
       "regionId": "nice",
-      "reason": "니스 — 여행 비추천 시기"
+      "reason": "여행에 적합하지 않은 날씨"
     },
     {
       "regionId": "new-york",
-      "reason": "뉴욕 — 여행 비추천 시기"
+      "reason": "평균 9°C의 추위"
     },
     {
       "regionId": "sydney",
-      "reason": "시드니 — 여행 비추천 시기"
+      "reason": "잦은 비(101mm)"
     },
     {
       "regionId": "hokkaido",
-      "reason": "홋카이도 — 여행 비추천 시기"
+      "reason": "잦은 비(129mm), 평균 5°C의 추위"
     },
     {
       "regionId": "paris",
-      "reason": "파리 — 여행 비추천 시기"
+      "reason": "평균 9°C의 추위"
     }
   ]
 }

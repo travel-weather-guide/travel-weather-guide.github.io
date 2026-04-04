@@ -65,26 +65,34 @@ export default function Home() {
         <h2 className="mb-4 text-xl font-bold text-gray-900">
           {month}월 추천 여행지
         </h2>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {rec.bestDestinations.map((dest) => {
-            const found = findRegion(dest.regionId);
-            if (!found) return null;
-            const monthData = found.region.monthlyData[month - 1];
-            return (
-              <DestinationCard
-                key={dest.regionId}
-                regionId={dest.regionId}
-                countryId={found.country.id}
-                regionName={`${found.region.name.ko} (${found.country.name.ko})`}
-                rating={dest.rating}
-                reason={dest.reason}
-                tempHigh={monthData?.tempHigh}
-                tempLow={monthData?.tempLow}
-                weatherSummary={monthData?.weatherSummary}
-              />
-            );
-          })}
-        </div>
+        {rec.bestDestinations.length > 0 ? (
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {rec.bestDestinations.map((dest) => {
+              const found = findRegion(dest.regionId);
+              if (!found) return null;
+              const monthData = found.region.monthlyData[month - 1];
+              return (
+                <DestinationCard
+                  key={dest.regionId}
+                  regionId={dest.regionId}
+                  countryId={found.country.id}
+                  regionName={`${found.region.name.ko} (${found.country.name.ko})`}
+                  rating={dest.rating}
+                  reason={dest.reason}
+                  category={dest.category}
+                  tempHigh={monthData?.tempHigh}
+                  tempLow={monthData?.tempLow}
+                  weatherSummary={monthData?.weatherSummary}
+                />
+              );
+            })}
+          </div>
+        ) : (
+          <div className="rounded-xl border border-dashed border-gray-300 bg-gray-50 p-8 text-center">
+            <p className="text-gray-500">{month}월에 특별히 추천할 여행지가 없습니다</p>
+            <p className="mt-1 text-sm text-gray-400">다른 월을 선택해 보세요</p>
+          </div>
+        )}
       </section>
 
       {/* 비추천 */}
@@ -104,7 +112,7 @@ export default function Home() {
                   regionId={item.regionId}
                   countryId={found.country.id}
                   regionName={`${found.region.name.ko} (${found.country.name.ko})`}
-                  rating={1}
+                  rating={2}
                   reason={item.reason}
                   tempHigh={monthData?.tempHigh}
                   tempLow={monthData?.tempLow}

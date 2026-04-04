@@ -6,10 +6,20 @@ interface DestinationCardProps {
   regionName: string;
   rating: number;
   reason: string;
+  category?: string;
   tempHigh?: number;
   tempLow?: number;
   weatherSummary?: string;
 }
+
+const categoryLabels: Record<string, string> = {
+  beach: '해변',
+  mountain: '산악',
+  city: '도시',
+  culture: '문화',
+  adventure: '액티비티',
+  ski: '스키',
+};
 
 const ratingLabels: Record<number, { text: string; color: string }> = {
   5: { text: '최적', color: 'bg-green-100 text-green-700' },
@@ -25,6 +35,7 @@ export default function DestinationCard({
   regionName,
   rating,
   reason,
+  category,
   tempHigh,
   tempLow,
   weatherSummary,
@@ -37,8 +48,15 @@ export default function DestinationCard({
       className="block rounded-xl border border-border bg-white p-4 transition-shadow hover:shadow-md"
     >
       <div className="flex items-start justify-between">
-        <h3 className="font-semibold text-gray-900">{regionName}</h3>
-        <span className={`rounded-full px-2 py-0.5 text-xs font-medium ${r.color}`}>
+        <div className="flex items-center gap-2">
+          <h3 className="font-semibold text-gray-900">{regionName}</h3>
+          {category && categoryLabels[category] && (
+            <span className="rounded-full bg-gray-100 px-2 py-0.5 text-xs text-gray-500">
+              {categoryLabels[category]}
+            </span>
+          )}
+        </div>
+        <span className={`shrink-0 rounded-full px-2 py-0.5 text-xs font-medium ${r.color}`}>
           {r.text}
         </span>
       </div>

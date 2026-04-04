@@ -4,43 +4,37 @@
     {
       "regionId": "okinawa",
       "category": "beach",
-      "reason": "오키나와 — 여행 적합도 5점",
+      "reason": "평균 21°C의 쾌적한 기온, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "osaka",
-      "category": "beach",
-      "reason": "오사카 — 여행 적합도 4점",
+      "category": "culture",
+      "reason": "평균 14°C, 풍부한 일조량",
       "rating": 4
     },
     {
       "regionId": "nice",
       "category": "beach",
-      "reason": "니스 — 여행 적합도 4점",
+      "reason": "평균 14°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 4
     },
     {
       "regionId": "los-angeles",
-      "category": "beach",
-      "reason": "로스앤젤레스 — 여행 적합도 4점",
+      "category": "city",
+      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 4
-    },
-    {
-      "regionId": "tokyo",
-      "category": "beach",
-      "reason": "도쿄 — 여행 적합도 3점",
-      "rating": 3
     }
   ],
   "hiddenGems": [],
   "avoidList": [
     {
       "regionId": "phuket",
-      "reason": "푸켓 — 여행 비추천 시기"
+      "reason": "잦은 비(112mm)"
     },
     {
       "regionId": "sydney",
-      "reason": "시드니 — 여행 비추천 시기"
+      "reason": "잦은 비(104mm)"
     }
   ]
 }

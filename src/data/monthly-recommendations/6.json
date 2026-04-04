@@ -3,32 +3,44 @@
   "bestDestinations": [
     {
       "regionId": "new-york",
-      "category": "beach",
-      "reason": "뉴욕 — 여행 적합도 5점",
+      "category": "city",
+      "reason": "평균 22°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "los-angeles",
-      "category": "beach",
-      "reason": "로스앤젤레스 — 여행 적합도 5점",
+      "category": "city",
+      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": "하와이 — 여행 적합도 5점",
+      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "hokkaido",
-      "category": "beach",
-      "reason": "홋카이도 — 여행 적합도 4점",
+      "category": "adventure",
+      "reason": "평균 17°C의 온화한 날씨, 풍부한 일조량",
       "rating": 4
     },
     {
       "regionId": "paris",
+      "category": "culture",
+      "reason": "평균 19°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "nice",
+      "category": "beach",
+      "reason": "평균 22°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "sydney",
       "category": "city",
-      "reason": "파리 — 여행 적합도 4점",
+      "reason": "평균 13°C, 강수량 적음, 풍부한 일조량",
       "rating": 4
     }
   ],
@@ -36,15 +48,15 @@
   "avoidList": [
     {
       "regionId": "bangkok",
-      "reason": "방콕 — 여행 비추천 시기"
+      "reason": "잦은 비(156mm)"
     },
     {
       "regionId": "chiang-mai",
-      "reason": "치앙마이 — 여행 비추천 시기"
+      "reason": "강수량 236mm의 우기"
     },
     {
       "regionId": "melbourne",
-      "reason": "멜버른 — 여행 비추천 시기"
+      "reason": "여행에 적합하지 않은 날씨"
     }
   ]
 }

@@ -3,60 +3,48 @@
   "bestDestinations": [
     {
       "regionId": "tokyo",
-      "category": "beach",
-      "reason": "도쿄 — 여행 적합도 5점",
+      "category": "city",
+      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "los-angeles",
-      "category": "beach",
-      "reason": "로스앤젤레스 — 여행 적합도 5점",
+      "category": "city",
+      "reason": "평균 19°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "hokkaido",
-      "category": "beach",
-      "reason": "홋카이도 — 여행 적합도 4점",
+      "category": "adventure",
+      "reason": "평균 12°C, 풍부한 일조량",
       "rating": 4
-    },
-    {
-      "regionId": "osaka",
-      "category": "beach",
-      "reason": "오사카 — 여행 적합도 3점",
-      "rating": 3
-    },
-    {
-      "regionId": "okinawa",
-      "category": "beach",
-      "reason": "오키나와 — 여행 적합도 3점",
-      "rating": 3
     }
   ],
   "hiddenGems": [],
   "avoidList": [
     {
       "regionId": "bangkok",
-      "reason": "방콕 — 여행 비추천 시기"
+      "reason": "잦은 비(158mm)"
     },
     {
       "regionId": "melbourne",
-      "reason": "멜버른 — 여행 비추천 시기"
+      "reason": "여행에 적합하지 않은 날씨"
     },
     {
       "regionId": "chiang-mai",
-      "reason": "치앙마이 — 여행 비추천 시기"
+      "reason": "강수량 232mm의 우기"
     },
     {
       "regionId": "phuket",
-      "reason": "푸켓 — 여행 비추천 시기"
+      "reason": "강수량 211mm의 우기"
     },
     {
       "regionId": "hawaii",
-      "reason": "하와이 — 여행 비추천 시기"
+      "reason": "여행에 적합하지 않은 날씨"
     },
     {
       "regionId": "sydney",
-      "reason": "시드니 — 여행 비추천 시기"
+      "reason": "여행에 적합하지 않은 날씨"
     }
   ]
 }

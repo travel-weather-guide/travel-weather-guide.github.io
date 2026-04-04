@@ -4,63 +4,57 @@
     {
       "regionId": "okinawa",
       "category": "beach",
-      "reason": "오키나와 — 여행 적합도 5점",
+      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "chiang-mai",
-      "category": "city",
-      "reason": "치앙마이 — 여행 적합도 5점",
+      "category": "mountain",
+      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "melbourne",
-      "category": "beach",
-      "reason": "멜버른 — 여행 적합도 5점",
+      "category": "culture",
+      "reason": "평균 18°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "bangkok",
-      "category": "city",
-      "reason": "방콕 — 여행 적합도 4점",
+      "category": "culture",
+      "reason": "평균 30°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 4
-    },
-    {
-      "regionId": "hokkaido",
-      "category": "beach",
-      "reason": "홋카이도 — 여행 적합도 3점",
-      "rating": 3
     }
   ],
   "hiddenGems": [],
   "avoidList": [
     {
       "regionId": "paris",
-      "reason": "파리 — 여행 비추천 시기"
+      "reason": "평균 9°C의 추위"
     },
     {
       "regionId": "new-york",
-      "reason": "뉴욕 — 여행 비추천 시기"
+      "reason": "잦은 비(129mm), 평균 6°C의 추위"
     },
     {
       "regionId": "los-angeles",
-      "reason": "로스앤젤레스 — 여행 비추천 시기"
+      "reason": "잦은 비(100mm)"
     },
     {
       "regionId": "tokyo",
-      "reason": "도쿄 — 여행 비추천 시기"
+      "reason": "잦은 비(151mm)"
     },
     {
       "regionId": "osaka",
-      "reason": "오사카 — 여행 비추천 시기"
+      "reason": "잦은 비(127mm), 평균 10°C의 추위"
     },
     {
       "regionId": "hawaii",
-      "reason": "하와이 — 여행 비추천 시기"
+      "reason": "여행에 적합하지 않은 날씨"
     },
     {
       "regionId": "sydney",
-      "reason": "시드니 — 여행 비추천 시기"
+      "reason": "잦은 비(186mm)"
     }
   ]
 }

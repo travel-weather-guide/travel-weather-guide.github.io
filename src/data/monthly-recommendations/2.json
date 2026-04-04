@@ -3,56 +3,68 @@
   "bestDestinations": [
     {
       "regionId": "tokyo",
-      "category": "beach",
-      "reason": "도쿄 — 여행 적합도 5점",
+      "category": "city",
+      "reason": "평균 6°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "okinawa",
       "category": "beach",
-      "reason": "오키나와 — 여행 적합도 5점",
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음",
       "rating": 5
     },
     {
       "regionId": "chiang-mai",
-      "category": "city",
-      "reason": "치앙마이 — 여행 적합도 5점",
+      "category": "mountain",
+      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "phuket",
       "category": "beach",
-      "reason": "푸켓 — 여행 적합도 5점",
+      "reason": "평균 28°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": "하와이 — 여행 적합도 5점",
+      "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
+    },
+    {
+      "regionId": "melbourne",
+      "category": "culture",
+      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "bangkok",
+      "category": "culture",
+      "reason": "평균 28°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
     }
   ],
   "hiddenGems": [],
   "avoidList": [
     {
       "regionId": "osaka",
-      "reason": "오사카 — 여행 비추천 시기"
+      "reason": "평균 6°C의 추위"
     },
     {
       "regionId": "hokkaido",
-      "reason": "홋카이도 — 여행 비추천 시기"
+      "reason": "평균 -5°C의 혹한"
     },
     {
       "regionId": "paris",
-      "reason": "파리 — 여행 비추천 시기"
+      "reason": "평균 7°C의 추위"
     },
     {
       "regionId": "new-york",
-      "reason": "뉴욕 — 여행 비추천 시기"
+      "reason": "평균 2°C의 혹한"
     },
     {
       "regionId": "sydney",
-      "reason": "시드니 — 여행 비추천 시기"
+      "reason": "잦은 비(125mm)"
     }
   ]
 }

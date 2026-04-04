@@ -57,7 +57,7 @@ async function main() {
   }> = [];
 
   // 월별 추천 집계용
-  const monthlyScores: Record<number, Array<{ regionId: string; countryId: string; regionName: { ko: string; en: string }; score: number; category: string }>> = {};
+  const monthlyScores: Record<number, Array<{ regionId: string; countryId: string; regionName: { ko: string; en: string }; score: number; category: string; tempHigh: number; tempLow: number; rainfall: number; sunshineHours: number }>> = {};
   for (let m = 1; m <= 12; m++) monthlyScores[m] = [];
 
   for (const countryDef of countries) {
@@ -96,12 +96,17 @@ async function main() {
 
       // 월별 추천 집계
       for (const c of comments) {
+        const md = monthlyData[c.month - 1];
         monthlyScores[c.month].push({
           regionId: regionDef.id,
           countryId: countryDef.id,
           regionName: regionDef.name,
           score: c.rating,
-          category: guessCategory(regionDef),
+          category: regionDef.category,
+          tempHigh: md.tempHigh,
+          tempLow: md.tempLow,
+          rainfall: md.rainfall,
+          sunshineHours: md.sunshineHours,
         });
       }
     }
@@ -136,21 +141,21 @@ async function main() {
   // 월별 추천
   for (let m = 1; m <= 12; m++) {
     const sorted = monthlyScores[m].sort((a, b) => b.score - a.score);
+    const recommended = sorted.filter((s) => s.score >= 4);
+    const avoided = sorted.filter((s) => s.score <= 2);
     const recommendation: MonthlyRecommendation = {
       month: m,
-      bestDestinations: sorted.slice(0, 5).map((s) => ({
+      bestDestinations: recommended.map((s) => ({
         regionId: s.regionId,
         category: s.category as 'beach' | 'city' | 'mountain' | 'culture' | 'adventure' | 'ski',
-        reason: `${s.regionName.ko} — 여행 적합도 ${s.score}점`,
+        reason: generateRecommendReason(s),
         rating: s.score,
       })),
       hiddenGems: [],
-      avoidList: sorted
-        .filter((s) => s.score <= 2)
-        .map((s) => ({
-          regionId: s.regionId,
-          reason: `${s.regionName.ko} — 여행 비추천 시기`,
-        })),
+      avoidList: avoided.map((s) => ({
+        regionId: s.regionId,
+        reason: generateAvoidReason(s),
+      })),
     };
     writeJSON(join(RECOMMENDATIONS_DIR, `${m}.json`), recommendation);
   }
@@ -158,10 +163,38 @@ async function main() {
   console.log(`\n=== 완료: ${countrySummaries.length}개국, ${countrySummaries.reduce((a, c) => a + c.regionCount, 0)}개 지역 ===`);
 }
 
-function guessCategory(region: { isCoastal: boolean; climateType: string }): string {
-  if (region.isCoastal && region.climateType.includes('열대')) return 'beach';
-  if (region.isCoastal) return 'beach';
-  return 'city';
+function generateRecommendReason(s: { regionName: { ko: string }; tempHigh: number; tempLow: number; rainfall: number; sunshineHours: number }): string {
+  const parts: string[] = [];
+  const avgTemp = (s.tempHigh + s.tempLow) / 2;
+
+  if (avgTemp >= 20 && avgTemp <= 28) parts.push(`평균 ${Math.round(avgTemp)}°C의 쾌적한 기온`);
+  else if (avgTemp >= 15) parts.push(`평균 ${Math.round(avgTemp)}°C의 온화한 날씨`);
+  else parts.push(`평균 ${Math.round(avgTemp)}°C`);
+
+  if (s.rainfall < 50) parts.push('비가 거의 없는 맑은 날씨');
+  else if (s.rainfall < 100) parts.push('강수량 적음');
+
+  if (s.sunshineHours > 8) parts.push('풍부한 일조량');
+
+  return parts.join(', ');
+}
+
+function generateAvoidReason(s: { regionName: { ko: string }; tempHigh: number; tempLow: number; rainfall: number; sunshineHours: number }): string {
+  const parts: string[] = [];
+  const avgTemp = (s.tempHigh + s.tempLow) / 2;
+
+  if (s.rainfall > 200) parts.push(`강수량 ${Math.round(s.rainfall)}mm의 우기`);
+  else if (s.rainfall > 100) parts.push(`잦은 비(${Math.round(s.rainfall)}mm)`);
+
+  if (avgTemp > 35) parts.push('극심한 더위');
+  else if (avgTemp < 5) parts.push(`평균 ${Math.round(avgTemp)}°C의 혹한`);
+  else if (avgTemp < 10) parts.push(`평균 ${Math.round(avgTemp)}°C의 추위`);
+
+  if (s.sunshineHours < 4) parts.push('일조량 부족');
+
+  if (parts.length === 0) parts.push('여행에 적합하지 않은 날씨');
+
+  return parts.join(', ');
 }
 
 main().catch(console.error);
