@@ -1,5 +1,6 @@
 'use client';
 
+import { useEffect } from 'react';
 import Link from 'next/link';
 import RegionTabs from '@/components/region/RegionTabs';
 import type { Country, TravelComment } from '@/types';
@@ -7,6 +8,7 @@ import type { Region } from '@/types/country';
 import { useLocale } from '@/contexts/LocaleContext';
 import { getLocalizedName } from '@/i18n/utils';
 import { resolveLocalizedString } from '@/utils/data';
+import { useRecentlyViewed } from '@/hooks/useRecentlyViewed';
 
 type DailyDataMap = Record<number, { years: Record<string, Array<{ day: number; tempHigh: number; tempLow: number; rainfall: number; humidity: number }>> }>;
 
@@ -21,6 +23,16 @@ interface RegionDetailContentProps {
 
 export default function RegionDetailContent({ country, region, comments, dailyData, countryId }: RegionDetailContentProps) {
   const { locale } = useLocale();
+  const { record } = useRecentlyViewed();
+
+  useEffect(() => {
+    record({
+      countryId,
+      regionId: region.id,
+      countryName: country.name as { ko: string; en: string; ja?: string; zh?: string },
+      regionName: region.name as { ko: string; en: string; ja?: string; zh?: string },
+    });
+  }, [countryId, region.id, country.name, region.name, record]);
 
   return (
     <main className="mx-auto max-w-4xl px-4 py-8">

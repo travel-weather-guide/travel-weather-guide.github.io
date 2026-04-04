@@ -1,4 +1,4 @@
-import type { Country } from '@/types';
+import type { Country, MonthlyRecommendation } from '@/types';
 import type { LocalizedString, LocalizedStringArray } from '@/types';
 import type { Locale } from '@/contexts/LocaleContext';
 import countrySummaries from '@/data/countries.json';
@@ -25,6 +25,34 @@ export function getAllRegionParams(): { countryId: string; regionId: string }[] 
     }
   }
   return params;
+}
+
+export const FLAG_ALPHA2: Record<string, string> = {
+  japan: 'jp',
+  thailand: 'th',
+  france: 'fr',
+  usa: 'us',
+  australia: 'au',
+  vietnam: 'vn',
+  philippines: 'ph',
+  singapore: 'sg',
+  indonesia: 'id',
+  taiwan: 'tw',
+  spain: 'es',
+  italy: 'it',
+  uk: 'gb',
+  turkey: 'tr',
+  greece: 'gr',
+};
+
+export function flagUrl(countryId: string): string {
+  const code = FLAG_ALPHA2[countryId];
+  return code ? `https://flagcdn.com/w40/${code}.png` : '';
+}
+
+export function getMonthlyRecommendation(month: number): MonthlyRecommendation {
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
+  return require(`@/data/monthly-recommendations/${month}.json`) as MonthlyRecommendation;
 }
 
 export function resolveLocalizedString(
