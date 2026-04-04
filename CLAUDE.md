@@ -65,7 +65,7 @@
 - **날씨 아이콘**: Meteocons by Bas Milius (MIT, 애니메이션 SVG)
 
 ### 차트
-- **미정** (Recharts 또는 Chart.js 검토 예정)
+- **Recharts** (기온 라인 + 강수량 바 복합 차트)
 
 ### 배포
 - **Cloudflare Pages** (무료, 대역폭 무제한, 상업화 제한 없음)
@@ -267,14 +267,13 @@ interface RecommendedDestination {
 
 ```
 /                          → 홈 (이번 달 추천 + 월 선택)
-/map                       → 인터랙티브 세계지도
-/month/[month]             → 월별 추천 페이지 (예: /month/7)
 /country                   → 국가 목록 (대륙별 필터)
-/country/[countryId]       → 국가 상세 (예: /country/japan)
-/country/[countryId]/[regionId]  → 지역 상세 (예: /country/japan/tokyo)
-/compare                   → 목적지 비교
-/theme/[theme]             → 테마별 추천 (예: /theme/beach)
-/search                    → 검색 결과
+/country/[countryId]       → 국가 소개 + 지역 선택 허브
+/country/[countryId]/[regionId]  → 날씨 정보 단일 소스 (탭: 월별 개요 / 일별 캘린더 / 여행 가이드)
+/map                       → 인터랙티브 세계지도 (미구현)
+/compare                   → 목적지 비교 (미구현)
+/theme/[theme]             → 테마별 추천 (미구현)
+/search                    → 검색 결과 (미구현)
 ```
 
 ---
@@ -305,8 +304,12 @@ interface RecommendedDestination {
 
 ### 플랜 작성 원칙
 
-- **프로토타입 우선.** 오버엔지니어링 금지. 최소한의 구현으로 동작을 먼저 확인하고 점진적으로 확장한다.
-- **PLAN.md는 큰 틀만 잡는다.** 각 항목은 2~5줄로 목적과 범위를 알 수 있게 작성. 구체적인 구현 체크리스트는 PLAN-CURRENT.md에서 관리한다.
+- "프로토타입 우선" 당장 정말 필요한 것부터 만든다. 초반부터 오버엔지니어링 금지
+- 각 항목은 제목 없이 `- 한 줄` 로만 작성한다. 부가 정보 없음.
+- 구체적 구현 계획은 `/start-phase`로 시작한 뒤 PLAN-CURRENT.md에서 진행.
+- 완료 내용은 PLAN-DONW.md에서 관리한다.
+- 설명에는 "무엇을 구현할지"가 아니라 구현 방법이 아니라 생각해야 할 문제를 적는다.
+- 구체적 구현 체크리스트는 PLAN-CURRENT.md에서 관리.
 - 한 Step이 다른 Step의 병목이 되지 않게 순서를 조정한다.
 
 ### 플랜 관리 흐름
@@ -355,3 +358,6 @@ interface RecommendedDestination {
 | 2026-04-01 | 날씨 데이터 소스 | 미정 → Open-Meteo + Visual Crossing 확정 |
 | 2026-04-02 | Next.js 버전 | 15+ → 16+ (latest 기준 16.2.1) |
 | 2026-04-02 | 폰트 | Pretendard 또는 Noto Sans KR → Noto Sans KR 확정 (next/font/google 지원) |
+| 2026-04-04 | 차트 | 미정 → Recharts 확정 (기온 라인 + 강수량 바 복합 ��트) |
+| 2026-04-04 | 페이지 구조 | /month/[month] 삭제, 지역 상세를 탭 기반 단일 소스로 통합, 국가 상세에서 날씨 차트/테이블 제거 |
+| 2026-04-04 | 일별 데이터 | daily/[month].json → daily/[regionId]/all.json 지역별 분할 |
