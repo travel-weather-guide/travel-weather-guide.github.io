@@ -46,3 +46,32 @@
 | 04-04 | Recharts 설치, WeatherChart 구현 |
 | 04-04 | 페이지 구조 재설계 플랜 수립 및 승인 |
 | 04-04 | daily 데이터 지역별 분할, 컴포넌트 추출, RegionTabs 구현, 페이지 재작성, /month 삭제 완료 |
+
+---
+
+## 세계지도 (2026-04-04 완료)
+
+- [x] leaflet@^1.9, react-leaflet@^5, @types/leaflet, world-atlas, topojson-client 설치
+- [x] TopoJSON → GeoJSON 변환 유틸 + 국가 slug↔ISO 매핑 테이블
+- [x] WorldMap 컴포넌트 (dynamic import, ssr: false, Leaflet CSS 내부 import)
+- [x] /map 페이지 (기본 뷰포트: 세계 전체)
+- [x] 국가 경계 렌더링 + 데이터 있는 국가만 클릭 가능 / 없는 국가 회색
+- [x] 지역 CircleMarker + 이름 툴팁
+- [x] 타일 로딩 상태 (CSS 배경색)
+- [x] 모바일 동작 확인 (Leaflet 네이티브 터치)
+
+### 연기 항목
+- 월 선택 UI + 추천도 색상 매핑 (Phase 2 "월 선택 필터"와 통합)
+- 호버 시 기온/강수량 팝업 (월 선택과 함께)
+
+### 핵심 결정
+- react-leaflet v5 (React 19), world-atlas TopoJSON (~25KB gzip), CircleMarker, MapView 래퍼 (Next.js 16 ssr:false 제약 대응)
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 2026-04-04 | 패키지 설치 (leaflet, react-leaflet@5, world-atlas, topojson-client) |
+| 2026-04-04 | countryMapping.ts 생성 (slug↔ISO numeric 매핑) |
+| 2026-04-04 | WorldMap.tsx 생성 (GeoJSON 국가 경계 + CircleMarker 지역 표시) |
+| 2026-04-04 | MapView.tsx 래퍼 생성 (Next.js 16 Server Component에서 ssr:false 불가 대응) |
+| 2026-04-04 | /map/page.tsx 생성 + 빌드 성공 확인 |
