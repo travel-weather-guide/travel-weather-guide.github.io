@@ -54,6 +54,7 @@ async function main() {
     name: { ko: string; en: string };
     continent: string;
     regionCount: number;
+    isoNumeric: string;
   }> = [];
 
   // 월별 추천 집계용
@@ -137,6 +138,7 @@ async function main() {
       name: countryDef.name,
       continent: countryDef.continent,
       regionCount: regions.length,
+      isoNumeric: countryDef.isoNumeric,
     });
   }
 

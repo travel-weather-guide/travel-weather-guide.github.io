@@ -38,6 +38,24 @@
       "rating": 5
     },
     {
+      "regionId": "hanoi",
+      "category": "city",
+      "reason": "평균 18°C의 온화한 날씨, 비가 거의 없는 맑은 날씨",
+      "rating": 5
+    },
+    {
+      "regionId": "ho-chi-minh",
+      "category": "city",
+      "reason": "평균 27°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "kaohsiung",
+      "category": "city",
+      "reason": "평균 21°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
       "regionId": "tokyo",
       "category": "city",
       "reason": "평균 7°C, 강수량 적음",
@@ -60,8 +78,85 @@
       "category": "beach",
       "reason": "평균 10°C, 강수량 적음",
       "rating": 4
+    },
+    {
+      "regionId": "manila",
+      "category": "city",
+      "reason": "평균 27°C의 쾌적한 기온, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "taipei",
+      "category": "city",
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "madrid",
+      "category": "city",
+      "reason": "평균 7°C, 비가 거의 없는 맑은 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "barcelona",
+      "category": "beach",
+      "reason": "평균 11°C, 비가 거의 없는 맑은 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "seville",
+      "category": "culture",
+      "reason": "평균 13°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "rome",
+      "category": "culture",
+      "reason": "평균 10°C",
+      "rating": 4
+    },
+    {
+      "regionId": "venice",
+      "category": "culture",
+      "reason": "평균 6°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "istanbul",
+      "category": "culture",
+      "reason": "평균 10°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "cappadocia",
+      "category": "adventure",
+      "reason": "평균 4°C, 비가 거의 없는 맑은 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "athens",
+      "category": "culture",
+      "reason": "평균 12°C",
+      "rating": 4
+    },
+    {
+      "regionId": "santorini",
+      "category": "beach",
+      "reason": "평균 16°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "mykonos",
+      "category": "beach",
+      "reason": "평균 15°C, 강수량 적음",
+      "rating": 4
     }
   ],
   "hiddenGems": [],
-  "avoidList": []
+  "avoidList": [
+    {
+      "regionId": "bali",
+      "reason": "강수량 318mm의 우기"
+    }
+  ]
 }

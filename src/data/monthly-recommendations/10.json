@@ -26,6 +26,54 @@
       "rating": 5
     },
     {
+      "regionId": "madrid",
+      "category": "city",
+      "reason": "평균 16°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "seville",
+      "category": "culture",
+      "reason": "평균 21°C의 쾌적한 기온, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "istanbul",
+      "category": "culture",
+      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "cappadocia",
+      "category": "adventure",
+      "reason": "평균 14°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "antalya",
+      "category": "beach",
+      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "athens",
+      "category": "culture",
+      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "santorini",
+      "category": "beach",
+      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "mykonos",
+      "category": "beach",
+      "reason": "평균 21°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
       "regionId": "tokyo",
       "category": "city",
       "reason": "평균 18°C의 온화한 날씨",
@@ -66,8 +114,75 @@
       "category": "culture",
       "reason": "평균 14°C, 풍부한 일조량",
       "rating": 4
+    },
+    {
+      "regionId": "hanoi",
+      "category": "city",
+      "reason": "평균 25°C의 쾌적한 기온",
+      "rating": 4
+    },
+    {
+      "regionId": "lombok",
+      "category": "beach",
+      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "taipei",
+      "category": "city",
+      "reason": "평균 25°C의 쾌적한 기온",
+      "rating": 4
+    },
+    {
+      "regionId": "barcelona",
+      "category": "beach",
+      "reason": "평균 19°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "rome",
+      "category": "culture",
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "venice",
+      "category": "culture",
+      "reason": "평균 16°C의 온화한 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "amalfi",
+      "category": "beach",
+      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "london",
+      "category": "city",
+      "reason": "평균 13°C",
+      "rating": 4
+    },
+    {
+      "regionId": "edinburgh",
+      "category": "culture",
+      "reason": "평균 11°C",
+      "rating": 4
     }
   ],
   "hiddenGems": [],
-  "avoidList": []
+  "avoidList": [
+    {
+      "regionId": "ho-chi-minh",
+      "reason": "강수량 367mm의 우기"
+    },
+    {
+      "regionId": "da-nang",
+      "reason": "강수량 628mm의 우기"
+    },
+    {
+      "regionId": "boracay",
+      "reason": "강수량 417mm의 우기"
+    }
+  ]
 }

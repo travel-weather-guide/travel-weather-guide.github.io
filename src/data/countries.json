@@ -48,5 +48,105 @@
     "continent": "oceania",
     "regionCount": 2,
     "isoNumeric": "036"
+  },
+  {
+    "id": "vietnam",
+    "name": {
+      "ko": "베트남",
+      "en": "Vietnam"
+    },
+    "continent": "asia",
+    "regionCount": 3,
+    "isoNumeric": "704"
+  },
+  {
+    "id": "philippines",
+    "name": {
+      "ko": "필리핀",
+      "en": "Philippines"
+    },
+    "continent": "asia",
+    "regionCount": 3,
+    "isoNumeric": "608"
+  },
+  {
+    "id": "singapore",
+    "name": {
+      "ko": "싱가포르",
+      "en": "Singapore"
+    },
+    "continent": "asia",
+    "regionCount": 1,
+    "isoNumeric": "702"
+  },
+  {
+    "id": "indonesia",
+    "name": {
+      "ko": "인도네시아",
+      "en": "Indonesia"
+    },
+    "continent": "asia",
+    "regionCount": 3,
+    "isoNumeric": "360"
+  },
+  {
+    "id": "taiwan",
+    "name": {
+      "ko": "대만",
+      "en": "Taiwan"
+    },
+    "continent": "asia",
+    "regionCount": 2,
+    "isoNumeric": "158"
+  },
+  {
+    "id": "spain",
+    "name": {
+      "ko": "스페인",
+      "en": "Spain"
+    },
+    "continent": "europe",
+    "regionCount": 3,
+    "isoNumeric": "724"
+  },
+  {
+    "id": "italy",
+    "name": {
+      "ko": "이탈리아",
+      "en": "Italy"
+    },
+    "continent": "europe",
+    "regionCount": 3,
+    "isoNumeric": "380"
+  },
+  {
+    "id": "uk",
+    "name": {
+      "ko": "영국",
+      "en": "United Kingdom"
+    },
+    "continent": "europe",
+    "regionCount": 2,
+    "isoNumeric": "826"
+  },
+  {
+    "id": "turkey",
+    "name": {
+      "ko": "터키",
+      "en": "Turkey"
+    },
+    "continent": "europe",
+    "regionCount": 3,
+    "isoNumeric": "792"
+  },
+  {
+    "id": "greece",
+    "name": {
+      "ko": "그리스",
+      "en": "Greece"
+    },
+    "continent": "europe",
+    "regionCount": 3,
+    "isoNumeric": "300"
   }
 ]

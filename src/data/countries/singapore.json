@@ -1,0 +1,160 @@
+{
+  "id": "singapore",
+  "name": {
+    "ko": "싱가포르",
+    "en": "Singapore"
+  },
+  "continent": "asia",
+  "capital": "Singapore",
+  "currency": "Singapore dollar ($)",
+  "language": "English, Chinese, Malay, Tamil",
+  "timezone": "UTC+08:00",
+  "visaInfo": "무비자 30일",
+  "regions": [
+    {
+      "id": "singapore",
+      "name": {
+        "ko": "싱가포르",
+        "en": "Singapore"
+      },
+      "countryId": "singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "climateType": "열대 우림",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 29.1,
+          "tempLow": 23.3,
+          "rainfall": 294.8,
+          "rainyDays": 25,
+          "humidity": 86.4,
+          "sunshineHours": 8.6,
+          "seaTemp": 28.3,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 2,
+          "tempHigh": 30,
+          "tempLow": 23.5,
+          "rainfall": 114.5,
+          "rainyDays": 19.8,
+          "humidity": 83.3,
+          "sunshineHours": 10,
+          "seaTemp": 28.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 3,
+          "tempHigh": 30.6,
+          "tempLow": 23.9,
+          "rainfall": 232.9,
+          "rainyDays": 25.4,
+          "humidity": 84.5,
+          "sunshineHours": 10.5,
+          "seaTemp": 28.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 4,
+          "tempHigh": 30.4,
+          "tempLow": 24.4,
+          "rainfall": 287.9,
+          "rainyDays": 27,
+          "humidity": 86.8,
+          "sunshineHours": 9.9,
+          "seaTemp": 30.5,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 5,
+          "tempHigh": 30.3,
+          "tempLow": 25.1,
+          "rainfall": 329.4,
+          "rainyDays": 27.2,
+          "humidity": 86.8,
+          "sunshineHours": 9.4,
+          "seaTemp": 31,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 6,
+          "tempHigh": 29.4,
+          "tempLow": 24.7,
+          "rainfall": 389,
+          "rainyDays": 27,
+          "humidity": 87.1,
+          "sunshineHours": 9,
+          "seaTemp": 30.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 29.5,
+          "tempLow": 24.8,
+          "rainfall": 255.7,
+          "rainyDays": 23.6,
+          "humidity": 85.6,
+          "sunshineHours": 9.4,
+          "seaTemp": 30.1,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 29.3,
+          "tempLow": 24.4,
+          "rainfall": 299.5,
+          "rainyDays": 27.8,
+          "humidity": 86.1,
+          "sunshineHours": 9.5,
+          "seaTemp": 29.6,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 9,
+          "tempHigh": 29.5,
+          "tempLow": 24.4,
+          "rainfall": 275.9,
+          "rainyDays": 25.8,
+          "humidity": 86,
+          "sunshineHours": 8.9,
+          "seaTemp": 29.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 10,
+          "tempHigh": 30,
+          "tempLow": 24.1,
+          "rainfall": 310.9,
+          "rainyDays": 27.4,
+          "humidity": 86.8,
+          "sunshineHours": 8.8,
+          "seaTemp": 30.3,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 29.6,
+          "tempLow": 23.7,
+          "rainfall": 402.4,
+          "rainyDays": 27.6,
+          "humidity": 89.3,
+          "sunshineHours": 8.1,
+          "seaTemp": 30.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 29.5,
+          "tempLow": 23.6,
+          "rainfall": 318,
+          "rainyDays": 29,
+          "humidity": 87.8,
+          "sunshineHours": 8.8,
+          "seaTemp": 29.5,
+          "weatherSummary": "우기"
+        }
+      ]
+    }
+  ]
+}
