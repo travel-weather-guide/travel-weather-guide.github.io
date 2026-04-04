@@ -267,13 +267,12 @@ interface RecommendedDestination {
 
 ```
 /                          → 홈 (이번 달 추천 + 월 선택)
-/country                   → 국가 목록 (대륙별 필터)
+/country                   → 국가 탐색 (좌: 세계지도 + 우: 대륙필터·카드리스트 + 상단: 검색바)
 /country/[countryId]       → 국가 소개 + 지역 선택 허브
 /country/[countryId]/[regionId]  → 날씨 정보 단일 소스 (탭: 월별 개요 / 일별 캘린더 / 여행 가이드)
-/map                       → 인터랙티브 세계지도 (미구현)
-/compare                   → 목적지 비교 (미구현)
+/map                       → /country로 리다이렉트
+/compare                   → 목적지 비교 (미구현, 네비에서 제거)
 /theme/[theme]             → 테마별 추천 (미구현)
-/search                    → 검색 결과 (미구현)
 ```
 
 ---
