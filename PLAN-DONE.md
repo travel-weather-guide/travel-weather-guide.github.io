@@ -169,3 +169,41 @@
 | 04-04 | Phase 시작 |
 | 04-04 | 3개 병렬 에이전트로 현재 상태 감사 + 경쟁 분석 + 시나리오 분석 완료 |
 | 04-04 | 치명적 문제 3가지 + 차별화 전략 + 6단계 액션 플랜 도출 |
+
+---
+
+## SEO (2026-04-04 완료)
+
+- [x] /country/[countryId] — generateMetadata (국가명 + 지역수 + 기본정보)
+- [x] /country/[countryId]/[regionId] — generateMetadata (지역명 + 기후 요약 + 베스트 시즌)
+- [x] 홈페이지 SSR 전환 — 서버 컴포넌트 래퍼 + 클라이언트 인터랙션 분리, metadata export
+- [x] /country 페이지 metadata — country/layout.tsx에 정적 metadata export
+- [x] sitemap.ts — 전체 국가/지역 URL 자동 생성 (21개 엔트리)
+- [x] robots.ts — 기본 크롤링 허용 + sitemap 경로
+- [x] metadataBase 설정 + title template 패턴 도입
+- [x] OG 완성 (locale, siteName, type) + Twitter Card
+- [x] canonical URL (alternates) 전 페이지 적용
+- [x] /country 페이지 서버/클라이언트 분리 + h1 추가
+- [x] JSON-LD 구조화 데이터 (WebSite, BreadcrumbList, Place)
+- [x] sitemap lastModified 추가
+- [x] title 서픽스 불일치 통일 (template 자동 적용)
+- [x] 최종 빌드 확인 (26/26 페이지)
+
+### 핵심 결정
+- metadataBase: https://travel-weather.pages.dev
+- title template: `%s | Travel Weather`
+- 홈+/country: 서버 컴포넌트로 전환, 인터랙션은 클라이언트 컴포넌트 분리
+- JSON-LD: WebSite(홈), BreadcrumbList(국가+지역), Place(지역)
+
+### 연기 항목
+- favicon / apple-touch-icon (이미지 Phase에서 처리)
+- 커스텀 404 페이지
+- OG 이미지 동적 생성 (next/og)
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-04 | Phase 시작 |
+| 04-04 | 1차: generateMetadata(국가+지역), sitemap+robots, 홈 SSR 전환 |
+| 04-04 | 2차: metadataBase, title template, canonical, /country SSR 전환, JSON-LD |
+| 04-04 | 최종 빌드 성공 — 전 페이지 Static/SSG 확인 |
