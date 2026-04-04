@@ -1,8 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-
-const DAY_HEADERS = ['일', '월', '화', '수', '목', '금', '토'];
+import { useLocale } from '@/contexts/LocaleContext';
+import { messages, t } from '@/i18n/messages';
 
 export interface DayData {
   day: number;
@@ -31,7 +31,6 @@ const ratingColors: Record<number, string> = {
   2: 'bg-orange-100 text-orange-700',
   1: 'bg-red-100 text-red-700',
 };
-const ratingLabels: Record<number, string> = {5:'최적',4:'좋음',3:'보통',2:'비추',1:'부적합'};
 
 function cellBg(tempHigh: number, tempLow: number): string {
   const avg = (tempHigh + tempLow) / 2;
@@ -42,7 +41,18 @@ function cellBg(tempHigh: number, tempLow: number): string {
 }
 
 export default function DailyCalendar({ days, month, year, commentBadge }: DailyCalendarProps) {
+  const { locale } = useLocale();
   const [hoveredDay, setHoveredDay] = useState<DayData | null>(null);
+
+  const DAY_HEADERS = [
+    t(messages.weekdays.sun, locale),
+    t(messages.weekdays.mon, locale),
+    t(messages.weekdays.tue, locale),
+    t(messages.weekdays.wed, locale),
+    t(messages.weekdays.thu, locale),
+    t(messages.weekdays.fri, locale),
+    t(messages.weekdays.sat, locale),
+  ];
 
   const dayMap = new Map(days.map((d) => [d.day, d]));
   const startDow = new Date(year, month - 1, 1).getDay();
@@ -60,25 +70,25 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
         {hoveredDay ? (
           <div className="flex flex-wrap items-center gap-x-4 gap-y-1 rounded-lg bg-gray-50 px-4 py-2 text-sm">
             <span className="font-semibold text-gray-800">{month}/{hoveredDay.day}</span>
-            <span>최고 <b className="text-rose-400">{hoveredDay.tempHigh}°</b></span>
-            <span>최저 <b className="text-gray-500">{hoveredDay.tempLow}°</b></span>
-            <span>강수 <b className="text-sky-500">{hoveredDay.rainfall}mm</b></span>
-            <span>습도 <b className="text-teal-500">{hoveredDay.humidity}%</b></span>
+            <span>{t(messages.calendar.infoTempHigh, locale)} <b className="text-rose-400">{hoveredDay.tempHigh}°</b></span>
+            <span>{t(messages.calendar.infoTempLow, locale)} <b className="text-gray-500">{hoveredDay.tempLow}°</b></span>
+            <span>{t(messages.calendar.infoRainfall, locale)} <b className="text-sky-500">{hoveredDay.rainfall}mm</b></span>
+            <span>{t(messages.calendar.infoHumidity, locale)} <b className="text-teal-500">{hoveredDay.humidity}%</b></span>
           </div>
         ) : (
-          <p className="text-xs text-gray-300">날짜에 마우스를 올려보세요</p>
+          <p className="text-xs text-gray-300">{t(messages.calendar.hoverHint, locale)}</p>
         )}
       </div>
 
       {/* 범례 + 코멘트 */}
       <div className="mt-2 flex flex-wrap items-center justify-between gap-y-1">
         <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-[11px] text-gray-400">
-        <span className="font-medium text-gray-500">배경색 = 평균기온</span>
+        <span className="font-medium text-gray-500">{t(messages.calendar.legendTitle, locale)}</span>
         {[
-          { label: '더움 25°+', bg: 'bg-[#fff0f0]' },
-          { label: '온화 15~25°', bg: 'bg-white border' },
-          { label: '선선 5~15°', bg: 'bg-[#eef8f5]' },
-          { label: '추움 5°↓', bg: 'bg-[#edf3fb]' },
+          { label: t(messages.calendar.legendHot, locale), bg: 'bg-[#fff0f0]' },
+          { label: t(messages.calendar.legendWarm, locale), bg: 'bg-white border' },
+          { label: t(messages.calendar.legendCool, locale), bg: 'bg-[#eef8f5]' },
+          { label: t(messages.calendar.legendCold, locale), bg: 'bg-[#edf3fb]' },
         ].map((item) => (
           <span key={item.label} className="flex items-center gap-1">
             <span className={`inline-block h-3 w-3 rounded-sm border border-gray-200 ${item.bg}`} />
@@ -89,7 +99,7 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
         {commentBadge && (
           <div className="flex items-center gap-1.5">
             <span className={`shrink-0 rounded-full px-2 py-0.5 text-xs font-semibold ${ratingColors[commentBadge.rating] ?? ''}`}>
-              {ratingLabels[commentBadge.rating]}
+              {t(messages.ratings[commentBadge.rating as keyof typeof messages.ratings], locale)}
             </span>
             <span className="text-sm text-gray-600">{commentBadge.summary}</span>
           </div>
@@ -153,21 +163,21 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
       {days.length > 0 && (
         <div className="mt-6 flex flex-wrap justify-center gap-6 text-center text-sm">
           <div>
-            <p className="text-gray-400">평균 기온</p>
+            <p className="text-gray-400">{t(messages.calendar.summaryAvgTemp, locale)}</p>
             <p className="mt-0.5 text-lg font-semibold text-gray-800">
               {(days.reduce((s, d) => s + d.tempHigh, 0) / days.length).toFixed(1)}° / {(days.reduce((s, d) => s + d.tempLow, 0) / days.length).toFixed(1)}°
             </p>
           </div>
           <div className="w-px bg-gray-200" />
           <div>
-            <p className="text-gray-400">강수</p>
+            <p className="text-gray-400">{t(messages.calendar.summaryRainfall, locale)}</p>
             <p className="mt-0.5 text-lg font-semibold text-gray-800">
-              {days.reduce((s, d) => s + d.rainfall, 0).toFixed(0)}mm · {days.filter((d) => d.rainfall >= 1).length}일
+              {days.reduce((s, d) => s + d.rainfall, 0).toFixed(0)}mm · {days.filter((d) => d.rainfall >= 1).length}{t(messages.calendar.rainyDays, locale)}
             </p>
           </div>
           <div className="w-px bg-gray-200" />
           <div>
-            <p className="text-gray-400">최고 / 최저</p>
+            <p className="text-gray-400">{t(messages.calendar.summaryHighLow, locale)}</p>
             <p className="mt-0.5 text-lg font-semibold text-gray-800">
               {Math.max(...days.map((d) => d.tempHigh))}° / {Math.min(...days.map((d) => d.tempLow))}°
             </p>

@@ -1,26 +1,39 @@
+'use client';
+
 import type { TravelComment } from '@/types';
+import { resolveLocalizedString, resolveLocalizedStringArray } from '@/utils/data';
+import { useLocale } from '@/contexts/LocaleContext';
+import { messages, t } from '@/i18n/messages';
 
 interface TravelTipsProps {
   comment: TravelComment;
 }
 
 export default function TravelTips({ comment }: TravelTipsProps) {
+  const { locale } = useLocale();
+
+  const summary = resolveLocalizedString(comment.summary, locale);
+  const clothingAdvice = resolveLocalizedString(comment.clothingAdvice, locale);
+  const highlights = resolveLocalizedStringArray(comment.highlights, locale);
+  const cautions = resolveLocalizedStringArray(comment.cautions, locale);
+  const tips = resolveLocalizedStringArray(comment.tips, locale);
+
   return (
     <div className="space-y-3 rounded-xl border border-border bg-white p-4">
-      <p className="font-semibold text-gray-900">{comment.summary}</p>
+      <p className="font-semibold text-gray-900">{summary}</p>
 
       {/* 옷차림 */}
       <div>
-        <p className="text-xs font-medium text-gray-500">옷차림</p>
-        <p className="text-sm text-gray-700">{comment.clothingAdvice}</p>
+        <p className="text-xs font-medium text-gray-500">{t(messages.travel.clothing, locale)}</p>
+        <p className="text-sm text-gray-700">{clothingAdvice}</p>
       </div>
 
       {/* 좋은 점 */}
-      {comment.highlights.length > 0 && (
+      {highlights.length > 0 && (
         <div>
-          <p className="text-xs font-medium text-green-600">좋은 점</p>
+          <p className="text-xs font-medium text-green-600">{t(messages.travel.highlights, locale)}</p>
           <ul className="mt-1 space-y-1">
-            {comment.highlights.map((h, i) => (
+            {highlights.map((h, i) => (
               <li key={i} className="text-sm text-gray-700">+ {h}</li>
             ))}
           </ul>
@@ -28,11 +41,11 @@ export default function TravelTips({ comment }: TravelTipsProps) {
       )}
 
       {/* 주의사항 */}
-      {comment.cautions.length > 0 && (
+      {cautions.length > 0 && (
         <div>
-          <p className="text-xs font-medium text-orange-600">주의사항</p>
+          <p className="text-xs font-medium text-orange-600">{t(messages.travel.cautions, locale)}</p>
           <ul className="mt-1 space-y-1">
-            {comment.cautions.map((c, i) => (
+            {cautions.map((c, i) => (
               <li key={i} className="text-sm text-gray-700">! {c}</li>
             ))}
           </ul>
@@ -40,12 +53,12 @@ export default function TravelTips({ comment }: TravelTipsProps) {
       )}
 
       {/* 팁 */}
-      {comment.tips.length > 0 && (
+      {tips.length > 0 && (
         <div>
-          <p className="text-xs font-medium text-sky-600">여행 팁</p>
+          <p className="text-xs font-medium text-sky-600">{t(messages.travel.tips, locale)}</p>
           <ul className="mt-1 space-y-1">
-            {comment.tips.map((t, i) => (
-              <li key={i} className="text-sm text-gray-700">- {t}</li>
+            {tips.map((tip, i) => (
+              <li key={i} className="text-sm text-gray-700">- {tip}</li>
             ))}
           </ul>
         </div>
@@ -53,8 +66,8 @@ export default function TravelTips({ comment }: TravelTipsProps) {
 
       {/* 밀집도 / 물가 */}
       <div className="flex gap-4 text-xs text-gray-500">
-        <span>관광객: {{ low: '한산', medium: '보통', high: '혼잡' }[comment.crowdLevel]}</span>
-        <span>물가: {{ low: '저렴', medium: '보통', high: '비쌈' }[comment.priceLevel]}</span>
+        <span>{t(messages.crowd.label, locale)}: {t(messages.crowd[comment.crowdLevel], locale)}</span>
+        <span>{t(messages.price.label, locale)}: {t(messages.price[comment.priceLevel], locale)}</span>
       </div>
     </div>
   );

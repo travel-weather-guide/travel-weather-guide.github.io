@@ -12,14 +12,14 @@ import {
   Legend,
 } from 'recharts';
 import type { MonthlyData } from '@/types';
-
-const MONTH_LABELS = ['1월','2월','3월','4월','5월','6월','7월','8월','9월','10월','11월','12월'];
+import { useLocale } from '@/contexts/LocaleContext';
+import { messages, t } from '@/i18n/messages';
 
 interface WeatherChartProps {
   data: MonthlyData[];
 }
 
-function CustomTooltip({ active, payload, label }: { active?: boolean; payload?: Array<{ value: number; dataKey: string; color: string }>; label?: string }) {
+function CustomTooltip({ active, payload, label, locale }: { active?: boolean; payload?: Array<{ value: number; dataKey: string; color: string }>; label?: string; locale: 'ko' | 'en' | 'ja' | 'zh' }) {
   if (!active || !payload?.length) return null;
 
   const temp = payload.find(p => p.dataKey === 'tempHigh');
@@ -29,16 +29,18 @@ function CustomTooltip({ active, payload, label }: { active?: boolean; payload?:
   return (
     <div className="rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm shadow-md">
       <p className="font-semibold text-gray-900">{label}</p>
-      {temp && <p className="text-red-500">최고 {temp.value}°C</p>}
-      {tempLow && <p className="text-gray-500">최저 {tempLow.value}°C</p>}
-      {rain && <p className="text-sky-400">강수량 {rain.value}mm</p>}
+      {temp && <p className="text-red-500">{t(messages.weather.tooltipTempHigh, locale)} {temp.value}°C</p>}
+      {tempLow && <p className="text-gray-500">{t(messages.weather.tooltipTempLow, locale)} {tempLow.value}°C</p>}
+      {rain && <p className="text-sky-400">{t(messages.weather.tooltipRainfall, locale)} {rain.value}mm</p>}
     </div>
   );
 }
 
 export default function WeatherChart({ data }: WeatherChartProps) {
-  const chartData = data.map((d, i) => ({
-    name: MONTH_LABELS[i],
+  const { locale } = useLocale();
+
+  const chartData = data.map((d) => ({
+    name: t(messages.months[d.month as keyof typeof messages.months], locale),
     tempHigh: d.tempHigh,
     tempLow: d.tempLow,
     rainfall: d.rainfall,
@@ -80,7 +82,7 @@ export default function WeatherChart({ data }: WeatherChartProps) {
             domain={rainDomain}
             unit="mm"
           />
-          <Tooltip content={<CustomTooltip />} />
+          <Tooltip content={<CustomTooltip locale={locale} />} />
           <Legend
             iconType="circle"
             iconSize={8}
@@ -89,7 +91,7 @@ export default function WeatherChart({ data }: WeatherChartProps) {
           <Bar
             yAxisId="rain"
             dataKey="rainfall"
-            name="강수량"
+            name={t(messages.weather.chartRainfall, locale)}
             fill="#7dd3fc"
             opacity={0.5}
             radius={[3, 3, 0, 0]}
@@ -99,7 +101,7 @@ export default function WeatherChart({ data }: WeatherChartProps) {
             yAxisId="temp"
             type="monotone"
             dataKey="tempHigh"
-            name="최고기온"
+            name={t(messages.weather.chartTempHigh, locale)}
             stroke="#ef4444"
             strokeWidth={2}
             dot={{ r: 3, fill: '#ef4444' }}
@@ -109,7 +111,7 @@ export default function WeatherChart({ data }: WeatherChartProps) {
             yAxisId="temp"
             type="monotone"
             dataKey="tempLow"
-            name="최저기온"
+            name={t(messages.weather.chartTempLow, locale)}
             stroke="#6b7280"
             strokeWidth={2}
             dot={{ r: 3, fill: '#3b82f6' }}

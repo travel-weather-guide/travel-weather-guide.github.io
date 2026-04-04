@@ -1,9 +1,7 @@
 'use client';
 
-const MONTH_LABELS = [
-  '1월', '2월', '3월', '4월', '5월', '6월',
-  '7월', '8월', '9월', '10월', '11월', '12월',
-];
+import { useLocale } from '@/contexts/LocaleContext';
+import { messages, t } from '@/i18n/messages';
 
 interface MonthSelectorProps {
   selected: number;
@@ -11,10 +9,12 @@ interface MonthSelectorProps {
 }
 
 export default function MonthSelector({ selected, onChange }: MonthSelectorProps) {
+  const { locale } = useLocale();
+
   return (
     <div className="flex gap-1 overflow-x-auto pb-2">
-      {MONTH_LABELS.map((label, i) => {
-        const month = i + 1;
+      {(Object.keys(messages.months) as unknown as (keyof typeof messages.months)[]).map((key) => {
+        const month = Number(key) as 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12;
         const isActive = month === selected;
         return (
           <button
@@ -26,7 +26,7 @@ export default function MonthSelector({ selected, onChange }: MonthSelectorProps
                 : 'bg-gray-100 text-gray-600 hover:bg-sky-100 hover:text-sky-600'
             }`}
           >
-            {label}
+            {t(messages.months[month], locale)}
           </button>
         );
       })}

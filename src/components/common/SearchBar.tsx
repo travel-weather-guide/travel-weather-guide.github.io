@@ -3,6 +3,9 @@
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import type { Country } from '@/types';
+import { useLocale } from '@/contexts/LocaleContext';
+import { messages, t } from '@/i18n/messages';
+import { getLocalizedName } from '@/i18n/utils';
 
 import japanData from '@/data/countries/japan.json';
 import thailandData from '@/data/countries/thailand.json';
@@ -27,6 +30,7 @@ const FLAG_EMOJI: Record<string, string> = {
 };
 
 export default function SearchBar() {
+  const { locale } = useLocale();
   const [query, setQuery] = useState('');
 
   const searchResults = useMemo(() => {
@@ -38,36 +42,43 @@ export default function SearchBar() {
     for (const country of allCountries) {
       const countryMatch =
         country.name.ko.includes(q) ||
-        country.name.en.toLowerCase().includes(q);
+        country.name.en.toLowerCase().includes(q) ||
+        (country.name.ja ?? '').toLowerCase().includes(q) ||
+        (country.name.zh ?? '').toLowerCase().includes(q);
 
       if (countryMatch) {
+        const localName = getLocalizedName(country.name, locale);
         results.push({
           type: 'country',
           countryId: country.id,
-          label: `${FLAG_EMOJI[country.id] ?? ''} ${country.name.ko}`,
-          sub: `${country.name.en} · ${country.regions.length}개 지역`,
+          label: `${FLAG_EMOJI[country.id] ?? ''} ${localName}`,
+          sub: `${country.name.en} · ${country.regions.length}${t(messages.search.regionCount, locale)}`,
         });
       }
 
       for (const region of country.regions) {
         const regionMatch =
           region.name.ko.includes(q) ||
-          region.name.en.toLowerCase().includes(q);
+          region.name.en.toLowerCase().includes(q) ||
+          (region.name.ja ?? '').toLowerCase().includes(q) ||
+          (region.name.zh ?? '').toLowerCase().includes(q);
 
         if (regionMatch) {
+          const localRegionName = getLocalizedName(region.name, locale);
+          const localCountryName = getLocalizedName(country.name, locale);
           results.push({
             type: 'region',
             countryId: country.id,
             regionId: region.id,
-            label: region.name.ko,
-            sub: `${region.name.en} · ${FLAG_EMOJI[country.id] ?? ''} ${country.name.ko}`,
+            label: localRegionName,
+            sub: `${region.name.en} · ${FLAG_EMOJI[country.id] ?? ''} ${localCountryName}`,
           });
         }
       }
     }
 
     return results;
-  }, [query]);
+  }, [query, locale]);
 
   return (
     <div className="relative">
@@ -75,7 +86,7 @@ export default function SearchBar() {
         type="text"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        placeholder="국가 또는 도시 검색 (예: 도쿄, Japan, 태국)"
+        placeholder={t(messages.search.placeholder, locale)}
         className="w-full rounded-xl border border-gray-300 bg-white px-4 py-3 pl-10 text-sm outline-none transition-colors focus:border-sky-400 focus:ring-2 focus:ring-sky-100"
       />
       <svg className="absolute left-3 top-3.5 h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -92,7 +103,7 @@ export default function SearchBar() {
               onClick={() => setQuery('')}
             >
               <span className="text-xs text-gray-400">
-                {r.type === 'country' ? '국가' : '도시'}
+                {r.type === 'country' ? t(messages.search.typeCountry, locale) : t(messages.search.typeCity, locale)}
               </span>
               <div>
                 <p className="text-sm font-medium text-gray-900">{r.label}</p>
@@ -105,7 +116,7 @@ export default function SearchBar() {
 
       {searchResults && searchResults.length === 0 && (
         <div className="absolute left-0 right-0 top-full z-50 mt-1 rounded-xl border border-gray-200 bg-white p-4 text-center shadow-lg">
-          <p className="text-sm text-gray-500">검색 결과가 없습니다</p>
+          <p className="text-sm text-gray-500">{t(messages.search.noResults, locale)}</p>
         </div>
       )}
     </div>

@@ -1,12 +1,12 @@
 import { notFound } from 'next/navigation';
 import { readFileSync, existsSync } from 'fs';
 import { join } from 'path';
-import type { Metadata } from 'next';
-import Link from 'next/link';
-import RegionTabs from '@/components/region/RegionTabs';
 import type { Country, TravelComment } from '@/types';
+import RegionDetailContent from '@/components/region/RegionDetailContent';
 
 const DATA_DIR = join(process.cwd(), 'src/data');
+
+type DailyDataMap = Record<number, { years: Record<string, Array<{ day: number; tempHigh: number; tempLow: number; rainfall: number; humidity: number }>> }>;
 
 function getCountry(countryId: string): Country | null {
   try {
@@ -25,8 +25,6 @@ function getComments(countryId: string): TravelComment[] {
     return [];
   }
 }
-
-type DailyDataMap = Record<number, { years: Record<string, Array<{ day: number; tempHigh: number; tempLow: number; rainfall: number; humidity: number }>> }>;
 
 function getDailyData(regionId: string): DailyDataMap {
   const path = join(DATA_DIR, 'daily', regionId, 'all.json');
@@ -55,33 +53,6 @@ function getAllRegionParams() {
   return params;
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ countryId: string; regionId: string }> }): Promise<Metadata> {
-  const { countryId, regionId } = await params;
-  const country = getCountry(countryId);
-  const region = country?.regions.find((r) => r.id === regionId);
-  if (!country || !region) return {};
-
-  const comments = getComments(countryId).filter(c => c.regionId === regionId);
-  const bestMonths = comments
-    .filter(c => c.rating >= 4)
-    .map(c => `${c.month}월`)
-    .join(', ');
-
-  const description = bestMonths
-    ? `${region.name.ko}(${region.name.en})의 월별 날씨와 여행 가이드. 베스트 시즌: ${bestMonths}. ${region.climateType} 기후.`
-    : `${region.name.ko}(${region.name.en})의 월별 기온, 강수량, 일별 캘린더, 여행 가이드. ${region.climateType} 기후.`;
-
-  return {
-    title: `${region.name.ko} 날씨 · 여행 가이드 - ${country.name.ko}`,
-    description,
-    openGraph: {
-      title: `${region.name.ko} 여행 날씨 - ${country.name.ko}`,
-      description,
-    },
-    alternates: { canonical: `/country/${countryId}/${regionId}` },
-  };
-}
-
 export function generateStaticParams() {
   return getAllRegionParams();
 }
@@ -97,14 +68,11 @@ export default async function RegionDetailPage({
 
   if (!country || !region) notFound();
 
-  const comments = getComments(countryId).filter(
-    (c) => c.regionId === regionId
-  );
-
+  const comments = getComments(countryId).filter((c) => c.regionId === regionId);
   const dailyData = getDailyData(regionId);
 
   return (
-    <main className="mx-auto max-w-4xl px-4 py-8">
+    <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -137,17 +105,14 @@ export default async function RegionDetailPage({
           ]),
         }}
       />
-      {/* 헤더 */}
-      <Link href={`/country/${countryId}`} className="text-sm text-sky-500 hover:text-sky-600">
-        ← {country.name.ko}
-      </Link>
-      <h1 className="mt-1 text-3xl font-bold text-gray-900">{region.name.ko}</h1>
-      <p className="mt-1 text-gray-500">{region.name.en} · {region.climateType}</p>
-
-      {/* 탭 */}
-      <div className="mt-6">
-        <RegionTabs region={region} comments={comments} dailyData={dailyData} />
-      </div>
-    </main>
+      <RegionDetailContent
+        country={country}
+        region={region}
+        comments={comments}
+        dailyData={dailyData}
+        countryId={countryId}
+        regionId={regionId}
+      />
+    </>
   );
 }

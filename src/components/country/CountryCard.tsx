@@ -1,5 +1,10 @@
+'use client';
+
 import Image from 'next/image';
 import Link from 'next/link';
+import { useLocale } from '@/contexts/LocaleContext';
+import { messages, t } from '@/i18n/messages';
+import { getLocalizedName } from '@/i18n/utils';
 
 const FLAG_EMOJI: Record<string, string> = {
   japan: '\u{1F1EF}\u{1F1F5}',
@@ -21,14 +26,16 @@ const FLAG_EMOJI: Record<string, string> = {
 
 interface CountryCardProps {
   id: string;
-  name: { ko: string; en: string };
+  name: { ko: string; en: string; ja?: string; zh?: string };
   continent: string;
   regionCount: number;
   imageUrl?: string;
 }
 
 export default function CountryCard({ id, name, regionCount, imageUrl }: CountryCardProps) {
+  const { locale } = useLocale();
   const flag = FLAG_EMOJI[id] ?? '';
+  const localName = getLocalizedName(name, locale);
 
   if (imageUrl) {
     return (
@@ -39,7 +46,7 @@ export default function CountryCard({ id, name, regionCount, imageUrl }: Country
         <div className="relative h-40 w-full">
           <Image
             src={imageUrl}
-            alt={`${name.ko} 대표 이미지`}
+            alt={`${localName} ${t(messages.countryCard.imageAlt, locale)}`}
             fill
             className="object-cover"
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
@@ -48,9 +55,9 @@ export default function CountryCard({ id, name, regionCount, imageUrl }: Country
         <div className="flex items-center gap-3 p-4">
           <span className="text-2xl">{flag}</span>
           <div>
-            <h3 className="font-semibold text-gray-900">{name.ko}</h3>
+            <h3 className="font-semibold text-gray-900">{localName}</h3>
             <p className="text-sm text-gray-500">
-              {name.en} &middot; {regionCount}개 지역
+              {name.en} &middot; {regionCount}{t(messages.countryCard.regionCount, locale)}
             </p>
           </div>
         </div>
@@ -65,9 +72,9 @@ export default function CountryCard({ id, name, regionCount, imageUrl }: Country
     >
       <span className="text-3xl">{flag}</span>
       <div>
-        <h3 className="font-semibold text-gray-900">{name.ko}</h3>
+        <h3 className="font-semibold text-gray-900">{localName}</h3>
         <p className="text-sm text-gray-500">
-          {name.en} &middot; {regionCount}개 지역
+          {name.en} &middot; {regionCount}{t(messages.countryCard.regionCount, locale)}
         </p>
       </div>
     </Link>

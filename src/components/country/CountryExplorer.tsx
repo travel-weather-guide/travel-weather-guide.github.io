@@ -6,6 +6,8 @@ import CountryCard from '@/components/country/CountryCard';
 import MapView from '@/components/map/MapView';
 import type { CountryMarker } from '@/components/map/MapView';
 import type { Country, Continent } from '@/types';
+import { useLocale } from '@/contexts/LocaleContext';
+import { getLocalizedName } from '@/i18n/utils';
 
 const ISO_CODES: Record<string, string> = {
   japan: 'JP', thailand: 'TH', france: 'FR', usa: 'US', australia: 'AU',
@@ -24,6 +26,7 @@ interface CountryExplorerProps {
 }
 
 export default function CountryExplorer({ allCountries }: CountryExplorerProps) {
+  const { locale } = useLocale();
   const [filter, setFilter] = useState<Continent | 'all'>('all');
 
   const filteredCountries =
@@ -32,8 +35,8 @@ export default function CountryExplorer({ allCountries }: CountryExplorerProps) 
       : allCountries.filter((c) => c.continent === filter);
 
   const countryNames = useMemo(
-    () => Object.fromEntries(allCountries.map((c) => [c.id, c.name.ko])),
-    [allCountries],
+    () => Object.fromEntries(allCountries.map((c) => [c.id, getLocalizedName(c.name, locale)])),
+    [allCountries, locale],
   );
 
   const countryMarkers: CountryMarker[] = useMemo(() => {
@@ -42,13 +45,13 @@ export default function CountryExplorer({ allCountries }: CountryExplorerProps) 
       const avgLng = c.regions.reduce((s, r) => s + r.longitude, 0) / c.regions.length;
       return {
         id: c.id,
-        name: c.name.ko,
+        name: getLocalizedName(c.name, locale),
         flag: toFlagEmoji(ISO_CODES[c.id] ?? 'XX'),
         latitude: avgLat,
         longitude: avgLng,
       };
     });
-  }, [filteredCountries]);
+  }, [filteredCountries, locale]);
 
   const boundPoints: [number, number][] = useMemo(() => {
     return filteredCountries.flatMap((c) =>

@@ -1,15 +1,19 @@
+'use client';
+
 import Link from 'next/link';
 import type { Region, TravelComment } from '@/types';
 import { getBestMonths } from '@/utils/scoring';
+import { useLocale } from '@/contexts/LocaleContext';
+import { messages, t } from '@/i18n/messages';
+import { getLocalizedName } from '@/i18n/utils';
+import { resolveLocalizedString } from '@/utils/data';
 
-const MONTH_LABELS = ['1월','2월','3월','4월','5월','6월','7월','8월','9월','10월','11월','12월'];
-
-const ratingConfig: Record<number, { label: string; color: string }> = {
-  5: { label: '최적', color: 'bg-green-100 text-green-700' },
-  4: { label: '좋음', color: 'bg-sky-100 text-sky-700' },
-  3: { label: '보통', color: 'bg-yellow-100 text-yellow-700' },
-  2: { label: '비추', color: 'bg-orange-100 text-orange-700' },
-  1: { label: '부적합', color: 'bg-red-100 text-red-700' },
+const ratingConfig: Record<number, { color: string }> = {
+  5: { color: 'bg-green-100 text-green-700' },
+  4: { color: 'bg-sky-100 text-sky-700' },
+  3: { color: 'bg-yellow-100 text-yellow-700' },
+  2: { color: 'bg-orange-100 text-orange-700' },
+  1: { color: 'bg-red-100 text-red-700' },
 };
 
 interface RegionListProps {
@@ -19,6 +23,7 @@ interface RegionListProps {
 }
 
 export default function RegionList({ countryId, regions, comments = [] }: RegionListProps) {
+  const { locale } = useLocale();
   const currentMonth = new Date().getMonth() + 1;
 
   return (
@@ -33,7 +38,8 @@ export default function RegionList({ countryId, regions, comments = [] }: Region
         const comment = comments.find(
           (c) => c.regionId === region.id && c.month === currentMonth
         );
-        const rating = comment ? ratingConfig[comment.rating] : null;
+        const ratingEntry = comment ? ratingConfig[comment.rating] : null;
+        const ratingLabel = comment ? t(messages.ratings[comment.rating as keyof typeof messages.ratings], locale) : null;
 
         return (
           <Link
@@ -43,19 +49,19 @@ export default function RegionList({ countryId, regions, comments = [] }: Region
           >
             <div className="flex items-start justify-between">
               <div>
-                <h3 className="font-semibold text-gray-900">{region.name.ko}</h3>
-                <p className="text-sm text-gray-500">{region.climateType}</p>
+                <h3 className="font-semibold text-gray-900">{getLocalizedName(region.name, locale)}</h3>
+                <p className="text-sm text-gray-500">{resolveLocalizedString(region.climateType, locale)}</p>
               </div>
-              {rating && (
-                <span className={`shrink-0 rounded-full px-2 py-0.5 text-xs font-semibold ${rating.color}`}>
-                  {currentMonth}월 {rating.label}
+              {ratingEntry && ratingLabel && (
+                <span className={`shrink-0 rounded-full px-2 py-0.5 text-xs font-semibold ${ratingEntry.color}`}>
+                  {currentMonth}{t(messages.regionList.monthSuffix, locale)} {ratingLabel}
                 </span>
               )}
             </div>
 
             {data && (
               <p className="mt-2 text-sm text-gray-600">
-                {data.tempLow}°~{data.tempHigh}° · {data.weatherSummary}
+                {data.tempLow}°~{data.tempHigh}° · {resolveLocalizedString(data.weatherSummary, locale)}
               </p>
             )}
 
@@ -65,7 +71,7 @@ export default function RegionList({ countryId, regions, comments = [] }: Region
                   key={m}
                   className="rounded-full bg-green-50 px-2 py-0.5 text-[11px] font-medium text-green-600"
                 >
-                  {MONTH_LABELS[m - 1]}
+                  {t(messages.months[m as keyof typeof messages.months], locale)}
                 </span>
               ))}
             </div>

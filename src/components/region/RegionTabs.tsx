@@ -12,6 +12,9 @@ import DailyCalendar from '@/components/weather/DailyCalendar';
 import YearComparison from '@/components/weather/YearComparison';
 import MonthSelector from '@/components/common/MonthSelector';
 import TravelTips from '@/components/travel/TravelTips';
+import { useLocale } from '@/contexts/LocaleContext';
+import { messages, t } from '@/i18n/messages';
+import { resolveLocalizedString } from '@/utils/data';
 
 interface RegionDailyMonth {
   years: Record<string, DayData[]>;
@@ -23,22 +26,23 @@ interface RegionTabsProps {
   dailyData: Record<number, RegionDailyMonth>;
 }
 
-const TABS = [
-  { id: 'calendar', label: '일별 캘린더' },
-  { id: 'overview', label: '월별 개요' },
-  { id: 'guide', label: '여행 가이드' },
-] as const;
-
-type TabId = typeof TABS[number]['id'];
+type TabId = 'calendar' | 'overview' | 'guide';
 
 const YEARS = [2024, 2023, 2022];
 
 export default function RegionTabs({ region, comments, dailyData }: RegionTabsProps) {
+  const { locale } = useLocale();
   const [activeTab, setActiveTab] = useState<TabId>('calendar');
   const currentMonth = new Date().getMonth() + 1;
   const [calendarMonth, setCalendarMonth] = useState(currentMonth);
   const [calendarYear, setCalendarYear] = useState(2024);
   const [guideMonth, setGuideMonth] = useState(currentMonth);
+
+  const TABS = [
+    { id: 'calendar' as TabId, label: t(messages.region.tabCalendar, locale) },
+    { id: 'overview' as TabId, label: t(messages.region.tabOverview, locale) },
+    { id: 'guide' as TabId, label: t(messages.region.tabGuide, locale) },
+  ];
 
   return (
     <div>
@@ -87,6 +91,8 @@ export default function RegionTabs({ region, comments, dailyData }: RegionTabsPr
 }
 
 function OverviewTab({ region, comments }: { region: Region; comments: TravelComment[] }) {
+  const { locale } = useLocale();
+
   return (
     <div className="space-y-8">
       <BestSeasonBadge data={region.monthlyData} ratings={comments.map((c) => c.rating)} />
@@ -94,10 +100,10 @@ function OverviewTab({ region, comments }: { region: Region; comments: TravelCom
       <WeatherTable data={region.monthlyData} />
       {comments.length > 0 && (
         <div>
-          <h3 className="mb-3 text-lg font-bold text-gray-900">월별 여행 적합도</h3>
+          <h3 className="mb-3 text-lg font-bold text-gray-900">{t(messages.region.monthlyRating, locale)}</h3>
           <div className="space-y-2">
             {comments.map((c) => (
-              <TravelRating key={c.month} month={c.month} rating={c.rating} summary={c.summary} />
+              <TravelRating key={c.month} month={c.month} rating={c.rating} summary={resolveLocalizedString(c.summary, locale)} />
             ))}
           </div>
         </div>
@@ -121,18 +127,10 @@ function CalendarTab({
   onMonthChange: (m: number) => void;
   onYearChange: (y: number) => void;
 }) {
+  const { locale } = useLocale();
   const monthData = dailyData[month];
   const days = (monthData?.years[String(year)] ?? []) as DayData[];
   const comment = comments.find((c) => c.month === month);
-
-  const ratingColors: Record<number, string> = {
-    5: 'bg-green-100 text-green-700',
-    4: 'bg-sky-100 text-sky-700',
-    3: 'bg-yellow-100 text-yellow-700',
-    2: 'bg-orange-100 text-orange-700',
-    1: 'bg-red-100 text-red-700',
-  };
-  const ratingLabels: Record<number, string> = {5:'최적',4:'좋음',3:'보통',2:'비추',1:'부적합'};
 
   return (
     <div className="space-y-4">
@@ -160,17 +158,17 @@ function CalendarTab({
             days={days}
             month={month}
             year={year}
-            commentBadge={comment ? { rating: comment.rating, summary: comment.summary } : undefined}
+            commentBadge={comment ? { rating: comment.rating, summary: resolveLocalizedString(comment.summary, locale) } : undefined}
           />
           {monthData && (
             <div className="mt-8">
-              <h3 className="mb-3 text-sm font-semibold tracking-wide text-gray-500">연도별 비교</h3>
+              <h3 className="mb-3 text-sm font-semibold tracking-wide text-gray-500">{t(messages.calendar.yearComparison, locale)}</h3>
               <YearComparison years={monthData.years} selectedYear={year} />
             </div>
           )}
         </>
       ) : (
-        <p className="py-12 text-center text-gray-400">해당 기간의 데이터가 없습니다.</p>
+        <p className="py-12 text-center text-gray-400">{t(messages.common.noData, locale)}</p>
       )}
     </div>
   );
@@ -185,6 +183,7 @@ function GuideTab({
   month: number;
   onMonthChange: (m: number) => void;
 }) {
+  const { locale } = useLocale();
   const comment = comments.find((c) => c.month === month);
 
   return (
@@ -193,11 +192,11 @@ function GuideTab({
 
       {comment ? (
         <div className="space-y-4">
-          <TravelRating month={comment.month} rating={comment.rating} summary={comment.summary} />
+          <TravelRating month={comment.month} rating={comment.rating} summary={resolveLocalizedString(comment.summary, locale)} />
           <TravelTips comment={comment} />
         </div>
       ) : (
-        <p className="py-12 text-center text-gray-400">{month}월 여행 정보가 아직 없습니다.</p>
+        <p className="py-12 text-center text-gray-400">{month}{t(messages.region.noGuide, locale)}</p>
       )}
     </div>
   );

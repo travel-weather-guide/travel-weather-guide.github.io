@@ -12,6 +12,8 @@ import L from 'leaflet';
 import worldData from 'world-atlas/countries-110m.json';
 import { numericToCountrySlug } from '@/utils/countryMapping';
 import type { CountryMarker } from './MapView';
+import { useLocale } from '@/contexts/LocaleContext';
+import { messages, t } from '@/i18n/messages';
 
 interface WorldMapProps {
   countries: CountryMarker[];
@@ -48,6 +50,7 @@ const isAll = (f?: string) => !f || f === 'all';
 
 export default function WorldMap({ countries, countryNames, focusFilter, boundPoints }: WorldMapProps) {
   const router = useRouter();
+  const { locale } = useLocale();
   const [mapReady, setMapReady] = useState(false);
 
   const geoData = useMemo(() => {
@@ -94,7 +97,7 @@ export default function WorldMap({ countries, countryNames, focusFilter, boundPo
 
       {!mapReady && (
         <div className="absolute inset-0 z-10 flex items-center justify-center bg-sky-50">
-          <p className="text-sm text-gray-400">지도를 불러오는 중...</p>
+          <p className="text-sm text-gray-400">{t(messages.map.loading, locale)}</p>
         </div>
       )}
 
