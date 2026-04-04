@@ -2,97 +2,130 @@
   {
     "regionId": "sydney",
     "month": 1,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "호주의 여름, 해변과 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
     ],
     "cautions": [
-      "비 오는 날이 많아 실내 대안 준비 권장"
+      "강수량이 115mm로 우산 필수",
+      "월 15.2일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
     ],
-    "events": [],
+    "events": [
+      "시드니 새해 불꽃놀이 (12월 31일)",
+      "호주 데이 (1월 26일)"
+    ],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "sydney",
     "month": 2,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "호주의 여름, 해변과 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
     ],
     "cautions": [
-      "비 오는 날이 많아 실내 대안 준비 권장"
+      "강수량이 125mm로 우산 필수",
+      "월 16.2일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
     ],
-    "events": [],
+    "events": [
+      "시드니 새해 불꽃놀이 (12월 31일)",
+      "호주 데이 (1월 26일)"
+    ],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "sydney",
     "month": 3,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "가을 시작, 쾌적한 날씨",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
     ],
     "cautions": [
-      "비 오는 날이 많아 실내 대안 준비 권장"
+      "월 강수량 186mm로 우기에 해당",
+      "월 17일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
     ],
-    "events": [],
+    "events": [
+      "시드니 마디그라 (2~3월)",
+      "시드니 로열 이스터 쇼 (3~4월)"
+    ],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "sydney",
     "month": 4,
-    "rating": 2,
-    "summary": "날씨가 좋지 않아 비추천",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "가을 시작, 쾌적한 날씨",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "강수량이 104mm로 우산 필수",
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "시드니 마디그라 (2~3월)",
+      "시드니 로열 이스터 쇼 (3~4월)"
+    ],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "sydney",
     "month": 5,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "비 오는 날이 10.6일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "sydney",
@@ -100,9 +133,11 @@
     "rating": 4,
     "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "습도가 75%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
@@ -114,46 +149,50 @@
   {
     "regionId": "sydney",
     "month": 7,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "강수량이 103mm로 우산 필수",
+      "습도가 74%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "sydney",
     "month": 8,
-    "rating": 4,
+    "rating": 5,
     "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "습도가 71%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "sydney",
     "month": 9,
-    "rating": 4,
+    "rating": 5,
     "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
-      "쾌적한 기온"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
     "cautions": [],
     "events": [],
@@ -167,37 +206,45 @@
   {
     "regionId": "sydney",
     "month": 10,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도가 72%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "sydney",
     "month": 11,
-    "rating": 2,
-    "summary": "날씨가 좋지 않아 비추천",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
     ],
-    "cautions": [],
+    "cautions": [
+      "강수량이 101mm로 우산 필수",
+      "비 오는 날이 13.2일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "sydney",
@@ -205,11 +252,18 @@
     "rating": 5,
     "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "호주의 여름, 해변과 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "시드니 새해 불꽃놀이 (12월 31일)",
+      "호주 데이 (1월 26일)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
@@ -220,14 +274,18 @@
   {
     "regionId": "melbourne",
     "month": 1,
-    "rating": 4,
+    "rating": 5,
     "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "호주의 여름, 다양한 페스티벌",
+      "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
     ],
     "cautions": [],
-    "events": [],
+    "events": [
+      "호주 오픈 테니스 (1월)",
+      "멜버른 컵 (11월, 인근)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
@@ -241,18 +299,22 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "호주의 여름, 다양한 페스티벌",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
     "cautions": [],
-    "events": [],
+    "events": [
+      "호주 오픈 테니스 (1월)",
+      "멜버른 컵 (11월, 인근)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "melbourne",
@@ -260,164 +322,175 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "호주의 여름, 다양한 페스티벌",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [
+      "호주 오픈 테니스 (1월)",
+      "멜버른 컵 (11월, 인근)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "melbourne",
+    "month": 4,
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "가을 단풍과 와이너리 시즌",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 10.4일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "멜버른 푸드 앤 와인 페스티벌 (3월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "melbourne",
-    "month": 4,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "month": 5,
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "현지 일상을 경험하기 좋은 시기"
     ],
-    "cautions": [],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도가 80%로 다소 높음"
+    ],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
+    "tips": [],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
+    "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "melbourne",
-    "month": 5,
-    "rating": 2,
-    "summary": "날씨가 좋지 않아 비추천",
-    "highlights": [
-      "특별한 장점 없음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "low"
-  },
-  {
-    "regionId": "melbourne",
     "month": 6,
-    "rating": 2,
-    "summary": "날씨가 좋지 않아 비추천",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "현지 일상을 경험하기 좋은 시기"
     ],
     "cautions": [
-      "높은 습도, 체감 온도 상승에 주의"
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도 81%로 불쾌지수 높음"
     ],
     "events": [],
     "tips": [],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "melbourne",
     "month": 7,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "현지 일상을 경험하기 좋은 시기"
     ],
     "cautions": [
-      "높은 습도, 체감 온도 상승에 주의"
+      "비 오는 날이 12.4일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
     ],
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "melbourne",
     "month": 8,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "비 오는 날이 12.6일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
+    "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "melbourne",
     "month": 9,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "비 오는 날이 12.4일로 실내 대안 준비 권장",
+      "습도가 72%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
+    "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "melbourne",
     "month": 10,
-    "rating": 2,
-    "summary": "날씨가 좋지 않아 비추천",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "강수량이 118mm로 우산 필수",
+      "비 오는 날이 14.8일로 실내 대안 준비 권장",
+      "습도가 73%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "low"
-  },
-  {
-    "regionId": "melbourne",
-    "month": 11,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
-    "highlights": [
-      "특별한 장점 없음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "low",
+    "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "melbourne",
-    "month": 12,
-    "rating": 4,
+    "month": 11,
+    "rating": 5,
     "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
-      "쾌적한 기온"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "비 오는 날이 11.6일로 실내 대안 준비 권장"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
@@ -425,5 +498,27 @@
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "high",
     "priceLevel": "high"
+  },
+  {
+    "regionId": "melbourne",
+    "month": 12,
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "호주의 여름, 다양한 페스티벌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "호주 오픈 테니스 (1월)",
+      "멜버른 컵 (11월, 인근)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   }
 ]

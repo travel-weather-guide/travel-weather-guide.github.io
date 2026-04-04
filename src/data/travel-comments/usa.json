@@ -2,13 +2,15 @@
   {
     "regionId": "new-york",
     "month": 1,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
     "highlights": [
-      "특별한 장점 없음"
+      "겨울 스포츠에 적합한 시기"
     ],
     "cautions": [
-      "영하의 기온, 동파 및 미끄러움 주의"
+      "평균 최저기온 -2°C로 방한 대비 필요",
+      "강수량이 102mm로 우산 필수",
+      "비 오는 날이 11일로 실내 대안 준비 권장"
     ],
     "events": [],
     "tips": [
@@ -17,18 +19,18 @@
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "new-york",
     "month": 2,
-    "rating": 2,
-    "summary": "매우 추운 시기, 방한 필수",
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
     "highlights": [
-      "특별한 장점 없음"
+      "겨울 스포츠에 적합한 시기"
     ],
     "cautions": [
-      "영하의 기온, 동파 및 미끄러움 주의"
+      "평균 최저기온 -2°C로 방한 대비 필요"
     ],
     "events": [],
     "tips": [
@@ -36,60 +38,76 @@
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "new-york",
     "month": 3,
-    "rating": 2,
-    "summary": "날씨가 좋지 않아 비추천",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
+    "cautions": [
+      "강수량이 129mm로 우산 필수",
+      "비 오는 날이 10.6일로 실내 대안 준비 권장"
+    ],
     "events": [],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "new-york",
     "month": 4,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "센트럴파크 봄꽃, 쾌적한 날씨",
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "강수량이 126mm로 우산 필수",
+      "비 오는 날이 12.2일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "센트럴파크 벚꽃 (4월)",
+      "메트로폴리탄 미술관 갈라 (5월)"
+    ],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "new-york",
     "month": 5,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "센트럴파크 봄꽃, 쾌적한 날씨",
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "비 오는 날이 10.8일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "센트럴파크 벚꽃 (4월)",
+      "메트로폴리탄 미술관 갈라 (5월)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "low",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "new-york",
@@ -97,7 +115,7 @@
     "rating": 5,
     "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
     ],
     "cautions": [],
@@ -115,17 +133,22 @@
     "rating": 4,
     "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적"
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
     ],
-    "cautions": [],
+    "cautions": [
+      "강수량이 144mm로 우산 필수",
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 73%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "new-york",
@@ -133,18 +156,22 @@
     "rating": 4,
     "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
     ],
-    "cautions": [],
+    "cautions": [
+      "강수량이 134mm로 우산 필수",
+      "비 오는 날이 13일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "new-york",
@@ -152,10 +179,13 @@
     "rating": 4,
     "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
     ],
-    "cautions": [],
+    "cautions": [
+      "강수량이 136mm로 우산 필수",
+      "습도가 74%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "접이식 우산이나 우비 챙기기",
@@ -168,63 +198,80 @@
   {
     "regionId": "new-york",
     "month": 10,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "가을 단풍과 할로윈/추수감사절",
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "강수량이 147mm로 우산 필수",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "할로윈 퍼레이드 (10월)",
+      "메이시스 추수감사절 퍼레이드 (11월)"
+    ],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "new-york",
     "month": 11,
-    "rating": 2,
-    "summary": "날씨가 좋지 않아 비추천",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "가을 단풍과 할로윈/추수감사절"
     ],
     "cautions": [],
-    "events": [],
+    "events": [
+      "할로윈 퍼레이드 (10월)",
+      "메이시스 추수감사절 퍼레이드 (11월)"
+    ],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "new-york",
     "month": 12,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
     "highlights": [
-      "특별한 장점 없음"
+      "록펠러 크리스마스 트리와 홀리데이 시즌",
+      "겨울 스포츠에 적합한 시기"
     ],
     "cautions": [
-      "영하의 기온, 동파 및 미끄러움 주의"
+      "평균 최저기온 -0°C로 방한 대비 필요",
+      "강수량이 120mm로 우산 필수",
+      "비 오는 날이 10.6일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
     ],
-    "events": [],
+    "events": [
+      "록펠러 센터 트리 점등",
+      "타임스퀘어 새해 카운트다운"
+    ],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "보온 용품과 핫팩 준비"
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "los-angeles",
     "month": 1,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음"
     ],
     "cautions": [],
     "events": [],
@@ -232,53 +279,61 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
+    "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "los-angeles",
     "month": 2,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
+      "아카데미 시상식 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
       "습도가 낮아 쾌적함"
     ],
     "cautions": [],
-    "events": [],
+    "events": [
+      "아카데미 시상식 (2~3월)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
+    "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "los-angeles",
     "month": 3,
-    "rating": 2,
-    "summary": "날씨가 좋지 않아 비추천",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "아카데미 시상식 시즌",
+      "일조시간이 길어 야외 활동에 좋음"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "강수량이 100mm로 우산 필수"
+    ],
+    "events": [
+      "아카데미 시상식 (2~3월)"
+    ],
     "tips": [
       "접이식 우산이나 우비 챙기기",
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "los-angeles",
     "month": 4,
-    "rating": 4,
+    "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
     ],
     "cautions": [],
     "events": [],
@@ -295,7 +350,7 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
@@ -314,18 +369,21 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "해변 성수기, 서핑에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
     "cautions": [],
-    "events": [],
+    "events": [
+      "US 오픈 서핑 (7~8월)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "los-angeles",
@@ -333,11 +391,15 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
-      "강수량이 적어 맑은 날이 많음"
+      "해변 성수기, 서핑에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
     ],
     "cautions": [],
-    "events": [],
+    "events": [
+      "US 오픈 서핑 (7~8월)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
@@ -351,11 +413,15 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
-      "강수량이 적어 맑은 날이 많음"
+      "해변 성수기, 서핑에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
     ],
     "cautions": [],
-    "events": [],
+    "events": [
+      "US 오픈 서핑 (7~8월)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
@@ -369,8 +435,9 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
-      "강수량이 적어 맑은 날이 많음"
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
     ],
     "cautions": [],
     "events": [],
@@ -387,7 +454,7 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온",
       "습도가 낮아 쾌적함"
@@ -404,12 +471,11 @@
   {
     "regionId": "los-angeles",
     "month": 11,
-    "rating": 4,
+    "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
       "습도가 낮아 쾌적함"
     ],
     "cautions": [],
@@ -424,36 +490,45 @@
   {
     "regionId": "los-angeles",
     "month": 12,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "현지 일상을 경험하기 좋은 시기"
     ],
-    "cautions": [],
+    "cautions": [
+      "강수량이 103mm로 우산 필수"
+    ],
     "events": [],
     "tips": [
       "접이식 우산이나 우비 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "hawaii",
     "month": 1,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 5,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "고래 관찰 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "고래 관찰 시즌",
+      "하와이안 문화 축제"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "low",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
@@ -461,11 +536,38 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "고래 관찰 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
-    "cautions": [],
+    "cautions": [
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "고래 관찰 시즌",
+      "하와이안 문화 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hawaii",
+    "month": 3,
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 14.2일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
@@ -476,54 +578,46 @@
   },
   {
     "regionId": "hawaii",
-    "month": 3,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
-    "highlights": [
-      "특별한 장점 없음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "low",
-    "priceLevel": "low"
-  },
-  {
-    "regionId": "hawaii",
     "month": 4,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
     ],
-    "cautions": [],
+    "cautions": [
+      "비 오는 날이 12일로 실내 대안 준비 권장",
+      "습도가 73%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "low",
+    "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "hawaii",
     "month": 5,
-    "rating": 1,
-    "summary": "여행에 부적합한 시기",
+    "rating": 5,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
     ],
-    "cautions": [],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도가 72%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "hawaii",
@@ -531,18 +625,21 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "건기 해변 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
     "cautions": [],
-    "events": [],
+    "events": [
+      "킹 카메하메하 데이 (6월)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
@@ -550,12 +647,17 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "건기 해변 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [
+      "킹 카메하메하 데이 (6월)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
@@ -569,12 +671,15 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "건기 해변 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
     "cautions": [],
-    "events": [],
+    "events": [
+      "킹 카메하메하 데이 (6월)"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
@@ -588,7 +693,7 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
@@ -604,18 +709,23 @@
   {
     "regionId": "hawaii",
     "month": 10,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "특별한 장점 없음"
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
     ],
-    "cautions": [],
+    "cautions": [
+      "비 오는 날이 10.2일로 실내 대안 준비 권장",
+      "습도가 73%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "low",
+    "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
@@ -624,11 +734,13 @@
     "rating": 5,
     "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
-      "일조시간이 길어 야외 활동에 최적",
+      "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
       "쾌적한 기온"
     ],
-    "cautions": [],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
     "events": [],
     "tips": [
       "선글라스와 모자 챙기기"
@@ -640,18 +752,25 @@
   {
     "regionId": "hawaii",
     "month": 12,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 5,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
-      "특별한 장점 없음"
+      "고래 관찰 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
     ],
-    "cautions": [],
-    "events": [],
+    "cautions": [
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "고래 관찰 시즌",
+      "하와이안 문화 축제"
+    ],
     "tips": [
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "low",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   }
 ]

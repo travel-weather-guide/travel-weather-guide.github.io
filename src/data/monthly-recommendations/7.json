@@ -32,37 +32,35 @@
       "rating": 5
     },
     {
+      "regionId": "okinawa",
+      "category": "beach",
+      "reason": "평균 29°C의 온화한 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
       "regionId": "new-york",
       "category": "city",
       "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "sydney",
+      "category": "city",
+      "reason": "평균 13°C, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "melbourne",
+      "category": "culture",
+      "reason": "평균 10°C, 강수량 적음",
       "rating": 4
     }
   ],
   "hiddenGems": [],
   "avoidList": [
     {
-      "regionId": "okinawa",
-      "reason": "잦은 비(175mm)"
-    },
-    {
       "regionId": "chiang-mai",
       "reason": "강수량 375mm의 우기"
-    },
-    {
-      "regionId": "phuket",
-      "reason": "강수량 205mm의 우기"
-    },
-    {
-      "regionId": "bangkok",
-      "reason": "강수량 241mm의 우기"
-    },
-    {
-      "regionId": "sydney",
-      "reason": "잦은 비(103mm)"
-    },
-    {
-      "regionId": "melbourne",
-      "reason": "평균 10°C의 추위"
     }
   ]
 }

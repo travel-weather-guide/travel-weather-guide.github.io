@@ -2,20 +2,38 @@
   "month": 11,
   "bestDestinations": [
     {
+      "regionId": "osaka",
+      "category": "culture",
+      "reason": "평균 13°C, 강수량 적음",
+      "rating": 5
+    },
+    {
+      "regionId": "bangkok",
+      "category": "culture",
+      "reason": "평균 28°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "los-angeles",
+      "category": "city",
+      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
       "regionId": "hawaii",
       "category": "beach",
       "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
-      "regionId": "tokyo",
-      "category": "city",
-      "reason": "평균 13°C, 강수량 적음",
-      "rating": 4
+      "regionId": "melbourne",
+      "category": "culture",
+      "reason": "평균 17°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 5
     },
     {
-      "regionId": "osaka",
-      "category": "culture",
+      "regionId": "tokyo",
+      "category": "city",
       "reason": "평균 13°C, 강수량 적음",
       "rating": 4
     },
@@ -26,49 +44,36 @@
       "rating": 4
     },
     {
-      "regionId": "bangkok",
-      "category": "culture",
-      "reason": "평균 28°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
       "regionId": "chiang-mai",
       "category": "mountain",
       "reason": "평균 25°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
       "rating": 4
     },
     {
-      "regionId": "los-angeles",
+      "regionId": "paris",
+      "category": "culture",
+      "reason": "평균 9°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "nice",
+      "category": "beach",
+      "reason": "평균 13°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "new-york",
       "category": "city",
-      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "평균 9°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "sydney",
+      "category": "city",
+      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
       "rating": 4
     }
   ],
   "hiddenGems": [],
-  "avoidList": [
-    {
-      "regionId": "phuket",
-      "reason": "강수량 295mm의 우기"
-    },
-    {
-      "regionId": "nice",
-      "reason": "여행에 적합하지 않은 날씨"
-    },
-    {
-      "regionId": "new-york",
-      "reason": "평균 9°C의 추위"
-    },
-    {
-      "regionId": "sydney",
-      "reason": "잦은 비(101mm)"
-    },
-    {
-      "regionId": "hokkaido",
-      "reason": "잦은 비(129mm), 평균 5°C의 추위"
-    },
-    {
-      "regionId": "paris",
-      "reason": "평균 9°C의 추위"
-    }
-  ]
+  "avoidList": []
 }

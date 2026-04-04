@@ -2,9 +2,9 @@
   "month": 8,
   "bestDestinations": [
     {
-      "regionId": "hokkaido",
-      "category": "adventure",
-      "reason": "평균 23°C의 쾌적한 기온, 풍부한 일조량",
+      "regionId": "paris",
+      "category": "culture",
+      "reason": "평균 20°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
       "rating": 5
     },
     {
@@ -26,9 +26,33 @@
       "rating": 5
     },
     {
-      "regionId": "paris",
+      "regionId": "sydney",
+      "category": "city",
+      "reason": "평균 14°C, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "tokyo",
+      "category": "city",
+      "reason": "평균 28°C의 온화한 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "osaka",
       "category": "culture",
-      "reason": "평균 20°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "reason": "평균 29°C의 온화한 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "hokkaido",
+      "category": "adventure",
+      "reason": "평균 23°C의 쾌적한 기온, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "phuket",
+      "category": "beach",
+      "reason": "평균 27°C의 쾌적한 기온, 풍부한 일조량",
       "rating": 4
     },
     {
@@ -38,30 +62,14 @@
       "rating": 4
     },
     {
-      "regionId": "sydney",
-      "category": "city",
-      "reason": "평균 14°C, 강수량 적음, 풍부한 일조량",
+      "regionId": "melbourne",
+      "category": "culture",
+      "reason": "평균 11°C, 강수량 적음, 풍부한 일조량",
       "rating": 4
     }
   ],
   "hiddenGems": [],
   "avoidList": [
-    {
-      "regionId": "osaka",
-      "reason": "잦은 비(188mm)"
-    },
-    {
-      "regionId": "bangkok",
-      "reason": "강수량 217mm의 우기"
-    },
-    {
-      "regionId": "phuket",
-      "reason": "강수량 205mm의 우기"
-    },
-    {
-      "regionId": "okinawa",
-      "reason": "강수량 261mm의 우기"
-    },
     {
       "regionId": "chiang-mai",
       "reason": "강수량 424mm의 우기"

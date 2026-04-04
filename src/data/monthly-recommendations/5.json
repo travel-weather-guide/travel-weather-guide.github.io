@@ -2,9 +2,15 @@
   "month": 5,
   "bestDestinations": [
     {
-      "regionId": "tokyo",
+      "regionId": "paris",
+      "category": "culture",
+      "reason": "평균 15°C, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "new-york",
       "category": "city",
-      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
+      "reason": "평균 16°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
       "rating": 5
     },
     {
@@ -14,37 +20,54 @@
       "rating": 5
     },
     {
+      "regionId": "hawaii",
+      "category": "beach",
+      "reason": "평균 24°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "tokyo",
+      "category": "city",
+      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "osaka",
+      "category": "culture",
+      "reason": "평균 18°C의 온화한 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
       "regionId": "hokkaido",
       "category": "adventure",
       "reason": "평균 12°C, 풍부한 일조량",
       "rating": 4
-    }
-  ],
-  "hiddenGems": [],
-  "avoidList": [
-    {
-      "regionId": "bangkok",
-      "reason": "잦은 비(158mm)"
-    },
-    {
-      "regionId": "melbourne",
-      "reason": "여행에 적합하지 않은 날씨"
-    },
-    {
-      "regionId": "chiang-mai",
-      "reason": "강수량 232mm의 우기"
     },
     {
       "regionId": "phuket",
-      "reason": "강수량 211mm의 우기"
+      "category": "beach",
+      "reason": "평균 28°C의 온화한 날씨, 풍부한 일조량",
+      "rating": 4
     },
     {
-      "regionId": "hawaii",
-      "reason": "여행에 적합하지 않은 날씨"
+      "regionId": "nice",
+      "category": "beach",
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
     },
     {
       "regionId": "sydney",
-      "reason": "여행에 적합하지 않은 날씨"
+      "category": "city",
+      "reason": "평균 15°C, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "melbourne",
+      "category": "culture",
+      "reason": "평균 12°C, 강수량 적음",
+      "rating": 4
     }
-  ]
+  ],
+  "hiddenGems": [],
+  "avoidList": []
 }

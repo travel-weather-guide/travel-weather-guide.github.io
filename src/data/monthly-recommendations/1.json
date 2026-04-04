@@ -20,41 +20,59 @@
       "rating": 5
     },
     {
+      "regionId": "los-angeles",
+      "category": "city",
+      "reason": "평균 13°C, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "hawaii",
+      "category": "beach",
+      "reason": "평균 23°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
       "regionId": "melbourne",
       "category": "culture",
       "reason": "평균 21°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "tokyo",
+      "category": "city",
+      "reason": "평균 5°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "osaka",
+      "category": "culture",
+      "reason": "평균 5°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "okinawa",
+      "category": "beach",
+      "reason": "평균 17°C의 온화한 날씨, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "nice",
+      "category": "beach",
+      "reason": "평균 9°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "sydney",
+      "category": "city",
+      "reason": "평균 23°C의 쾌적한 기온, 풍부한 일조량",
       "rating": 4
     }
   ],
   "hiddenGems": [],
   "avoidList": [
     {
-      "regionId": "tokyo",
-      "reason": "평균 5°C의 혹한"
-    },
-    {
-      "regionId": "osaka",
-      "reason": "평균 5°C의 추위"
-    },
-    {
       "regionId": "hokkaido",
       "reason": "평균 -6°C의 혹한"
-    },
-    {
-      "regionId": "paris",
-      "reason": "평균 5°C의 혹한, 일조량 부족"
-    },
-    {
-      "regionId": "nice",
-      "reason": "평균 9°C의 추위"
-    },
-    {
-      "regionId": "new-york",
-      "reason": "잦은 비(102mm), 평균 2°C의 혹한"
-    },
-    {
-      "regionId": "sydney",
-      "reason": "잦은 비(115mm)"
     }
   ]
 }

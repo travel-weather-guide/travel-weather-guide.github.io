@@ -2,15 +2,9 @@
   "month": 2,
   "bestDestinations": [
     {
-      "regionId": "tokyo",
-      "category": "city",
-      "reason": "평균 6°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "okinawa",
-      "category": "beach",
-      "reason": "평균 18°C의 온화한 날씨, 강수량 적음",
+      "regionId": "bangkok",
+      "category": "culture",
+      "reason": "평균 28°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
@@ -26,6 +20,12 @@
       "rating": 5
     },
     {
+      "regionId": "los-angeles",
+      "category": "city",
+      "reason": "평균 14°C, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
       "regionId": "hawaii",
       "category": "beach",
       "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
@@ -38,33 +38,42 @@
       "rating": 5
     },
     {
-      "regionId": "bangkok",
+      "regionId": "tokyo",
+      "category": "city",
+      "reason": "평균 6°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "osaka",
       "category": "culture",
-      "reason": "평균 28°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "평균 6°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "okinawa",
+      "category": "beach",
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "paris",
+      "category": "culture",
+      "reason": "평균 7°C, 비가 거의 없는 맑은 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "nice",
+      "category": "beach",
+      "reason": "평균 10°C, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "sydney",
+      "category": "city",
+      "reason": "평균 22°C의 쾌적한 기온, 풍부한 일조량",
       "rating": 4
     }
   ],
   "hiddenGems": [],
-  "avoidList": [
-    {
-      "regionId": "osaka",
-      "reason": "평균 6°C의 추위"
-    },
-    {
-      "regionId": "hokkaido",
-      "reason": "평균 -5°C의 혹한"
-    },
-    {
-      "regionId": "paris",
-      "reason": "평균 7°C의 추위"
-    },
-    {
-      "regionId": "new-york",
-      "reason": "평균 2°C의 혹한"
-    },
-    {
-      "regionId": "sydney",
-      "reason": "잦은 비(125mm)"
-    }
-  ]
+  "avoidList": []
 }

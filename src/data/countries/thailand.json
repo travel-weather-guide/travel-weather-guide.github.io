@@ -9,7 +9,7 @@
   "currency": "Thai baht (฿)",
   "language": "Thai",
   "timezone": "UTC+07:00",
-  "visaInfo": "",
+  "visaInfo": "무비자 90일",
   "regions": [
     {
       "id": "bangkok",
@@ -30,7 +30,6 @@
           "rainyDays": 2.6,
           "humidity": 63.8,
           "sunshineHours": 10.7,
-          "uvIndex": 0,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -41,7 +40,6 @@
           "rainyDays": 6,
           "humidity": 69.3,
           "sunshineHours": 10.6,
-          "uvIndex": 0,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -52,7 +50,6 @@
           "rainyDays": 8.6,
           "humidity": 73.4,
           "sunshineHours": 10.7,
-          "uvIndex": 0,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -63,7 +60,6 @@
           "rainyDays": 12.2,
           "humidity": 73.3,
           "sunshineHours": 10.8,
-          "uvIndex": 0,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -74,7 +70,6 @@
           "rainyDays": 19.6,
           "humidity": 76,
           "sunshineHours": 10,
-          "uvIndex": 0,
           "weatherSummary": "습하고 비 잦음"
         },
         {
@@ -85,7 +80,6 @@
           "rainyDays": 24,
           "humidity": 76.6,
           "sunshineHours": 9.5,
-          "uvIndex": 0,
           "weatherSummary": "습하고 비 잦음"
         },
         {
@@ -96,7 +90,6 @@
           "rainyDays": 27.4,
           "humidity": 80.7,
           "sunshineHours": 8,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -107,7 +100,6 @@
           "rainyDays": 26.6,
           "humidity": 81,
           "sunshineHours": 8.2,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -118,7 +110,6 @@
           "rainyDays": 28,
           "humidity": 84,
           "sunshineHours": 7.6,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -129,7 +120,6 @@
           "rainyDays": 21.8,
           "humidity": 83.1,
           "sunshineHours": 8.3,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -140,7 +130,6 @@
           "rainyDays": 11.2,
           "humidity": 74.2,
           "sunshineHours": 9.8,
-          "uvIndex": 0,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -151,7 +140,6 @@
           "rainyDays": 4,
           "humidity": 62.6,
           "sunshineHours": 10.4,
-          "uvIndex": 0,
           "weatherSummary": "따뜻하고 쾌청"
         }
       ]
@@ -175,7 +163,6 @@
           "rainyDays": 5.7,
           "humidity": 67.5,
           "sunshineHours": 10.7,
-          "uvIndex": 0,
           "weatherSummary": "쾌청"
         },
         {
@@ -186,7 +173,6 @@
           "rainyDays": 2.5,
           "humidity": 59.4,
           "sunshineHours": 10.7,
-          "uvIndex": 0,
           "weatherSummary": "쾌청"
         },
         {
@@ -197,7 +183,6 @@
           "rainyDays": 2.8,
           "humidity": 50.9,
           "sunshineHours": 10.7,
-          "uvIndex": 0,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -208,7 +193,6 @@
           "rainyDays": 8,
           "humidity": 55.1,
           "sunshineHours": 10.8,
-          "uvIndex": 0,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -219,7 +203,6 @@
           "rainyDays": 21,
           "humidity": 70.7,
           "sunshineHours": 10.7,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -230,7 +213,6 @@
           "rainyDays": 27.4,
           "humidity": 79.5,
           "sunshineHours": 9.5,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -241,7 +223,6 @@
           "rainyDays": 28.4,
           "humidity": 83.9,
           "sunshineHours": 9.3,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -252,7 +233,6 @@
           "rainyDays": 30.2,
           "humidity": 86.6,
           "sunshineHours": 7.7,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -263,7 +243,6 @@
           "rainyDays": 26.4,
           "humidity": 86.6,
           "sunshineHours": 8.6,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -274,7 +253,6 @@
           "rainyDays": 19,
           "humidity": 83.9,
           "sunshineHours": 9.6,
-          "uvIndex": 0,
           "weatherSummary": "우기"
         },
         {
@@ -285,7 +263,6 @@
           "rainyDays": 9.2,
           "humidity": 79,
           "sunshineHours": 10.4,
-          "uvIndex": 0,
           "weatherSummary": "쾌청"
         },
         {
@@ -296,7 +273,6 @@
           "rainyDays": 3,
           "humidity": 74.1,
           "sunshineHours": 10.6,
-          "uvIndex": 0,
           "weatherSummary": "쾌청"
         }
       ]
@@ -320,7 +296,7 @@
           "rainyDays": 11.3,
           "humidity": 77.3,
           "sunshineHours": 10.7,
-          "uvIndex": 0,
+          "seaTemp": 29.3,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -331,7 +307,7 @@
           "rainyDays": 8.8,
           "humidity": 73.7,
           "sunshineHours": 10.8,
-          "uvIndex": 0,
+          "seaTemp": 29.7,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -342,7 +318,7 @@
           "rainyDays": 10.6,
           "humidity": 74.2,
           "sunshineHours": 10.9,
-          "uvIndex": 0,
+          "seaTemp": 30.3,
           "weatherSummary": "따뜻하고 쾌청"
         },
         {
@@ -353,7 +329,7 @@
           "rainyDays": 18,
           "humidity": 78.9,
           "sunshineHours": 10.7,
-          "uvIndex": 0,
+          "seaTemp": 31.4,
           "weatherSummary": "습하고 비 잦음"
         },
         {
@@ -364,7 +340,7 @@
           "rainyDays": 25.8,
           "humidity": 83.7,
           "sunshineHours": 9.5,
-          "uvIndex": 0,
+          "seaTemp": 31.9,
           "weatherSummary": "우기"
         },
         {
@@ -375,7 +351,7 @@
           "rainyDays": 23.2,
           "humidity": 83.3,
           "sunshineHours": 9.3,
-          "uvIndex": 0,
+          "seaTemp": 30.8,
           "weatherSummary": "습하고 비 잦음"
         },
         {
@@ -386,7 +362,7 @@
           "rainyDays": 23.8,
           "humidity": 84.5,
           "sunshineHours": 8.6,
-          "uvIndex": 0,
+          "seaTemp": 30.4,
           "weatherSummary": "우기"
         },
         {
@@ -397,7 +373,7 @@
           "rainyDays": 23,
           "humidity": 83.8,
           "sunshineHours": 9.2,
-          "uvIndex": 0,
+          "seaTemp": 30.4,
           "weatherSummary": "우기"
         },
         {
@@ -408,7 +384,7 @@
           "rainyDays": 25,
           "humidity": 86.1,
           "sunshineHours": 8.2,
-          "uvIndex": 0,
+          "seaTemp": 29.8,
           "weatherSummary": "우기"
         },
         {
@@ -419,7 +395,7 @@
           "rainyDays": 28,
           "humidity": 88,
           "sunshineHours": 8.2,
-          "uvIndex": 0,
+          "seaTemp": 30.5,
           "weatherSummary": "우기"
         },
         {
@@ -430,7 +406,7 @@
           "rainyDays": 28,
           "humidity": 87.7,
           "sunshineHours": 8.1,
-          "uvIndex": 0,
+          "seaTemp": 30.3,
           "weatherSummary": "우기"
         },
         {
@@ -441,7 +417,7 @@
           "rainyDays": 18.2,
           "humidity": 82.8,
           "sunshineHours": 9.4,
-          "uvIndex": 0,
+          "seaTemp": 29.4,
           "weatherSummary": "습하고 비 잦음"
         }
       ]

@@ -2,15 +2,63 @@
   "month": 4,
   "bestDestinations": [
     {
-      "regionId": "okinawa",
-      "category": "beach",
-      "reason": "평균 21°C의 쾌적한 기온, 풍부한 일조량",
+      "regionId": "paris",
+      "category": "culture",
+      "reason": "평균 11°C, 강수량 적음, 풍부한 일조량",
       "rating": 5
+    },
+    {
+      "regionId": "los-angeles",
+      "category": "city",
+      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "hawaii",
+      "category": "beach",
+      "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "tokyo",
+      "category": "city",
+      "reason": "평균 14°C, 풍부한 일조량",
+      "rating": 4
     },
     {
       "regionId": "osaka",
       "category": "culture",
       "reason": "평균 14°C, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "okinawa",
+      "category": "beach",
+      "reason": "평균 21°C의 쾌적한 기온, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "hokkaido",
+      "category": "adventure",
+      "reason": "평균 7°C, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "bangkok",
+      "category": "culture",
+      "reason": "평균 30°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "chiang-mai",
+      "category": "mountain",
+      "reason": "평균 30°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "phuket",
+      "category": "beach",
+      "reason": "평균 29°C의 온화한 날씨, 풍부한 일조량",
       "rating": 4
     },
     {
@@ -20,21 +68,24 @@
       "rating": 4
     },
     {
-      "regionId": "los-angeles",
+      "regionId": "new-york",
       "category": "city",
-      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "평균 11°C, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "sydney",
+      "category": "city",
+      "reason": "평균 18°C의 온화한 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "melbourne",
+      "category": "culture",
+      "reason": "평균 15°C, 강수량 적음, 풍부한 일조량",
       "rating": 4
     }
   ],
   "hiddenGems": [],
-  "avoidList": [
-    {
-      "regionId": "phuket",
-      "reason": "잦은 비(112mm)"
-    },
-    {
-      "regionId": "sydney",
-      "reason": "잦은 비(104mm)"
-    }
-  ]
+  "avoidList": []
 }
