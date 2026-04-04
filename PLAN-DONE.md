@@ -302,3 +302,34 @@
 | 04-04 | isoNumeric 누락 수정 (CountryDef + generate-data.ts 타입) |
 | 04-04 | [countryId]/page.tsx, [regionId]/page.tsx 하드코딩 import → fs 동적 로딩 전환 |
 | 04-04 | 빌드 성공 62/62 페이지 (26→62) |
+
+---
+
+## 데이터 파이프라인 개선 (2026-04-04 완료)
+
+- [x] `generate-data.ts`에 daily 데이터 생성 로직 통합 (기후 API 응답 하나로 monthly + daily 추출)
+- [x] daily 데이터를 현행 포맷(`daily/[regionId]/all.json`)으로 출력하도록 통합
+- [x] npm scripts 등록 (`npm run generate-data`)
+- [x] CLI 인자 파싱 (`--only japan,thailand` 형태로 특정 국가만 지정)
+- [x] 지정된 국가만 API 호출 + JSON 재생성, 나머지는 스킵
+- [x] countries.json(전체 인덱스)과 monthly-recommendations는 항상 전체 디스크 기준 재생성
+- [x] 불필요해진 개별 스크립트 정리 (`fetch-daily-data.ts`, `reorganize-daily-data.ts`, `combine-daily-data.ts`)
+- [x] 빌드 테스트 (`npm run build` 정상 확인)
+- [ ] 40지역 전체 daily 데이터 생성 실행 (API 일일 한도 소진으로 연기 → 별도 플랜 항목)
+
+### 핵심 결정
+- 기후 API 응답 하나로 monthly 집계 + daily 캘린더 동시 추출 (API 호출 절반 절감)
+- `--only` 모드에서도 인덱스/추천은 디스크 전체 파일 기준으로 재생성 (정합성 보장)
+- 리트라이: 8회, 지수 백오프 (15s~120s)
+- CountryCard에 15개국 국기 이모지 추가
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-04 | Phase 시작, 기존 스크립트 구조 분석 |
+| 04-04 | generate-data.ts 통합 (climate+daily+comments+recommendations) |
+| 04-04 | --only 옵션 구현, rebuildIndexAndRecommendations 디스크 기반 재생성 |
+| 04-04 | fetchClimateAndDailyData 통합 함수 (단일 API 호출로 monthly+daily 추출) |
+| 04-04 | 리트라이 로직 강화 (8회, 지수 백오프) |
+| 04-04 | 구 스크립트 3개 삭제, npm script 등록, 빌드 통과 |
+| 04-04 | CountryCard 국기 이모지 15개국 추가 |

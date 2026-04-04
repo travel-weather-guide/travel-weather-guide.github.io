@@ -312,7 +312,6 @@ interface RecommendedDestination {
 
 ### 플랜 작성 원칙
 
-- "프로토타입 우선" 당장 정말 필요한 것부터 만든다. 초반부터 오버엔지니어링 금지
 - 각 항목은 제목 없이 `- 한 줄` 로만 작성한다. 부가 정보 없음.
 - 구체적 구현 계획은 `/start-phase`로 시작한 뒤 PLAN-CURRENT.md에서 진행.
 - 완료 내용은 PLAN-DONW.md에서 관리한다.
