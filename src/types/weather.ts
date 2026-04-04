@@ -6,7 +6,6 @@ export interface MonthlyData {
   rainyDays: number;
   humidity: number;
   sunshineHours: number;
-  uvIndex: number;
   seaTemp?: number;
   weatherSummary: string;
 }

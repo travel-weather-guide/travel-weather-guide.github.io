@@ -5,7 +5,7 @@
 
 import { writeFileSync, mkdirSync } from 'fs';
 import { join } from 'path';
-import { countries } from './regions';
+import { countries, visaInfo } from './regions';
 import { fetchClimateData } from './fetch-climate-data';
 import { fetchCountryInfo } from './fetch-country-info';
 import { generateTravelComments } from './generate-travel-comments';
@@ -91,7 +91,12 @@ async function main() {
       });
 
       // 여행 코멘트 생성
-      const comments = generateTravelComments(regionDef.id, monthlyData);
+      const comments = generateTravelComments(
+        regionDef.id,
+        monthlyData,
+        regionDef.category ?? 'city',
+        regionDef.peakTourismMonths ?? []
+      );
       allComments.push(...comments);
 
       // 월별 추천 집계
@@ -120,7 +125,7 @@ async function main() {
       currency: info.currency,
       language: info.language,
       timezone: info.timezone,
-      visaInfo: '',
+      visaInfo: visaInfo[countryDef.id] || '',
       regions,
     };
 

@@ -7,6 +7,7 @@ import type { MonthlyData } from '../src/types';
 import type { RegionDef } from './regions';
 
 const BASE_URL = 'https://archive-api.open-meteo.com/v1/archive';
+const MARINE_BASE_URL = 'https://marine-api.open-meteo.com/v1/marine';
 const START_DATE = '2020-01-01';
 const END_DATE = '2024-12-31';
 
@@ -18,6 +19,13 @@ interface DailyResponse {
     precipitation_sum: (number | null)[];
     relative_humidity_2m_mean?: (number | null)[];
     sunshine_duration?: (number | null)[];
+  };
+}
+
+interface MarineResponse {
+  daily: {
+    time: string[];
+    sea_surface_temperature_max?: (number | null)[];
   };
 }
 
@@ -51,10 +59,69 @@ export async function fetchClimateData(region: RegionDef): Promise<MonthlyData[]
   }
 
   const data: DailyResponse = await res.json();
-  return aggregateMonthly(data);
+
+  // API 호출 간 딜레이 (rate limit 방지)
+  await new Promise((r) => setTimeout(r, 500));
+
+  // 해안 지역이면 해수온 데이터도 수집
+  const seaTempData = region.isCoastal ? await fetchSeaTemp(region.latitude, region.longitude) : null;
+
+  return aggregateMonthly(data, seaTempData);
 }
 
-function aggregateMonthly(data: DailyResponse): MonthlyData[] {
+async function fetchSeaTemp(lat: number, lon: number): Promise<Record<number, number>> {
+  const params = new URLSearchParams({
+    latitude: String(lat),
+    longitude: String(lon),
+    start_date: START_DATE,
+    end_date: END_DATE,
+    daily: 'sea_surface_temperature_max',
+    timezone: 'auto',
+  });
+
+  const url = `${MARINE_BASE_URL}?${params}`;
+  console.log(`  Fetching sea temperature data...`);
+
+  let res: Response | undefined;
+  for (let attempt = 0; attempt < 5; attempt++) {
+    res = await fetch(url);
+    if (res.ok) break;
+    if (res.status === 429) {
+      const wait = (attempt + 1) * 10000;
+      console.log(`    Rate limited (marine), waiting ${wait / 1000}s...`);
+      await new Promise((r) => setTimeout(r, wait));
+    } else {
+      console.warn(`    Marine API error: ${res.status} ${res.statusText}, skipping sea temp`);
+      return {};
+    }
+  }
+  if (!res || !res.ok) {
+    console.warn(`    Marine API failed after retries, skipping sea temp`);
+    return {};
+  }
+
+  const data: MarineResponse = await res.json();
+  const seaTemps = data.daily.sea_surface_temperature_max;
+  if (!seaTemps) return {};
+
+  const monthlySeaTemp: Record<number, number[]> = {};
+  for (let m = 1; m <= 12; m++) monthlySeaTemp[m] = [];
+
+  data.daily.time.forEach((date: string, i: number) => {
+    const month = parseInt(date.substring(5, 7));
+    const temp = seaTemps[i];
+    if (temp != null) monthlySeaTemp[month].push(temp);
+  });
+
+  const result: Record<number, number> = {};
+  for (let m = 1; m <= 12; m++) {
+    const arr = monthlySeaTemp[m];
+    result[m] = arr.length > 0 ? Math.round(avg(arr) * 10) / 10 : 0;
+  }
+  return result;
+}
+
+function aggregateMonthly(data: DailyResponse, seaTempData: Record<number, number> | null): MonthlyData[] {
   const { time, temperature_2m_max, temperature_2m_min, precipitation_sum, relative_humidity_2m_mean, sunshine_duration } = data.daily;
 
   // 월별 누적 데이터
@@ -113,7 +180,7 @@ function aggregateMonthly(data: DailyResponse): MonthlyData[] {
       rainyDays: round(avg(m.rainyDays)),
       humidity: round(avg(m.humidity)),
       sunshineHours: round(avg(m.sunshine)),
-      uvIndex: 0, // UV는 별도 API 필요, 후순위
+      seaTemp: seaTempData ? seaTempData[i + 1] : undefined,
       weatherSummary: '',
     };
   });
