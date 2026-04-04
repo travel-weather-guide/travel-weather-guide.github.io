@@ -30,7 +30,7 @@ function CustomTooltip({ active, payload, label }: { active?: boolean; payload?:
     <div className="rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm shadow-md">
       <p className="font-semibold text-gray-900">{label}</p>
       {temp && <p className="text-red-500">최고 {temp.value}°C</p>}
-      {tempLow && <p className="text-blue-500">최저 {tempLow.value}°C</p>}
+      {tempLow && <p className="text-gray-500">최저 {tempLow.value}°C</p>}
       {rain && <p className="text-sky-400">강수량 {rain.value}mm</p>}
     </div>
   );
@@ -110,7 +110,7 @@ export default function WeatherChart({ data }: WeatherChartProps) {
             type="monotone"
             dataKey="tempLow"
             name="최저기온"
-            stroke="#3b82f6"
+            stroke="#6b7280"
             strokeWidth={2}
             dot={{ r: 3, fill: '#3b82f6' }}
             activeDot={{ r: 5 }}

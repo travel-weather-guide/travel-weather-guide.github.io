@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import type { Region, TravelComment, MonthlyData } from '@/types';
+import type { Region, TravelComment } from '@/types';
+import { getBestMonths } from '@/utils/scoring';
 
 const MONTH_LABELS = ['1월','2월','3월','4월','5월','6월','7월','8월','9월','10월','11월','12월'];
 
@@ -10,21 +11,6 @@ const ratingConfig: Record<number, { label: string; color: string }> = {
   2: { label: '비추', color: 'bg-orange-100 text-orange-700' },
   1: { label: '부적합', color: 'bg-red-100 text-red-700' },
 };
-
-function getBestMonths(data: MonthlyData[]): number[] {
-  const scored = data.map((d) => {
-    const avgTemp = (d.tempHigh + d.tempLow) / 2;
-    let score = 0;
-    if (avgTemp >= 18 && avgTemp <= 28) score += 30;
-    else if (avgTemp >= 10 && avgTemp <= 35) score += 15;
-    if (d.rainfall < 50) score += 30;
-    else if (d.rainfall < 100) score += 20;
-    if (d.sunshineHours > 8) score += 20;
-    else if (d.sunshineHours > 5) score += 10;
-    return { month: d.month, score };
-  });
-  return [...scored].sort((a, b) => b.score - a.score).slice(0, 3).map((s) => s.month);
-}
 
 interface RegionListProps {
   countryId: string;
@@ -39,7 +25,11 @@ export default function RegionList({ countryId, regions, comments = [] }: Region
     <div className="grid gap-3 sm:grid-cols-2">
       {regions.map((region) => {
         const data = region.monthlyData[currentMonth - 1];
-        const bestMonths = getBestMonths(region.monthlyData);
+        const regionComments = comments.filter((c) => c.regionId === region.id);
+        const ratings = regionComments.length === 12
+          ? regionComments.sort((a, b) => a.month - b.month).map((c) => c.rating)
+          : undefined;
+        const bestMonths = getBestMonths(region.monthlyData, 3, ratings);
         const comment = comments.find(
           (c) => c.regionId === region.id && c.month === currentMonth
         );

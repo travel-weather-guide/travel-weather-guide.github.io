@@ -4,20 +4,21 @@ import dynamic from 'next/dynamic';
 
 const WorldMap = dynamic(() => import('./WorldMap'), { ssr: false });
 
-interface RegionMarker {
+export interface CountryMarker {
   id: string;
   name: string;
-  countryId: string;
+  flag: string;
   latitude: number;
   longitude: number;
 }
 
 interface MapViewProps {
-  regions: RegionMarker[];
+  countries: CountryMarker[];
   countryNames: Record<string, string>;
   focusFilter?: string;
+  boundPoints: [number, number][];
 }
 
-export default function MapView({ regions, countryNames, focusFilter }: MapViewProps) {
-  return <WorldMap regions={regions} countryNames={countryNames} focusFilter={focusFilter} />;
+export default function MapView({ countries, countryNames, focusFilter, boundPoints }: MapViewProps) {
+  return <WorldMap countries={countries} countryNames={countryNames} focusFilter={focusFilter} boundPoints={boundPoints} />;
 }

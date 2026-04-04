@@ -5,20 +5,6 @@ import { getAllCountryIds, getCountry } from '@/utils/data';
 
 const allCountries: Country[] = getAllCountryIds().map((id) => getCountry(id));
 
-const regions = allCountries.flatMap((country) =>
-  country.regions.map((r) => ({
-    id: r.id,
-    name: r.name.ko,
-    countryId: country.id,
-    latitude: r.latitude,
-    longitude: r.longitude,
-  })),
-);
-
-const countryNames: Record<string, string> = Object.fromEntries(
-  allCountries.map((c) => [c.id, c.name.ko]),
-);
-
 export default function CountryListPage() {
   return (
     <main className="mx-auto max-w-7xl px-4 py-6">
@@ -29,7 +15,7 @@ export default function CountryListPage() {
         <SearchBar />
       </div>
 
-      <CountryExplorer allCountries={allCountries} regions={regions} countryNames={countryNames} />
+      <CountryExplorer allCountries={allCountries} />
     </main>
   );
 }

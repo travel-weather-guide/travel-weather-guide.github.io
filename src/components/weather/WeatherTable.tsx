@@ -27,7 +27,7 @@ export default function WeatherTable({ data }: WeatherTableProps) {
             <tr key={d.month} className={i % 2 === 0 ? 'bg-gray-50' : ''}>
               <td className="px-2 py-2 font-medium text-gray-900">{MONTH_LABELS[i]}</td>
               <td className="px-2 py-2 text-red-500">{d.tempHigh}</td>
-              <td className="px-2 py-2 text-blue-500">{d.tempLow}</td>
+              <td className="px-2 py-2 text-gray-500">{d.tempLow}</td>
               <td className="px-2 py-2">{d.rainfall}</td>
               <td className="px-2 py-2">{d.rainyDays}</td>
               <td className="px-2 py-2">{d.humidity}</td>

@@ -4,23 +4,26 @@ import { useState, useMemo } from 'react';
 import ContinentFilter from '@/components/common/ContinentFilter';
 import CountryCard from '@/components/country/CountryCard';
 import MapView from '@/components/map/MapView';
+import type { CountryMarker } from '@/components/map/MapView';
 import type { Country, Continent } from '@/types';
 
-interface RegionMarker {
-  id: string;
-  name: string;
-  countryId: string;
-  latitude: number;
-  longitude: number;
+const ISO_CODES: Record<string, string> = {
+  japan: 'JP', thailand: 'TH', france: 'FR', usa: 'US', australia: 'AU',
+  vietnam: 'VN', philippines: 'PH', singapore: 'SG', indonesia: 'ID',
+  taiwan: 'TW', spain: 'ES', italy: 'IT', uk: 'GB', turkey: 'TR', greece: 'GR',
+};
+
+function toFlagEmoji(iso: string): string {
+  return [...iso.toUpperCase()]
+    .map((c) => String.fromCodePoint(0x1f1e6 + c.charCodeAt(0) - 65))
+    .join('');
 }
 
 interface CountryExplorerProps {
   allCountries: Country[];
-  regions: RegionMarker[];
-  countryNames: Record<string, string>;
 }
 
-export default function CountryExplorer({ allCountries, regions, countryNames }: CountryExplorerProps) {
+export default function CountryExplorer({ allCountries }: CountryExplorerProps) {
   const [filter, setFilter] = useState<Continent | 'all'>('all');
 
   const filteredCountries =
@@ -28,17 +31,36 @@ export default function CountryExplorer({ allCountries, regions, countryNames }:
       ? allCountries
       : allCountries.filter((c) => c.continent === filter);
 
-  const filteredRegions = useMemo(() => {
-    if (filter === 'all') return regions;
-    const countryIds = new Set(filteredCountries.map((c) => c.id));
-    return regions.filter((r) => countryIds.has(r.countryId));
-  }, [filter, filteredCountries, regions]);
+  const countryNames = useMemo(
+    () => Object.fromEntries(allCountries.map((c) => [c.id, c.name.ko])),
+    [allCountries],
+  );
+
+  const countryMarkers: CountryMarker[] = useMemo(() => {
+    return filteredCountries.map((c) => {
+      const avgLat = c.regions.reduce((s, r) => s + r.latitude, 0) / c.regions.length;
+      const avgLng = c.regions.reduce((s, r) => s + r.longitude, 0) / c.regions.length;
+      return {
+        id: c.id,
+        name: c.name.ko,
+        flag: toFlagEmoji(ISO_CODES[c.id] ?? 'XX'),
+        latitude: avgLat,
+        longitude: avgLng,
+      };
+    });
+  }, [filteredCountries]);
+
+  const boundPoints: [number, number][] = useMemo(() => {
+    return filteredCountries.flatMap((c) =>
+      c.regions.map((r): [number, number] => [r.latitude, r.longitude]),
+    );
+  }, [filteredCountries]);
 
   return (
     <div className="flex flex-col gap-6 lg:flex-row">
       {/* 좌측: 지도 */}
-      <div className="h-[400px] overflow-hidden rounded-xl border border-gray-200 lg:h-auto lg:w-1/2 lg:min-h-[600px]">
-        <MapView regions={filteredRegions} countryNames={countryNames} focusFilter={filter} />
+      <div className="h-[280px] overflow-hidden rounded-xl border border-gray-200 lg:h-[400px] lg:w-1/2">
+        <MapView countries={countryMarkers} countryNames={countryNames} focusFilter={filter} boundPoints={boundPoints} />
       </div>
 
       {/* 우측: 국가 리스트 */}

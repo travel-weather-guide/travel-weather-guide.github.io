@@ -24,8 +24,8 @@ interface RegionTabsProps {
 }
 
 const TABS = [
-  { id: 'overview', label: '월별 개요' },
   { id: 'calendar', label: '일별 캘린더' },
+  { id: 'overview', label: '월별 개요' },
   { id: 'guide', label: '여행 가이드' },
 ] as const;
 
@@ -34,7 +34,7 @@ type TabId = typeof TABS[number]['id'];
 const YEARS = [2024, 2023, 2022];
 
 export default function RegionTabs({ region, comments, dailyData }: RegionTabsProps) {
-  const [activeTab, setActiveTab] = useState<TabId>('overview');
+  const [activeTab, setActiveTab] = useState<TabId>('calendar');
   const currentMonth = new Date().getMonth() + 1;
   const [calendarMonth, setCalendarMonth] = useState(currentMonth);
   const [calendarYear, setCalendarYear] = useState(2024);
@@ -67,6 +67,7 @@ export default function RegionTabs({ region, comments, dailyData }: RegionTabsPr
         {activeTab === 'calendar' && (
           <CalendarTab
             dailyData={dailyData}
+            comments={comments}
             month={calendarMonth}
             year={calendarYear}
             onMonthChange={setCalendarMonth}
@@ -88,7 +89,7 @@ export default function RegionTabs({ region, comments, dailyData }: RegionTabsPr
 function OverviewTab({ region, comments }: { region: Region; comments: TravelComment[] }) {
   return (
     <div className="space-y-8">
-      <BestSeasonBadge data={region.monthlyData} />
+      <BestSeasonBadge data={region.monthlyData} ratings={comments.map((c) => c.rating)} />
       <WeatherChart data={region.monthlyData} />
       <WeatherTable data={region.monthlyData} />
       {comments.length > 0 && (
@@ -107,12 +108,14 @@ function OverviewTab({ region, comments }: { region: Region; comments: TravelCom
 
 function CalendarTab({
   dailyData,
+  comments,
   month,
   year,
   onMonthChange,
   onYearChange,
 }: {
   dailyData: Record<number, RegionDailyMonth>;
+  comments: TravelComment[];
   month: number;
   year: number;
   onMonthChange: (m: number) => void;
@@ -120,6 +123,16 @@ function CalendarTab({
 }) {
   const monthData = dailyData[month];
   const days = (monthData?.years[String(year)] ?? []) as DayData[];
+  const comment = comments.find((c) => c.month === month);
+
+  const ratingColors: Record<number, string> = {
+    5: 'bg-green-100 text-green-700',
+    4: 'bg-sky-100 text-sky-700',
+    3: 'bg-yellow-100 text-yellow-700',
+    2: 'bg-orange-100 text-orange-700',
+    1: 'bg-red-100 text-red-700',
+  };
+  const ratingLabels: Record<number, string> = {5:'최적',4:'좋음',3:'보통',2:'비추',1:'부적합'};
 
   return (
     <div className="space-y-4">
@@ -143,7 +156,12 @@ function CalendarTab({
 
       {days.length > 0 ? (
         <>
-          <DailyCalendar days={days} month={month} year={year} />
+          <DailyCalendar
+            days={days}
+            month={month}
+            year={year}
+            commentBadge={comment ? { rating: comment.rating, summary: comment.summary } : undefined}
+          />
           {monthData && (
             <div className="mt-8">
               <h3 className="mb-3 text-sm font-semibold tracking-wide text-gray-500">연도별 비교</h3>
