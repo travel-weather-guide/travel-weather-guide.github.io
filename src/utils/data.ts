@@ -1,4 +1,6 @@
 import type { Country } from '@/types';
+import type { LocalizedString, LocalizedStringArray } from '@/types';
+import type { Locale } from '@/contexts/LocaleContext';
 import countrySummaries from '@/data/countries.json';
 
 export function getCountrySummaries() {
@@ -23,4 +25,20 @@ export function getAllRegionParams(): { countryId: string; regionId: string }[] 
     }
   }
   return params;
+}
+
+export function resolveLocalizedString(
+  value: LocalizedString,
+  locale: Locale,
+): string {
+  if (typeof value === 'string') return value;
+  return value[locale] ?? value.en ?? value.ko;
+}
+
+export function resolveLocalizedStringArray(
+  value: LocalizedStringArray,
+  locale: Locale,
+): string[] {
+  if (Array.isArray(value)) return value;
+  return value[locale] ?? value.en ?? value.ko;
 }

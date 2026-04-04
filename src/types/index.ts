@@ -5,3 +5,11 @@ export type {
   MonthlyRecommendation,
   RecommendedDestination,
 } from './travel';
+
+export type LocalizedString =
+  | string
+  | { ko: string; en: string; ja?: string; zh?: string };
+
+export type LocalizedStringArray =
+  | string[]
+  | { ko: string[]; en: string[]; ja?: string[]; zh?: string[] };

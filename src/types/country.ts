@@ -8,7 +8,7 @@ export type Continent =
 
 export interface Country {
   id: string;
-  name: { ko: string; en: string };
+  name: { ko: string; en: string; ja?: string; zh?: string };
   continent: Continent;
   capital: string;
   currency: string;
@@ -21,10 +21,10 @@ export interface Country {
 
 export interface Region {
   id: string;
-  name: { ko: string; en: string };
+  name: { ko: string; en: string; ja?: string; zh?: string };
   countryId: string;
   latitude: number;
   longitude: number;
-  climateType: string;
+  climateType: string | { ko: string; en: string; ja?: string; zh?: string };
   monthlyData: import('./weather').MonthlyData[];
 }

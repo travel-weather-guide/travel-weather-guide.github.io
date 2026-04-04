@@ -7,5 +7,5 @@ export interface MonthlyData {
   humidity: number;
   sunshineHours: number;
   seaTemp?: number;
-  weatherSummary: string;
+  weatherSummary: string | { ko: string; en: string; ja?: string; zh?: string };
 }
