@@ -250,3 +250,23 @@
 | 04-04 | 1차: generateMetadata(국가+지역), sitemap+robots, 홈 SSR 전환 |
 | 04-04 | 2차: metadataBase, title template, canonical, /country SSR 전환, JSON-LD |
 | 04-04 | 최종 빌드 성공 — 전 페이지 Static/SSG 확인 |
+
+---
+
+## import 하드코딩 → 동적 구조 전환 (2026-04-04 완료)
+
+- [x] `countries.json`에 `isoNumeric` 필드 추가 (5개국)
+- [x] `countryMapping.ts` → `countries.json` 기반 동적 생성으로 교체
+- [x] `sitemap.ts` → `getAllCountryIds()` + `getCountry()` 동적 로딩으로 교체
+- [x] `country/page.tsx` → 동적 로딩으로 교체
+- [x] 빌드 확인
+
+### 핵심 결정
+- 국가 추가 시 `countries.json` + `countries/{id}.json` 2파일만 추가하면 sitemap/지도/국가목록 자동 반영
+- `isoNumeric` (ISO 3166-1 숫자코드)을 `countries.json` 인덱스에서 관리 → 세계지도 클릭 연동 단일 소스
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-04 | countries.json isoNumeric 추가, countryMapping.ts 동적 생성 전환 |
+| 04-04 | sitemap.ts / country/page.tsx 정적 import 제거, 빌드 성공 확인 |

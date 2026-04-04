@@ -301,6 +301,15 @@ interface RecommendedDestination {
 - 한국어 기본, 추후 i18n 확장 고려
 - Leaflet 컴포넌트는 반드시 `dynamic(() => import(...), { ssr: false })` 사용
 
+### 국가 추가 방법
+
+새 국가 추가 시 2개 파일만 추가하면 sitemap, 지도, 국가 목록에 자동 반영된다:
+
+1. `src/data/countries.json` — 인덱스에 항목 추가 (`id`, `name`, `continent`, `regionCount`, `isoNumeric` 필드 필수)
+2. `src/data/countries/{id}.json` — 국가 상세 데이터 (regions 포함)
+
+`isoNumeric`은 ISO 3166-1 숫자 코드 (예: japan=`"392"`). 세계지도 국가 클릭 연동에 사용됨.
+
 ### 플랜 작성 원칙
 
 - "프로토타입 우선" 당장 정말 필요한 것부터 만든다. 초반부터 오버엔지니어링 금지
