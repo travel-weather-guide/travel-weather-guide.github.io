@@ -75,3 +75,32 @@
 | 2026-04-04 | WorldMap.tsx 생성 (GeoJSON 국가 경계 + CircleMarker 지역 표시) |
 | 2026-04-04 | MapView.tsx 래퍼 생성 (Next.js 16 Server Component에서 ssr:false 불가 대응) |
 | 2026-04-04 | /map/page.tsx 생성 + 빌드 성공 확인 |
+
+---
+
+## 월별 추천 페이지 (2026-04-04 완료)
+
+- [x] regions.ts에 category 필드 추가 (beach/city/culture 등 실제 분류)
+- [x] generate-data.ts 추천 로직 개선 (임계값 기반 + reason 구체화)
+- [x] avoidList reason에 날씨 구체 사유 포함 (강수량·기온 등)
+- [x] 데이터 부족 시 fallback UI (추천 0건일 때 빈 느낌 방지)
+- [x] 홈페이지 UI에 카테고리 표시 추가
+- [x] 빌드 + 화면 확인
+
+### 핵심 결정
+- 추천: rating>=4 (임계값), 비추천: rating<=2. TOP N 고정 순위 방식 폐기
+- 카테고리: regions.ts에 직접 매핑 (guessCategory 제거)
+- reason: 기온·강수량·일조량 기반 구체적 문장 자동 생성
+- hiddenGems: 14개 지역에서 무의미, 지역 50개 이상 시 재도입 예정
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-04 | regions.ts에 14개 지역 category 필드 추가 (beach/city/culture/mountain/adventure) |
+| 04-04 | generate-data.ts: guessCategory 제거, regionDef.category 직접 사용 |
+| 04-04 | 추천 로직 임계값 기반으로 전환 (rating>=4 추천, <=2 비추천) |
+| 04-04 | generateRecommendReason/generateAvoidReason 함수 추가 |
+| 04-04 | 빌드 스크립트 실행, 12개월 추천 JSON 재생성 확인 |
+| 04-04 | DestinationCard에 category prop + 카테고리 라벨 표시 추가 |
+| 04-04 | 홈페이지에 빈 상태 fallback UI 추가 |
+| 04-04 | 빌드 성공 확인 |
