@@ -46,7 +46,7 @@ export default function DailyCalendar({ days, month, year }: DailyCalendarProps)
           <div className="flex flex-wrap items-center gap-x-4 gap-y-1 rounded-lg bg-gray-50 px-4 py-2 text-sm">
             <span className="font-semibold text-gray-800">{month}/{hoveredDay.day}</span>
             <span>최고 <b className="text-rose-400">{hoveredDay.tempHigh}°</b></span>
-            <span>��저 <b className="text-blue-400">{hoveredDay.tempLow}°</b></span>
+            <span>최저 <b className="text-blue-400">{hoveredDay.tempLow}°</b></span>
             <span>강수 <b className="text-sky-500">{hoveredDay.rainfall}mm</b></span>
             <span>습도 <b className="text-teal-500">{hoveredDay.humidity}%</b></span>
           </div>
@@ -60,7 +60,7 @@ export default function DailyCalendar({ days, month, year }: DailyCalendarProps)
         <span className="font-medium text-gray-500">배경색 = 평균기온</span>
         {[
           { label: '더움 25°+', bg: 'bg-[#fff0f0]' },
-          { label: '온화 15~25��', bg: 'bg-white border' },
+          { label: '온화 15~25°', bg: 'bg-white border' },
           { label: '선선 5~15°', bg: 'bg-[#eef8f5]' },
           { label: '추움 5°↓', bg: 'bg-[#edf3fb]' },
         ].map((item) => (
@@ -85,7 +85,7 @@ export default function DailyCalendar({ days, month, year }: DailyCalendarProps)
         ))}
       </div>
 
-      {/* 캘린더 그리�� */}
+      {/* 캘린더 그리드 */}
       <div className="grid grid-cols-7 gap-px overflow-hidden rounded-xl border border-gray-200 bg-gray-200">
         {cells.map((cell, i) => {
           if (!cell) {
