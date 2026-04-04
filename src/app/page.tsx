@@ -1,11 +1,8 @@
-'use client';
-
-import { useState } from 'react';
-import MonthSelector from '@/components/common/MonthSelector';
-import DestinationCard from '@/components/common/DestinationCard';
+import type { Metadata } from 'next';
 import SearchBar from '@/components/common/SearchBar';
+import HomeContent from '@/components/home/HomeContent';
+import type { MonthlyRecommendation, Country } from '@/types';
 
-// 정적 JSON import
 import rec1 from '@/data/monthly-recommendations/1.json';
 import rec2 from '@/data/monthly-recommendations/2.json';
 import rec3 from '@/data/monthly-recommendations/3.json';
@@ -25,28 +22,37 @@ import franceData from '@/data/countries/france.json';
 import usaData from '@/data/countries/usa.json';
 import australiaData from '@/data/countries/australia.json';
 
-const recommendations = [rec1, rec2, rec3, rec4, rec5, rec6, rec7, rec8, rec9, rec10, rec11, rec12];
+export const metadata: Metadata = {
+  description:
+    '전세계 여행지의 월별 날씨와 여행 적합도를 한눈에 확인하세요. 이번 달 추천 여행지, 월별 기온·강수량, 베스트 시즌 정보.',
+  alternates: { canonical: '/' },
+};
 
-const allCountries = [japanData, thailandData, franceData, usaData, australiaData];
+const recommendations = [
+  rec1, rec2, rec3, rec4, rec5, rec6,
+  rec7, rec8, rec9, rec10, rec11, rec12,
+] as unknown as MonthlyRecommendation[];
 
-function findRegion(regionId: string) {
-  for (const country of allCountries) {
-    for (const region of country.regions) {
-      if (region.id === regionId) {
-        return { country, region };
-      }
-    }
-  }
-  return null;
-}
+const allCountries = [
+  japanData, thailandData, franceData, usaData, australiaData,
+] as unknown as Country[];
 
 export default function Home() {
-  const [month, setMonth] = useState(new Date().getMonth() + 1);
-  const rec = recommendations[month - 1];
-
   return (
     <main className="mx-auto max-w-6xl px-4 py-8">
-      {/* 히어로 */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'WebSite',
+            name: 'Travel Weather',
+            url: 'https://travel-weather.pages.dev',
+            description: '전세계 여행지의 월별 날씨와 여행 적합도를 한눈에 확인하세요.',
+            inLanguage: 'ko',
+          }),
+        }}
+      />
       <section className="mb-8 text-center">
         <h1 className="text-3xl font-bold text-gray-900 md:text-4xl">
           여행하기 좋은 날씨, 한눈에
@@ -56,79 +62,11 @@ export default function Home() {
         </p>
       </section>
 
-      {/* 검색바 */}
       <section className="mb-6">
         <SearchBar />
       </section>
 
-      {/* 월 선택 */}
-      <section className="mb-8">
-        <MonthSelector selected={month} onChange={setMonth} />
-      </section>
-
-      {/* 추천 목적지 */}
-      <section>
-        <h2 className="mb-4 text-xl font-bold text-gray-900">
-          {month}월 추천 여행지
-        </h2>
-        {rec.bestDestinations.length > 0 ? (
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {rec.bestDestinations.map((dest) => {
-              const found = findRegion(dest.regionId);
-              if (!found) return null;
-              const monthData = found.region.monthlyData[month - 1];
-              return (
-                <DestinationCard
-                  key={dest.regionId}
-                  regionId={dest.regionId}
-                  countryId={found.country.id}
-                  regionName={`${found.region.name.ko} (${found.country.name.ko})`}
-                  rating={dest.rating}
-                  reason={dest.reason}
-                  category={dest.category}
-                  tempHigh={monthData?.tempHigh}
-                  tempLow={monthData?.tempLow}
-                  weatherSummary={monthData?.weatherSummary}
-                />
-              );
-            })}
-          </div>
-        ) : (
-          <div className="rounded-xl border border-dashed border-gray-300 bg-gray-50 p-8 text-center">
-            <p className="text-gray-500">{month}월에 특별히 추천할 여행지가 없습니다</p>
-            <p className="mt-1 text-sm text-gray-400">다른 월을 선택해 보세요</p>
-          </div>
-        )}
-      </section>
-
-      {/* 비추천 */}
-      {rec.avoidList.length > 0 && (
-        <section className="mt-10">
-          <h2 className="mb-4 text-xl font-bold text-gray-900">
-            {month}월 피하면 좋은 곳
-          </h2>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {rec.avoidList.map((item) => {
-              const found = findRegion(item.regionId);
-              if (!found) return null;
-              const monthData = found.region.monthlyData[month - 1];
-              return (
-                <DestinationCard
-                  key={item.regionId}
-                  regionId={item.regionId}
-                  countryId={found.country.id}
-                  regionName={`${found.region.name.ko} (${found.country.name.ko})`}
-                  rating={2}
-                  reason={item.reason}
-                  tempHigh={monthData?.tempHigh}
-                  tempLow={monthData?.tempLow}
-                  weatherSummary={monthData?.weatherSummary}
-                />
-              );
-            })}
-          </div>
-        </section>
-      )}
+      <HomeContent recommendations={recommendations} allCountries={allCountries} />
     </main>
   );
 }

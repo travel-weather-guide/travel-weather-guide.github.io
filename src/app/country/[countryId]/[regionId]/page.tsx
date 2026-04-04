@@ -1,4 +1,5 @@
 import { notFound } from 'next/navigation';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import RegionTabs from '@/components/region/RegionTabs';
 import type { Country, TravelComment } from '@/types';
@@ -75,6 +76,33 @@ function getAllRegionParams() {
   return params;
 }
 
+export async function generateMetadata({ params }: { params: Promise<{ countryId: string; regionId: string }> }): Promise<Metadata> {
+  const { countryId, regionId } = await params;
+  const country = countryMap[countryId];
+  const region = country?.regions.find((r) => r.id === regionId);
+  if (!country || !region) return {};
+
+  const comments = commentsMap[countryId]?.filter(c => c.regionId === regionId) ?? [];
+  const bestMonths = comments
+    .filter(c => c.rating >= 4)
+    .map(c => `${c.month}월`)
+    .join(', ');
+
+  const description = bestMonths
+    ? `${region.name.ko}(${region.name.en})의 월별 날씨와 여행 가이드. 베스트 시즌: ${bestMonths}. ${region.climateType} 기후.`
+    : `${region.name.ko}(${region.name.en})의 월별 기온, 강수량, 일별 캘린더, 여행 가이드. ${region.climateType} 기후.`;
+
+  return {
+    title: `${region.name.ko} 날씨 · 여행 가이드 - ${country.name.ko}`,
+    description,
+    openGraph: {
+      title: `${region.name.ko} 여행 날씨 - ${country.name.ko}`,
+      description,
+    },
+    alternates: { canonical: `/country/${countryId}/${regionId}` },
+  };
+}
+
 export function generateStaticParams() {
   return getAllRegionParams();
 }
@@ -98,6 +126,38 @@ export default async function RegionDetailPage({
 
   return (
     <main className="mx-auto max-w-4xl px-4 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify([
+            {
+              '@context': 'https://schema.org',
+              '@type': 'BreadcrumbList',
+              itemListElement: [
+                { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather.pages.dev' },
+                { '@type': 'ListItem', position: 2, name: '국가', item: 'https://travel-weather.pages.dev/country' },
+                { '@type': 'ListItem', position: 3, name: country.name.ko, item: `https://travel-weather.pages.dev/country/${countryId}` },
+                { '@type': 'ListItem', position: 4, name: region.name.ko, item: `https://travel-weather.pages.dev/country/${countryId}/${regionId}` },
+              ],
+            },
+            {
+              '@context': 'https://schema.org',
+              '@type': 'Place',
+              name: region.name.ko,
+              alternateName: region.name.en,
+              geo: {
+                '@type': 'GeoCoordinates',
+                latitude: region.latitude,
+                longitude: region.longitude,
+              },
+              containedInPlace: {
+                '@type': 'Country',
+                name: country.name.ko,
+              },
+            },
+          ]),
+        }}
+      />
       {/* 헤더 */}
       <Link href={`/country/${countryId}`} className="text-sm text-sky-500 hover:text-sky-600">
         ← {country.name.ko}
