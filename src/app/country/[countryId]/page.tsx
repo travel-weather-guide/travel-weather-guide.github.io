@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { readFileSync } from 'fs';
 import { join } from 'path';
@@ -33,6 +34,31 @@ export function generateStaticParams() {
   return getAllCountryIds().map((countryId) => ({ countryId }));
 }
 
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ countryId: string }>;
+}): Promise<Metadata> {
+  const { countryId } = await params;
+  const country = getCountry(countryId);
+  if (!country) return {};
+
+  const regionNamesKo = country.regions.slice(0, 3).map(r => r.name.ko).join(', ');
+
+  return {
+    title: `${country.name.ko}(${country.name.en}) 여행 날씨 가이드`,
+    description: `${country.name.ko}의 월별 날씨, 여행 적기, 베스트 시즌 정보. ${regionNamesKo} 등 ${country.regions.length}개 지역. Best time to visit ${country.name.en} — monthly weather guide.`,
+    alternates: {
+      canonical: `/country/${countryId}`,
+    },
+    openGraph: {
+      title: `${country.name.ko} 여행 날씨 가이드`,
+      description: `${country.name.ko}의 월별 날씨와 여행 적합도를 확인하세요.`,
+      images: [`/og/${countryId}.png`],
+    },
+  };
+}
+
 export default async function CountryDetailPage({
   params,
 }: {
@@ -49,15 +75,24 @@ export default async function CountryDetailPage({
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'BreadcrumbList',
-            itemListElement: [
-              { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather.pages.dev' },
-              { '@type': 'ListItem', position: 2, name: '국가', item: 'https://travel-weather.pages.dev/country' },
-              { '@type': 'ListItem', position: 3, name: country.name.ko, item: `https://travel-weather.pages.dev/country/${countryId}` },
-            ],
-          }),
+          __html: JSON.stringify([
+            {
+              '@context': 'https://schema.org',
+              '@type': 'BreadcrumbList',
+              itemListElement: [
+                { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather.pages.dev' },
+                { '@type': 'ListItem', position: 2, name: '국가', item: 'https://travel-weather.pages.dev/country' },
+                { '@type': 'ListItem', position: 3, name: country.name.ko, item: `https://travel-weather.pages.dev/country/${countryId}` },
+              ],
+            },
+            {
+              '@context': 'https://schema.org',
+              '@type': 'Country',
+              name: country.name.ko,
+              alternateName: [country.name.en, country.name.ja, country.name.zh].filter(Boolean),
+              url: `https://travel-weather.pages.dev/country/${countryId}`,
+            },
+          ]),
         }}
       />
       <CountryDetailContent country={country} comments={comments} countryId={countryId} />

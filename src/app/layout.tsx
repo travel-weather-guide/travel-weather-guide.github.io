@@ -29,7 +29,8 @@ export const metadata: Metadata = {
     default: 'Travel Weather - 여행하기 좋은 날씨, 한눈에',
     template: '%s | Travel Weather',
   },
-  description: '전세계 여행지의 월별 날씨와 여행 적합도를 한눈에 확인하세요. 월별 추천 여행지, 기온·강수량, 베스트 시즌 정보.',
+  description: '전세계 여행지의 월별 날씨와 여행 적합도를 한눈에 확인하세요. 월별 추천 여행지, 기온·강수량, 베스트 시즌 정보. Best time to visit — monthly weather guide for travelers.',
+  keywords: ['여행 날씨', '여행 적기', '월별 날씨', 'best time to visit', 'travel weather', '旅行天気', '旅行天气'],
   icons: {
     icon: [
       { url: '/favicon.svg', type: 'image/svg+xml' },
@@ -47,9 +48,6 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     images: ['/og-default.png'],
   },
-  alternates: {
-    canonical: '/',
-  },
 };
 
 export default function RootLayout({
@@ -59,6 +57,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko" className={`${notoSansKR.variable} ${notoSansJP.variable} ${notoSansSC.variable} h-full antialiased`}>
+      <head>
+        <link rel="dns-prefetch" href="https://flagcdn.com" />
+        <link rel="preconnect" href="https://flagcdn.com" crossOrigin="anonymous" />
+      </head>
       <body className="min-h-full flex flex-col font-sans">
         <Providers>
           <Header />
