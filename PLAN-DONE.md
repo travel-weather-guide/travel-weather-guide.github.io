@@ -172,6 +172,49 @@
 
 ---
 
+## 여행 코멘트 품질 교정 + 빈 데이터 필드 (2026-04-04 완료)
+
+### 1. 카테고리 체계 정의
+- [x] 전세계 여행지를 커버하는 카테고리 목록 확정 + 각 카테고리의 정의/기준 문서화 (7종: beach/city/culture/mountain/ski/adventure/nature)
+- [x] 카테고리별 점수 가중치 설계 (기온/강수/일조/습도/페널티 항목별 비중, 100점 만점)
+- [x] regions.ts의 category 필드 검증 + 필요시 수정 (14개 지역 전부 확인)
+- [x] peakTourismMonths 필드 추가 (지역별 관광 성수기)
+
+### 2. 점수 엔진 재설계
+- [x] calculateScore를 카테고리별 분기로 재작성
+- [x] 연속 점수 함수 도입 (3단계 계단 → 구간별 선형)
+- [x] 극한 기온 감점(penalty) 도입 (>42°C: -80%, >38°C: -50%, >35°C: -20%)
+- [x] 습도 점수 반영
+- [ ] 해변 카테고리: 해수온(seaTemp) 점수 반영 (데이터 수집만, 점수 미반영 — 지역 확장 후 재검토)
+- [x] peakMonths 하드코딩 → peakTourismMonths 지역별 참조
+
+### 3. 코멘트 콘텐츠 + 빈 데이터
+- [x] highlights 생성 로직 개선
+- [x] cautions 임계값 현실화
+- [x] events 생성 로직 (seasonOverrides 연동 완료)
+- [x] seasonOverrides 26개 데이터 추가
+- [x] visaInfo 5개국 데이터 추가
+- [x] seasonOverrides import 버그 수정 (require → import)
+- [x] uvIndex — 무료 API 제공 불가 → 필드 전체 제거
+- [x] seaTemp — Marine API 연동 완료 (오키나와 7월 30.5°C 등 정상 수집)
+
+### 4. 검증
+- [x] 데이터 재생성 (5개국 14개 지역 성공)
+- [x] 기후 유형 spot check — 도쿄 봄★4/여름★3, 방콕 건기★5/우기★3, 홋카이도 여름★5/겨울★2~3 확인
+- [x] "특별한 장점 없음" 비율 0% 확인
+- [x] 빌드 확인 (26/26 pages)
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-04 | Phase 시작, 자동생성 로직 분석 완료 |
+| 04-04 | highlights/cautions/events 로직 개선, seasonOverrides+visaInfo 데이터 추가 |
+| 04-04 | uvIndex(Open-Meteo)+seaTemp(Marine API) 수집 코드 추가 |
+| 04-04 | 전세계 적합성 검증 → 점수 엔진 구조적 결함 발견, 재설계 결정 |
+| 04-04 | 7카테고리 점수 엔진 완성, seaTemp 연동, uvIndex 제거, 데이터 재생성, spot check 통과 |
+
+---
+
 ## SEO (2026-04-04 완료)
 
 - [x] /country/[countryId] — generateMetadata (국가명 + 지역수 + 기본정보)
