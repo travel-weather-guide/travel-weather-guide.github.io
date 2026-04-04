@@ -15,6 +15,7 @@ export interface Country {
   language: string;
   timezone: string;
   visaInfo: string;
+  imageUrl?: string;
   regions: Region[];
 }
 

@@ -10,6 +10,7 @@
   "language": "Turkish",
   "timezone": "UTC+03:00",
   "visaInfo": "무비자 90일",
+  "imageUrl": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80",
   "regions": [
     {
       "id": "istanbul",

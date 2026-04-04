@@ -41,6 +41,7 @@ export async function generateMetadata({ params }: { params: Promise<{ countryId
     openGraph: {
       title: `${country.name.ko} 여행 날씨`,
       description: `${country.name.ko} ${country.regions.length}개 지역의 월별 기온, 강수량, 여행 적합도`,
+      images: [`/og/${countryId}.png`],
     },
     alternates: { canonical: `/country/${countryId}` },
   };

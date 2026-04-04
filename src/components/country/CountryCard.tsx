@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 
 const FLAG_EMOJI: Record<string, string> = {
@@ -23,10 +24,39 @@ interface CountryCardProps {
   name: { ko: string; en: string };
   continent: string;
   regionCount: number;
+  imageUrl?: string;
 }
 
-export default function CountryCard({ id, name, regionCount }: CountryCardProps) {
+export default function CountryCard({ id, name, regionCount, imageUrl }: CountryCardProps) {
   const flag = FLAG_EMOJI[id] ?? '';
+
+  if (imageUrl) {
+    return (
+      <Link
+        href={`/country/${id}`}
+        className="flex flex-col overflow-hidden rounded-xl border border-border bg-white transition-shadow hover:shadow-md"
+      >
+        <div className="relative h-40 w-full">
+          <Image
+            src={imageUrl}
+            alt={`${name.ko} 대표 이미지`}
+            fill
+            className="object-cover"
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+          />
+        </div>
+        <div className="flex items-center gap-3 p-4">
+          <span className="text-2xl">{flag}</span>
+          <div>
+            <h3 className="font-semibold text-gray-900">{name.ko}</h3>
+            <p className="text-sm text-gray-500">
+              {name.en} &middot; {regionCount}개 지역
+            </p>
+          </div>
+        </div>
+      </Link>
+    );
+  }
 
   return (
     <Link

@@ -57,27 +57,28 @@ export default function CountryExplorer({ allCountries }: CountryExplorerProps) 
   }, [filteredCountries]);
 
   return (
-    <div className="flex flex-col gap-6 lg:flex-row">
-      {/* 좌측: 지도 */}
-      <div className="h-[280px] overflow-hidden rounded-xl border border-gray-200 lg:h-[400px] lg:w-1/2">
-        <MapView countries={countryMarkers} countryNames={countryNames} focusFilter={filter} boundPoints={boundPoints} />
-      </div>
+    <div className="flex flex-col gap-4">
+      {/* 대륙 필터 (좌정렬) */}
+      <ContinentFilter selected={filter} onChange={setFilter} />
 
-      {/* 우측: 국가 리스트 */}
-      <div className="lg:w-1/2">
-        <div className="mb-4">
-          <ContinentFilter selected={filter} onChange={setFilter} />
+      {/* 지도 + 국가 리스트 */}
+      <div className="flex flex-col gap-6 lg:flex-row">
+        <div className="h-[280px] overflow-hidden rounded-xl border border-gray-200 lg:h-[400px] lg:w-1/2">
+          <MapView countries={countryMarkers} countryNames={countryNames} focusFilter={filter} boundPoints={boundPoints} />
         </div>
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
-          {filteredCountries.map((c) => (
-            <CountryCard
-              key={c.id}
-              id={c.id}
-              name={c.name}
-              continent={c.continent}
-              regionCount={c.regions.length}
-            />
-          ))}
+        <div className="lg:w-1/2">
+          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
+            {filteredCountries.map((c) => (
+              <CountryCard
+                key={c.id}
+                id={c.id}
+                name={c.name}
+                continent={c.continent}
+                regionCount={c.regions.length}
+                imageUrl={c.imageUrl}
+              />
+            ))}
+          </div>
         </div>
       </div>
     </div>

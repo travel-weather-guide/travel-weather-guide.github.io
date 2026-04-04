@@ -10,6 +10,7 @@
   "language": "Greek",
   "timezone": "UTC+02:00",
   "visaInfo": "무비자 90일 (쉥겐 지역)",
+  "imageUrl": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?auto=format&fit=crop&w=800&q=80",
   "regions": [
     {
       "id": "athens",

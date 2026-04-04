@@ -38,7 +38,8 @@ function FitBounds({ boundPoints, focusFilter }: { boundPoints: [number, number]
     }
     if (boundPoints.length === 0) return;
     const bounds = L.latLngBounds(boundPoints);
-    map.flyToBounds(bounds.pad(0.3), { duration: 0.8, maxZoom: 5 });
+    const pad = focusFilter === 'asia' ? 0.1 : 0.3;
+    map.flyToBounds(bounds.pad(pad), { duration: 0.8, maxZoom: 5 });
   }, [map, boundPoints, focusFilter]);
   return null;
 }

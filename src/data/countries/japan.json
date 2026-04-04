@@ -10,6 +10,7 @@
   "language": "Japanese",
   "timezone": "UTC+09:00",
   "visaInfo": "무비자 90일",
+  "imageUrl": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?auto=format&fit=crop&w=800&q=80",
   "regions": [
     {
       "id": "tokyo",

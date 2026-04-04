@@ -10,6 +10,7 @@
   "language": "Thai",
   "timezone": "UTC+07:00",
   "visaInfo": "무비자 90일",
+  "imageUrl": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?auto=format&fit=crop&w=800&q=80",
   "regions": [
     {
       "id": "bangkok",
