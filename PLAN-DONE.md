@@ -369,3 +369,30 @@
 | 04-04 | 리트라이 로직 강화 (8회, 지수 백오프) |
 | 04-04 | 구 스크립트 3개 삭제, npm script 등록, 빌드 통과 |
 | 04-04 | CountryCard 국기 이모지 15개국 추가 |
+
+---
+
+## 이미지 + 브랜딩 (2026-04-05 완료)
+
+- [x] favicon 제작 및 적용 (SVG + ICO + apple-touch-icon)
+- [x] 기본 OG 이미지 제작 (사이트 전체용 1200×630)
+- [x] layout.tsx에 OG 이미지 메타데이터 연결
+- [x] 국가/지역별 OG 이미지 전략 결정 및 구현 (빌드타임 생성, 대륙별 그라데이션)
+- [x] 국가/지역 대표 이미지 소싱 전략 결정 (Unsplash URL 외부 참조)
+- [x] 국가/지역 대표 이미지 적용 (카드 커버, 상세 페이지 히어로 배너)
+- [x] 커스텀 404 페이지 (not-found.tsx)
+- [x] 빌드 확인 및 메타데이터 검증
+
+### 핵심 결정
+- favicon: 태양+구름 SVG (sky-600), sharp로 ICO/apple-touch-icon 변환
+- OG 이미지: 빌드타임 생성 (sharp SVG→PNG), 대륙별 그라데이션 (asia=sky, europe=indigo, north-america=emerald, oceania=teal)
+- 국가 대표 이미지: Unsplash URL 외부 참조 (next/image 자동 최적화)
+- 404: 심플 안내 ("길을 잃으셨나요?") + 홈/탐색 링크
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-04 23:43 | favicon.svg, not-found.tsx, layout.tsx 메타데이터 |
+| 04-04 23:44 | sharp 설치, generate-images.ts, OG 이미지 16장 생성 |
+| 04-04 23:45 | Unsplash imageUrl 15개국 추가, CountryCard 이미지 카드, 국가 상세 히어로 배너 |
+| 04-04 23:46 | 빌드 성공 (61페이지) |
