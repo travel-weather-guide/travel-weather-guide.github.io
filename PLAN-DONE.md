@@ -396,3 +396,49 @@
 | 04-04 23:44 | sharp 설치, generate-images.ts, OG 이미지 16장 생성 |
 | 04-04 23:45 | Unsplash imageUrl 15개국 추가, CountryCard 이미지 카드, 국가 상세 히어로 배너 |
 | 04-04 23:46 | 빌드 성공 (61페이지) |
+
+---
+
+## 자동 다국어 지원 — 영어, 일본어, 중국어 (2026-04-05 완료)
+
+### 인프라
+- [x] 로케일 Context + Provider 생성 (`src/contexts/LocaleContext.tsx`)
+- [x] 브라우저 언어 자동 감지 + localStorage 저장 로직
+- [x] UI 번역 사전 파일 (`src/i18n/messages.ts` — 4개 언어 정적 문자열)
+
+### UI 번역
+- [x] 컴포넌트 한국어 하드코딩 → 번역 키 전환 (18개 컴포넌트)
+- [x] 페이지 서버/클라이언트 분리 (fs + useLocale 공존 문제 해결)
+- [x] layout.tsx 동적 lang 속성 + 로케일별 폰트 로딩 (Noto Sans JP, SC)
+
+### 데이터 다국어화
+- [x] 데이터 스키마에 `ja`, `zh` 필드 추가 (types 수정 완료)
+- [x] countries/regions name에 `ja`, `zh` 값 추가 (JSON 데이터)
+- [x] 여행 코멘트 다국어 데이터 생성 (travel-comments — en/ja/zh)
+- [x] 월별 추천 다국어 데이터 생성 (monthly-recommendations — en/ja/zh)
+- [x] 날씨 요약(weatherSummary) 다국어 매핑
+- [x] 기후 유형(climateType) 다국어 매핑
+- [x] 데이터 로딩 유틸(`src/utils/data.ts`) 로케일 파라미터 지원
+
+### 언어 전환 UI
+- [x] 헤더에 언어 선택 드롭다운 (🌐 아이콘 + 4개 언어)
+
+### 마무리
+- [x] 빌드 테스트 및 누락 번역 검증 (tsc 0 에러, 61/61 페이지 빌드 성공)
+
+### 접근 방식
+- URL/라우팅 변경 없음 — 동일 경로, 브라우저 언어 자동 감지 + 수동 전환
+- 언어 선호 localStorage에 저장, React Context로 전파
+- 데이터 JSON 자체에 4개 언어 내장 → 로케일 키로 접근
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 2026-04-05 | 플랜 시작, 프로젝트 i18n 현황 분석 완료 |
+| 2026-04-05 | 접근 방식 변경: URL 분리 → 동일 엔드포인트 + 데이터 내장 다국어 |
+| 2026-04-05 | 인프라 완료: LocaleContext, Providers, messages.ts, i18n/utils.ts |
+| 2026-04-05 | 컴포넌트 18개 + 페이지 5개 번역 전환 완료, 언어 선택 UI 추가 |
+| 2026-04-05 | 페이지 서버/클라이언트 분리로 빌드 에러 해결 (61페이지 빌드 성공) |
+| 2026-04-05 | 데이터 다국어화 완료: 15개 국가 + 15개 코멘트 + 12개 추천 파일 번역 |
+| 2026-04-05 | 폰트(Noto Sans JP/SC) + 동적 lang 속성 추가 |
+| 2026-04-05 | climateType/MONTH_LABELS/"일" 접미사 등 누락 한국어 수정, 최종 빌드 성공 |
