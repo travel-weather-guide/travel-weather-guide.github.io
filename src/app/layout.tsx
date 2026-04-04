@@ -17,13 +17,22 @@ export const metadata: Metadata = {
     template: '%s | Travel Weather',
   },
   description: '전세계 여행지의 월별 날씨와 여행 적합도를 한눈에 확인하세요. 월별 추천 여행지, 기온·강수량, 베스트 시즌 정보.',
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.ico' },
+    ],
+    apple: { url: '/apple-touch-icon.png', sizes: '180x180' },
+  },
   openGraph: {
     siteName: 'Travel Weather',
     locale: 'ko_KR',
     type: 'website',
+    images: [{ url: '/og-default.png', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
+    images: ['/og-default.png'],
   },
   alternates: {
     canonical: '/',
