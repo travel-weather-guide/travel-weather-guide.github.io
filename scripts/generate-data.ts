@@ -1,23 +1,28 @@
 /**
  * 데이터 파이프라인 통합 실행
  * Open-Meteo + REST Countries → src/data/에 JSON 출력
+ *
+ * Usage:
+ *   npx tsx scripts/generate-data.ts                       # 전체 생성
+ *   npx tsx scripts/generate-data.ts --only japan,thailand  # 특정 국가만
  */
 
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'fs';
 import { join } from 'path';
 import { countries, visaInfo } from './regions';
-import { fetchClimateData } from './fetch-climate-data';
+import { fetchClimateAndDailyData } from './fetch-climate-data';
 import { fetchCountryInfo } from './fetch-country-info';
 import { generateTravelComments } from './generate-travel-comments';
-import type { Country, MonthlyRecommendation } from '../src/types';
+import type { Country, MonthlyRecommendation, TravelComment } from '../src/types';
 
 const DATA_DIR = join(__dirname, '..', 'src', 'data');
 const COUNTRIES_DIR = join(DATA_DIR, 'countries');
 const COMMENTS_DIR = join(DATA_DIR, 'travel-comments');
 const RECOMMENDATIONS_DIR = join(DATA_DIR, 'monthly-recommendations');
+const DAILY_DIR = join(DATA_DIR, 'daily');
 
 function ensureDirs() {
-  for (const dir of [DATA_DIR, COUNTRIES_DIR, COMMENTS_DIR, RECOMMENDATIONS_DIR]) {
+  for (const dir of [DATA_DIR, COUNTRIES_DIR, COMMENTS_DIR, RECOMMENDATIONS_DIR, DAILY_DIR]) {
     mkdirSync(dir, { recursive: true });
   }
 }
@@ -27,9 +32,12 @@ function writeJSON(path: string, data: unknown) {
   console.log(`  ✓ ${path}`);
 }
 
-/** API 요청 간 딜레이 (rate limit 방지) */
 function delay(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function round(n: number): number {
+  return Math.round(n * 10) / 10;
 }
 
 function generateWeatherSummary(d: { tempHigh: number; tempLow: number; rainfall: number; humidity: number }): string {
@@ -45,9 +53,19 @@ function generateWeatherSummary(d: { tempHigh: number; tempLow: number; rainfall
   return '혹한';
 }
 
-async function main() {
-  console.log('=== Travel Weather 데이터 생성 시작 ===\n');
-  ensureDirs();
+// --- --only 파싱 ---
+
+function parseOnlyArg(): Set<string> | null {
+  const idx = process.argv.indexOf('--only');
+  if (idx === -1 || idx + 1 >= process.argv.length) return null;
+  const ids = process.argv[idx + 1].split(',').map((s) => s.trim()).filter(Boolean);
+  return new Set(ids);
+}
+
+// --- 디스크에서 인덱스/추천 재생성 ---
+
+function rebuildIndexAndRecommendations() {
+  console.log('\n[인덱스 + 월별 추천 재생성]');
 
   const countrySummaries: Array<{
     id: string;
@@ -57,58 +75,49 @@ async function main() {
     isoNumeric: string;
   }> = [];
 
-  // 월별 추천 집계용
-  const monthlyScores: Record<number, Array<{ regionId: string; countryId: string; regionName: { ko: string; en: string }; score: number; category: string; tempHigh: number; tempLow: number; rainfall: number; sunshineHours: number }>> = {};
+  const monthlyScores: Record<
+    number,
+    Array<{
+      regionId: string;
+      countryId: string;
+      regionName: { ko: string; en: string };
+      score: number;
+      category: string;
+      tempHigh: number;
+      tempLow: number;
+      rainfall: number;
+      sunshineHours: number;
+    }>
+  > = {};
   for (let m = 1; m <= 12; m++) monthlyScores[m] = [];
 
   for (const countryDef of countries) {
-    console.log(`\n[${countryDef.name.ko}] 처리 중...`);
+    const countryPath = join(COUNTRIES_DIR, `${countryDef.id}.json`);
+    const commentsPath = join(COMMENTS_DIR, `${countryDef.id}.json`);
+    if (!existsSync(countryPath)) continue;
 
-    // 국가 기본정보
-    const info = await fetchCountryInfo(countryDef.countryCode);
-    await delay(300);
+    const country: Country = JSON.parse(readFileSync(countryPath, 'utf-8'));
+    countrySummaries.push({
+      id: country.id,
+      name: country.name,
+      continent: country.continent,
+      regionCount: country.regions.length,
+      isoNumeric: countryDef.isoNumeric,
+    });
 
-    // 지역별 기후 데이터
-    const regions = [];
-    const allComments = [];
-
-    for (const regionDef of countryDef.regions) {
-      const monthlyData = await fetchClimateData(regionDef);
-      await delay(3000); // Open-Meteo rate limit 대비
-
-      // weatherSummary 채우기
-      for (const d of monthlyData) {
-        d.weatherSummary = generateWeatherSummary(d);
-      }
-
-      regions.push({
-        id: regionDef.id,
-        name: regionDef.name,
-        countryId: countryDef.id,
-        latitude: regionDef.latitude,
-        longitude: regionDef.longitude,
-        climateType: regionDef.climateType,
-        monthlyData,
-      });
-
-      // 여행 코멘트 생성
-      const comments = generateTravelComments(
-        regionDef.id,
-        monthlyData,
-        regionDef.category ?? 'city',
-        regionDef.peakTourismMonths ?? []
-      );
-      allComments.push(...comments);
-
-      // 월별 추천 집계
+    if (existsSync(commentsPath)) {
+      const comments: TravelComment[] = JSON.parse(readFileSync(commentsPath, 'utf-8'));
       for (const c of comments) {
-        const md = monthlyData[c.month - 1];
+        const region = country.regions.find((r) => r.id === c.regionId);
+        if (!region) continue;
+        const md = region.monthlyData[c.month - 1];
+        const regionDef = countryDef.regions.find((r) => r.id === c.regionId);
         monthlyScores[c.month].push({
-          regionId: regionDef.id,
-          countryId: countryDef.id,
-          regionName: regionDef.name,
+          regionId: c.regionId,
+          countryId: country.id,
+          regionName: region.name,
           score: c.rating,
-          category: regionDef.category,
+          category: regionDef?.category ?? 'city',
           tempHigh: md.tempHigh,
           tempLow: md.tempLow,
           rainfall: md.rainfall,
@@ -116,36 +125,10 @@ async function main() {
         });
       }
     }
-
-    // 국가 JSON 저장
-    const country: Country = {
-      id: countryDef.id,
-      name: countryDef.name,
-      continent: countryDef.continent,
-      capital: info.capital,
-      currency: info.currency,
-      language: info.language,
-      timezone: info.timezone,
-      visaInfo: visaInfo[countryDef.id] || '',
-      regions,
-    };
-
-    writeJSON(join(COUNTRIES_DIR, `${countryDef.id}.json`), country);
-    writeJSON(join(COMMENTS_DIR, `${countryDef.id}.json`), allComments);
-
-    countrySummaries.push({
-      id: countryDef.id,
-      name: countryDef.name,
-      continent: countryDef.continent,
-      regionCount: regions.length,
-      isoNumeric: countryDef.isoNumeric,
-    });
   }
 
-  // 전체 국가 목록
   writeJSON(join(DATA_DIR, 'countries.json'), countrySummaries);
 
-  // 월별 추천
   for (let m = 1; m <= 12; m++) {
     const sorted = monthlyScores[m].sort((a, b) => b.score - a.score);
     const recommended = sorted.filter((s) => s.score >= 4);
@@ -167,10 +150,102 @@ async function main() {
     writeJSON(join(RECOMMENDATIONS_DIR, `${m}.json`), recommendation);
   }
 
-  console.log(`\n=== 완료: ${countrySummaries.length}개국, ${countrySummaries.reduce((a, c) => a + c.regionCount, 0)}개 지역 ===`);
+  console.log(`  → ${countrySummaries.length}개국 인덱스 + 12개월 추천 재생성 완료`);
 }
 
-function generateRecommendReason(s: { regionName: { ko: string }; tempHigh: number; tempLow: number; rainfall: number; sunshineHours: number }): string {
+// --- main ---
+
+async function main() {
+  const onlySet = parseOnlyArg();
+  const targetCountries = onlySet ? countries.filter((c) => onlySet.has(c.id)) : countries;
+
+  if (onlySet) {
+    const found = targetCountries.map((c) => c.id);
+    const notFound = [...onlySet].filter((id) => !found.includes(id));
+    if (notFound.length) console.warn(`⚠ 알 수 없는 국가 ID: ${notFound.join(', ')}`);
+    console.log(`=== 선택 생성: ${found.join(', ')} (${found.length}개국) ===\n`);
+  } else {
+    console.log('=== Travel Weather 데이터 전체 생성 시작 ===\n');
+  }
+
+  ensureDirs();
+
+  for (const countryDef of targetCountries) {
+    console.log(`\n[${countryDef.name.ko}] 처리 중...`);
+
+    // 국가 기본정보
+    const info = await fetchCountryInfo(countryDef.countryCode);
+    await delay(300);
+
+    const regions = [];
+    const allComments = [];
+
+    for (const regionDef of countryDef.regions) {
+      // 1) 기후 + Daily 데이터 (단일 API 호출)
+      const { monthly: monthlyData, daily: dailyData } = await fetchClimateAndDailyData(regionDef);
+      await delay(3000);
+
+      for (const d of monthlyData) {
+        d.weatherSummary = generateWeatherSummary(d);
+      }
+
+      regions.push({
+        id: regionDef.id,
+        name: regionDef.name,
+        countryId: countryDef.id,
+        latitude: regionDef.latitude,
+        longitude: regionDef.longitude,
+        climateType: regionDef.climateType,
+        monthlyData,
+      });
+
+      // 2) 여행 코멘트
+      const comments = generateTravelComments(
+        regionDef.id,
+        monthlyData,
+        regionDef.category ?? 'city',
+        regionDef.peakTourismMonths ?? [],
+      );
+      allComments.push(...comments);
+
+      // 3) Daily 데이터 저장
+      const regionDailyDir = join(DAILY_DIR, regionDef.id);
+      mkdirSync(regionDailyDir, { recursive: true });
+      writeFileSync(join(regionDailyDir, 'all.json'), JSON.stringify(dailyData));
+      console.log(`  ✓ daily/${regionDef.id}/all.json`);
+    }
+
+    // 국가 JSON 저장
+    const country: Country = {
+      id: countryDef.id,
+      name: countryDef.name,
+      continent: countryDef.continent,
+      capital: info.capital,
+      currency: info.currency,
+      language: info.language,
+      timezone: info.timezone,
+      visaInfo: visaInfo[countryDef.id] || '',
+      regions,
+    };
+
+    writeJSON(join(COUNTRIES_DIR, `${countryDef.id}.json`), country);
+    writeJSON(join(COMMENTS_DIR, `${countryDef.id}.json`), allComments);
+  }
+
+  // 인덱스 + 추천: 항상 전체 디스크 기준으로 재생성
+  rebuildIndexAndRecommendations();
+
+  const total = targetCountries.reduce((a, c) => a + c.regions.length, 0);
+  console.log(`\n=== 완료: ${targetCountries.length}개국, ${total}개 지역 ===`);
+}
+
+function generateRecommendReason(s: {
+  regionName: { ko: string };
+  tempHigh: number;
+  tempLow: number;
+  rainfall: number;
+  sunshineHours: number;
+}): string {
   const parts: string[] = [];
   const avgTemp = (s.tempHigh + s.tempLow) / 2;
 
@@ -186,7 +261,13 @@ function generateRecommendReason(s: { regionName: { ko: string }; tempHigh: numb
   return parts.join(', ');
 }
 
-function generateAvoidReason(s: { regionName: { ko: string }; tempHigh: number; tempLow: number; rainfall: number; sunshineHours: number }): string {
+function generateAvoidReason(s: {
+  regionName: { ko: string };
+  tempHigh: number;
+  tempLow: number;
+  rainfall: number;
+  sunshineHours: number;
+}): string {
   const parts: string[] = [];
   const avgTemp = (s.tempHigh + s.tempLow) / 2;
 

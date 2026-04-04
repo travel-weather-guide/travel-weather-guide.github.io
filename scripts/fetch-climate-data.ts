@@ -29,7 +29,17 @@ interface MarineResponse {
   };
 }
 
-export async function fetchClimateData(region: RegionDef): Promise<MonthlyData[]> {
+export interface DailyCalendarEntry {
+  day: number;
+  tempHigh: number;
+  tempLow: number;
+  rainfall: number;
+  humidity: number;
+}
+
+export type DailyCalendarData = Record<number, { years: Record<number, DailyCalendarEntry[]> }>;
+
+async function fetchArchiveData(region: RegionDef): Promise<DailyResponse> {
   const params = new URLSearchParams({
     latitude: String(region.latitude),
     longitude: String(region.longitude),
@@ -43,12 +53,12 @@ export async function fetchClimateData(region: RegionDef): Promise<MonthlyData[]
   console.log(`  Fetching climate data for ${region.name.en}...`);
 
   let res: Response | undefined;
-  for (let attempt = 0; attempt < 5; attempt++) {
+  for (let attempt = 0; attempt < 8; attempt++) {
     res = await fetch(url);
     if (res.ok) break;
     if (res.status === 429) {
-      const wait = (attempt + 1) * 10000;
-      console.log(`    Rate limited, waiting ${wait / 1000}s...`);
+      const wait = Math.min(120_000, 15_000 * Math.pow(2, Math.min(attempt, 3)));
+      console.log(`    Rate limited, waiting ${Math.round(wait / 1000)}s... (attempt ${attempt + 1}/8)`);
       await new Promise((r) => setTimeout(r, wait));
     } else {
       throw new Error(`Open-Meteo API error: ${res.status} ${res.statusText}`);
@@ -58,15 +68,52 @@ export async function fetchClimateData(region: RegionDef): Promise<MonthlyData[]
     throw new Error(`Open-Meteo API failed after retries`);
   }
 
-  const data: DailyResponse = await res.json();
+  return res.json();
+}
 
-  // API 호출 간 딜레이 (rate limit 방지)
+function extractDailyCalendar(data: DailyResponse): DailyCalendarData {
+  const { time, temperature_2m_max, temperature_2m_min, precipitation_sum, relative_humidity_2m_mean } = data.daily;
+
+  const result: DailyCalendarData = {};
+  for (let m = 1; m <= 12; m++) result[m] = { years: {} };
+
+  for (let i = 0; i < time.length; i++) {
+    const date = time[i];
+    const year = parseInt(date.substring(0, 4));
+    if (year < 2022) continue; // daily 캘린더는 2022~2024만
+
+    const month = parseInt(date.substring(5, 7));
+    const day = parseInt(date.substring(8, 10));
+
+    if (!result[month].years[year]) result[month].years[year] = [];
+    result[month].years[year].push({
+      day,
+      tempHigh: round(temperature_2m_max[i] ?? 0),
+      tempLow: round(temperature_2m_min[i] ?? 0),
+      rainfall: round(precipitation_sum[i] ?? 0),
+      humidity: round(relative_humidity_2m_mean?.[i] ?? 0),
+    });
+  }
+
+  return result;
+}
+
+export async function fetchClimateData(region: RegionDef): Promise<MonthlyData[]> {
+  const data = await fetchArchiveData(region);
   await new Promise((r) => setTimeout(r, 500));
-
-  // 해안 지역이면 해수온 데이터도 수집
   const seaTempData = region.isCoastal ? await fetchSeaTemp(region.latitude, region.longitude) : null;
-
   return aggregateMonthly(data, seaTempData);
+}
+
+/** 단일 API 호출로 월별 집계 + 일별 캘린더 데이터를 함께 반환 */
+export async function fetchClimateAndDailyData(region: RegionDef): Promise<{ monthly: MonthlyData[]; daily: DailyCalendarData }> {
+  const data = await fetchArchiveData(region);
+  await new Promise((r) => setTimeout(r, 500));
+  const seaTempData = region.isCoastal ? await fetchSeaTemp(region.latitude, region.longitude) : null;
+  return {
+    monthly: aggregateMonthly(data, seaTempData),
+    daily: extractDailyCalendar(data),
+  };
 }
 
 async function fetchSeaTemp(lat: number, lon: number): Promise<Record<number, number>> {
@@ -83,12 +130,12 @@ async function fetchSeaTemp(lat: number, lon: number): Promise<Record<number, nu
   console.log(`  Fetching sea temperature data...`);
 
   let res: Response | undefined;
-  for (let attempt = 0; attempt < 5; attempt++) {
+  for (let attempt = 0; attempt < 8; attempt++) {
     res = await fetch(url);
     if (res.ok) break;
     if (res.status === 429) {
-      const wait = (attempt + 1) * 10000;
-      console.log(`    Rate limited (marine), waiting ${wait / 1000}s...`);
+      const wait = Math.min(120_000, 15_000 * Math.pow(2, Math.min(attempt, 3)));
+      console.log(`    Rate limited (marine), waiting ${Math.round(wait / 1000)}s... (attempt ${attempt + 1}/8)`);
       await new Promise((r) => setTimeout(r, wait));
     } else {
       console.warn(`    Marine API error: ${res.status} ${res.statusText}, skipping sea temp`);

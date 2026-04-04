@@ -6,6 +6,16 @@ const FLAG_EMOJI: Record<string, string> = {
   france: '\u{1F1EB}\u{1F1F7}',
   usa: '\u{1F1FA}\u{1F1F8}',
   australia: '\u{1F1E6}\u{1F1FA}',
+  vietnam: '\u{1F1FB}\u{1F1F3}',
+  philippines: '\u{1F1F5}\u{1F1ED}',
+  singapore: '\u{1F1F8}\u{1F1EC}',
+  indonesia: '\u{1F1EE}\u{1F1E9}',
+  taiwan: '\u{1F1F9}\u{1F1FC}',
+  spain: '\u{1F1EA}\u{1F1F8}',
+  italy: '\u{1F1EE}\u{1F1F9}',
+  uk: '\u{1F1EC}\u{1F1E7}',
+  turkey: '\u{1F1F9}\u{1F1F7}',
+  greece: '\u{1F1EC}\u{1F1F7}',
 };
 
 interface CountryCardProps {
