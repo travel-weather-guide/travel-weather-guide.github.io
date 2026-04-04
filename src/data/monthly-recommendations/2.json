@@ -4,25 +4,45 @@
     {
       "regionId": "chiang-mai",
       "category": "culture",
-      "reason": "건기 지속, 쾌적하지만 연무 시작될 수 있는 시기",
+      "reason": {
+        "ko": "건기 지속, 쾌적하지만 연무 시작될 수 있는 시기",
+        "en": "Dry season continues — pleasant but haze may begin to develop",
+        "ja": "乾季が続く、快適だがスモッグが始まる可能性がある時期",
+        "zh": "干季持续，舒适宜人，但烟雾可能开始出现"
+      },
       "rating": 5
     },
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": "고래 관찰 피크, 서핑 빅웨이브 시즌",
+      "reason": {
+        "ko": "고래 관찰 피크, 서핑 빅웨이브 시즌",
+        "en": "Whale watching peaks and big-wave surfing season",
+        "ja": "クジラ観察がピーク、ビッグウェーブサーフィンシーズン",
+        "zh": "观鲸高峰期，大浪冲浪季"
+      },
       "rating": 5
     },
     {
       "regionId": "ho-chi-minh",
       "category": "city",
-      "reason": "건기 절정, 가장 건조한 달",
+      "reason": {
+        "ko": "건기 절정, 가장 건조한 달",
+        "en": "Peak dry season — the driest month of the year",
+        "ja": "乾季の絶頂、最も乾燥した月",
+        "zh": "干季高峰，全年最干燥的月份"
+      },
       "rating": 5
     },
     {
       "regionId": "kaohsiung",
       "category": "city",
-      "reason": "건기, 봄 축제와 꽃시장",
+      "reason": {
+        "ko": "건기, 봄 축제와 꽃시장",
+        "en": "Dry season — spring festivals and flower markets in full swing",
+        "ja": "乾季、春祭りと花市場",
+        "zh": "干季，春节庆典与花市热闹非凡"
+      },
       "rating": 5
     }
   ],
@@ -30,70 +50,140 @@
     {
       "regionId": "da-nang",
       "category": "beach",
-      "reason": "건기 시작, 날씨가 좋아지는 시기",
+      "reason": {
+        "ko": "건기 시작, 날씨가 좋아지는 시기",
+        "en": "Dry season begins — the weather is improving day by day",
+        "ja": "乾季の始まり、天気が良くなり始める時期",
+        "zh": "干季开始，天气日渐好转"
+      },
       "rating": 4
     },
     {
       "regionId": "los-angeles",
       "category": "city",
-      "reason": "겨울비가 가끔 오지만 대체로 맑은 날씨",
+      "reason": {
+        "ko": "겨울비가 가끔 오지만 대체로 맑은 날씨",
+        "en": "Occasional winter rain but mostly sunny — Oscar season adds glamour",
+        "ja": "時々冬雨が降るが概ね晴れ、アカデミー賞シーズンでグラマラス",
+        "zh": "偶有冬雨但以晴天为主，奥斯卡季令城市熠熠生辉"
+      },
       "rating": 4
     },
     {
       "regionId": "manila",
       "category": "city",
-      "reason": "건기 절정, 쾌적한 날씨와 축제 시즌",
+      "reason": {
+        "ko": "건기 절정, 쾌적한 날씨와 축제 시즌",
+        "en": "Peak dry season — pleasant weather and festival season",
+        "ja": "乾季の絶頂、快適な天気と祭りシーズン",
+        "zh": "干季高峰，天气宜人，节庆季节"
+      },
       "rating": 4
     },
     {
       "regionId": "melbourne",
       "category": "culture",
-      "reason": "여름 지속, 해변과 야외 바 시즌",
+      "reason": {
+        "ko": "여름 지속, 해변과 야외 바 시즌",
+        "en": "Summer continues — beach and rooftop bar season",
+        "ja": "夏が続く、ビーチと屋外バーシーズン",
+        "zh": "夏季持续，海滩与户外酒吧季"
+      },
       "rating": 4
     },
     {
       "regionId": "mykonos",
       "category": "beach",
-      "reason": "겨울, 폐업 지속",
+      "reason": {
+        "ko": "겨울, 폐업 지속",
+        "en": "Winter continues — venues remain closed",
+        "ja": "冬が続き、閉業が続く",
+        "zh": "冬季持续，设施仍然关闭"
+      },
       "rating": 4
     }
   ],
   "avoidList": [
     {
       "regionId": "bali",
-      "reason": "우기 절정, 도로 침수 빈번"
+      "reason": {
+        "ko": "우기 절정, 도로 침수 빈번",
+        "en": "Peak rainy season — road flooding is frequent",
+        "ja": "雨季の絶頂、道路の浸水が頻繁",
+        "zh": "雨季高峰，道路频繁积水"
+      }
     },
     {
       "regionId": "edinburgh",
-      "reason": "아직 추운 겨울, 위스키 투어에 적합"
+      "reason": {
+        "ko": "아직 추운 겨울, 위스키 투어에 적합",
+        "en": "Still cold — the perfect excuse for a whisky distillery tour",
+        "ja": "まだ寒い冬、ウイスキー蒸留所ツアーに最適",
+        "zh": "依然寒冷，正是探访威士忌酒厂的好时机"
+      }
     },
     {
       "regionId": "hokkaido",
-      "reason": "삿포로 눈축제와 최고의 스키 시즌"
+      "reason": {
+        "ko": "삿포로 눈축제와 최고의 스키 시즌",
+        "en": "Sapporo Snow Festival and the best ski conditions of the year",
+        "ja": "さっぽろ雪まつりと最高のスキーシーズン",
+        "zh": "札幌雪节与全年最佳滑雪条件"
+      }
     },
     {
       "regionId": "istanbul",
-      "reason": "겨울 끝자락, 터키식 차 한잔의 여유"
+      "reason": {
+        "ko": "겨울 끝자락, 터키식 차 한잔의 여유",
+        "en": "Tail end of winter — the perfect time to slow down with a Turkish tea",
+        "ja": "冬の終わり、トルコ式お茶でゆっくり過ごす時期",
+        "zh": "冬末，正是细品土耳其茶的惬意时光"
+      }
     },
     {
       "regionId": "jakarta",
-      "reason": "우기, 홍수와 교통 마비 빈번"
+      "reason": {
+        "ko": "우기, 홍수와 교통 마비 빈번",
+        "en": "Rainy season — flooding and traffic gridlock are common",
+        "ja": "雨季、洪水と交通麻痺が頻繁",
+        "zh": "雨季，洪水与交通瘫痪频发"
+      }
     },
     {
       "regionId": "london",
-      "reason": "겨울 끝자락, 아직 춥고 비 잦은 시기"
+      "reason": {
+        "ko": "겨울 끝자락, 아직 춥고 비 잦은 시기",
+        "en": "Tail end of winter — still cold with frequent rain",
+        "ja": "冬の終わり、まだ寒く雨も多い時期",
+        "zh": "冬末，依然寒冷且雨水频繁"
+      }
     },
     {
       "regionId": "new-york",
-      "reason": "가장 추운 시기, 밸런타인 분위기의 도시"
+      "reason": {
+        "ko": "가장 추운 시기, 밸런타인 분위기의 도시",
+        "en": "The coldest month — Valentine's Day adds a romantic glow to the frozen city",
+        "ja": "最も寒い時期、バレンタインムードに包まれた街",
+        "zh": "全年最寒冷之际，情人节氛围为这座冰城增添浪漫"
+      }
     },
     {
       "regionId": "osaka",
-      "reason": "추운 겨울, 실내 먹거리 투어에 좋은 시기"
+      "reason": {
+        "ko": "추운 겨울, 실내 먹거리 투어에 좋은 시기",
+        "en": "Cold winter — a great time for indoor food tours",
+        "ja": "寒い冬、室内グルメツアーに良い時期",
+        "zh": "寒冬，正是室内美食游览的好时机"
+      }
     },
     {
       "regionId": "paris",
-      "reason": "아직 쌀쌀한 겨울, 미술관 투어에 좋은 시기"
+      "reason": {
+        "ko": "아직 쌀쌀한 겨울, 미술관 투어에 좋은 시기",
+        "en": "Still chilly winter — a great time for museum tours",
+        "ja": "まだ肌寒い冬、美術館ツアーに良い時期",
+        "zh": "依然寒冷的冬季，正是博物馆游览的好时机"
+      }
     }
   ]
 }

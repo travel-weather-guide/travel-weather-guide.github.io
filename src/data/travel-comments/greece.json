@@ -3,16 +3,58 @@
     "regionId": "athens",
     "month": 1,
     "rating": 2,
-    "summary": "겨울 비, 파르테논은 한산하고 입장 편한 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "summary": {
+      "ko": "겨울 비, 파르테논은 한산하고 입장 편한 시기",
+      "en": "Winter rain — the Parthenon is quiet and easy to visit",
+      "ja": "冬の雨、パルテノンは閑散として入場しやすい時期",
+      "zh": "冬季多雨，帕特农神庙游客稀少，入场便利"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience everyday Athens life"
+      ],
+      "ja": [
+        "アテネの日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "适合体验雅典日常生活的时期"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Humidity at 74% is somewhat high"
+      ],
+      "ja": [
+        "湿度74%とやや高め"
+      ],
+      "zh": [
+        "湿度74%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, and gloves — warm layering required",
+      "ja": "コート、マフラー、手袋。重ね着で防寒を",
+      "zh": "外套、围巾、手套，需要保暖叠穿"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -20,19 +62,70 @@
     "regionId": "athens",
     "month": 2,
     "rating": 3,
-    "summary": "겨울 끝자락, 카니발 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울 끝자락, 카니발 시즌",
+      "en": "Tail end of winter — carnival season livens up the city",
+      "ja": "冬の終わり、カーニバルシーズンが街を活気づける",
+      "zh": "冬末，狂欢节季节为城市增添活力"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity at 73% is somewhat high"
+      ],
+      "ja": [
+        "湿度73%とやや高め"
+      ],
+      "zh": [
+        "湿度73%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -40,17 +133,62 @@
     "regionId": "athens",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 유적지 산책 쾌적해지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "봄 시작, 유적지 산책 쾌적해지는 시기",
+      "en": "Spring arrives — strolling the ancient sites becomes a pleasure",
+      "ja": "春の始まり、遺跡散策が快適になる時期",
+      "zh": "春天来临，古迹漫步愈发惬意"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -58,22 +196,82 @@
     "regionId": "athens",
     "month": 4,
     "rating": 4,
-    "summary": "부활절 축제, 봄꽃과 쾌적한 유적지 관광",
-    "highlights": [
-      "봄 아테네, 유적지 관광 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [],
-    "events": [
-      "그리스 독립기념일 (3월 25일)",
-      "부활절 연휴"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "부활절 축제, 봄꽃과 쾌적한 유적지 관광",
+      "en": "Easter festivities, spring blossoms, and comfortable ruins-touring",
+      "ja": "イースター祭り、春の花と快適な遺跡観光",
+      "zh": "复活节庆典，春花盛开，古迹游览格外舒适"
+    },
+    "highlights": {
+      "ko": [
+        "봄 아테네, 유적지 관광 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Spring Athens — ideal for sightseeing the ancient sites",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Low humidity makes it very comfortable"
+      ],
+      "ja": [
+        "春のアテネ、遺跡観光に最適",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "湿度が低く快適"
+      ],
+      "zh": [
+        "春日雅典，古迹观光最佳时机",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "湿度低，体感舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "그리스 독립기념일 (3월 25일)",
+        "부활절 연휴"
+      ],
+      "en": [
+        "Greek Independence Day (25 Mar)",
+        "Easter holiday"
+      ],
+      "ja": [
+        "ギリシャ独立記念日（3月25日）",
+        "イースター休暇"
+      ],
+      "zh": [
+        "希腊独立纪念日（3月25日）",
+        "复活节假期"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket — layering recommended",
+      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
+      "zh": "长袖加轻薄外套，推荐叠穿"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -81,23 +279,86 @@
     "regionId": "athens",
     "month": 5,
     "rating": 5,
-    "summary": "관광 시즌 시작, 폭염 전 쾌적한 25°C",
-    "highlights": [
-      "봄 아테네, 유적지 관광 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [],
-    "events": [
-      "그리스 독립기념일 (3월 25일)",
-      "부활절 연휴"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "관광 시즌 시작, 폭염 전 쾌적한 25°C",
+      "en": "Tourist season kicks off — a perfect 25°C before the summer heat",
+      "ja": "観光シーズン開幕、猛暑前の快適な25°C",
+      "zh": "旅游旺季开启，夏日酷暑前舒适宜人的25°C"
+    },
+    "highlights": {
+      "ko": [
+        "봄 아테네, 유적지 관광 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Spring Athens — ideal for sightseeing the ancient sites",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures",
+        "Low humidity makes it very comfortable"
+      ],
+      "ja": [
+        "春のアテネ、遺跡観光に最適",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温",
+        "湿度が低く快適"
+      ],
+      "zh": [
+        "春日雅典，古迹观光最佳时机",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适",
+        "湿度低，体感舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "그리스 독립기념일 (3월 25일)",
+        "부활절 연휴"
+      ],
+      "en": [
+        "Greek Independence Day (25 Mar)",
+        "Easter holiday"
+      ],
+      "ja": [
+        "ギリシャ独立記念日（3月25日）",
+        "イースター休暇"
+      ],
+      "zh": [
+        "希腊独立纪念日（3月25日）",
+        "复活节假期"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Light long sleeves and a cardigan — mornings and evenings can be cool",
+      "ja": "薄手の長袖とカーディガン。朝晩は肌寒いことも",
+      "zh": "薄款长袖加针织开衫，早晚可能凉意十足"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -105,19 +366,70 @@
     "regionId": "athens",
     "month": 6,
     "rating": 5,
-    "summary": "더워지기 시작, 에게해 섬 투어 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "더워지기 시작, 에게해 섬 투어 시즌",
+      "en": "Heat building up — Aegean island-hopping season in full swing",
+      "ja": "暑くなり始め、エーゲ海島巡りシーズン",
+      "zh": "气温攀升，爱琴海跳岛游季节正式开启"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures",
+        "Low humidity makes it very comfortable"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温",
+        "湿度が低く快適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适",
+        "湿度低，体感舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light trousers — sun protection is essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策は必須",
+      "zh": "短袖加薄款长裤，必做防晒"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -125,21 +437,78 @@
     "regionId": "athens",
     "month": 7,
     "rating": 5,
-    "summary": "38°C+ 극심한 폭염, 아크로폴리스 정오 폐쇄",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 34°C로 더위에 주의"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "38°C+ 극심한 폭염, 아크로폴리스 정오 폐쇄",
+      "en": "Extreme heat above 38°C — the Acropolis closes at midday",
+      "ja": "38°C超えの猛暑、アクロポリスは正午に閉鎖",
+      "zh": "极端高温超38°C，卫城正午关闭"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Low humidity makes it very comfortable",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "湿度が低く快適",
+        "暖かい天気でビーチ活動に最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "湿度低，体感舒适",
+        "天气温暖，适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 34°C로 더위에 주의"
+      ],
+      "en": [
+        "Average high of 34°C — take precautions against the heat"
+      ],
+      "ja": [
+        "平均最高気温34°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温34°C，注意防暑"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light trousers — sun protection is essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策は必須",
+      "zh": "短袖加薄款长裤，必做防晒"
+    },
     "crowdLevel": "medium",
     "priceLevel": "low"
   },
@@ -147,21 +516,78 @@
     "regionId": "athens",
     "month": 8,
     "rating": 5,
-    "summary": "폭염 지속, 40°C 이상 빈번하고 산불 위험",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 33°C로 더위에 주의"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "폭염 지속, 40°C 이상 빈번하고 산불 위험",
+      "en": "Heatwave persists — temperatures frequently top 40°C and wildfire risk is high",
+      "ja": "猛暑が続き、40°C超えが頻繁で山火事リスクも高い",
+      "zh": "酷暑持续，气温频超40°C，山火风险较高"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Low humidity makes it very comfortable",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "湿度が低く快適",
+        "暖かい天気でビーチ活動に最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "湿度低，体感舒适",
+        "天气温暖，适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 33°C로 더위에 주의"
+      ],
+      "en": [
+        "Average high of 33°C — take precautions against the heat"
+      ],
+      "ja": [
+        "平均最高気温33°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温33°C，注意防暑"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light trousers — sun protection is essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策は必須",
+      "zh": "短袖加薄款长裤，必做防晒"
+    },
     "crowdLevel": "medium",
     "priceLevel": "low"
   },
@@ -169,22 +595,82 @@
     "regionId": "athens",
     "month": 9,
     "rating": 5,
-    "summary": "더위 물러간 가을, 파르테논 쾌적 관광",
-    "highlights": [
-      "가을 아테네, 선선하고 쾌적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [],
-    "events": [
-      "아테네 국제 마라톤 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "더위 물러간 가을, 파르테논 쾌적 관광",
+      "en": "Heat fades into a glorious autumn — the Parthenon at its most enjoyable",
+      "ja": "暑さが和らぎ黄金の秋、パルテノン観光が最も快適",
+      "zh": "暑热消退，秋高气爽，游览帕特农神庙最为惬意"
+    },
+    "highlights": {
+      "ko": [
+        "가을 아테네, 선선하고 쾌적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Autumn Athens — cool and comfortable",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures",
+        "Low humidity makes it very comfortable"
+      ],
+      "ja": [
+        "秋のアテネ、涼しく快適",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温",
+        "湿度が低く快適"
+      ],
+      "zh": [
+        "秋日雅典，凉爽宜人",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适",
+        "湿度低，体感舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "아테네 국제 마라톤 (11월)"
+      ],
+      "en": [
+        "Athens Classic Marathon (Nov)"
+      ],
+      "ja": [
+        "アテネ国際マラソン（11月）"
+      ],
+      "zh": [
+        "雅典国际马拉松（11月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Light long sleeves and a cardigan — mornings and evenings can be cool",
+      "ja": "薄手の長袖とカーディガン。朝晩は肌寒いことも",
+      "zh": "薄款长袖加针织开衫，早晚可能凉意十足"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -192,21 +678,78 @@
     "regionId": "athens",
     "month": 10,
     "rating": 5,
-    "summary": "완벽한 가을 날씨, 유적지 관광 최적기",
-    "highlights": [
-      "가을 아테네, 선선하고 쾌적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "아테네 국제 마라톤 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "완벽한 가을 날씨, 유적지 관광 최적기",
+      "en": "Perfect autumn weather — the best time to tour the ancient sites",
+      "ja": "完璧な秋の天気、遺跡観光の最適期",
+      "zh": "秋日天气完美，游览古迹的最佳时机"
+    },
+    "highlights": {
+      "ko": [
+        "가을 아테네, 선선하고 쾌적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn Athens — cool and comfortable",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "秋のアテネ、涼しく快適",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋日雅典，凉爽宜人",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "아테네 국제 마라톤 (11월)"
+      ],
+      "en": [
+        "Athens Classic Marathon (Nov)"
+      ],
+      "ja": [
+        "アテネ国際マラソン（11月）"
+      ],
+      "zh": [
+        "雅典国际马拉松（11月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket — layering recommended",
+      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
+      "zh": "长袖加轻薄外套，推荐叠穿"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -214,18 +757,66 @@
     "regionId": "athens",
     "month": 11,
     "rating": 4,
-    "summary": "쌀쌀해지지만 관광객 적어 여유로운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "쌀쌀해지지만 관광객 적어 여유로운 시기",
+      "en": "Getting cooler but pleasantly uncrowded — a relaxed visit awaits",
+      "ja": "肌寒くなるが観光客が少なく、ゆったり過ごせる時期",
+      "zh": "天气转凉，游客稀少，从容游览的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Humidity at 72% is somewhat high"
+      ],
+      "ja": [
+        "湿度72%とやや高め"
+      ],
+      "zh": [
+        "湿度72%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -233,20 +824,74 @@
     "regionId": "athens",
     "month": 12,
     "rating": 2,
-    "summary": "겨울, 비 잦지만 크리스마스 분위기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 114mm로 우산 필수",
-      "비 오는 날이 10.8일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울, 비 잦지만 크리스마스 분위기",
+      "en": "Winter rain, but festive Christmas atmosphere fills the streets",
+      "ja": "冬の雨が多いが、クリスマスの雰囲気に包まれる",
+      "zh": "冬季多雨，但圣诞节日气氛浓郁"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience everyday Athens life"
+      ],
+      "ja": [
+        "アテネの日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "适合体验雅典日常生活的时期"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 114mm로 우산 필수",
+        "비 오는 날이 10.8일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "114mm of rain — an umbrella is essential",
+        "10.8 rainy days — have indoor backup plans ready",
+        "Humidity at 78% is somewhat high"
+      ],
+      "ja": [
+        "降水量114mmで傘は必須",
+        "雨の日が10.8日と多く、室内プランを準備推奨",
+        "湿度78%とやや高め"
+      ],
+      "zh": [
+        "降水量114mm，必备雨伞",
+        "雨天达10.8天，建议准备室内备选方案",
+        "湿度78%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Pack a folding umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコートを持参"
+      ],
+      "zh": [
+        "携带折叠伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -254,14 +899,50 @@
     "regionId": "santorini",
     "month": 1,
     "rating": 3,
-    "summary": "비수기, 대부분 숙소·식당 폐업",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "비수기, 대부분 숙소·식당 폐업",
+      "en": "Off season — most hotels and restaurants are closed",
+      "ja": "オフシーズン、ほとんどのホテル・レストランが閉業",
+      "zh": "淡季，大多数酒店和餐厅关闭"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -269,17 +950,62 @@
     "regionId": "santorini",
     "month": 2,
     "rating": 4,
-    "summary": "겨울, 폐업 지속과 페리 감편",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울, 폐업 지속과 페리 감편",
+      "en": "Winter continues — venues stay closed and ferry schedules are reduced",
+      "ja": "冬が続き、閉業が続きフェリーも減便",
+      "zh": "冬季持续，设施关闭，渡轮班次减少"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -287,17 +1013,62 @@
     "regionId": "santorini",
     "month": 3,
     "rating": 4,
-    "summary": "시설 서서히 오픈, 아직 불완전",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "시설 서서히 오픈, 아직 불완전",
+      "en": "Venues gradually reopening — but the island isn't fully back yet",
+      "ja": "施設が徐々にオープン、まだ不完全",
+      "zh": "设施逐渐开放，但岛上尚未全面恢复"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -305,17 +1076,62 @@
     "regionId": "santorini",
     "month": 4,
     "rating": 5,
-    "summary": "봄, 관광객 적고 석양이 아름다운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "봄, 관광객 적고 석양이 아름다운 시기",
+      "en": "Spring — few crowds and breathtaking Oia sunsets",
+      "ja": "春、観光客が少なくオイアの夕日が美しい時期",
+      "zh": "春日，游客稀少，伊亚落日美不胜收"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket — layering recommended",
+      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
+      "zh": "长袖加轻薄外套，推荐叠穿"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -323,21 +1139,78 @@
     "regionId": "santorini",
     "month": 5,
     "rating": 5,
-    "summary": "성수기 전 여유, 완벽한 날씨와 석양",
-    "highlights": [
-      "일몰 + 에게해 황금기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "산토리니 재즈 페스티벌 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "성수기 전 여유, 완벽한 날씨와 석양",
+      "en": "Pre-peak calm — perfect weather and golden Aegean sunsets",
+      "ja": "ピーク前のゆとり、完璧な天気とエーゲ海の夕日",
+      "zh": "旺季前的从容，完美天气与爱琴海金色落日"
+    },
+    "highlights": {
+      "ko": [
+        "일몰 + 에게해 황금기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Sunset + golden Aegean season",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "夕日＋エーゲ海黄金期",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "落日与爱琴海黄金季",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "산토리니 재즈 페스티벌 (7월)"
+      ],
+      "en": [
+        "Santorini Jazz Festival (Jul)"
+      ],
+      "ja": [
+        "サントリーニ・ジャズ・フェスティバル（7月）"
+      ],
+      "zh": [
+        "圣托里尼爵士音乐节（7月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Light long sleeves and a cardigan — mornings and evenings can be cool",
+      "ja": "薄手の長袖とカーディガン。朝晩は肌寒いことも",
+      "zh": "薄款长袖加针织开衫，早晚可能凉意十足"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -345,21 +1218,78 @@
     "regionId": "santorini",
     "month": 6,
     "rating": 5,
-    "summary": "여름 시작, 에게해 최고의 석양",
-    "highlights": [
-      "일몰 + 에게해 황금기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "산토리니 재즈 페스티벌 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 시작, 에게해 최고의 석양",
+      "en": "Summer begins — the Aegean serves up its finest sunsets",
+      "ja": "夏の始まり、エーゲ海最高の夕日",
+      "zh": "夏季开启，爱琴海最美落日季"
+    },
+    "highlights": {
+      "ko": [
+        "일몰 + 에게해 황금기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Sunset + golden Aegean season",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "夕日＋エーゲ海黄金期",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "落日与爱琴海黄金季",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "산토리니 재즈 페스티벌 (7월)"
+      ],
+      "en": [
+        "Santorini Jazz Festival (Jul)"
+      ],
+      "ja": [
+        "サントリーニ・ジャズ・フェスティバル（7月）"
+      ],
+      "zh": [
+        "圣托里尼爵士音乐节（7月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Light long sleeves and a cardigan — mornings and evenings can be cool",
+      "ja": "薄手の長袖とカーディガン。朝晩は肌寒いことも",
+      "zh": "薄款长袖加针织开衫，早晚可能凉意十足"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -367,22 +1297,82 @@
     "regionId": "santorini",
     "month": 7,
     "rating": 5,
-    "summary": "성수기, 오이아 석양 명소 극심한 인파",
-    "highlights": [
-      "성수기 (매우 붐빔)",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [],
-    "events": [
-      "산토리니 성수기 — 예약 필수"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "성수기, 오이아 석양 명소 극심한 인파",
+      "en": "High season — Oia's sunset viewpoint is absolutely packed",
+      "ja": "ハイシーズン、オイアの夕日スポットは極度に混雑",
+      "zh": "旺季，伊亚落日观景点人潮汹涌"
+    },
+    "highlights": {
+      "ko": [
+        "성수기 (매우 붐빔)",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "High season (very crowded)",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures",
+        "Low humidity makes it very comfortable"
+      ],
+      "ja": [
+        "ハイシーズン（非常に混雑）",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温",
+        "湿度が低く快適"
+      ],
+      "zh": [
+        "旺季（非常拥挤）",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适",
+        "湿度低，体感舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "산토리니 성수기 — 예약 필수"
+      ],
+      "en": [
+        "Santorini high season — advance booking essential"
+      ],
+      "ja": [
+        "サントリーニ・ハイシーズン — 予約必須"
+      ],
+      "zh": [
+        "圣托里尼旺季——务必提前预订"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light trousers — sun protection is essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策は必須",
+      "zh": "短袖加薄款长裤，必做防晒"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -390,21 +1380,78 @@
     "regionId": "santorini",
     "month": 8,
     "rating": 5,
-    "summary": "절대 피크, 300만 관광객의 극심한 혼잡",
-    "highlights": [
-      "성수기 (매우 붐빔)",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "산토리니 성수기 — 예약 필수"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "절대 피크, 300만 관광객의 극심한 혼잡",
+      "en": "Absolute peak — 3 million visitors and extreme crowds",
+      "ja": "絶対的ピーク、300万人の観光客で極度の混雑",
+      "zh": "绝对高峰，300万游客涌入，极度拥挤"
+    },
+    "highlights": {
+      "ko": [
+        "성수기 (매우 붐빔)",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "High season (very crowded)",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "ハイシーズン（非常に混雑）",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旺季（非常拥挤）",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "산토리니 성수기 — 예약 필수"
+      ],
+      "en": [
+        "Santorini high season — advance booking essential"
+      ],
+      "ja": [
+        "サントリーニ・ハイシーズン — 予約必須"
+      ],
+      "zh": [
+        "圣托里尼旺季——务必提前预订"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light trousers — sun protection is essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策は必須",
+      "zh": "短袖加薄款长裤，必做防晒"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -412,21 +1459,78 @@
     "regionId": "santorini",
     "month": 9,
     "rating": 5,
-    "summary": "성수기 후 여유, 따뜻한 바다와 와인 수확",
-    "highlights": [
-      "일몰 + 에게해 황금기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "산토리니 재즈 페스티벌 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "성수기 후 여유, 따뜻한 바다와 와인 수확",
+      "en": "Post-peak calm — warm sea and the grape harvest season",
+      "ja": "ピーク後のゆとり、暖かい海とぶどう収穫の季節",
+      "zh": "旺季后的宁静，温暖海水与葡萄收获季节"
+    },
+    "highlights": {
+      "ko": [
+        "일몰 + 에게해 황금기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Sunset + golden Aegean season",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "夕日＋エーゲ海黄金期",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "落日与爱琴海黄金季",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "산토리니 재즈 페스티벌 (7월)"
+      ],
+      "en": [
+        "Santorini Jazz Festival (Jul)"
+      ],
+      "ja": [
+        "サントリーニ・ジャズ・フェスティバル（7月）"
+      ],
+      "zh": [
+        "圣托里尼爵士音乐节（7月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light trousers — sun protection is essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策は必須",
+      "zh": "短袖加薄款长裤，必做防晒"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -434,21 +1538,78 @@
     "regionId": "santorini",
     "month": 10,
     "rating": 5,
-    "summary": "가을, 관광객 줄고 아직 따뜻한 시기",
-    "highlights": [
-      "일몰 + 에게해 황금기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "산토리니 재즈 페스티벌 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "가을, 관광객 줄고 아직 따뜻한 시기",
+      "en": "Autumn — crowds thin out but the warmth lingers on",
+      "ja": "秋、観光客が減り、まだ暖かい時期",
+      "zh": "秋日，游客渐少，依然温暖宜人"
+    },
+    "highlights": {
+      "ko": [
+        "일몰 + 에게해 황금기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Sunset + golden Aegean season",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "夕日＋エーゲ海黄金期",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "落日与爱琴海黄金季",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "산토리니 재즈 페스티벌 (7월)"
+      ],
+      "en": [
+        "Santorini Jazz Festival (Jul)"
+      ],
+      "ja": [
+        "サントリーニ・ジャズ・フェスティバル（7月）"
+      ],
+      "zh": [
+        "圣托里尼爵士音乐节（7月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Light long sleeves and a cardigan — mornings and evenings can be cool",
+      "ja": "薄手の長袖とカーディガン。朝晩は肌寒いことも",
+      "zh": "薄款长袖加针织开衫，早晚可能凉意十足"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -456,18 +1617,66 @@
     "regionId": "santorini",
     "month": 11,
     "rating": 5,
-    "summary": "비수기 시작, 시설 폐업 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "비수기 시작, 시설 폐업 시작",
+      "en": "Off-season begins — venues start shutting down for winter",
+      "ja": "オフシーズン開始、施設が冬の閉業を始める",
+      "zh": "淡季开始，各处设施陆续关闭"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket — layering recommended",
+      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
+      "zh": "长袖加轻薄外套，推荐叠穿"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -475,18 +1684,66 @@
     "regionId": "santorini",
     "month": 12,
     "rating": 4,
-    "summary": "겨울, 대부분 폐업",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 71%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "겨울, 대부분 폐업",
+      "en": "Winter — the island is largely closed up",
+      "ja": "冬、ほとんどが閉業",
+      "zh": "冬季，岛上设施大多关闭"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Humidity at 71% is somewhat high"
+      ],
+      "ja": [
+        "湿度71%とやや高め"
+      ],
+      "zh": [
+        "湿度71%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket — layering recommended",
+      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
+      "zh": "长袖加轻薄外套，推荐叠穿"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -494,14 +1751,50 @@
     "regionId": "mykonos",
     "month": 1,
     "rating": 3,
-    "summary": "비수기, 대부분 숙소·식당 폐업",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "비수기, 대부분 숙소·식당 폐업",
+      "en": "Off season — most hotels and restaurants are closed",
+      "ja": "オフシーズン、ほとんどのホテル・レストランが閉業",
+      "zh": "淡季，大多数酒店和餐厅关闭"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience everyday Mykonos life"
+      ],
+      "ja": [
+        "ミコノスの日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "适合体验米科诺斯日常生活的时期"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -509,17 +1802,62 @@
     "regionId": "mykonos",
     "month": 2,
     "rating": 4,
-    "summary": "겨울, 폐업 지속",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울, 폐업 지속",
+      "en": "Winter continues — venues remain closed",
+      "ja": "冬が続き、閉業が続く",
+      "zh": "冬季持续，设施仍然关闭"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -527,17 +1865,62 @@
     "regionId": "mykonos",
     "month": 3,
     "rating": 4,
-    "summary": "시설 서서히 오픈, 아직 불완전",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "시설 서서히 오픈, 아직 불완전",
+      "en": "Venues gradually reopening — but the island isn't fully back yet",
+      "ja": "施設が徐々にオープン、まだ不完全",
+      "zh": "设施逐渐开放，但岛上尚未全面恢复"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -545,17 +1928,62 @@
     "regionId": "mykonos",
     "month": 4,
     "rating": 5,
-    "summary": "봄, 해변 산책과 여유로운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "봄, 해변 산책과 여유로운 시기",
+      "en": "Spring — peaceful beach walks before the crowds arrive",
+      "ja": "春、人が来る前の静かなビーチ散歩",
+      "zh": "春日，人潮到来前宁静惬意的海滩漫步"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket — layering recommended",
+      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
+      "zh": "长袖加轻薄外套，推荐叠穿"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -563,18 +1991,66 @@
     "regionId": "mykonos",
     "month": 5,
     "rating": 5,
-    "summary": "파티 시즌 시작, 완벽한 해변 날씨",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "파티 시즌 시작, 완벽한 해변 날씨",
+      "en": "Party season kicks off with perfect beach weather",
+      "ja": "パーティーシーズン開幕、完璧なビーチの天気",
+      "zh": "派对季开启，海滩天气完美"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket — layering recommended",
+      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
+      "zh": "长袖加轻薄外套，推荐叠穿"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -582,21 +2058,78 @@
     "regionId": "mykonos",
     "month": 6,
     "rating": 5,
-    "summary": "여름 시작, 해변과 나이트라이프 최적",
-    "highlights": [
-      "파티·해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "미코노스 여름 성수기 (6~8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 시작, 해변과 나이트라이프 최적",
+      "en": "Summer begins — beaches and nightlife hit their stride",
+      "ja": "夏の始まり、ビーチとナイトライフが最高潮",
+      "zh": "夏季开启，海滩与夜生活进入最佳状态"
+    },
+    "highlights": {
+      "ko": [
+        "파티·해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Party and beach high season",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "パーティー＆ビーチのハイシーズン",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "派对与海滩旺季",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "미코노스 여름 성수기 (6~8월)"
+      ],
+      "en": [
+        "Mykonos summer high season (Jun–Aug)"
+      ],
+      "ja": [
+        "ミコノス夏のハイシーズン（6〜8月）"
+      ],
+      "zh": [
+        "米科诺斯夏季旺季（6~8月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Light long sleeves and a cardigan — mornings and evenings can be cool",
+      "ja": "薄手の長袖とカーディガン。朝晩は肌寒いことも",
+      "zh": "薄款长袖加针织开衫，早晚可能凉意十足"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -604,21 +2137,78 @@
     "regionId": "mykonos",
     "month": 7,
     "rating": 5,
-    "summary": "파티 피크, 비치클럽 만석",
-    "highlights": [
-      "파티·해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "미코노스 여름 성수기 (6~8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "파티 피크, 비치클럽 만석",
+      "en": "Party peak — beach clubs fully booked and buzzing",
+      "ja": "パーティーピーク、ビーチクラブは満席",
+      "zh": "派对高峰，海滩俱乐部座无虚席"
+    },
+    "highlights": {
+      "ko": [
+        "파티·해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Party and beach high season",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "パーティー＆ビーチのハイシーズン",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "派对与海滩旺季",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "미코노스 여름 성수기 (6~8월)"
+      ],
+      "en": [
+        "Mykonos summer high season (Jun–Aug)"
+      ],
+      "ja": [
+        "ミコノス夏のハイシーズン（6〜8月）"
+      ],
+      "zh": [
+        "米科诺斯夏季旺季（6~8月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light trousers — sun protection is essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策は必須",
+      "zh": "短袖加薄款长裤，必做防晒"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -626,21 +2216,78 @@
     "regionId": "mykonos",
     "month": 8,
     "rating": 5,
-    "summary": "절대 피크, 나이트라이프 최고조",
-    "highlights": [
-      "파티·해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "미코노스 여름 성수기 (6~8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "절대 피크, 나이트라이프 최고조",
+      "en": "Absolute peak — nightlife reaches fever pitch",
+      "ja": "絶対的ピーク、ナイトライフが最高潮",
+      "zh": "绝对高峰，夜生活盛况空前"
+    },
+    "highlights": {
+      "ko": [
+        "파티·해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Party and beach high season",
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "パーティー＆ビーチのハイシーズン",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "派对与海滩旺季",
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "미코노스 여름 성수기 (6~8월)"
+      ],
+      "en": [
+        "Mykonos summer high season (Jun–Aug)"
+      ],
+      "ja": [
+        "ミコノス夏のハイシーズン（6〜8月）"
+      ],
+      "zh": [
+        "米科诺斯夏季旺季（6~8月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light trousers — sun protection is essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策は必須",
+      "zh": "短袖加薄款长裤，必做防晒"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -648,18 +2295,66 @@
     "regionId": "mykonos",
     "month": 9,
     "rating": 5,
-    "summary": "성수기 후 여유, 따뜻한 바다와 파티",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "성수기 후 여유, 따뜻한 바다와 파티",
+      "en": "Post-peak calm — warm sea and the party vibe still going",
+      "ja": "ピーク後のゆとり、暖かい海とパーティーが続く",
+      "zh": "旺季后的宁静，温暖海水与派对氛围延续"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Light long sleeves and a cardigan — mornings and evenings can be cool",
+      "ja": "薄手の長袖とカーディガン。朝晩は肌寒いことも",
+      "zh": "薄款长袖加针织开衫，早晚可能凉意十足"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -667,18 +2362,66 @@
     "regionId": "mykonos",
     "month": 10,
     "rating": 5,
-    "summary": "가을, 수영 가능한 바다(23°C)와 여유",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "가을, 수영 가능한 바다(23°C)와 여유",
+      "en": "Autumn calm — the sea stays swimmable at 23°C",
+      "ja": "秋の余裕、泳げる海（23°C）とゆったりした時間",
+      "zh": "秋日从容，海水仍可游泳（23°C）"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days",
+        "Pleasant temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多",
+        "气温舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Light long sleeves and a cardigan — mornings and evenings can be cool",
+      "ja": "薄手の長袖とカーディガン。朝晩は肌寒いことも",
+      "zh": "薄款长袖加针织开衫，早晚可能凉意十足"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -686,19 +2429,70 @@
     "regionId": "mykonos",
     "month": 11,
     "rating": 4,
-    "summary": "비수기 시작, 시설 폐업 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 70%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "비수기 시작, 시설 폐업 시작",
+      "en": "Off-season begins — venues start shutting down for winter",
+      "ja": "オフシーズン開始、施設が冬の閉業を始める",
+      "zh": "淡季开始，各处设施陆续关闭"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours are great for outdoor activities",
+        "Low rainfall means plenty of sunny days"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水量少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 70%로 다소 높음"
+      ],
+      "en": [
+        "Humidity at 70% is somewhat high"
+      ],
+      "ja": [
+        "湿度70%とやや高め"
+      ],
+      "zh": [
+        "湿度70%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "记得带太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket — layering recommended",
+      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
+      "zh": "长袖加轻薄外套，推荐叠穿"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -706,16 +2500,58 @@
     "regionId": "mykonos",
     "month": 12,
     "rating": 3,
-    "summary": "겨울, 대부분 폐업",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울, 대부분 폐업",
+      "en": "Winter — the island is largely closed up",
+      "ja": "冬、ほとんどが閉業",
+      "zh": "冬季，岛上设施大多关闭"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience everyday Mykonos life"
+      ],
+      "ja": [
+        "ミコノスの日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "适合体验米科诺斯日常生活的时期"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity at 73% is somewhat high"
+      ],
+      "ja": [
+        "湿度73%とやや高め"
+      ],
+      "zh": [
+        "湿度73%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，必备外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

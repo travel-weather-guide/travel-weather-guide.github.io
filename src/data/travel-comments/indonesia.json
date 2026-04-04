@@ -3,23 +3,86 @@
     "regionId": "bali",
     "month": 1,
     "rating": 1,
-    "summary": "우기 한가운데, 매일 폭우와 높은 습도",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 284mm로 우기에 해당",
-      "월 30일 비가 와 야외 일정에 유의",
-      "습도 93%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "우기 한가운데, 매일 폭우와 높은 습도",
+      "en": "Deep in the rainy season with daily torrential rain and high humidity",
+      "ja": "雨季の真っ只中、毎日の豪雨と高い湿度",
+      "zh": "雨季深处，每天倾盆大雨加上高湿度"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Off-season means fewer crowds and a more relaxed experience",
+        "Great time to take advantage of off-season discounts"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "オフシーズンで観光客が少なく、ゆったり楽しめる",
+        "オフシーズン割引を活用できる時期"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "淡季游客稀少，旅行更加悠闲自在",
+        "可以享受淡季优惠的时期"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 284mm로 우기에 해당",
+        "월 30일 비가 와 야외 일정에 유의",
+        "습도 93%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 284mm qualifies as rainy season",
+        "30 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 93% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "月降水量284mmで雨季に相当",
+        "30日の雨日、屋外日程に注意が必要",
+        "湿度93%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "月降雨量284mm，属于雨季",
+        "月内约30天雨天，户外行程需充分灵活安排",
+        "湿度93%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -27,21 +90,78 @@
     "regionId": "bali",
     "month": 2,
     "rating": 2,
-    "summary": "우기 절정, 도로 침수 빈번",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 강수량 221mm로 우기에 해당",
-      "월 28일 비가 와 야외 일정에 유의",
-      "습도 93%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "우기 절정, 도로 침수 빈번",
+      "en": "Peak rainy season with frequent road flooding",
+      "ja": "雨季のピーク、道路の浸水が頻繁",
+      "zh": "雨季高峰，道路积水频繁发生"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 221mm로 우기에 해당",
+        "월 28일 비가 와 야외 일정에 유의",
+        "습도 93%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 221mm qualifies as rainy season",
+        "28 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 93% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "月降水量221mmで雨季に相当",
+        "28日の雨日、屋外日程に注意が必要",
+        "湿度93%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "月降雨量221mm，属于雨季",
+        "月内约28天雨天，户外行程需充分灵活安排",
+        "湿度93%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -49,26 +169,98 @@
     "regionId": "bali",
     "month": 3,
     "rating": 2,
-    "summary": "우기 끝자락, 비가 줄어들기 시작",
-    "highlights": [
-      "냐피(발리 새해) 전후",
-      "일조시간이 길어 야외 활동에 좋음",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 291mm로 우기에 해당",
-      "월 30일 비가 와 야외 일정에 유의",
-      "습도 92%로 불쾌지수 높음"
-    ],
-    "events": [
-      "냐피 — 발리 침묵의 날 (3~4월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "우기 끝자락, 비가 줄어들기 시작",
+      "en": "Tail end of rainy season as rain starts to decrease",
+      "ja": "雨季の終わり、雨が減り始める",
+      "zh": "雨季尾声，降雨量开始减少"
+    },
+    "highlights": {
+      "ko": [
+        "냐피(발리 새해) 전후",
+        "일조시간이 길어 야외 활동에 좋음",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Around Nyepi (Balinese New Year)",
+        "Long sunshine hours make it great for outdoor activities",
+        "Off-season means fewer crowds and a more relaxed experience",
+        "Great time to take advantage of off-season discounts"
+      ],
+      "ja": [
+        "ニュピ（バリの新年）前後",
+        "日照時間が長く、屋外活動に最適",
+        "オフシーズンで観光客が少なく、ゆったり楽しめる",
+        "オフシーズン割引を活用できる時期"
+      ],
+      "zh": [
+        "临近尼皮节（巴厘岛新年）前后",
+        "日照时间充足，非常适合户外活动",
+        "淡季游客稀少，旅行更加悠闲自在",
+        "可以享受淡季优惠的时期"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 291mm로 우기에 해당",
+        "월 30일 비가 와 야외 일정에 유의",
+        "습도 92%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 291mm qualifies as rainy season",
+        "30 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 92% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "月降水量291mmで雨季に相当",
+        "30日の雨日、屋外日程に注意が必要",
+        "湿度92%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "月降雨量291mm，属于雨季",
+        "月内约30天雨天，户外行程需充分灵活安排",
+        "湿度92%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [
+        "냐피 — 발리 침묵의 날 (3~4월)"
+      ],
+      "en": [
+        "Nyepi — Balinese Day of Silence (March–April)"
+      ],
+      "ja": [
+        "ニュピ — バリの沈黙の日（3〜4月）"
+      ],
+      "zh": [
+        "尼皮节 — 巴厘岛沉默日（3-4月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -76,24 +268,90 @@
     "regionId": "bali",
     "month": 4,
     "rating": 2,
-    "summary": "건기 시작, 녹음 짙은 우붓과 맑은 하늘",
-    "highlights": [
-      "냐피(발리 새해) 전후",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 강수량 163mm로 우기에 해당",
-      "월 26.8일 비가 와 야외 일정에 유의",
-      "습도 90%로 불쾌지수 높음"
-    ],
-    "events": [
-      "냐피 — 발리 침묵의 날 (3~4월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "건기 시작, 녹음 짙은 우붓과 맑은 하늘",
+      "en": "Dry season begins with lush green Ubud and clear skies",
+      "ja": "乾季が始まり、緑豊かなウブドと晴れた空",
+      "zh": "干季来临，郁郁葱葱的乌布与晴朗的天空交相辉映"
+    },
+    "highlights": {
+      "ko": [
+        "냐피(발리 새해) 전후",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Around Nyepi (Balinese New Year)",
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "ニュピ（バリの新年）前後",
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "临近尼皮节（巴厘岛新年）前后",
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 163mm로 우기에 해당",
+        "월 26.8일 비가 와 야외 일정에 유의",
+        "습도 90%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 163mm qualifies as rainy season",
+        "26.8 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 90% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "月降水量163mmで雨季に相当",
+        "26.8日の雨日、屋外日程に注意が必要",
+        "湿度90%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "月降雨量163mm，属于雨季",
+        "月内约26.8天雨天，户外行程需充分灵活安排",
+        "湿度90%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [
+        "냐피 — 발리 침묵의 날 (3~4월)"
+      ],
+      "en": [
+        "Nyepi — Balinese Day of Silence (March–April)"
+      ],
+      "ja": [
+        "ニュピ — バリの沈黙の日（3〜4月）"
+      ],
+      "zh": [
+        "尼皮节 — 巴厘岛沉默日（3-4月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -101,21 +359,78 @@
     "regionId": "bali",
     "month": 5,
     "rating": 2,
-    "summary": "건기, 서핑과 사원 투어 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 116mm로 우산 필수",
-      "월 25일 비가 와 야외 일정에 유의",
-      "습도 90%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "건기, 서핑과 사원 투어 최적기",
+      "en": "Dry season — perfect for surfing and temple tours",
+      "ja": "乾季、サーフィンと寺院ツアーに最適",
+      "zh": "干季，冲浪与寺院游览的最佳时期"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 116mm로 우산 필수",
+        "월 25일 비가 와 야외 일정에 유의",
+        "습도 90%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall of 116mm — umbrella essential",
+        "25 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 90% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "降水量116mm、傘が必須",
+        "25日の雨日、屋外日程に注意が必要",
+        "湿度90%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "降雨量116mm，雨伞必备",
+        "月内约25天雨天，户外行程需充分灵活安排",
+        "湿度90%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -123,25 +438,94 @@
     "regionId": "bali",
     "month": 6,
     "rating": 2,
-    "summary": "건기 절정, 선선하고 맑은 발리 여행 최적기",
-    "highlights": [
-      "건기 성수기, 다이빙/서핑 최적",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 101mm로 우산 필수",
-      "월 23.2일 비가 와 야외 일정에 유의",
-      "습도 91%로 불쾌지수 높음"
-    ],
-    "events": [
-      "발리 아츠 페스티벌 (6~7월)",
-      "우붓 음식 축제"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "건기 절정, 선선하고 맑은 발리 여행 최적기",
+      "en": "Peak dry season — cool, clear weather makes this the best time for Bali",
+      "ja": "乾季のピーク、涼しく晴れたバリ旅行の最適期",
+      "zh": "干季高峰，凉爽晴朗，堪称巴厘岛旅行的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "건기 성수기, 다이빙/서핑 최적",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Dry season peak — perfect for diving and surfing",
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "乾季の繁忙期、ダイビング/サーフィンに最適",
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "干季旺季，潜水和冲浪最为适宜",
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 101mm로 우산 필수",
+        "월 23.2일 비가 와 야외 일정에 유의",
+        "습도 91%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall of 101mm — umbrella essential",
+        "23.2 rainy days — outdoor plans need flexibility",
+        "Humidity at 91% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "降水量101mm、傘が必須",
+        "23.2日の雨日、屋外日程に注意が必要",
+        "湿度91%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "降雨量101mm，雨伞必备",
+        "月内约23.2天雨天，户外行程需灵活安排",
+        "湿度91%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [
+        "발리 아츠 페스티벌 (6~7월)",
+        "우붓 음식 축제"
+      ],
+      "en": [
+        "Bali Arts Festival (June–July)",
+        "Ubud Food Festival"
+      ],
+      "ja": [
+        "バリアーツフェスティバル（6〜7月）",
+        "ウブドフードフェスティバル"
+      ],
+      "zh": [
+        "巴厘岛艺术节（6-7月）",
+        "乌布美食节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -149,23 +533,86 @@
     "regionId": "bali",
     "month": 7,
     "rating": 2,
-    "summary": "건기, 성수기라 관광객 많지만 날씨 최고",
-    "highlights": [
-      "건기 성수기, 다이빙/서핑 최적",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 21.2일 비가 와 야외 일정에 유의",
-      "습도 91%로 불쾌지수 높음"
-    ],
-    "events": [
-      "발리 아츠 페스티벌 (6~7월)",
-      "우붓 음식 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "건기, 성수기라 관광객 많지만 날씨 최고",
+      "en": "Dry season peak with many tourists but the best weather of the year",
+      "ja": "乾季、繁忙期で観光客が多いが天気は最高",
+      "zh": "干季旺季，游客众多，但天气却是全年最佳"
+    },
+    "highlights": {
+      "ko": [
+        "건기 성수기, 다이빙/서핑 최적",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Dry season peak — perfect for diving and surfing",
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "乾季の繁忙期、ダイビング/サーフィンに最適",
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "干季旺季，潜水和冲浪最为适宜",
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 21.2일 비가 와 야외 일정에 유의",
+        "습도 91%로 불쾌지수 높음"
+      ],
+      "en": [
+        "21.2 rainy days — outdoor plans need flexibility",
+        "Humidity at 91% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "21.2日の雨日、屋外日程に注意が必要",
+        "湿度91%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "月内约21.2天雨天，户外行程需灵活安排",
+        "湿度91%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [
+        "발리 아츠 페스티벌 (6~7월)",
+        "우붓 음식 축제"
+      ],
+      "en": [
+        "Bali Arts Festival (June–July)",
+        "Ubud Food Festival"
+      ],
+      "ja": [
+        "バリアーツフェスティバル（6〜7月）",
+        "ウブドフードフェスティバル"
+      ],
+      "zh": [
+        "巴厘岛艺术节（6-7月）",
+        "乌布美食节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -173,23 +620,86 @@
     "regionId": "bali",
     "month": 8,
     "rating": 2,
-    "summary": "건기, 우붓 예술축제와 해변 시즌",
-    "highlights": [
-      "건기 성수기, 다이빙/서핑 최적",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 23일 비가 와 야외 일정에 유의",
-      "습도 90%로 불쾌지수 높음"
-    ],
-    "events": [
-      "발리 아츠 페스티벌 (6~7월)",
-      "우붓 음식 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "건기, 우붓 예술축제와 해변 시즌",
+      "en": "Dry season with Ubud Arts Festival and prime beach season",
+      "ja": "乾季、ウブドアートフェスティバルとビーチシーズン",
+      "zh": "干季时节，乌布艺术节与海滩季节同步进行"
+    },
+    "highlights": {
+      "ko": [
+        "건기 성수기, 다이빙/서핑 최적",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Dry season peak — perfect for diving and surfing",
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "乾季の繁忙期、ダイビング/サーフィンに最適",
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "干季旺季，潜水和冲浪最为适宜",
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 23일 비가 와 야외 일정에 유의",
+        "습도 90%로 불쾌지수 높음"
+      ],
+      "en": [
+        "23 rainy days — outdoor plans need flexibility",
+        "Humidity at 90% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "23日の雨日、屋外日程に注意が必要",
+        "湿度90%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "月内约23天雨天，户外行程需灵活安排",
+        "湿度90%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [
+        "발리 아츠 페스티벌 (6~7월)",
+        "우붓 음식 축제"
+      ],
+      "en": [
+        "Bali Arts Festival (June–July)",
+        "Ubud Food Festival"
+      ],
+      "ja": [
+        "バリアーツフェスティバル（6〜7月）",
+        "ウブドフードフェスティバル"
+      ],
+      "zh": [
+        "巴厘岛艺术节（6-7月）",
+        "乌布美食节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -197,25 +707,94 @@
     "regionId": "bali",
     "month": 9,
     "rating": 2,
-    "summary": "건기 막바지, 관광객 줄고 쾌적",
-    "highlights": [
-      "건기 성수기, 다이빙/서핑 최적",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 135mm로 우산 필수",
-      "월 24.8일 비가 와 야외 일정에 유의",
-      "습도 89%로 불쾌지수 높음"
-    ],
-    "events": [
-      "발리 아츠 페스티벌 (6~7월)",
-      "우붓 음식 축제"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "건기 막바지, 관광객 줄고 쾌적",
+      "en": "Tail end of dry season with fewer tourists and comfortable weather",
+      "ja": "乾季の終わり、観光客が減り快適に",
+      "zh": "干季尾声，游客减少，天气依然舒适"
+    },
+    "highlights": {
+      "ko": [
+        "건기 성수기, 다이빙/서핑 최적",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Dry season peak — perfect for diving and surfing",
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "乾季の繁忙期、ダイビング/サーフィンに最適",
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "干季旺季，潜水和冲浪最为适宜",
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 135mm로 우산 필수",
+        "월 24.8일 비가 와 야외 일정에 유의",
+        "습도 89%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall of 135mm — umbrella essential",
+        "24.8 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 89% makes it feel very uncomfortable"
+      ],
+      "ja": [
+        "降水量135mm、傘が必須",
+        "24.8日の雨日、屋外日程に注意が必要",
+        "湿度89%で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量135mm，雨伞必备",
+        "月内约24.8天雨天，户外行程需充分灵活安排",
+        "湿度89%，不适感较强"
+      ]
+    },
+    "events": {
+      "ko": [
+        "발리 아츠 페스티벌 (6~7월)",
+        "우붓 음식 축제"
+      ],
+      "en": [
+        "Bali Arts Festival (June–July)",
+        "Ubud Food Festival"
+      ],
+      "ja": [
+        "バリアーツフェスティバル（6〜7月）",
+        "ウブドフードフェスティバル"
+      ],
+      "zh": [
+        "巴厘岛艺术节（6-7月）",
+        "乌布美食节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -223,21 +802,78 @@
     "regionId": "bali",
     "month": 10,
     "rating": 2,
-    "summary": "건기 끝자락, 간간이 소나기 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 강수량 201mm로 우기에 해당",
-      "월 28.6일 비가 와 야외 일정에 유의",
-      "습도 90%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "건기 끝자락, 간간이 소나기 시작",
+      "en": "End of dry season as occasional showers start",
+      "ja": "乾季の終わり、時々にわか雨が降り始める",
+      "zh": "干季接近尾声，偶有阵雨开始出现"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 201mm로 우기에 해당",
+        "월 28.6일 비가 와 야외 일정에 유의",
+        "습도 90%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 201mm qualifies as rainy season",
+        "28.6 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 90% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "月降水量201mmで雨季に相当",
+        "28.6日の雨日、屋外日程に注意が必要",
+        "湿度90%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "月降雨量201mm，属于雨季",
+        "月内约28.6天雨天，户外行程需充分灵活安排",
+        "湿度90%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -245,23 +881,86 @@
     "regionId": "bali",
     "month": 11,
     "rating": 1,
-    "summary": "우기 시작, 오후 스콜이 잦아지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 277mm로 우기에 해당",
-      "월 29.2일 비가 와 야외 일정에 유의",
-      "습도 92%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "우기 시작, 오후 스콜이 잦아지는 시기",
+      "en": "Rainy season begins as afternoon squalls become more frequent",
+      "ja": "雨季が始まり、午後のスコールが多くなる時期",
+      "zh": "雨季开始，午后雷阵雨愈发频繁"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Off-season means fewer crowds and a more relaxed experience",
+        "Great time to take advantage of off-season discounts"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "オフシーズンで観光客が少なく、ゆったり楽しめる",
+        "オフシーズン割引を活用できる時期"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "淡季游客稀少，旅行更加悠闲自在",
+        "可以享受淡季优惠的时期"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 277mm로 우기에 해당",
+        "월 29.2일 비가 와 야외 일정에 유의",
+        "습도 92%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 277mm qualifies as rainy season",
+        "29.2 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 92% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "月降水量277mmで雨季に相当",
+        "29.2日の雨日、屋外日程に注意が必要",
+        "湿度92%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "月降雨量277mm，属于雨季",
+        "月内约29.2天雨天，户外行程需充分灵活安排",
+        "湿度92%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -269,23 +968,86 @@
     "regionId": "bali",
     "month": 12,
     "rating": 1,
-    "summary": "우기, 연말 성수기라 비에도 관광객 많은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 318mm로 우기에 해당",
-      "월 30.2일 비가 와 야외 일정에 유의",
-      "습도 93%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "우기, 연말 성수기라 비에도 관광객 많은 시기",
+      "en": "Rainy season but year-end peak brings many tourists despite the rain",
+      "ja": "雨季だが年末の繁忙期で、雨でも観光客が多い時期",
+      "zh": "雨季之中，但年末旺季游客众多，雨水也挡不住出行热情"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Off-season means fewer crowds and a more relaxed experience",
+        "Great time to take advantage of off-season discounts"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "オフシーズンで観光客が少なく、ゆったり楽しめる",
+        "オフシーズン割引を活用できる時期"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "淡季游客稀少，旅行更加悠闲自在",
+        "可以享受淡季优惠的时期"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 318mm로 우기에 해당",
+        "월 30.2일 비가 와 야외 일정에 유의",
+        "습도 93%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 318mm qualifies as rainy season",
+        "30.2 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 93% makes it feel extremely uncomfortable"
+      ],
+      "ja": [
+        "月降水量318mmで雨季に相当",
+        "30.2日の雨日、屋外日程に注意が必要",
+        "湿度93%で不快指数が非常に高い"
+      ],
+      "zh": [
+        "月降雨量318mm，属于雨季",
+        "月内约30.2天雨天，户外行程需充分灵活安排",
+        "湿度93%，不适感极强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -293,22 +1055,82 @@
     "regionId": "lombok",
     "month": 1,
     "rating": 3,
-    "summary": "우기, 린자니산 트레킹 위험한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 175mm로 우기에 해당",
-      "월 25.4일 비가 와 야외 일정에 유의",
-      "습도 83%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기, 린자니산 트레킹 위험한 시기",
+      "en": "Rainy season — dangerous time for Mt. Rinjani trekking",
+      "ja": "雨季、リンジャニ山トレッキングが危険な時期",
+      "zh": "雨季期间，林扎尼火山徒步存在危险"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 175mm로 우기에 해당",
+        "월 25.4일 비가 와 야외 일정에 유의",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 175mm qualifies as rainy season",
+        "25.4 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 83% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量175mmで雨季に相当",
+        "25.4日の雨日、屋外日程に注意が必要",
+        "湿度83%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量175mm，属于雨季",
+        "月内约25.4天雨天，户外行程需充分灵活安排",
+        "湿度83%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -316,22 +1138,82 @@
     "regionId": "lombok",
     "month": 2,
     "rating": 3,
-    "summary": "우기 절정, 산사태 위험",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 151mm로 우기에 해당",
-      "월 23일 비가 와 야외 일정에 유의",
-      "습도 83%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기 절정, 산사태 위험",
+      "en": "Peak rainy season with risk of landslides",
+      "ja": "雨季のピーク、土砂崩れの危険",
+      "zh": "雨季高峰，山体滑坡风险较高"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 151mm로 우기에 해당",
+        "월 23일 비가 와 야외 일정에 유의",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 151mm qualifies as rainy season",
+        "23 rainy days — outdoor plans need flexibility",
+        "Humidity at 83% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量151mmで雨季に相当",
+        "23日の雨日、屋外日程に注意が必要",
+        "湿度83%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量151mm，属于雨季",
+        "月内约23天雨天，户外行程需灵活安排",
+        "湿度83%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -339,22 +1221,82 @@
     "regionId": "lombok",
     "month": 3,
     "rating": 2,
-    "summary": "우기 끝자락, 비 줄어들기 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 198mm로 우기에 해당",
-      "월 25.2일 비가 와 야외 일정에 유의",
-      "습도 82%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기 끝자락, 비 줄어들기 시작",
+      "en": "Tail end of rainy season as rain starts to subside",
+      "ja": "雨季の終わり、雨が減り始める",
+      "zh": "雨季尾声，降雨量开始减少"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 198mm로 우기에 해당",
+        "월 25.2일 비가 와 야외 일정에 유의",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 198mm qualifies as rainy season",
+        "25.2 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 82% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量198mmで雨季に相当",
+        "25.2日の雨日、屋外日程に注意が必要",
+        "湿度82%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量198mm，属于雨季",
+        "月内约25.2天雨天，户外行程需充分灵活安排",
+        "湿度82%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -362,22 +1304,82 @@
     "regionId": "lombok",
     "month": 4,
     "rating": 2,
-    "summary": "건기 시작, 길리섬 다이빙 시야 회복",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 150mm로 우기에 해당",
-      "월 21일 비가 와 야외 일정에 유의",
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 시작, 길리섬 다이빙 시야 회복",
+      "en": "Dry season begins as Gili Islands diving visibility recovers",
+      "ja": "乾季が始まり、ギリ島のダイビング視界が回復",
+      "zh": "干季开始，吉利岛潜水能见度逐渐恢复"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 150mm로 우기에 해당",
+        "월 21일 비가 와 야외 일정에 유의",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 150mm qualifies as rainy season",
+        "21 rainy days — outdoor plans need flexibility",
+        "Humidity at 81% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量150mmで雨季に相当",
+        "21日の雨日、屋外日程に注意が必要",
+        "湿度81%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量150mm，属于雨季",
+        "月内约21天雨天，户外行程需灵活安排",
+        "湿度81%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -385,22 +1387,82 @@
     "regionId": "lombok",
     "month": 5,
     "rating": 3,
-    "summary": "건기, 린자니산 트레킹 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 109mm로 우산 필수",
-      "비 오는 날이 14.6일로 실내 대안 준비 권장",
-      "습도가 80%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기, 린자니산 트레킹 최적기",
+      "en": "Dry season — the best time for Mt. Rinjani trekking",
+      "ja": "乾季、リンジャニ山トレッキング最適期",
+      "zh": "干季，林扎尼火山徒步的最佳时期"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 109mm로 우산 필수",
+        "비 오는 날이 14.6일로 실내 대안 준비 권장",
+        "습도가 80%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall of 109mm — umbrella essential",
+        "14.6 rainy days — have indoor backup plans ready",
+        "Humidity at 80% is somewhat high"
+      ],
+      "ja": [
+        "降水量109mm、傘が必須",
+        "14.6日の雨日、室内代替案の準備を推奨",
+        "湿度80%でやや高い"
+      ],
+      "zh": [
+        "降雨量109mm，雨伞必备",
+        "约14.6天雨天，建议准备室内备选方案",
+        "湿度80%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -408,20 +1470,74 @@
     "regionId": "lombok",
     "month": 6,
     "rating": 3,
-    "summary": "건기 절정, 맑은 바다와 길리섬 다이빙",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 16.8일 비가 와 야외 일정에 유의",
-      "습도 80%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 절정, 맑은 바다와 길리섬 다이빙",
+      "en": "Peak dry season with clear waters and Gili Islands diving",
+      "ja": "乾季のピーク、澄んだ海とギリ島ダイビング",
+      "zh": "干季高峰，吉利岛海水清澈，潜水体验绝佳"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 16.8일 비가 와 야외 일정에 유의",
+        "습도 80%로 불쾌지수 높음"
+      ],
+      "en": [
+        "16.8 rainy days — outdoor plans need flexibility",
+        "Humidity at 80% makes it feel uncomfortable"
+      ],
+      "ja": [
+        "16.8日の雨日、屋外日程に注意が必要",
+        "湿度80%で不快指数が高い"
+      ],
+      "zh": [
+        "月内约16.8天雨天，户外行程需灵活安排",
+        "湿度80%，不适感较明显"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -429,23 +1545,86 @@
     "regionId": "lombok",
     "month": 7,
     "rating": 4,
-    "summary": "건기, 서핑과 스노클링 최적 컨디션",
-    "highlights": [
-      "맑은 건기, 린자니 화산 트레킹",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 11.6일로 실내 대안 준비 권장",
-      "습도가 80%로 다소 높음"
-    ],
-    "events": [
-      "린자니 트레킹 최적기"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "건기, 서핑과 스노클링 최적 컨디션",
+      "en": "Dry season with optimal conditions for surfing and snorkeling",
+      "ja": "乾季、サーフィンとシュノーケリングに最適なコンディション",
+      "zh": "干季，冲浪与浮潜条件达到最佳"
+    },
+    "highlights": {
+      "ko": [
+        "맑은 건기, 린자니 화산 트레킹",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Clear dry season — Mt. Rinjani volcano trekking",
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "晴れた乾季、リンジャニ火山トレッキング",
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "晴朗干季，林扎尼火山徒步探险",
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.6일로 실내 대안 준비 권장",
+        "습도가 80%로 다소 높음"
+      ],
+      "en": [
+        "11.6 rainy days — have indoor backup plans ready",
+        "Humidity at 80% is somewhat high"
+      ],
+      "ja": [
+        "11.6日の雨日、室内代替案の準備を推奨",
+        "湿度80%でやや高い"
+      ],
+      "zh": [
+        "约11.6天雨天，建议准备室内备选方案",
+        "湿度80%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "린자니 트레킹 최적기"
+      ],
+      "en": [
+        "Best season for Mt. Rinjani trekking"
+      ],
+      "ja": [
+        "リンジャニ山トレッキング最適期"
+      ],
+      "zh": [
+        "林扎尼火山徒步的最佳时期"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
+      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
+      "zh": "薄长袖和开衫，早晚可能较凉"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -453,23 +1632,86 @@
     "regionId": "lombok",
     "month": 8,
     "rating": 4,
-    "summary": "건기 지속, 해양 액티비티 최고",
-    "highlights": [
-      "맑은 건기, 린자니 화산 트레킹",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 12.6일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
-    "events": [
-      "린자니 트레킹 최적기"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 지속, 해양 액티비티 최고",
+      "en": "Dry season continues with the best conditions for water activities",
+      "ja": "乾季が続き、海洋アクティビティに最高のコンディション",
+      "zh": "干季持续，水上活动条件最为优越"
+    },
+    "highlights": {
+      "ko": [
+        "맑은 건기, 린자니 화산 트레킹",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Clear dry season — Mt. Rinjani volcano trekking",
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "晴れた乾季、リンジャニ火山トレッキング",
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "晴朗干季，林扎尼火山徒步探险",
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.6일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "12.6 rainy days — have indoor backup plans ready",
+        "Humidity at 79% is somewhat high"
+      ],
+      "ja": [
+        "12.6日の雨日、室内代替案の準備を推奨",
+        "湿度79%でやや高い"
+      ],
+      "zh": [
+        "约12.6天雨天，建议准备室内备选方案",
+        "湿度79%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "린자니 트레킹 최적기"
+      ],
+      "en": [
+        "Best season for Mt. Rinjani trekking"
+      ],
+      "ja": [
+        "リンジャニ山トレッキング最適期"
+      ],
+      "zh": [
+        "林扎尼火山徒步的最佳时期"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -477,22 +1719,82 @@
     "regionId": "lombok",
     "month": 9,
     "rating": 3,
-    "summary": "건기 끝자락, 아직 좋은 컨디션",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 120mm로 우산 필수",
-      "월 18.2일 비가 와 야외 일정에 유의",
-      "습도가 80%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 끝자락, 아직 좋은 컨디션",
+      "en": "Tail end of dry season — still good conditions for outdoor activities",
+      "ja": "乾季の終わり、まだ良いコンディション",
+      "zh": "干季尾声，户外活动条件依然良好"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 120mm로 우산 필수",
+        "월 18.2일 비가 와 야외 일정에 유의",
+        "습도가 80%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall of 120mm — umbrella essential",
+        "18.2 rainy days — outdoor plans need flexibility",
+        "Humidity at 80% is somewhat high"
+      ],
+      "ja": [
+        "降水量120mm、傘が必須",
+        "18.2日の雨日、屋外日程に注意が必要",
+        "湿度80%でやや高い"
+      ],
+      "zh": [
+        "降雨量120mm，雨伞必备",
+        "月内约18.2天雨天，户外行程需灵活安排",
+        "湿度80%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -500,22 +1802,82 @@
     "regionId": "lombok",
     "month": 10,
     "rating": 2,
-    "summary": "과도기, 비가 조금씩 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 204mm로 우기에 해당",
-      "월 23.2일 비가 와 야외 일정에 유의",
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "과도기, 비가 조금씩 시작",
+      "en": "Transitional period as light rain starts",
+      "ja": "過渡期、雨が少しずつ降り始める",
+      "zh": "过渡期，零星降雨开始出现"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 204mm로 우기에 해당",
+        "월 23.2일 비가 와 야외 일정에 유의",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 204mm qualifies as rainy season",
+        "23.2 rainy days — outdoor plans need flexibility",
+        "Humidity at 81% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量204mmで雨季に相当",
+        "23.2日の雨日、屋外日程に注意が必要",
+        "湿度81%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量204mm，属于雨季",
+        "月内约23.2天雨天，户外行程需灵活安排",
+        "湿度81%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -523,22 +1885,82 @@
     "regionId": "lombok",
     "month": 11,
     "rating": 2,
-    "summary": "우기 시작, 야외 활동 제한",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 318mm로 우기에 해당",
-      "월 27.8일 비가 와 야외 일정에 유의",
-      "습도 83%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기 시작, 야외 활동 제한",
+      "en": "Rainy season begins — outdoor activities become limited",
+      "ja": "雨季が始まり、屋外活動が制限される",
+      "zh": "雨季开始，户外活动受到限制"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 318mm로 우기에 해당",
+        "월 27.8일 비가 와 야외 일정에 유의",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 318mm qualifies as rainy season",
+        "27.8 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 83% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量318mmで雨季に相当",
+        "27.8日の雨日、屋外日程に注意が必要",
+        "湿度83%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量318mm，属于雨季",
+        "月内约27.8天雨天，户外行程需充分灵活安排",
+        "湿度83%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -546,22 +1968,82 @@
     "regionId": "lombok",
     "month": 12,
     "rating": 2,
-    "summary": "우기, 해양 활동 어려운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 286mm로 우기에 해당",
-      "월 28일 비가 와 야외 일정에 유의",
-      "습도 84%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기, 해양 활동 어려운 시기",
+      "en": "Rainy season makes water activities difficult",
+      "ja": "雨季、海洋活動が難しい時期",
+      "zh": "雨季期间，水上活动困难重重"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 286mm로 우기에 해당",
+        "월 28일 비가 와 야외 일정에 유의",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 286mm qualifies as rainy season",
+        "28 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 84% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量286mmで雨季に相当",
+        "28日の雨日、屋外日程に注意が必要",
+        "湿度84%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量286mm，属于雨季",
+        "月内约28天雨天，户外行程需充分灵活安排",
+        "湿度84%，不适感较强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -569,20 +2051,74 @@
     "regionId": "jakarta",
     "month": 1,
     "rating": 1,
-    "summary": "우기 절정, 심각한 도시 침수가 매년 반복",
-    "highlights": [
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 343mm로 우기에 해당",
-      "월 28.4일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기 절정, 심각한 도시 침수가 매년 반복",
+      "en": "Peak rainy season with serious annual urban flooding",
+      "ja": "雨季のピーク、毎年繰り返される深刻な都市浸水",
+      "zh": "雨季高峰，每年都会发生严重的城市内涝"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "快適な気温"
+      ],
+      "zh": [
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 343mm로 우기에 해당",
+        "월 28.4일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 343mm qualifies as rainy season",
+        "28.4 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 85% makes it feel very uncomfortable"
+      ],
+      "ja": [
+        "月降水量343mmで雨季に相当",
+        "28.4日の雨日、屋外日程に注意が必要",
+        "湿度85%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量343mm，属于雨季",
+        "月内约28.4天雨天，户外行程需充分灵活安排",
+        "湿度85%，不适感较强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -590,20 +2126,74 @@
     "regionId": "jakarta",
     "month": 2,
     "rating": 1,
-    "summary": "우기, 홍수와 교통 마비 빈번",
-    "highlights": [
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 268mm로 우기에 해당",
-      "월 26.4일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기, 홍수와 교통 마비 빈번",
+      "en": "Rainy season with frequent flooding and traffic paralysis",
+      "ja": "雨季、洪水と交通麻痺が頻繁に発生",
+      "zh": "雨季期间，洪水与交通瘫痪频繁发生"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "快適な気温"
+      ],
+      "zh": [
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 268mm로 우기에 해당",
+        "월 26.4일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 268mm qualifies as rainy season",
+        "26.4 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 86% makes it feel very uncomfortable"
+      ],
+      "ja": [
+        "月降水量268mmで雨季に相当",
+        "26.4日の雨日、屋外日程に注意が必要",
+        "湿度86%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量268mm，属于雨季",
+        "月内约26.4天雨天，户外行程需充分灵活安排",
+        "湿度86%，不适感较强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -611,22 +2201,82 @@
     "regionId": "jakarta",
     "month": 3,
     "rating": 1,
-    "summary": "우기 끝자락, 비 줄어들지만 습도 높음",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 278mm로 우기에 해당",
-      "월 29.4일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기 끝자락, 비 줄어들지만 습도 높음",
+      "en": "End of rainy season — rain decreases but humidity remains high",
+      "ja": "雨季の終わり、雨は減るが湿度は高い",
+      "zh": "雨季尾声，降雨减少但湿度依然偏高"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 278mm로 우기에 해당",
+        "월 29.4일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 278mm qualifies as rainy season",
+        "29.4 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 85% makes it feel very uncomfortable"
+      ],
+      "ja": [
+        "月降水量278mmで雨季に相当",
+        "29.4日の雨日、屋外日程に注意が必要",
+        "湿度85%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量278mm，属于雨季",
+        "月内约29.4天雨天，户外行程需充分灵活安排",
+        "湿度85%，不适感较强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -634,22 +2284,82 @@
     "regionId": "jakarta",
     "month": 4,
     "rating": 2,
-    "summary": "과도기, 비가 줄고 야외 관광 가능해지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 214mm로 우기에 해당",
-      "월 26.8일 비가 와 야외 일정에 유의",
-      "습도 84%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "과도기, 비가 줄고 야외 관광 가능해지는 시기",
+      "en": "Transitional period — rain decreases and outdoor sightseeing becomes possible",
+      "ja": "過渡期、雨が減り屋外観光ができるようになる時期",
+      "zh": "过渡期，降雨减少，户外观光变得可行"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 214mm로 우기에 해당",
+        "월 26.8일 비가 와 야외 일정에 유의",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 214mm qualifies as rainy season",
+        "26.8 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 84% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量214mmで雨季に相当",
+        "26.8日の雨日、屋外日程に注意が必要",
+        "湿度84%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量214mm，属于雨季",
+        "月内约26.8天雨天，户外行程需充分灵活安排",
+        "湿度84%，不适感较强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -657,22 +2367,82 @@
     "regionId": "jakarta",
     "month": 5,
     "rating": 2,
-    "summary": "건기 시작, 도시 관광 쾌적해지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 181mm로 우기에 해당",
-      "월 25.8일 비가 와 야외 일정에 유의",
-      "습도 84%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 시작, 도시 관광 쾌적해지는 시기",
+      "en": "Dry season begins — city sightseeing becomes pleasant",
+      "ja": "乾季が始まり、市内観光が快適になる時期",
+      "zh": "干季开始，城市观光变得舒适宜人"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 181mm로 우기에 해당",
+        "월 25.8일 비가 와 야외 일정에 유의",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 181mm qualifies as rainy season",
+        "25.8 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 84% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量181mmで雨季に相当",
+        "25.8日の雨日、屋外日程に注意が必要",
+        "湿度84%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量181mm，属于雨季",
+        "月内约25.8天雨天，户外行程需充分灵活安排",
+        "湿度84%，不适感较强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -680,22 +2450,82 @@
     "regionId": "jakarta",
     "month": 6,
     "rating": 2,
-    "summary": "건기, 맑은 날씨의 도시 관광",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 152mm로 우기에 해당",
-      "월 24.2일 비가 와 야외 일정에 유의",
-      "습도 84%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기, 맑은 날씨의 도시 관광",
+      "en": "Dry season with clear weather — great for city sightseeing",
+      "ja": "乾季、晴れた天気の市内観光",
+      "zh": "干季晴朗，城市观光的好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 152mm로 우기에 해당",
+        "월 24.2일 비가 와 야외 일정에 유의",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 152mm qualifies as rainy season",
+        "24.2 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 84% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量152mmで雨季に相当",
+        "24.2日の雨日、屋外日程に注意が必要",
+        "湿度84%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量152mm，属于雨季",
+        "月内约24.2天雨天，户外行程需充分灵活安排",
+        "湿度84%，不适感较强"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -703,20 +2533,74 @@
     "regionId": "jakarta",
     "month": 7,
     "rating": 3,
-    "summary": "건기 절정, 가장 쾌적한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 14.2일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 절정, 가장 쾌적한 시기",
+      "en": "Peak dry season — the most comfortable time of year",
+      "ja": "乾季のピーク、最も快適な時期",
+      "zh": "干季高峰，全年最为舒适的时期"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 14.2일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "14.2 rainy days — have indoor backup plans ready",
+        "Humidity at 78% is somewhat high"
+      ],
+      "ja": [
+        "14.2日の雨日、室内代替案の準備を推奨",
+        "湿度78%でやや高い"
+      ],
+      "zh": [
+        "约14.2天雨天，建议准备室内备选方案",
+        "湿度78%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -724,20 +2608,74 @@
     "regionId": "jakarta",
     "month": 8,
     "rating": 4,
-    "summary": "건기, 독립기념일(8/17) 행사 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기, 독립기념일(8/17) 행사 시즌",
+      "en": "Dry season — Independence Day (August 17) celebration season",
+      "ja": "乾季、独立記念日（8/17）のイベントシーズン",
+      "zh": "干季时节，迎来独立日（8月17日）庆典季"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Warm weather ideal for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "暖かい天気でビーチ活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "天气温暖，非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "13.6 rainy days — have indoor backup plans ready",
+        "Humidity at 75% is somewhat high"
+      ],
+      "ja": [
+        "13.6日の雨日、室内代替案の準備を推奨",
+        "湿度75%でやや高い"
+      ],
+      "zh": [
+        "约13.6天雨天，建议准备室内备选方案",
+        "湿度75%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -745,22 +2683,82 @@
     "regionId": "jakarta",
     "month": 9,
     "rating": 3,
-    "summary": "건기 끝자락, 아직 쾌적",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "강수량이 119mm로 우산 필수",
-      "월 16.8일 비가 와 야외 일정에 유의",
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 끝자락, 아직 쾌적",
+      "en": "Tail end of dry season — still comfortable",
+      "ja": "乾季の終わり、まだ快適",
+      "zh": "干季尾声，仍然舒适宜人"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Warm weather ideal for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "暖かい天気でビーチ活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "天气温暖，非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 119mm로 우산 필수",
+        "월 16.8일 비가 와 야외 일정에 유의",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall of 119mm — umbrella essential",
+        "16.8 rainy days — outdoor plans need flexibility",
+        "Humidity at 76% is somewhat high"
+      ],
+      "ja": [
+        "降水量119mm、傘が必須",
+        "16.8日の雨日、屋外日程に注意が必要",
+        "湿度76%でやや高い"
+      ],
+      "zh": [
+        "降雨量119mm，雨伞必备",
+        "月内约16.8天雨天，户外行程需灵活安排",
+        "湿度76%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -768,22 +2766,82 @@
     "regionId": "jakarta",
     "month": 10,
     "rating": 2,
-    "summary": "과도기, 비가 조금씩 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "월 강수량 175mm로 우기에 해당",
-      "월 23.6일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "과도기, 비가 조금씩 시작",
+      "en": "Transitional period as light rain starts",
+      "ja": "過渡期、雨が少しずつ降り始める",
+      "zh": "过渡期，零星降雨开始出现"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Warm weather ideal for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "暖かい天気でビーチ活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "天气温暖，非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 175mm로 우기에 해당",
+        "월 23.6일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 175mm qualifies as rainy season",
+        "23.6 rainy days — outdoor plans need flexibility",
+        "Humidity at 78% is somewhat high"
+      ],
+      "ja": [
+        "月降水量175mmで雨季に相当",
+        "23.6日の雨日、屋外日程に注意が必要",
+        "湿度78%でやや高い"
+      ],
+      "zh": [
+        "月降雨量175mm，属于雨季",
+        "月内约23.6天雨天，户外行程需灵活安排",
+        "湿度78%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -791,22 +2849,82 @@
     "regionId": "jakarta",
     "month": 11,
     "rating": 2,
-    "summary": "우기 시작, 도로 침수 주의",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 251mm로 우기에 해당",
-      "월 26.8일 비가 와 야외 일정에 유의",
-      "습도 83%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기 시작, 도로 침수 주의",
+      "en": "Rainy season begins — watch out for road flooding",
+      "ja": "雨季が始まり、道路浸水に注意",
+      "zh": "雨季开始，注意道路积水"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 251mm로 우기에 해당",
+        "월 26.8일 비가 와 야외 일정에 유의",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 251mm qualifies as rainy season",
+        "26.8 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 83% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量251mmで雨季に相当",
+        "26.8日の雨日、屋外日程に注意が必要",
+        "湿度83%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量251mm，属于雨季",
+        "月内约26.8天雨天，户外行程需充分灵活安排",
+        "湿度83%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -814,22 +2932,82 @@
     "regionId": "jakarta",
     "month": 12,
     "rating": 2,
-    "summary": "우기, 침수 위험 증가하는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 271mm로 우기에 해당",
-      "월 27.6일 비가 와 야외 일정에 유의",
-      "습도 83%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "우기, 침수 위험 증가하는 시기",
+      "en": "Rainy season with increasing flood risk",
+      "ja": "雨季、浸水リスクが増加する時期",
+      "zh": "雨季期间，洪涝风险持续上升"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 271mm로 우기에 해당",
+        "월 27.6일 비가 와 야외 일정에 유의",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 271mm qualifies as rainy season",
+        "27.6 rainy days — outdoor plans need significant flexibility",
+        "Humidity at 83% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "月降水量271mmで雨季に相当",
+        "27.6日の雨日、屋外日程に注意が必要",
+        "湿度83%で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量271mm，属于雨季",
+        "月内约27.6天雨天，户外行程需充分灵活安排",
+        "湿度83%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves and light long pants. UV protection essential",
+      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
+      "zh": "短袖和薄长裤，防晒必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

@@ -3,7 +3,9 @@
     "id": "japan",
     "name": {
       "ko": "일본",
-      "en": "Japan"
+      "en": "Japan",
+      "ja": "日本",
+      "zh": "日本"
     },
     "continent": "asia",
     "regionCount": 4,
@@ -14,7 +16,9 @@
     "id": "thailand",
     "name": {
       "ko": "태국",
-      "en": "Thailand"
+      "en": "Thailand",
+      "ja": "タイ",
+      "zh": "泰国"
     },
     "continent": "asia",
     "regionCount": 3,
@@ -25,7 +29,9 @@
     "id": "france",
     "name": {
       "ko": "프랑스",
-      "en": "France"
+      "en": "France",
+      "ja": "フランス",
+      "zh": "法国"
     },
     "continent": "europe",
     "regionCount": 2,
@@ -36,7 +42,9 @@
     "id": "usa",
     "name": {
       "ko": "미국",
-      "en": "United States"
+      "en": "United States",
+      "ja": "アメリカ",
+      "zh": "美国"
     },
     "continent": "north-america",
     "regionCount": 3,
@@ -47,7 +55,9 @@
     "id": "australia",
     "name": {
       "ko": "호주",
-      "en": "Australia"
+      "en": "Australia",
+      "ja": "オーストラリア",
+      "zh": "澳大利亚"
     },
     "continent": "oceania",
     "regionCount": 2,
@@ -58,7 +68,9 @@
     "id": "vietnam",
     "name": {
       "ko": "베트남",
-      "en": "Vietnam"
+      "en": "Vietnam",
+      "ja": "ベトナム",
+      "zh": "越南"
     },
     "continent": "asia",
     "regionCount": 3,
@@ -69,7 +81,9 @@
     "id": "philippines",
     "name": {
       "ko": "필리핀",
-      "en": "Philippines"
+      "en": "Philippines",
+      "ja": "フィリピン",
+      "zh": "菲律宾"
     },
     "continent": "asia",
     "regionCount": 3,
@@ -80,7 +94,9 @@
     "id": "singapore",
     "name": {
       "ko": "싱가포르",
-      "en": "Singapore"
+      "en": "Singapore",
+      "ja": "シンガポール",
+      "zh": "新加坡"
     },
     "continent": "asia",
     "regionCount": 1,
@@ -91,7 +107,9 @@
     "id": "indonesia",
     "name": {
       "ko": "인도네시아",
-      "en": "Indonesia"
+      "en": "Indonesia",
+      "ja": "インドネシア",
+      "zh": "印度尼西亚"
     },
     "continent": "asia",
     "regionCount": 3,
@@ -102,7 +120,9 @@
     "id": "taiwan",
     "name": {
       "ko": "대만",
-      "en": "Taiwan"
+      "en": "Taiwan",
+      "ja": "台湾",
+      "zh": "台湾"
     },
     "continent": "asia",
     "regionCount": 2,
@@ -113,7 +133,9 @@
     "id": "spain",
     "name": {
       "ko": "스페인",
-      "en": "Spain"
+      "en": "Spain",
+      "ja": "スペイン",
+      "zh": "西班牙"
     },
     "continent": "europe",
     "regionCount": 3,
@@ -124,7 +146,9 @@
     "id": "italy",
     "name": {
       "ko": "이탈리아",
-      "en": "Italy"
+      "en": "Italy",
+      "ja": "イタリア",
+      "zh": "意大利"
     },
     "continent": "europe",
     "regionCount": 3,
@@ -135,7 +159,9 @@
     "id": "uk",
     "name": {
       "ko": "영국",
-      "en": "United Kingdom"
+      "en": "United Kingdom",
+      "ja": "イギリス",
+      "zh": "英国"
     },
     "continent": "europe",
     "regionCount": 2,
@@ -146,7 +172,9 @@
     "id": "turkey",
     "name": {
       "ko": "터키",
-      "en": "Turkey"
+      "en": "Turkey",
+      "ja": "トルコ",
+      "zh": "土耳其"
     },
     "continent": "europe",
     "regionCount": 3,
@@ -157,7 +185,9 @@
     "id": "greece",
     "name": {
       "ko": "그리스",
-      "en": "Greece"
+      "en": "Greece",
+      "ja": "ギリシャ",
+      "zh": "希腊"
     },
     "continent": "europe",
     "regionCount": 3,

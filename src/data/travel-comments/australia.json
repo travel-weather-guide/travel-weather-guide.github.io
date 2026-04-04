@@ -3,26 +3,98 @@
     "regionId": "sydney",
     "month": 1,
     "rating": 3,
-    "summary": "한여름 성수기, 본다이 비치와 야외 축제",
-    "highlights": [
-      "호주의 여름, 해변과 야외 활동 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 115mm로 우산 필수",
-      "월 15.2일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "시드니 새해 불꽃놀이 (12월 31일)",
-      "호주 데이 (1월 26일)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "한여름 성수기, 본다이 비치와 야외 축제",
+      "en": "Peak summer season with Bondi Beach and outdoor festivals",
+      "ja": "真夏の繁忙期、ボンダイビーチと屋外フェスティバル",
+      "zh": "夏季旺季，邦迪海滩与户外节庆热闹非凡"
+    },
+    "highlights": {
+      "ko": [
+        "호주의 여름, 해변과 야외 활동 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Australian summer — perfect for beaches and outdoor activities",
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "オーストラリアの夏、ビーチと屋外活動に最適",
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "澳大利亚夏天，海滩和户外活动最为适宜",
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 115mm로 우산 필수",
+        "월 15.2일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall of 115mm — umbrella essential",
+        "15.2 rainy days — outdoor plans need flexibility",
+        "Humidity at 78% is somewhat high"
+      ],
+      "ja": [
+        "降水量115mm、傘が必須",
+        "15.2日の雨日、屋外日程に注意が必要",
+        "湿度78%でやや高い"
+      ],
+      "zh": [
+        "降雨量115mm，雨伞必备",
+        "月内约15.2天雨天，户外行程需灵活安排",
+        "湿度78%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "시드니 새해 불꽃놀이 (12월 31일)",
+        "호주 데이 (1월 26일)"
+      ],
+      "en": [
+        "Sydney New Year's Eve fireworks (December 31)",
+        "Australia Day (January 26)"
+      ],
+      "ja": [
+        "シドニー年越し花火（12月31日）",
+        "オーストラリアデー（1月26日）"
+      ],
+      "zh": [
+        "悉尼新年烟火（12月31日）",
+        "澳大利亚国庆日（1月26日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
+      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
+      "zh": "薄长袖和开衫，早晚可能较凉"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -30,26 +102,98 @@
     "regionId": "sydney",
     "month": 2,
     "rating": 3,
-    "summary": "여름 지속, 시드니 마디그라 축제",
-    "highlights": [
-      "호주의 여름, 해변과 야외 활동 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 125mm로 우산 필수",
-      "월 16.2일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "시드니 새해 불꽃놀이 (12월 31일)",
-      "호주 데이 (1월 26일)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 지속, 시드니 마디그라 축제",
+      "en": "Summer continues with the Sydney Mardi Gras festival",
+      "ja": "夏が続き、シドニーマルディグラ祭り",
+      "zh": "夏季持续，悉尼狂欢节精彩纷呈"
+    },
+    "highlights": {
+      "ko": [
+        "호주의 여름, 해변과 야외 활동 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Australian summer — perfect for beaches and outdoor activities",
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "オーストラリアの夏、ビーチと屋外活動に最適",
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "澳大利亚夏天，海滩和户外活动最为适宜",
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 125mm로 우산 필수",
+        "월 16.2일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall of 125mm — umbrella essential",
+        "16.2 rainy days — outdoor plans need flexibility",
+        "Humidity at 78% is somewhat high"
+      ],
+      "ja": [
+        "降水量125mm、傘が必須",
+        "16.2日の雨日、屋外日程に注意が必要",
+        "湿度78%でやや高い"
+      ],
+      "zh": [
+        "降雨量125mm，雨伞必备",
+        "月내약16.2天雨天，户外行程需灵활安排",
+        "湿度78%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "시드니 새해 불꽃놀이 (12월 31일)",
+        "호주 데이 (1월 26일)"
+      ],
+      "en": [
+        "Sydney New Year's Eve fireworks (December 31)",
+        "Australia Day (January 26)"
+      ],
+      "ja": [
+        "シドニー年越し花火（12月31日）",
+        "オーストラリアデー（1月26日）"
+      ],
+      "zh": [
+        "悉尼新年烟火（12月31日）",
+        "澳大利亚国庆日（1月26日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
+      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
+      "zh": "薄长袖和开衫，早晚可能较凉"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -57,26 +201,98 @@
     "regionId": "sydney",
     "month": 3,
     "rating": 3,
-    "summary": "가을 시작, 아직 해변을 즐길 수 있는 시기",
-    "highlights": [
-      "가을 시작, 쾌적한 날씨",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 186mm로 우기에 해당",
-      "월 17일 비가 와 야외 일정에 유의",
-      "습도가 79%로 다소 높음"
-    ],
-    "events": [
-      "시드니 마디그라 (2~3월)",
-      "시드니 로열 이스터 쇼 (3~4월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "가을 시작, 아직 해변을 즐길 수 있는 시기",
+      "en": "Autumn begins — you can still enjoy the beaches",
+      "ja": "秋の始まり、まだビーチを楽しめる時期",
+      "zh": "秋天开始，仍可享受海滩时光"
+    },
+    "highlights": {
+      "ko": [
+        "가을 시작, 쾌적한 날씨",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn begins with pleasant weather",
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "秋の始まり、快適な天気",
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋天开始，天气宜人",
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 186mm로 우기에 해당",
+        "월 17일 비가 와 야외 일정에 유의",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall of 186mm qualifies as rainy season",
+        "Rain on 17 days this month — take care with outdoor plans",
+        "Humidity at 79% is somewhat high"
+      ],
+      "ja": [
+        "月降水量186mmで雨季に相当",
+        "月17日雨が降るため、屋外の予定に注意",
+        "湿度79%でやや高い"
+      ],
+      "zh": [
+        "月降雨量186mm，属于雨季",
+        "本月约17天有雨，户外行程需多加注意",
+        "湿度79%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "시드니 마디그라 (2~3월)",
+        "시드니 로열 이스터 쇼 (3~4월)"
+      ],
+      "en": [
+        "Sydney Mardi Gras (February–March)",
+        "Sydney Royal Easter Show (March–April)"
+      ],
+      "ja": [
+        "シドニーマルディグラ（2〜3月）",
+        "シドニーロイヤルイースターショー（3〜4月）"
+      ],
+      "zh": [
+        "悉尼狂欢节（2至3月）",
+        "悉尼皇家复活节展（3至4月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
+      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
+      "zh": "薄长袖和开衫，早晚可能较凉"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -84,26 +300,98 @@
     "regionId": "sydney",
     "month": 4,
     "rating": 3,
-    "summary": "가을 단풍, 쾌적한 기온의 시드니",
-    "highlights": [
-      "가을 시작, 쾌적한 날씨",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 104mm로 우산 필수",
-      "비 오는 날이 11.4일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "시드니 마디그라 (2~3월)",
-      "시드니 로열 이스터 쇼 (3~4월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "가을 단풍, 쾌적한 기온의 시드니",
+      "en": "Autumn foliage with comfortable temperatures in Sydney",
+      "ja": "秋の紅葉、快適な気温のシドニー",
+      "zh": "秋日红叶，悉尼气温宜人"
+    },
+    "highlights": {
+      "ko": [
+        "가을 시작, 쾌적한 날씨",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn begins with pleasant weather",
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "秋の始まり、快適な天気",
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋天开始，天气宜人",
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 104mm로 우산 필수",
+        "비 오는 날이 11.4일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall of 104mm — umbrella essential",
+        "11.4 rainy days — have indoor backup plans ready",
+        "Humidity at 77% is somewhat high"
+      ],
+      "ja": [
+        "降水量104mm、傘が必須",
+        "11.4日の雨日、室内代替案の準備を推奨",
+        "湿度77%でやや高い"
+      ],
+      "zh": [
+        "降雨量104mm，雨伞必备",
+        "约11.4天雨天，建议准备室内备选方案",
+        "湿度77%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "시드니 마디그라 (2~3월)",
+        "시드니 로열 이스터 쇼 (3~4월)"
+      ],
+      "en": [
+        "Sydney Mardi Gras (February–March)",
+        "Sydney Royal Easter Show (March–April)"
+      ],
+      "ja": [
+        "シドニーマルディグラ（2〜3月）",
+        "シドニーロイヤルイースターショー（3〜4月）"
+      ],
+      "zh": [
+        "悉尼狂欢节（2至3月）",
+        "悉尼皇家复活节展（3至4月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -111,19 +399,70 @@
     "regionId": "sydney",
     "month": 5,
     "rating": 3,
-    "summary": "가을 끝자락, 선선해지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.6일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "가을 끝자락, 선선해지는 시기",
+      "en": "Late autumn as temperatures cool down",
+      "ja": "秋の終わり、涼しくなる時期",
+      "zh": "深秋时节，气温逐渐转凉"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.6일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "10.6 rainy days — have indoor backup plans ready",
+        "Humidity at 77% is somewhat high"
+      ],
+      "ja": [
+        "10.6日の雨日、室内代替案の準備を推奨",
+        "湿度77%でやや高い"
+      ],
+      "zh": [
+        "约10.6天雨天，建议准备室内备选方案",
+        "湿度77%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -131,18 +470,66 @@
     "regionId": "sydney",
     "month": 6,
     "rating": 3,
-    "summary": "겨울 시작, 야외 활동이 줄어드는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울 시작, 야외 활동이 줄어드는 시기",
+      "en": "Winter begins as outdoor activities decrease",
+      "ja": "冬の始まり、屋外活動が減る時期",
+      "zh": "冬季开始，户外活动逐渐减少"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Humidity at 75% is somewhat high"
+      ],
+      "ja": [
+        "湿度75%でやや高い"
+      ],
+      "zh": [
+        "湿度75%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -150,20 +537,74 @@
     "regionId": "sydney",
     "month": 7,
     "rating": 3,
-    "summary": "겨울 한가운데, 비비드 시드니 축제",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 103mm로 우산 필수",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울 한가운데, 비비드 시드니 축제",
+      "en": "Midwinter with the Vivid Sydney festival",
+      "ja": "冬の真っ只中、ビビッドシドニーフェスティバル",
+      "zh": "隆冬时节，悉尼灯光音乐节（Vivid Sydney）精彩上演"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 103mm로 우산 필수",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall of 103mm — umbrella essential",
+        "Humidity at 74% is somewhat high"
+      ],
+      "ja": [
+        "降水量103mm、傘が必須",
+        "湿度74%でやや高い"
+      ],
+      "zh": [
+        "降雨量103mm，雨伞必备",
+        "湿度74%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -171,18 +612,66 @@
     "regionId": "sydney",
     "month": 8,
     "rating": 3,
-    "summary": "겨울 끝자락, 봄이 오기 전 가장 추운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 71%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울 끝자락, 봄이 오기 전 가장 추운 시기",
+      "en": "Late winter — the coldest period before spring arrives",
+      "ja": "冬の終わり、春が来る前の最も寒い時期",
+      "zh": "冬末时节，春天来临前最寒冷的时段"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Humidity at 71% is somewhat high"
+      ],
+      "ja": [
+        "湿度71%でやや高い"
+      ],
+      "zh": [
+        "湿度71%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -190,16 +679,58 @@
     "regionId": "sydney",
     "month": 9,
     "rating": 4,
-    "summary": "봄 시작, 꽃이 피고 기온이 올라가는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "봄 시작, 꽃이 피고 기온이 올라가는 시기",
+      "en": "Spring begins as flowers bloom and temperatures rise",
+      "ja": "春の始まり、花が咲き気温が上がる時期",
+      "zh": "春天来临，百花盛开，气温回升"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -207,19 +738,70 @@
     "regionId": "sydney",
     "month": 10,
     "rating": 4,
-    "summary": "봄 한가운데, 야외 활동 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 12.2일로 실내 대안 준비 권장",
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "봄 한가운데, 야외 활동 최적기",
+      "en": "Mid-spring — the best time for outdoor activities",
+      "ja": "春の真っ只中、屋外活動に最適な時期",
+      "zh": "春季正中，户外活动的最佳时期"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.2일로 실내 대안 준비 권장",
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "12.2 rainy days — have indoor backup plans ready",
+        "Humidity at 72% — somewhat high"
+      ],
+      "ja": [
+        "12.2日の雨日、室内代替案の準備を推奨",
+        "湿度72%でやや高め"
+      ],
+      "zh": [
+        "약12.2天雨天，建议准备室内备选方案",
+        "湿度72%，稍显偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -227,22 +809,82 @@
     "regionId": "sydney",
     "month": 11,
     "rating": 3,
-    "summary": "봄 끝자락, 여름 직전의 쾌적한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 101mm로 우산 필수",
-      "비 오는 날이 13.2일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "봄 끝자락, 여름 직전의 쾌적한 시기",
+      "en": "Late spring — a pleasant time just before summer",
+      "ja": "春の終わり、夏直前の快適な時期",
+      "zh": "晚春时节，夏天来临前的舒适时光"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 101mm로 우산 필수",
+        "비 오는 날이 13.2일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall of 101mm — umbrella essential",
+        "13.2 rainy days — have indoor backup plans ready",
+        "Humidity at 75% is somewhat high"
+      ],
+      "ja": [
+        "降水量101mm、傘が必須",
+        "13.2日の雨日、室内代替案の準備を推奨",
+        "湿度75%でやや高い"
+      ],
+      "zh": [
+        "降雨量101mm，雨伞必备",
+        "约13.2天雨天，建议准备室内备选方案",
+        "湿度75%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -250,24 +892,90 @@
     "regionId": "sydney",
     "month": 12,
     "rating": 4,
-    "summary": "여름 시작, NYE 불꽃축제와 해변 시즌",
-    "highlights": [
-      "호주의 여름, 해변과 야외 활동 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 12.2일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "시드니 새해 불꽃놀이 (12월 31일)",
-      "호주 데이 (1월 26일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 시작, NYE 불꽃축제와 해변 시즌",
+      "en": "Summer begins with NYE fireworks and beach season",
+      "ja": "夏の始まり、年越し花火とビーチシーズン",
+      "zh": "夏季来临，新年烟火与海滩季节开幕"
+    },
+    "highlights": {
+      "ko": [
+        "호주의 여름, 해변과 야외 활동 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Australian summer — perfect for beaches and outdoor activities",
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "オーストラリアの夏、ビーチと屋外活動に最適",
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "澳大利亚夏天，海滩和户外活动最为适宜",
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.2일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "12.2 rainy days — have indoor backup plans ready",
+        "Humidity at 75% is somewhat high"
+      ],
+      "ja": [
+        "12.2日の雨日、室内代替案の準備を推奨",
+        "湿度75%でやや高い"
+      ],
+      "zh": [
+        "약12.2天雨天，建议准备室内备选方案",
+        "湿度75%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "시드니 새해 불꽃놀이 (12월 31일)",
+        "호주 데이 (1월 26일)"
+      ],
+      "en": [
+        "Sydney New Year's Eve fireworks (December 31)",
+        "Australia Day (January 26)"
+      ],
+      "ja": [
+        "シドニー年越し花火（12月31日）",
+        "オーストラリアデー（1月26日）"
+      ],
+      "zh": [
+        "悉尼新年烟火（12月31日）",
+        "澳大利亚国庆日（1月26日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
+      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
+      "zh": "薄长袖和开衫，早晚可能较凉"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -275,21 +983,78 @@
     "regionId": "melbourne",
     "month": 1,
     "rating": 4,
-    "summary": "한여름, 호주 오픈 테니스 시즌",
-    "highlights": [
-      "호주의 여름, 다양한 페스티벌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "호주 오픈 테니스 (1월)",
-      "멜버른 컵 (11월, 인근)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "한여름, 호주 오픈 테니스 시즌",
+      "en": "Midsummer with the Australian Open tennis season",
+      "ja": "真夏、全豪オープンテニスシーズン",
+      "zh": "盛夏时节，澳大利亚网球公开赛赛季"
+    },
+    "highlights": {
+      "ko": [
+        "호주의 여름, 다양한 페스티벌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Australian summer — diverse festivals across the country",
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "オーストラリアの夏、様々なフェスティバル",
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "澳大利亚的夏天，各类节庆活动丰富多彩",
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "호주 오픈 테니스 (1월)",
+        "멜버른 컵 (11월, 인근)"
+      ],
+      "en": [
+        "Australian Open Tennis (January)",
+        "Melbourne Cup (November, nearby)"
+      ],
+      "ja": [
+        "全豪オープンテニス（1月）",
+        "メルボルンカップ（11月、近隣）"
+      ],
+      "zh": [
+        "澳大利亚网球公开赛（1月）",
+        "墨尔本杯赛马（11月，附近举行）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
+      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
+      "zh": "薄长袖和开衫，早晚可能较凉"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -297,22 +1062,82 @@
     "regionId": "melbourne",
     "month": 2,
     "rating": 4,
-    "summary": "여름 지속, 해변과 야외 바 시즌",
-    "highlights": [
-      "호주의 여름, 다양한 페스티벌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "호주 오픈 테니스 (1월)",
-      "멜버른 컵 (11월, 인근)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 지속, 해변과 야외 바 시즌",
+      "en": "Summer continues with beaches and outdoor bar season",
+      "ja": "夏が続き、ビーチと屋外バーシーズン",
+      "zh": "夏季持续，海滩与户外酒吧季节正当时"
+    },
+    "highlights": {
+      "ko": [
+        "호주의 여름, 다양한 페스티벌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Australian summer — diverse festivals across the country",
+        "Long sunshine hours make it great for outdoor activities",
+        "Low rainfall means many clear sunny days",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "オーストラリアの夏、様々なフェスティバル",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "澳大利亚的夏天，各类节庆活动丰富多彩",
+        "日照时间充足，非常适合户外活动",
+        "降雨量少，晴天居多",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "호주 오픈 테니스 (1월)",
+        "멜버른 컵 (11월, 인근)"
+      ],
+      "en": [
+        "Australian Open Tennis (January)",
+        "Melbourne Cup (November, nearby)"
+      ],
+      "ja": [
+        "全豪オープンテニス（1月）",
+        "メルボルンカップ（11月、近隣）"
+      ],
+      "zh": [
+        "澳大利亚网球公开赛（1月）",
+        "墨尔本杯赛马（11月，附近举行）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -320,24 +1145,90 @@
     "regionId": "melbourne",
     "month": 3,
     "rating": 4,
-    "summary": "가을 시작, F1 그랑프리 개최",
-    "highlights": [
-      "호주의 여름, 다양한 페스티벌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 70%로 다소 높음"
-    ],
-    "events": [
-      "호주 오픈 테니스 (1월)",
-      "멜버른 컵 (11월, 인근)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "가을 시작, F1 그랑프리 개최",
+      "en": "Autumn begins with the F1 Grand Prix",
+      "ja": "秋の始まり、F1グランプリ開催",
+      "zh": "秋天开始，F1大奖赛隆重举行"
+    },
+    "highlights": {
+      "ko": [
+        "호주의 여름, 다양한 페스티벌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Australian summer — diverse festivals across the country",
+        "Long sunshine hours make it great for outdoor activities",
+        "Low rainfall means many clear sunny days",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "オーストラリアの夏、様々なフェスティバル",
+        "日照時間が長く、屋外活動に最適",
+        "降水量が少なく晴れの日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "澳大利亚的夏天，各类节庆活动丰富多彩",
+        "日照时间充足，非常适合户外活动",
+        "降雨量少，晴天居多",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 70%로 다소 높음"
+      ],
+      "en": [
+        "Humidity at 70% is somewhat high"
+      ],
+      "ja": [
+        "湿度70%でやや高い"
+      ],
+      "zh": [
+        "湿度70%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "호주 오픈 테니스 (1월)",
+        "멜버른 컵 (11월, 인근)"
+      ],
+      "en": [
+        "Australian Open Tennis (January)",
+        "Melbourne Cup (November, nearby)"
+      ],
+      "ja": [
+        "全豪オープンテニス（1月）",
+        "メルボルンカップ（11月、近隣）"
+      ],
+      "zh": [
+        "澳大利亚网球公开赛（1月）",
+        "墨尔本杯赛马（11月，附近举行）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -345,22 +1236,82 @@
     "regionId": "melbourne",
     "month": 4,
     "rating": 3,
-    "summary": "가을, 멜버른의 카페 문화를 즐기기 좋은 시기",
-    "highlights": [
-      "가을 단풍과 와이너리 시즌",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "멜버른 푸드 앤 와인 페스티벌 (3월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "가을, 멜버른의 카페 문화를 즐기기 좋은 시기",
+      "en": "Autumn — a great time to enjoy Melbourne's café culture",
+      "ja": "秋、メルボルンのカフェ文化を楽しむのに最適な時期",
+      "zh": "秋天，品味墨尔本咖啡文化的好时光"
+    },
+    "highlights": {
+      "ko": [
+        "가을 단풍과 와이너리 시즌",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Autumn foliage and winery season",
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "秋の紅葉とワイナリーシーズン",
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "秋日红叶与葡萄酒庄季节",
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "10.4 rainy days — have indoor backup plans ready",
+        "Humidity at 75% is somewhat high"
+      ],
+      "ja": [
+        "10.4日の雨日、室内代替案の準備を推奨",
+        "湿度75%でやや高い"
+      ],
+      "zh": [
+        "约10.4天雨天，建议准备室内备选方案",
+        "湿度75%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "멜버른 푸드 앤 와인 페스티벌 (3월)"
+      ],
+      "en": [
+        "Melbourne Food and Wine Festival (March)"
+      ],
+      "ja": [
+        "メルボルンフード＆ワインフェスティバル（3月）"
+      ],
+      "zh": [
+        "墨尔本美食与葡萄酒节（3月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -368,17 +1319,62 @@
     "regionId": "melbourne",
     "month": 5,
     "rating": 2,
-    "summary": "쌀쌀해지는 초겨울, 실내 문화 활동 위주",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 11일로 실내 대안 준비 권장",
-      "습도가 80%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "쌀쌀해지는 초겨울, 실내 문화 활동 위주",
+      "en": "Early winter chill — indoor cultural activities are the focus",
+      "ja": "肌寒くなる初冬、屋内文化活動が中心",
+      "zh": "初冬转凉，以室内文化活动为主"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A great time to experience local everyday life"
+      ],
+      "ja": [
+        "現地の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11일로 실내 대안 준비 권장",
+        "습도가 80%로 다소 높음"
+      ],
+      "en": [
+        "11 rainy days — have indoor backup plans ready",
+        "Humidity at 80% is somewhat high"
+      ],
+      "ja": [
+        "11日の雨日、室内代替案の準備を推奨",
+        "湿度80%でやや高い"
+      ],
+      "zh": [
+        "约11天雨天，建议准备室内备选方案",
+        "湿度80%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -386,17 +1382,62 @@
     "regionId": "melbourne",
     "month": 6,
     "rating": 2,
-    "summary": "겨울, 비가 잦고 바람 강한 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 11.8일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울, 비가 잦고 바람 강한 시기",
+      "en": "Winter with frequent rain and strong winds",
+      "ja": "冬、雨が多く風が強い時期",
+      "zh": "冬季多雨且风势强劲"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A great time to experience local everyday life"
+      ],
+      "ja": [
+        "現地の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.8일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "11.8 rainy days — have indoor backup plans ready",
+        "Humidity at 81% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "11.8日の雨日、室内代替案の準備を推奨",
+        "湿度81%で不快指数が高い"
+      ],
+      "zh": [
+        "约11.8天雨天，建议准备室内备选方案",
+        "湿度81%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -404,17 +1445,62 @@
     "regionId": "melbourne",
     "month": 7,
     "rating": 2,
-    "summary": "겨울 한가운데, 춥지만 겨울 나이트마켓",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 12.4일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
-    "events": [],
-    "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "summary": {
+      "ko": "겨울 한가운데, 춥지만 겨울 나이트마켓",
+      "en": "Deep winter — cold, but winter night markets bring warmth",
+      "ja": "真冬、寒いが冬のナイトマーケットが楽しい",
+      "zh": "隆冬时节，虽然寒冷，但冬日夜市带来暖意"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A great time to experience local everyday life"
+      ],
+      "ja": [
+        "現地の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.4일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "12.4 rainy days — have indoor backup plans ready",
+        "Humidity at 82% makes it feel quite uncomfortable"
+      ],
+      "ja": [
+        "12.4日の雨日、室内代替案の準備を推奨",
+        "湿度82%で不快指数が高い"
+      ],
+      "zh": [
+        "约12.4天雨天，建议准备室内备选方案",
+        "湿度82%，不适感指数较高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, and gloves. Warm layering needed",
+      "ja": "コート、マフラー、手袋。保温レイヤーが必要",
+      "zh": "大衣、围巾、手套，需要保暖分层穿搭"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -422,19 +1508,70 @@
     "regionId": "melbourne",
     "month": 8,
     "rating": 3,
-    "summary": "겨울 끝자락, 아직 추운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 12.6일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "겨울 끝자락, 아직 추운 시기",
+      "en": "End of winter — still cold but spring is on the way",
+      "ja": "冬の終わり、まだ寒いが春が近づく時期",
+      "zh": "冬末时节，仍有寒意但春天将至"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.6일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "12.6 rainy days — have indoor backup plans ready",
+        "Humidity at 77% is somewhat high"
+      ],
+      "ja": [
+        "12.6日の雨日、室内代替案の準備を推奨",
+        "湿度77%でやや高い"
+      ],
+      "zh": [
+        "约12.6天雨天，建议准备室内备选方案",
+        "湿度77%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -442,19 +1579,70 @@
     "regionId": "melbourne",
     "month": 9,
     "rating": 3,
-    "summary": "봄 시작, 꽃축제가 열리는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 12.4일로 실내 대안 준비 권장",
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "봄 시작, 꽃축제가 열리는 시기",
+      "en": "Spring begins with flower festivals in bloom",
+      "ja": "春の始まり、花まつりが開かれる時期",
+      "zh": "春天开始，花卉节庆纷纷登场"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.4일로 실내 대안 준비 권장",
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "12.4 rainy days — have indoor backup plans ready",
+        "Humidity at 72% — somewhat high"
+      ],
+      "ja": [
+        "12.4日の雨日、室内代替案の準備を推奨",
+        "湿度72%でやや高め"
+      ],
+      "zh": [
+        "约12.4天雨天，建议准备室内备选方案",
+        "湿度72%，稍显偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -462,21 +1650,78 @@
     "regionId": "melbourne",
     "month": 10,
     "rating": 2,
-    "summary": "봄, 정원과 공원이 아름다운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 118mm로 우산 필수",
-      "비 오는 날이 14.8일로 실내 대안 준비 권장",
-      "습도가 73%로 다소 높음"
-    ],
-    "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "봄, 정원과 공원이 아름다운 시기",
+      "en": "Spring — gardens and parks are at their most beautiful",
+      "ja": "春、庭園や公園が美しい時期",
+      "zh": "春日时节，花园与公园美不胜收"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 118mm로 우산 필수",
+        "비 오는 날이 14.8일로 실내 대안 준비 권장",
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "118mm rainfall — an umbrella is a must",
+        "14.8 rainy days — have indoor alternatives ready",
+        "Humidity at 73% is somewhat high"
+      ],
+      "ja": [
+        "降水量118mmで傘は必須",
+        "雨の日が14.8日と多め — 室内の代替プランを用意するのがおすすめ",
+        "湿度73%でやや高い"
+      ],
+      "zh": [
+        "降雨量118mm，雨伞必备",
+        "降雨天数约14.8天，建议准备室内备选方案",
+        "湿度73%，略偏高"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a folding umbrella or rain poncho",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘またはレインコートを準備",
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "携带折叠雨伞或雨衣",
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knitwear, and long pants. Outer layer essential",
+      "ja": "ジャケット、ニット、長ズボン。アウター必須",
+      "zh": "夹克、针织衫、长裤，外套必备"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -484,18 +1729,66 @@
     "regionId": "melbourne",
     "month": 11,
     "rating": 3,
-    "summary": "멜버른 컵 시즌, 봄 이벤트 풍성",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 11.6일로 실내 대안 준비 권장"
-    ],
-    "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "멜버른 컵 시즌, 봄 이벤트 풍성",
+      "en": "Melbourne Cup season — spring events are plentiful",
+      "ja": "メルボルンカップシーズン、春のイベントが豊富",
+      "zh": "墨尔本杯赛马季，春日活动丰富多彩"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long sunshine hours make it great for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、屋外活動に最適"
+      ],
+      "zh": [
+        "日照时间充足，非常适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.6일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "11.6 rainy days — have indoor backup plans ready"
+      ],
+      "ja": [
+        "11.6日の雨日、室内代替案の準備を推奨"
+      ],
+      "zh": [
+        "约11.6天雨天，建议准备室内备选方案"
+      ]
+    },
+    "events": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -503,21 +1796,78 @@
     "regionId": "melbourne",
     "month": 12,
     "rating": 4,
-    "summary": "여름 시작, 크리스마스와 야외 문화",
-    "highlights": [
-      "호주의 여름, 다양한 페스티벌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [],
-    "events": [
-      "호주 오픈 테니스 (1월)",
-      "멜버른 컵 (11월, 인근)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 시작, 크리스마스와 야외 문화",
+      "en": "Summer begins — Christmas and outdoor festivals fill the calendar",
+      "ja": "夏の始まり、クリスマスとアウトドアカルチャーの季節",
+      "zh": "夏天开始，圣诞节与户外文化活动丰富多彩"
+    },
+    "highlights": {
+      "ko": [
+        "호주의 여름, 다양한 페스티벌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Australian summer — diverse festivals across the country",
+        "Long sunshine hours make it great for outdoor activities",
+        "Comfortable temperatures"
+      ],
+      "ja": [
+        "オーストラリアの夏、様々なフェスティバル",
+        "日照時間が長く、屋外活動に最適",
+        "快適な気温"
+      ],
+      "zh": [
+        "澳大利亚的夏天，各类节庆活动丰富多彩",
+        "日照时间充足，非常适合户外活动",
+        "气温宜人"
+      ]
+    },
+    "cautions": {
+      "ko": [],
+      "en": [],
+      "ja": [],
+      "zh": []
+    },
+    "events": {
+      "ko": [
+        "호주 오픈 테니스 (1월)",
+        "멜버른 컵 (11월, 인근)"
+      ],
+      "en": [
+        "Australian Open Tennis (January)",
+        "Melbourne Cup (November, nearby)"
+      ],
+      "ja": [
+        "全豪オープンテニス（1月）",
+        "メルボルンカップ（11月、近隣）"
+      ],
+      "zh": [
+        "澳大利亚网球公开赛（1月）",
+        "墨尔本杯赛马（11月，附近举行）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を忘れずに"
+      ],
+      "zh": [
+        "备好太阳镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves and a light jacket. Layering recommended",
+      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
+      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   }
