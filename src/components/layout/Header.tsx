@@ -5,9 +5,7 @@ import { useState } from 'react';
 
 const navItems = [
   { href: '/', label: '홈' },
-  { href: '/country', label: '국가 목록' },
-  { href: '/map', label: '지도' },
-  { href: '/compare', label: '비교' },
+  { href: '/country', label: '국가' },
 ];
 
 export default function Header() {

@@ -21,6 +21,14 @@ const categoryLabels: Record<string, string> = {
   ski: '스키',
 };
 
+const FLAG_EMOJI: Record<string, string> = {
+  japan: '\u{1F1EF}\u{1F1F5}',
+  thailand: '\u{1F1F9}\u{1F1ED}',
+  france: '\u{1F1EB}\u{1F1F7}',
+  usa: '\u{1F1FA}\u{1F1F8}',
+  australia: '\u{1F1E6}\u{1F1FA}',
+};
+
 const ratingLabels: Record<number, { text: string; color: string }> = {
   5: { text: '최적', color: 'bg-green-100 text-green-700' },
   4: { text: '좋음', color: 'bg-sky-100 text-sky-700' },
@@ -49,6 +57,9 @@ export default function DestinationCard({
     >
       <div className="flex items-start justify-between">
         <div className="flex items-center gap-2">
+          {countryId && FLAG_EMOJI[countryId] && (
+            <span className="text-base">{FLAG_EMOJI[countryId]}</span>
+          )}
           <h3 className="font-semibold text-gray-900">{regionName}</h3>
           {category && categoryLabels[category] && (
             <span className="rounded-full bg-gray-100 px-2 py-0.5 text-xs text-gray-500">

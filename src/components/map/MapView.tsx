@@ -15,8 +15,9 @@ interface RegionMarker {
 interface MapViewProps {
   regions: RegionMarker[];
   countryNames: Record<string, string>;
+  focusFilter?: string;
 }
 
-export default function MapView({ regions, countryNames }: MapViewProps) {
-  return <WorldMap regions={regions} countryNames={countryNames} />;
+export default function MapView({ regions, countryNames, focusFilter }: MapViewProps) {
+  return <WorldMap regions={regions} countryNames={countryNames} focusFilter={focusFilter} />;
 }

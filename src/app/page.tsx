@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import MonthSelector from '@/components/common/MonthSelector';
 import DestinationCard from '@/components/common/DestinationCard';
+import SearchBar from '@/components/common/SearchBar';
 
 // 정적 JSON import
 import rec1 from '@/data/monthly-recommendations/1.json';
@@ -53,6 +54,11 @@ export default function Home() {
         <p className="mt-2 text-gray-500">
           월별 추천 여행지를 확인하고 최적의 여행 시기를 찾아보세요
         </p>
+      </section>
+
+      {/* 검색바 */}
+      <section className="mb-6">
+        <SearchBar />
       </section>
 
       {/* 월 선택 */}

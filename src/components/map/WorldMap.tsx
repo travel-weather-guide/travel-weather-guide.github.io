@@ -1,13 +1,14 @@
 'use client';
 
 import 'leaflet/dist/leaflet.css';
-import { MapContainer, TileLayer, GeoJSON, CircleMarker, Tooltip } from 'react-leaflet';
+import { MapContainer, TileLayer, GeoJSON, CircleMarker, Tooltip, useMap } from 'react-leaflet';
 import { useRouter } from 'next/navigation';
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useEffect } from 'react';
 import { feature } from 'topojson-client';
 import type { Topology, GeometryCollection } from 'topojson-specification';
 import type { Feature, FeatureCollection } from 'geojson';
 import type { Layer, LeafletMouseEvent } from 'leaflet';
+import L from 'leaflet';
 import worldData from 'world-atlas/countries-110m.json';
 import { numericToCountrySlug } from '@/utils/countryMapping';
 
@@ -22,13 +23,31 @@ interface RegionMarker {
 interface WorldMapProps {
   regions: RegionMarker[];
   countryNames: Record<string, string>;
+  focusFilter?: string;
 }
 
-const DATA_FILL = { fillColor: '#0ea5e9', fillOpacity: 0.35, color: '#0284c7', weight: 1.5 };
-const DATA_HOVER = { fillColor: '#0ea5e9', fillOpacity: 0.55, color: '#0369a1', weight: 2 };
-const NO_DATA_FILL = { fillColor: '#d1d5db', fillOpacity: 0.3, color: '#9ca3af', weight: 0.5 };
+const DATA_FILL = { fillColor: '#0ea5e9', fillOpacity: 0.25, color: 'transparent', weight: 0 };
+const DATA_HOVER = { fillColor: '#0ea5e9', fillOpacity: 0.45, color: 'transparent', weight: 0 };
+const NO_DATA_FILL = { fillColor: 'transparent', fillOpacity: 0, color: 'transparent', weight: 0 };
 
-export default function WorldMap({ regions, countryNames }: WorldMapProps) {
+function FitBounds({ regions, focusFilter }: { regions: RegionMarker[]; focusFilter?: string }) {
+  const map = useMap();
+  useEffect(() => {
+    if (regions.length === 0) return;
+    const bounds = L.latLngBounds(regions.map((r) => [r.latitude, r.longitude]));
+    map.fitBounds(bounds.pad(0.3));
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [map]);
+
+  useEffect(() => {
+    if (regions.length === 0) return;
+    const bounds = L.latLngBounds(regions.map((r) => [r.latitude, r.longitude]));
+    map.flyToBounds(bounds.pad(0.3), { duration: 0.8, maxZoom: 5 });
+  }, [map, regions, focusFilter]);
+  return null;
+}
+
+export default function WorldMap({ regions, countryNames, focusFilter }: WorldMapProps) {
   const router = useRouter();
   const [mapReady, setMapReady] = useState(false);
 
@@ -54,8 +73,9 @@ export default function WorldMap({ regions, countryNames }: WorldMapProps) {
 
     if (slug) {
       layer.bindTooltip(countryNames[slug] ?? slug, {
-        sticky: true,
-        className: 'map-country-tooltip',
+        permanent: true,
+        direction: 'center',
+        className: 'map-country-label',
       });
 
       layer.on({
@@ -74,6 +94,25 @@ export default function WorldMap({ regions, countryNames }: WorldMapProps) {
 
   return (
     <div className="relative h-full w-full" style={{ minHeight: '400px' }}>
+      <style>{`
+        .map-country-label {
+          background: none !important;
+          border: none !important;
+          box-shadow: none !important;
+          font-size: 11px !important;
+          font-weight: 600 !important;
+          color: #0369a1 !important;
+          text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff;
+        }
+        .map-region-label {
+          background: rgba(255,255,255,0.85) !important;
+          border: 1px solid #e5e7eb !important;
+          box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+          padding: 1px 6px !important;
+          border-radius: 4px !important;
+          font-size: 10px !important;
+        }
+      `}</style>
       {/* 타일 로딩 전 배경 */}
       {!mapReady && (
         <div className="absolute inset-0 z-10 flex items-center justify-center bg-sky-50">
@@ -96,6 +135,7 @@ export default function WorldMap({ regions, countryNames }: WorldMapProps) {
           url="https://tiles.openfreemap.org/styles/positron/{z}/{x}/{y}.png"
         />
 
+        <FitBounds regions={regions} focusFilter={focusFilter} />
         <GeoJSON data={countries} style={style} onEachFeature={onEachFeature} />
 
         {regions.map((region) => (
@@ -115,7 +155,7 @@ export default function WorldMap({ regions, countryNames }: WorldMapProps) {
               },
             }}
           >
-            <Tooltip direction="top" offset={[0, -8]}>
+            <Tooltip direction="top" offset={[0, -8]} permanent className="map-region-label">
               <span className="text-xs font-medium">{region.name}</span>
             </Tooltip>
           </CircleMarker>
