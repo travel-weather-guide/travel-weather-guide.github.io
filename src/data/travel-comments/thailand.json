@@ -3,7 +3,7 @@
     "regionId": "bangkok",
     "month": 1,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "건기 한가운데, 선선한 바람이 부는 여행 최적기",
     "highlights": [
       "건기로 쾌적한 관광 시기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -25,8 +25,8 @@
   {
     "regionId": "bangkok",
     "month": 2,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "건기 지속, 기온이 조금씩 오르기 시작",
     "highlights": [
       "건기로 쾌적한 관광 시기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -48,8 +48,8 @@
   {
     "regionId": "bangkok",
     "month": 3,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "더위가 시작되는 과도기, 오후 폭염 주의",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -70,8 +70,8 @@
   {
     "regionId": "bangkok",
     "month": 4,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "송크란(물축제)이 있지만 40°C 극심한 더위",
     "highlights": [
       "송크란(태국 새해) 물 축제",
       "일조시간이 길어 야외 활동에 좋음",
@@ -90,14 +90,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 5,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기 시작, 매일 오후 스콜이 쏟아지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -116,13 +116,13 @@
     ],
     "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 6,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "본격 우기, 오후마다 집중 호우",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -139,13 +139,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 7,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기 지속, 도로 침수가 빈번한 시기",
     "highlights": [
       "따뜻한 날씨로 해변 활동에 적합"
     ],
@@ -160,13 +160,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 8,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기와 높은 습도, 야외 관광이 힘든 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -183,13 +183,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 9,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 1,
+    "summary": "우기 절정, 방콕 침수 위험이 가장 높은 시기",
     "highlights": [
       "쾌적한 기온",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -205,13 +205,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 10,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 1,
+    "summary": "우기 막바지, 비가 줄어들기 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -228,13 +228,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 11,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "건기 시작, 러이끄라통 축제의 낭만",
     "highlights": [
       "건기로 쾌적한 관광 시기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -259,7 +259,7 @@
     "regionId": "bangkok",
     "month": 12,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "건기의 선선한 바람, 연말 분위기의 여행 최적기",
     "highlights": [
       "건기로 쾌적한 관광 시기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -282,7 +282,7 @@
     "regionId": "chiang-mai",
     "month": 1,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "건기의 서늘한 날씨, 트레킹과 사원 투어 최적기",
     "highlights": [
       "건기에 선선한 날씨, 최적의 트레킹 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -298,14 +298,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "chiang-mai",
     "month": 2,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "건기 지속, 쾌적하지만 연무 시작될 수 있는 시기",
     "highlights": [
       "건기에 선선한 날씨, 최적의 트레킹 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -322,14 +322,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "chiang-mai",
     "month": 3,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "산불 연무(스모그) 시작, 대기질 급격히 악화",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -345,13 +345,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "chiang-mai",
     "month": 4,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "summary": "산불 연무 절정, 세계 최악 수준의 대기질",
     "highlights": [
       "태국에서 가장 뜨거운 송크란 축제",
       "일조시간이 길어 야외 활동에 좋음",
@@ -368,14 +368,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "chiang-mai",
     "month": 5,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "연무 끝자락과 우기 시작이 겹치는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -393,13 +393,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "chiang-mai",
     "month": 6,
     "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "summary": "우기이지만 공기가 맑아지고 녹음이 짙어지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온",
@@ -424,7 +424,7 @@
     "regionId": "chiang-mai",
     "month": 7,
     "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "summary": "우기 지속, 짧은 오후 소나기 후 맑은 하늘",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온",
@@ -449,7 +449,7 @@
     "regionId": "chiang-mai",
     "month": 8,
     "rating": 1,
-    "summary": "폭우 시즌, 여행 피하는 것이 좋음",
+    "summary": "우기, 산길이 미끄럽고 트레킹 주의",
     "highlights": [
       "쾌적한 기온",
       "비수기로 관광객이 적어 여유로움",
@@ -472,7 +472,7 @@
     "regionId": "chiang-mai",
     "month": 9,
     "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "summary": "우기 절정, 강우량이 가장 많은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온",
@@ -497,7 +497,7 @@
     "regionId": "chiang-mai",
     "month": 10,
     "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "summary": "우기 마무리, 논 풍경이 아름다운 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -520,7 +520,7 @@
     "regionId": "chiang-mai",
     "month": 11,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "이펑 축제, 건기 시작과 함께 환상적인 밤하늘",
     "highlights": [
       "건기에 선선한 날씨, 최적의 트레킹 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -537,14 +537,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "chiang-mai",
     "month": 12,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "건기, 서늘하고 맑은 날씨로 트레킹 최적기",
     "highlights": [
       "건기에 선선한 날씨, 최적의 트레킹 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -562,14 +562,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "phuket",
     "month": 1,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "건기 절정, 맑고 잔잔한 안다만 바다의 최적기",
     "highlights": [
       "건기 해변 시즌, 다이빙에 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -594,8 +594,8 @@
   {
     "regionId": "phuket",
     "month": 2,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "건기 지속, 다이빙과 스노클링 최고 시야",
     "highlights": [
       "건기 해변 시즌, 다이빙에 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -619,8 +619,8 @@
   {
     "regionId": "phuket",
     "month": 3,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 4,
+    "summary": "건기이지만 더위가 서서히 올라오는 시기",
     "highlights": [
       "건기 해변 시즌, 다이빙에 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -644,8 +644,8 @@
   {
     "regionId": "phuket",
     "month": 4,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "건기 막바지, 아직 해변을 즐기기 좋은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -667,8 +667,8 @@
   {
     "regionId": "phuket",
     "month": 5,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "우기 시작, 파도가 높아지고 해수욕 주의",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -684,14 +684,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 6,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 2,
+    "summary": "우기 본격화, 2~3m 파도로 해수욕 위험",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -707,14 +707,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 7,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기, 비와 거친 파도가 지속되는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -731,13 +731,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 8,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 2,
+    "summary": "우기 지속, 다이빙 시야가 떨어지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -753,14 +753,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 9,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기 절정, 가장 비가 많은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -777,13 +777,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 10,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기 끝자락, 비가 줄어들기 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -800,13 +800,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 11,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "건기 시작, 바다가 잔잔해지는 시기",
     "highlights": [
       "건기 해변 시즌, 다이빙에 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -826,14 +826,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 12,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "건기 피크, 크리스마스 분위기의 해변 휴양",
     "highlights": [
       "건기 해변 시즌, 다이빙에 최적",
       "일조시간이 길어 야외 활동에 좋음",

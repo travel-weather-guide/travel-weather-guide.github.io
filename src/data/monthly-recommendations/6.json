@@ -2,183 +2,145 @@
   "month": 6,
   "bestDestinations": [
     {
-      "regionId": "paris",
-      "category": "culture",
-      "reason": "평균 19°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "nice",
-      "category": "beach",
-      "reason": "평균 22°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "new-york",
-      "category": "city",
-      "reason": "평균 22°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "los-angeles",
-      "category": "city",
-      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "hawaii",
-      "category": "beach",
-      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "da-nang",
-      "category": "beach",
-      "reason": "평균 31°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "madrid",
-      "category": "city",
-      "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "barcelona",
-      "category": "beach",
-      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "seville",
-      "category": "culture",
-      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "rome",
-      "category": "culture",
-      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "venice",
-      "category": "culture",
-      "reason": "평균 22°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
       "regionId": "amalfi",
       "category": "beach",
-      "reason": "평균 23°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "london",
-      "category": "city",
-      "reason": "평균 16°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "edinburgh",
-      "category": "culture",
-      "reason": "평균 14°C, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "istanbul",
-      "category": "culture",
-      "reason": "평균 22°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "cappadocia",
-      "category": "adventure",
-      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "여름 시작, 해변과 리모첼로의 계절",
       "rating": 5
     },
     {
       "regionId": "antalya",
       "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "본격 해변 시즌, 수온 25°C",
       "rating": 5
     },
     {
       "regionId": "athens",
       "category": "culture",
-      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "더워지기 시작, 에게해 섬 투어 시즌",
       "rating": 5
     },
     {
-      "regionId": "santorini",
+      "regionId": "barcelona",
+      "category": "city",
+      "reason": "본격 해변 시즌, 따뜻한 바다(22°C)",
+      "rating": 5
+    },
+    {
+      "regionId": "cappadocia",
+      "category": "adventure",
+      "reason": "따뜻한 초여름, 하이킹과 열기구",
+      "rating": 5
+    },
+    {
+      "regionId": "hawaii",
       "category": "beach",
-      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기 절정, 완벽한 해변과 맑은 바다",
+      "rating": 5
+    },
+    {
+      "regionId": "los-angeles",
+      "category": "city",
+      "reason": "June Gloom(해안 안개), 오전 흐리고 오후 맑음",
+      "rating": 5
+    },
+    {
+      "regionId": "madrid",
+      "category": "city",
+      "reason": "더워지기 시작, 밤 산책이 매력인 시기",
       "rating": 5
     },
     {
       "regionId": "mykonos",
       "category": "beach",
-      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "여름 시작, 해변과 나이트라이프 최적",
       "rating": 5
     },
     {
-      "regionId": "tokyo",
-      "category": "city",
-      "reason": "평균 23°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
+      "regionId": "nice",
+      "category": "beach",
+      "reason": "본격 해변 시즌, 따뜻한 바다와 긴 해",
+      "rating": 5
     },
     {
-      "regionId": "osaka",
+      "regionId": "rome",
       "category": "culture",
-      "reason": "평균 23°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
+      "reason": "초여름, 긴 해와 야외 다이닝의 매력",
+      "rating": 5
     },
     {
-      "regionId": "hokkaido",
-      "category": "adventure",
-      "reason": "평균 17°C의 온화한 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "phuket",
+      "regionId": "santorini",
       "category": "beach",
-      "reason": "평균 28°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
+      "reason": "여름 시작, 에게해 최고의 석양",
+      "rating": 5
     },
     {
-      "regionId": "sydney",
-      "category": "city",
-      "reason": "평균 13°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "melbourne",
+      "regionId": "seville",
       "category": "culture",
-      "reason": "평균 10°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "boracay",
-      "category": "beach",
-      "reason": "평균 28°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "lombok",
-      "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 4
+      "reason": "더위 시작, 35°C 넘기 시작",
+      "rating": 5
     }
   ],
   "hiddenGems": [],
   "avoidList": [
     {
+      "regionId": "bali",
+      "reason": "건기 절정, 선선하고 맑은 발리 여행 최적기"
+    },
+    {
+      "regionId": "bangkok",
+      "reason": "본격 우기, 오후마다 집중 호우"
+    },
+    {
+      "regionId": "boracay",
+      "reason": "우기(하바갓), 거친 바다와 해수욕 제한"
+    },
+    {
+      "regionId": "cebu",
+      "reason": "우기 본격화, 다이빙 시야 저하"
+    },
+    {
       "regionId": "chiang-mai",
-      "reason": "강수량 236mm의 우기"
+      "reason": "우기이지만 공기가 맑아지고 녹음이 짙어지는 시기"
     },
     {
       "regionId": "hanoi",
-      "reason": "강수량 293mm의 우기"
+      "reason": "우기와 극심한 더위가 겹치는 최악의 시기"
+    },
+    {
+      "regionId": "ho-chi-minh",
+      "reason": "우기, 오후 집중 호우와 도로 침수"
+    },
+    {
+      "regionId": "jakarta",
+      "reason": "건기, 맑은 날씨의 도시 관광"
+    },
+    {
+      "regionId": "kaohsiung",
+      "reason": "우기와 태풍 시즌, 폭우 빈발"
+    },
+    {
+      "regionId": "manila",
+      "reason": "몬순 시작, 폭우와 침수 빈번"
+    },
+    {
+      "regionId": "melbourne",
+      "reason": "겨울, 비가 잦고 바람 강한 시기"
+    },
+    {
+      "regionId": "okinawa",
+      "reason": "장마(쯔유) 시즌, 폭우가 잦은 시기"
+    },
+    {
+      "regionId": "phuket",
+      "reason": "우기 본격화, 2~3m 파도로 해수욕 위험"
+    },
+    {
+      "regionId": "singapore",
+      "reason": "남서 몬순, 간간이 비 오지만 관광 가능"
+    },
+    {
+      "regionId": "taipei",
+      "reason": "장마 시작, 폭우가 잦은 시기"
     }
   ]
 }

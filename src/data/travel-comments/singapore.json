@@ -2,8 +2,8 @@
   {
     "regionId": "singapore",
     "month": 1,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "북동 몬순, 비가 가장 많은 시기",
     "highlights": [
       "중국 설날 치나타운 장식",
       "일조시간이 길어 야외 활동에 좋음",
@@ -23,14 +23,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 2,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "몬순 끝자락, 비가 줄어들기 시작",
     "highlights": [
       "중국 설날 치나타운 장식",
       "일조시간이 길어 야외 활동에 좋음",
@@ -56,8 +56,8 @@
   {
     "regionId": "singapore",
     "month": 3,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "비교적 건조한 시기, 가든스바이더베이 관광",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -74,13 +74,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 4,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "건조한 시기, 야외 관광하기 좋은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -97,13 +97,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 5,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "과도기, 간간이 소나기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -120,13 +120,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 6,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "남서 몬순, 간간이 비 오지만 관광 가능",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -142,14 +142,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 7,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "세일 시즌(GSS), 쇼핑하기 좋은 시기",
     "highlights": [
       "싱가포르 국경일 퍼레이드 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -169,14 +169,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 8,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "국경일 시즌, 축제 분위기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -192,14 +192,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 9,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "헤이즈(인니 산불 연무) 가능성 있는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -216,13 +216,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 10,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "과도기, 비가 늘어나기 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -239,13 +239,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 11,
     "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "summary": "북동 몬순 시작, 비 많아지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온",
@@ -269,8 +269,8 @@
   {
     "regionId": "singapore",
     "month": 12,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "몬순 피크, 크리스마스 일루미네이션",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -286,7 +286,7 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

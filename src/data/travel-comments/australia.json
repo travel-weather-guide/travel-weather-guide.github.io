@@ -2,8 +2,8 @@
   {
     "regionId": "sydney",
     "month": 1,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "한여름 성수기, 본다이 비치와 야외 축제",
     "highlights": [
       "호주의 여름, 해변과 야외 활동 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -23,14 +23,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "sydney",
     "month": 2,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "여름 지속, 시드니 마디그라 축제",
     "highlights": [
       "호주의 여름, 해변과 야외 활동 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -50,14 +50,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "sydney",
     "month": 3,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "가을 시작, 아직 해변을 즐길 수 있는 시기",
     "highlights": [
       "가을 시작, 쾌적한 날씨",
       "일조시간이 길어 야외 활동에 좋음",
@@ -83,8 +83,8 @@
   {
     "regionId": "sydney",
     "month": 4,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "가을 단풍, 쾌적한 기온의 시드니",
     "highlights": [
       "가을 시작, 쾌적한 날씨",
       "일조시간이 길어 야외 활동에 좋음",
@@ -110,8 +110,8 @@
   {
     "regionId": "sydney",
     "month": 5,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "가을 끝자락, 선선해지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -130,8 +130,8 @@
   {
     "regionId": "sydney",
     "month": 6,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "겨울 시작, 야외 활동이 줄어드는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -143,14 +143,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "sydney",
     "month": 7,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "겨울 한가운데, 비비드 시드니 축제",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -164,14 +164,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "sydney",
     "month": 8,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "겨울 끝자락, 봄이 오기 전 가장 추운 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -183,14 +183,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "sydney",
     "month": 9,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 4,
+    "summary": "봄 시작, 꽃이 피고 기온이 올라가는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -206,8 +206,8 @@
   {
     "regionId": "sydney",
     "month": 10,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 4,
+    "summary": "봄 한가운데, 야외 활동 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -226,8 +226,8 @@
   {
     "regionId": "sydney",
     "month": 11,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 끝자락, 여름 직전의 쾌적한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -249,8 +249,8 @@
   {
     "regionId": "sydney",
     "month": 12,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "여름 시작, NYE 불꽃축제와 해변 시즌",
     "highlights": [
       "호주의 여름, 해변과 야외 활동 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -268,14 +268,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "melbourne",
     "month": 1,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "한여름, 호주 오픈 테니스 시즌",
     "highlights": [
       "호주의 여름, 다양한 페스티벌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -290,14 +290,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "melbourne",
     "month": 2,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "여름 지속, 해변과 야외 바 시즌",
     "highlights": [
       "호주의 여름, 다양한 페스티벌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -313,14 +313,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "melbourne",
     "month": 3,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "가을 시작, F1 그랑프리 개최",
     "highlights": [
       "호주의 여름, 다양한 페스티벌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -338,14 +338,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "melbourne",
     "month": 4,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "가을, 멜버른의 카페 문화를 즐기기 좋은 시기",
     "highlights": [
       "가을 단풍과 와이너리 시즌",
       "일조시간이 길어 야외 활동에 좋음"
@@ -367,8 +367,8 @@
   {
     "regionId": "melbourne",
     "month": 5,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "쌀쌀해지는 초겨울, 실내 문화 활동 위주",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -379,14 +379,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "melbourne",
     "month": 6,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "겨울, 비가 잦고 바람 강한 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -397,14 +397,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "melbourne",
     "month": 7,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "겨울 한가운데, 춥지만 겨울 나이트마켓",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -415,14 +415,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "melbourne",
     "month": 8,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "겨울 끝자락, 아직 추운 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -435,14 +435,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "melbourne",
     "month": 9,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 시작, 꽃축제가 열리는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -461,8 +461,8 @@
   {
     "regionId": "melbourne",
     "month": 10,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "봄, 정원과 공원이 아름다운 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -477,14 +477,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "melbourne",
     "month": 11,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "멜버른 컵 시즌, 봄 이벤트 풍성",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -496,14 +496,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "melbourne",
     "month": 12,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 4,
+    "summary": "여름 시작, 크리스마스와 야외 문화",
     "highlights": [
       "호주의 여름, 다양한 페스티벌",
       "일조시간이 길어 야외 활동에 좋음",

@@ -2,8 +2,8 @@
   {
     "regionId": "new-york",
     "month": 1,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 1,
+    "summary": "영하의 혹한과 폭설, 브로드웨이와 실내 관광 위주",
     "highlights": [
       "겨울 스포츠에 적합한 시기"
     ],
@@ -19,13 +19,13 @@
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 2,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 2,
+    "summary": "가장 추운 시기, 밸런타인 분위기의 도시",
     "highlights": [
       "겨울 스포츠에 적합한 시기"
     ],
@@ -38,13 +38,13 @@
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 3,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "아직 쌀쌀하지만 봄기운이 느껴지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -58,14 +58,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 4,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "센트럴파크에 봄꽃이 피는 시기",
     "highlights": [
       "센트럴파크 봄꽃, 쾌적한 날씨",
       "일조시간이 길어 야외 활동에 좋음"
@@ -83,14 +83,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 5,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "센트럴파크 녹음, 뉴욕 여행의 가장 좋은 시기",
     "highlights": [
       "센트럴파크 봄꽃, 쾌적한 날씨",
       "일조시간이 길어 야외 활동에 좋음"
@@ -112,8 +112,8 @@
   {
     "regionId": "new-york",
     "month": 6,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "따뜻한 초여름, 야외 이벤트와 공원 콘서트",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -124,14 +124,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "new-york",
     "month": 7,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "폭염과 높은 습도, 에어컨 없이 힘든 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -154,7 +154,7 @@
     "regionId": "new-york",
     "month": 8,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "무더위 지속, 실외 관광이 힘든 한여름",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -177,7 +177,7 @@
     "regionId": "new-york",
     "month": 9,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "더위가 물러간 쾌적한 가을의 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -192,14 +192,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "new-york",
     "month": 10,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "센트럴파크 단풍 절정, 할로윈의 도시",
     "highlights": [
       "가을 단풍과 할로윈/추수감사절",
       "일조시간이 길어 야외 활동에 좋음"
@@ -223,8 +223,8 @@
   {
     "regionId": "new-york",
     "month": 11,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "추워지지만 추수감사절·홀리데이 시즌 시작",
     "highlights": [
       "가을 단풍과 할로윈/추수감사절"
     ],
@@ -235,14 +235,14 @@
     ],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 12,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 1,
+    "summary": "록펠러 트리, 홀리데이 쇼핑의 연말 분위기",
     "highlights": [
       "록펠러 크리스마스 트리와 홀리데이 시즌",
       "겨울 스포츠에 적합한 시기"
@@ -262,14 +262,14 @@
       "보온 용품과 핫팩 준비"
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "los-angeles",
     "month": 1,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "온화한 겨울, 15°C 전후의 쾌적한 날씨",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -285,8 +285,8 @@
   {
     "regionId": "los-angeles",
     "month": 2,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 4,
+    "summary": "겨울비가 가끔 오지만 대체로 맑은 날씨",
     "highlights": [
       "아카데미 시상식 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -306,8 +306,8 @@
   {
     "regionId": "los-angeles",
     "month": 3,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 시작, 야생화가 피는 슈퍼블룸 시즌",
     "highlights": [
       "아카데미 시상식 시즌",
       "일조시간이 길어 야외 활동에 좋음"
@@ -330,7 +330,7 @@
     "regionId": "los-angeles",
     "month": 4,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "봄 야생화와 쾌적한 기온, 하이킹 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -348,7 +348,7 @@
     "regionId": "los-angeles",
     "month": 5,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "해변 시즌 시작 전 쾌적한 날씨",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -367,7 +367,7 @@
     "regionId": "los-angeles",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "June Gloom(해안 안개), 오전 흐리고 오후 맑음",
     "highlights": [
       "해변 성수기, 서핑에 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -382,14 +382,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "los-angeles",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "여름 해변 시즌, 산타모니카·베니스 비치",
     "highlights": [
       "해변 성수기, 서핑에 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -404,14 +404,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "los-angeles",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "여름 피크, 더위지만 해변은 최고",
     "highlights": [
       "해변 성수기, 서핑에 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -426,14 +426,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "los-angeles",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "여름 인파 줄고, 따뜻한 가을 해변",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -452,7 +452,7 @@
     "regionId": "los-angeles",
     "month": 10,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "인디언 서머, 맑고 따뜻한 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -472,7 +472,7 @@
     "regionId": "los-angeles",
     "month": 11,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "가을 끝자락, 여전히 쾌적한 날씨",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -490,8 +490,8 @@
   {
     "regionId": "los-angeles",
     "month": 12,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "온화한 겨울, 연말 분위기의 할리우드",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -509,8 +509,8 @@
   {
     "regionId": "hawaii",
     "month": 1,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "우기이지만 따뜻, 고래 관찰 시즌",
     "highlights": [
       "고래 관찰 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -534,7 +534,7 @@
     "regionId": "hawaii",
     "month": 2,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "고래 관찰 피크, 서핑 빅웨이브 시즌",
     "highlights": [
       "고래 관찰 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -559,7 +559,7 @@
     "regionId": "hawaii",
     "month": 3,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "우기 끝자락, 점차 맑아지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -579,8 +579,8 @@
   {
     "regionId": "hawaii",
     "month": 4,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "건기 시작, 맑은 하늘과 쾌적한 기온",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -595,14 +595,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
     "month": 5,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "건기, 스노클링과 하이킹 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -616,14 +616,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "건기 절정, 완벽한 해변과 맑은 바다",
     "highlights": [
       "건기 해변 최적기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -645,7 +645,7 @@
     "regionId": "hawaii",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "여름 피크 시즌, 가족 관광객 많은 시기",
     "highlights": [
       "건기 해변 최적기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -669,7 +669,7 @@
     "regionId": "hawaii",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "여름 성수기, 서핑·다이빙 최적",
     "highlights": [
       "건기 해변 최적기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -691,7 +691,7 @@
     "regionId": "hawaii",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "건기 막바지, 관광객 적고 가성비 최고",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -703,14 +703,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
     "month": 10,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "날씨 좋고 관광객 적은 황금 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -725,14 +725,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
     "month": 11,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "우기 시작, 간간이 소나기가 오는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -746,14 +746,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
     "month": 12,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "홀리데이 피크, 고래 관찰 시즌 시작",
     "highlights": [
       "고래 관찰 시즌",
       "일조시간이 길어 야외 활동에 좋음",

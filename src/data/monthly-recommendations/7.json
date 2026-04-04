@@ -2,183 +2,174 @@
   "month": 7,
   "bestDestinations": [
     {
-      "regionId": "hokkaido",
-      "category": "adventure",
-      "reason": "평균 22°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "paris",
-      "category": "culture",
-      "reason": "평균 20°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "nice",
-      "category": "beach",
-      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "los-angeles",
-      "category": "city",
-      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "hawaii",
-      "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "lombok",
-      "category": "beach",
-      "reason": "평균 25°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "madrid",
-      "category": "city",
-      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "barcelona",
-      "category": "beach",
-      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "seville",
-      "category": "culture",
-      "reason": "평균 30°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "rome",
-      "category": "culture",
-      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "venice",
-      "category": "culture",
-      "reason": "평균 25°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
       "regionId": "amalfi",
       "category": "beach",
-      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "london",
-      "category": "city",
-      "reason": "평균 18°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "istanbul",
-      "category": "culture",
-      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "cappadocia",
-      "category": "adventure",
-      "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "극심한 혼잡, 예약 없이는 못 가는 시기",
       "rating": 5
     },
     {
       "regionId": "antalya",
       "category": "beach",
-      "reason": "평균 31°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "비치 피크 시즌, 수온 27°C의 뜨거운 여름",
       "rating": 5
     },
     {
       "regionId": "athens",
       "category": "culture",
-      "reason": "평균 29°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "38°C+ 극심한 폭염, 아크로폴리스 정오 폐쇄",
       "rating": 5
     },
     {
-      "regionId": "santorini",
+      "regionId": "barcelona",
+      "category": "city",
+      "reason": "비치 피크 시즌, 바르셀로네타 해변 만석",
+      "rating": 5
+    },
+    {
+      "regionId": "cappadocia",
+      "category": "adventure",
+      "reason": "40°C 폭염, 열기구 조건 악화",
+      "rating": 5
+    },
+    {
+      "regionId": "hawaii",
       "category": "beach",
-      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "여름 피크 시즌, 가족 관광객 많은 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "istanbul",
+      "category": "culture",
+      "reason": "여름 더위, 그랜드바자르와 실내 관광",
+      "rating": 5
+    },
+    {
+      "regionId": "los-angeles",
+      "category": "city",
+      "reason": "여름 해변 시즌, 산타모니카·베니스 비치",
+      "rating": 5
+    },
+    {
+      "regionId": "madrid",
+      "category": "city",
+      "reason": "40°C 넘는 극심한 폭염, 낮에는 야외 불가",
       "rating": 5
     },
     {
       "regionId": "mykonos",
       "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "파티 피크, 비치클럽 만석",
       "rating": 5
     },
     {
-      "regionId": "okinawa",
+      "regionId": "nice",
       "category": "beach",
-      "reason": "평균 29°C의 온화한 날씨, 풍부한 일조량",
-      "rating": 4
+      "reason": "여름 성수기, 코트다쥐르 해변 만석",
+      "rating": 5
     },
     {
-      "regionId": "new-york",
-      "category": "city",
-      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "sydney",
-      "category": "city",
-      "reason": "평균 13°C, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "melbourne",
+      "regionId": "rome",
       "category": "culture",
-      "reason": "평균 10°C, 강수량 적음",
-      "rating": 4
+      "reason": "35°C 이상 더위, 혼잡하지만 관광은 가능",
+      "rating": 5
     },
     {
-      "regionId": "da-nang",
+      "regionId": "santorini",
       "category": "beach",
-      "reason": "평균 30°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 4
+      "reason": "성수기, 오이아 석양 명소 극심한 인파",
+      "rating": 5
     },
     {
-      "regionId": "jakarta",
-      "category": "city",
-      "reason": "평균 28°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "edinburgh",
+      "regionId": "seville",
       "category": "culture",
-      "reason": "평균 15°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "reason": "45°C까지 오르는 유럽 최악의 폭염",
+      "rating": 5
+    },
+    {
+      "regionId": "venice",
+      "category": "culture",
+      "reason": "여름 더위, 운하 냄새와 관광객 혼잡",
+      "rating": 5
+    }
+  ],
+  "hiddenGems": [
+    {
+      "regionId": "hokkaido",
+      "category": "adventure",
+      "reason": "라벤더 만개, 25°C의 시원한 여름 피서지",
+      "rating": 4
+    },
+    {
+      "regionId": "lombok",
+      "category": "beach",
+      "reason": "건기, 서핑과 스노클링 최적 컨디션",
       "rating": 4
     }
   ],
-  "hiddenGems": [],
   "avoidList": [
     {
+      "regionId": "bali",
+      "reason": "건기, 성수기라 관광객 많지만 날씨 최고"
+    },
+    {
+      "regionId": "bangkok",
+      "reason": "우기 지속, 도로 침수가 빈번한 시기"
+    },
+    {
+      "regionId": "boracay",
+      "reason": "우기, 파도 높고 투어 취소 빈번"
+    },
+    {
+      "regionId": "cebu",
+      "reason": "우기 지속, 태풍 영향 가능"
+    },
+    {
       "regionId": "chiang-mai",
-      "reason": "강수량 375mm의 우기"
+      "reason": "우기 지속, 짧은 오후 소나기 후 맑은 하늘"
     },
     {
       "regionId": "hanoi",
-      "reason": "강수량 288mm의 우기"
+      "reason": "우기 절정, 폭우와 폭염이 동시에"
     },
     {
       "regionId": "ho-chi-minh",
-      "reason": "강수량 338mm의 우기"
-    },
-    {
-      "regionId": "manila",
-      "reason": "강수량 409mm의 우기"
+      "reason": "우기 지속, 높은 습도"
     },
     {
       "regionId": "kaohsiung",
-      "reason": "강수량 327mm의 우기"
+      "reason": "태풍+우기, 극심한 더위"
+    },
+    {
+      "regionId": "manila",
+      "reason": "태풍 시즌, 극심한 폭우와 홍수"
+    },
+    {
+      "regionId": "melbourne",
+      "reason": "겨울 한가운데, 춥지만 겨울 나이트마켓"
+    },
+    {
+      "regionId": "okinawa",
+      "reason": "태풍 시즌 시작, 항공편 결항 가능성 높음"
+    },
+    {
+      "regionId": "osaka",
+      "reason": "35°C 이상 폭염, 무더위가 기승을 부리는 시기"
+    },
+    {
+      "regionId": "phuket",
+      "reason": "우기, 비와 거친 파도가 지속되는 시기"
+    },
+    {
+      "regionId": "singapore",
+      "reason": "세일 시즌(GSS), 쇼핑하기 좋은 시기"
+    },
+    {
+      "regionId": "taipei",
+      "reason": "태풍 시즌과 극심한 고온다습"
+    },
+    {
+      "regionId": "tokyo",
+      "reason": "무더위와 높은 습도, 불꽃축제가 열리는 여름"
     }
   ]
 }

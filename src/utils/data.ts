@@ -1,4 +1,4 @@
-import type { Country, MonthlyRecommendation } from '@/types';
+import type { Country } from '@/types';
 import countrySummaries from '@/data/countries.json';
 
 export function getCountrySummaries() {
@@ -8,11 +8,6 @@ export function getCountrySummaries() {
 export function getCountry(countryId: string): Country {
   // eslint-disable-next-line @typescript-eslint/no-require-imports
   return require(`@/data/countries/${countryId}.json`) as Country;
-}
-
-export function getMonthlyRecommendation(month: number): MonthlyRecommendation {
-  // eslint-disable-next-line @typescript-eslint/no-require-imports
-  return require(`@/data/monthly-recommendations/${month}.json`) as MonthlyRecommendation;
 }
 
 export function getAllCountryIds(): string[] {

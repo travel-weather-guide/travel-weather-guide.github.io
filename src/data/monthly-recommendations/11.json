@@ -2,189 +2,132 @@
   "month": 11,
   "bestDestinations": [
     {
-      "regionId": "osaka",
-      "category": "culture",
-      "reason": "평균 13°C, 강수량 적음",
-      "rating": 5
-    },
-    {
-      "regionId": "bangkok",
-      "category": "culture",
-      "reason": "평균 28°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "regionId": "hawaii",
+      "category": "beach",
+      "reason": "우기 시작, 간간이 소나기가 오는 시기",
       "rating": 5
     },
     {
       "regionId": "los-angeles",
       "category": "city",
-      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "가을 끝자락, 여전히 쾌적한 날씨",
       "rating": 5
-    },
-    {
-      "regionId": "hawaii",
-      "category": "beach",
-      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "melbourne",
-      "category": "culture",
-      "reason": "평균 17°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "hanoi",
-      "category": "city",
-      "reason": "평균 23°C의 쾌적한 기온, 강수량 적음",
-      "rating": 5
-    },
-    {
-      "regionId": "kaohsiung",
-      "category": "city",
-      "reason": "평균 24°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "seville",
-      "category": "culture",
-      "reason": "평균 16°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "athens",
-      "category": "culture",
-      "reason": "평균 15°C, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "tokyo",
-      "category": "city",
-      "reason": "평균 13°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "okinawa",
-      "category": "beach",
-      "reason": "평균 23°C의 쾌적한 기온",
-      "rating": 4
-    },
-    {
-      "regionId": "chiang-mai",
-      "category": "mountain",
-      "reason": "평균 25°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "paris",
-      "category": "culture",
-      "reason": "평균 9°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "nice",
-      "category": "beach",
-      "reason": "평균 13°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "new-york",
-      "category": "city",
-      "reason": "평균 9°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "sydney",
-      "category": "city",
-      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "manila",
-      "category": "city",
-      "reason": "평균 28°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "cebu",
-      "category": "beach",
-      "reason": "평균 27°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "taipei",
-      "category": "city",
-      "reason": "평균 22°C의 쾌적한 기온, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "madrid",
-      "category": "city",
-      "reason": "평균 11°C, 비가 거의 없는 맑은 날씨",
-      "rating": 4
-    },
-    {
-      "regionId": "barcelona",
-      "category": "beach",
-      "reason": "평균 14°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "rome",
-      "category": "culture",
-      "reason": "평균 14°C",
-      "rating": 4
-    },
-    {
-      "regionId": "venice",
-      "category": "culture",
-      "reason": "평균 10°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "edinburgh",
-      "category": "culture",
-      "reason": "평균 8°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "istanbul",
-      "category": "culture",
-      "reason": "평균 13°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "cappadocia",
-      "category": "adventure",
-      "reason": "평균 7°C, 비가 거의 없는 맑은 날씨",
-      "rating": 4
-    },
-    {
-      "regionId": "antalya",
-      "category": "beach",
-      "reason": "평균 17°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 4
     },
     {
       "regionId": "santorini",
       "category": "beach",
-      "reason": "평균 18°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "비수기 시작, 시설 폐업 시작",
+      "rating": 5
+    }
+  ],
+  "hiddenGems": [
+    {
+      "regionId": "antalya",
+      "category": "beach",
+      "reason": "해변 시즌 마무리, 쌀쌀해지는 시기",
       "rating": 4
     },
     {
-      "regionId": "mykonos",
-      "category": "beach",
-      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "regionId": "athens",
+      "category": "culture",
+      "reason": "쌀쌀해지지만 관광객 적어 여유로운 시기",
+      "rating": 4
+    },
+    {
+      "regionId": "chiang-mai",
+      "category": "culture",
+      "reason": "이펑 축제, 건기 시작과 함께 환상적인 밤하늘",
+      "rating": 4
+    },
+    {
+      "regionId": "hanoi",
+      "category": "culture",
+      "reason": "건기, 선선하고 맑은 하노이 여행 최적기",
+      "rating": 4
+    },
+    {
+      "regionId": "kaohsiung",
+      "category": "city",
+      "reason": "건기, 따뜻하고 쾌적한 여행 최적기",
       "rating": 4
     }
   ],
-  "hiddenGems": [],
   "avoidList": [
     {
-      "regionId": "singapore",
-      "reason": "강수량 402mm의 우기"
+      "regionId": "amalfi",
+      "reason": "비수기 시작, 시설 폐업 시작"
     },
     {
       "regionId": "bali",
-      "reason": "강수량 277mm의 우기"
+      "reason": "우기 시작, 오후 스콜이 잦아지는 시기"
+    },
+    {
+      "regionId": "boracay",
+      "reason": "건기 시작, 바다가 잔잔해지는 시기"
+    },
+    {
+      "regionId": "cebu",
+      "reason": "건기 시작, 다이빙 시야 회복"
+    },
+    {
+      "regionId": "da-nang",
+      "reason": "태풍 지속, 해수욕 불가능"
+    },
+    {
+      "regionId": "edinburgh",
+      "reason": "초겨울, 어둡고 비 잦은 시기"
+    },
+    {
+      "regionId": "ho-chi-minh",
+      "reason": "우기 마무리, 건기로 전환 중"
+    },
+    {
+      "regionId": "hokkaido",
+      "reason": "초겨울, 첫 눈이 내리지만 스키장은 아직"
+    },
+    {
+      "regionId": "istanbul",
+      "reason": "쌀쌀해지고 비 시작, 하맘(터키 목욕) 시즌"
+    },
+    {
+      "regionId": "jakarta",
+      "reason": "우기 시작, 도로 침수 주의"
+    },
+    {
+      "regionId": "lombok",
+      "reason": "우기 시작, 야외 활동 제한"
+    },
+    {
+      "regionId": "london",
+      "reason": "초겨울, 16시면 어두워지는 짧은 해"
+    },
+    {
+      "regionId": "manila",
+      "reason": "건기 시작, 날씨 회복 중"
+    },
+    {
+      "regionId": "new-york",
+      "reason": "추워지지만 추수감사절·홀리데이 시즌 시작"
+    },
+    {
+      "regionId": "paris",
+      "reason": "쌀쌀해지고 해가 짧아지는 초겨울"
+    },
+    {
+      "regionId": "phuket",
+      "reason": "건기 시작, 바다가 잔잔해지는 시기"
+    },
+    {
+      "regionId": "rome",
+      "reason": "쌀쌀해지지만 관광객 적어 여유로운 시기"
+    },
+    {
+      "regionId": "singapore",
+      "reason": "북동 몬순 시작, 비 많아지는 시기"
+    },
+    {
+      "regionId": "venice",
+      "reason": "아쿠아 알타(침수) 최빈 시즌, 산마르코 광장 잠김"
     }
   ]
 }

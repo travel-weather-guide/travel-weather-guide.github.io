@@ -2,227 +2,106 @@
   "month": 3,
   "bestDestinations": [
     {
-      "regionId": "bangkok",
-      "category": "culture",
-      "reason": "평균 30°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
       "regionId": "chiang-mai",
-      "category": "mountain",
-      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "phuket",
-      "category": "beach",
-      "reason": "평균 29°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "los-angeles",
-      "category": "city",
-      "reason": "평균 14°C, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "melbourne",
       "category": "culture",
-      "reason": "평균 18°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "산불 연무(스모그) 시작, 대기질 급격히 악화",
       "rating": 5
     },
     {
-      "regionId": "da-nang",
-      "category": "beach",
-      "reason": "평균 25°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "manila",
+      "regionId": "ho-chi-minh",
       "category": "city",
-      "reason": "평균 28°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기 지속, 더위가 올라오지만 아직 쾌적",
       "rating": 5
     },
     {
       "regionId": "kaohsiung",
       "category": "city",
-      "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기 지속, 쾌적한 남부 관광",
       "rating": 5
+    }
+  ],
+  "hiddenGems": [
+    {
+      "regionId": "da-nang",
+      "category": "beach",
+      "reason": "건기, 해변 시즌 시작",
+      "rating": 4
     },
     {
-      "regionId": "seville",
-      "category": "culture",
-      "reason": "평균 16°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "rome",
-      "category": "culture",
-      "reason": "평균 11°C, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "venice",
-      "category": "culture",
-      "reason": "평균 9°C, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "athens",
-      "category": "culture",
-      "reason": "평균 11°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "tokyo",
+      "regionId": "manila",
       "category": "city",
-      "reason": "평균 10°C",
+      "reason": "건기 지속, 더위가 올라오기 시작",
       "rating": 4
     },
     {
-      "regionId": "osaka",
+      "regionId": "melbourne",
       "category": "culture",
-      "reason": "평균 10°C, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "okinawa",
-      "category": "beach",
-      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "paris",
-      "category": "culture",
-      "reason": "평균 9°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "nice",
-      "category": "beach",
-      "reason": "평균 12°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "new-york",
-      "category": "city",
-      "reason": "평균 6°C, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "hawaii",
-      "category": "beach",
-      "reason": "평균 23°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "sydney",
-      "category": "city",
-      "reason": "평균 21°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "hanoi",
-      "category": "city",
-      "reason": "평균 23°C의 쾌적한 기온, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "ho-chi-minh",
-      "category": "city",
-      "reason": "평균 30°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "boracay",
-      "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "cebu",
-      "category": "beach",
-      "reason": "평균 27°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "lombok",
-      "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "taipei",
-      "category": "city",
-      "reason": "평균 20°C의 온화한 날씨, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "madrid",
-      "category": "city",
-      "reason": "평균 11°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "barcelona",
-      "category": "beach",
-      "reason": "평균 12°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "amalfi",
-      "category": "beach",
-      "reason": "평균 11°C, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "london",
-      "category": "city",
-      "reason": "평균 8°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "edinburgh",
-      "category": "culture",
-      "reason": "평균 6°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "istanbul",
-      "category": "culture",
-      "reason": "평균 8°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "cappadocia",
-      "category": "adventure",
-      "reason": "평균 5°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "antalya",
-      "category": "beach",
-      "reason": "평균 13°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "santorini",
-      "category": "beach",
-      "reason": "평균 14°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "가을 시작, F1 그랑프리 개최",
       "rating": 4
     },
     {
       "regionId": "mykonos",
       "category": "beach",
-      "reason": "평균 13°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "시설 서서히 오픈, 아직 불완전",
       "rating": 4
     }
   ],
-  "hiddenGems": [],
   "avoidList": [
     {
+      "regionId": "amalfi",
+      "reason": "봄 시작, 일부 시설 오픈 시작"
+    },
+    {
       "regionId": "bali",
-      "reason": "강수량 291mm의 우기"
+      "reason": "우기 끝자락, 비가 줄어들기 시작"
+    },
+    {
+      "regionId": "cappadocia",
+      "reason": "봄 시작, 열기구 비행 재개되는 시기"
+    },
+    {
+      "regionId": "edinburgh",
+      "reason": "봄 시작, 서서히 길어지는 해"
+    },
+    {
+      "regionId": "hokkaido",
+      "reason": "아직 눈이 남아있는 초봄, 스키 시즌 막바지"
+    },
+    {
+      "regionId": "istanbul",
+      "reason": "봄 시작, 튤립이 피기 시작하는 시기"
+    },
+    {
+      "regionId": "jakarta",
+      "reason": "우기 끝자락, 비 줄어들지만 습도 높음"
+    },
+    {
+      "regionId": "lombok",
+      "reason": "우기 끝자락, 비 줄어들기 시작"
+    },
+    {
+      "regionId": "london",
+      "reason": "봄 시작, 공원에 꽃이 피기 시작"
+    },
+    {
+      "regionId": "new-york",
+      "reason": "아직 쌀쌀하지만 봄기운이 느껴지는 시기"
+    },
+    {
+      "regionId": "osaka",
+      "reason": "벚꽃 시작, 오사카성과 조폐국 벚꽃 명소"
+    },
+    {
+      "regionId": "paris",
+      "reason": "봄기운이 시작, 카페 테라스가 열리기 시작"
+    },
+    {
+      "regionId": "singapore",
+      "reason": "비교적 건조한 시기, 가든스바이더베이 관광"
+    },
+    {
+      "regionId": "tokyo",
+      "reason": "벚꽃 시즌 시작, 우에노·메구로 벚꽃 명소 인파"
     }
   ]
 }

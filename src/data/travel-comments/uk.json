@@ -2,8 +2,8 @@
   {
     "regionId": "london",
     "month": 1,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 1,
+    "summary": "어두운 겨울, 뮤지컬과 실내 관광 위주",
     "highlights": [
       "겨울 스포츠에 적합한 시기"
     ],
@@ -17,13 +17,13 @@
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "london",
     "month": 2,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 2,
+    "summary": "겨울 끝자락, 아직 춥고 비 잦은 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -35,13 +35,13 @@
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "london",
     "month": 3,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "봄 시작, 공원에 꽃이 피기 시작",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -52,14 +52,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "london",
     "month": 4,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "봄, 하이드파크와 리젠트파크 꽃 만발",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -78,8 +78,8 @@
   {
     "regionId": "london",
     "month": 5,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 끝자락, 긴 일조시간과 공원 산책",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -98,8 +98,8 @@
   {
     "regionId": "london",
     "month": 6,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "여름 시작, 밤 10시까지 밝은 긴 해",
     "highlights": [
       "런던 여름 성수기",
       "일조시간이 길어 야외 활동에 좋음"
@@ -123,8 +123,8 @@
   {
     "regionId": "london",
     "month": 7,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 4,
+    "summary": "여름 성수기, 윔블던과 야외 축제",
     "highlights": [
       "런던 여름 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -149,8 +149,8 @@
   {
     "regionId": "london",
     "month": 8,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "여름 피크, 노팅힐 카니발",
     "highlights": [
       "런던 여름 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -175,8 +175,8 @@
   {
     "regionId": "london",
     "month": 9,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "여름 끝자락, 쾌적한 초가을",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -195,8 +195,8 @@
   {
     "regionId": "london",
     "month": 10,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "가을 단풍, 쌀쌀해지는 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -210,14 +210,14 @@
       "접이식 우산이나 우비 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "london",
     "month": 11,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 1,
+    "summary": "초겨울, 16시면 어두워지는 짧은 해",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -229,13 +229,13 @@
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "london",
     "month": 12,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 1,
+    "summary": "크리스마스 마켓, 연말 분위기이지만 추움",
     "highlights": [
       "크리스마스 마켓과 일루미네이션"
     ],
@@ -251,13 +251,13 @@
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "edinburgh",
     "month": 1,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 1,
+    "summary": "혹한과 어둠, 일조시간 7시간의 깊은 겨울",
     "highlights": [
       "호그마네(스코틀랜드 새해) 축제",
       "겨울 스포츠에 적합한 시기"
@@ -275,13 +275,13 @@
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "edinburgh",
     "month": 2,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 1,
+    "summary": "아직 추운 겨울, 위스키 투어에 적합",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -292,14 +292,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "edinburgh",
     "month": 3,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 1,
+    "summary": "봄 시작, 서서히 길어지는 해",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -310,14 +310,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "edinburgh",
     "month": 4,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "봄, 아서스시트 하이킹 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -330,14 +330,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "edinburgh",
     "month": 5,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 끝자락, 축제 시즌 직전",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -356,8 +356,8 @@
   {
     "regionId": "edinburgh",
     "month": 6,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "스코틀랜드 여름 시작, 밤 11시까지 밝은 백야",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -376,8 +376,8 @@
   {
     "regionId": "edinburgh",
     "month": 7,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "에든버러 여름, 야외 하이킹 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -390,14 +390,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "edinburgh",
     "month": 8,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "에든버러 프린지 페스티벌, 세계 최대 공연 축제",
     "highlights": [
       "에든버러 프린지 + 밀리터리 타투",
       "일조시간이 길어 야외 활동에 좋음"
@@ -414,14 +414,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "edinburgh",
     "month": 9,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "프린지 후 여유로운 가을, 하이랜드 단풍",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -432,14 +432,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "edinburgh",
     "month": 10,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 1,
+    "summary": "가을 단풍, 쌀쌀해지는 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -453,14 +453,14 @@
       "접이식 우산이나 우비 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "edinburgh",
     "month": 11,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 1,
+    "summary": "초겨울, 어둡고 비 잦은 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -471,14 +471,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "edinburgh",
     "month": 12,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 1,
+    "summary": "호그마니(새해 축제), 추위 속 연말 분위기",
     "highlights": [
       "호그마네(스코틀랜드 새해) 축제"
     ],
@@ -496,6 +496,6 @@
     ],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   }
 ]

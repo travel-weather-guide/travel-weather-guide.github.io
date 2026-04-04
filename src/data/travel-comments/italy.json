@@ -2,8 +2,8 @@
   {
     "regionId": "rome",
     "month": 1,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "겨울 비, 콜로세움 줄이 짧은 비수기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -13,14 +13,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "rome",
     "month": 2,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "겨울 끝자락, 카니발과 저렴한 항공권",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -33,14 +33,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "rome",
     "month": 3,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 시작, 로마 유적지 산책 좋은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -58,8 +58,8 @@
   {
     "regionId": "rome",
     "month": 4,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "부활절 시즌, 봄꽃과 20°C의 완벽한 기온",
     "highlights": [
       "온화한 봄, 관광 적기",
       "일조시간이 길어 야외 활동에 좋음"
@@ -81,8 +81,8 @@
   {
     "regionId": "rome",
     "month": 5,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 4,
+    "summary": "로마 봄의 절정, 관광 최적기",
     "highlights": [
       "온화한 봄, 관광 적기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -106,7 +106,7 @@
     "regionId": "rome",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "초여름, 긴 해와 야외 다이닝의 매력",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -125,7 +125,7 @@
     "regionId": "rome",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "35°C 이상 더위, 혼잡하지만 관광은 가능",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -140,14 +140,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "rome",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "폭염 지속, 현지인은 떠나고 관광객이 채우는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -159,14 +159,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "rome",
     "month": 9,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "관광객 줄고 25°C의 완벽한 가을",
     "highlights": [
       "가을 로마, 관광객 감소 쾌적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -186,8 +186,8 @@
   {
     "regionId": "rome",
     "month": 10,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "가을 미식 시즌, 포도 수확과 와인 축제",
     "highlights": [
       "가을 로마, 관광객 감소 쾌적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -210,8 +210,8 @@
   {
     "regionId": "rome",
     "month": 11,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "쌀쌀해지지만 관광객 적어 여유로운 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -225,14 +225,14 @@
       "접이식 우산이나 우비 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "rome",
     "month": 12,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "겨울 비, 크리스마스의 바티칸",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -246,14 +246,14 @@
       "접이식 우산이나 우비 챙기기"
     ],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "venice",
     "month": 1,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 1,
+    "summary": "겨울 추위, 안개와 아쿠아 알타(침수) 위험",
     "highlights": [
       "겨울 스포츠에 적합한 시기"
     ],
@@ -265,14 +265,14 @@
       "보온 용품과 핫팩 준비"
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "venice",
     "month": 2,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "베네치아 카니발 시즌, 추위에도 축제 분위기",
     "highlights": [
       "베네치아 카니발",
       "강수량이 적어 맑은 날이 많음"
@@ -291,8 +291,8 @@
   {
     "regionId": "venice",
     "month": 3,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 시작, 카니발 후 관광객 줄어드는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -310,8 +310,8 @@
   {
     "regionId": "venice",
     "month": 4,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 한가운데, 곤돌라 타기 좋은 시기",
     "highlights": [
       "수상도시 봄·가을 황금기",
       "일조시간이 길어 야외 활동에 좋음"
@@ -333,8 +333,8 @@
   {
     "regionId": "venice",
     "month": 5,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "비엔날레 시작, 20°C의 완벽한 운하 산책",
     "highlights": [
       "수상도시 봄·가을 황금기",
       "일조시간이 길어 야외 활동에 좋음"
@@ -359,8 +359,8 @@
   {
     "regionId": "venice",
     "month": 6,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "초여름, 따뜻하고 긴 해의 베네치아",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -380,7 +380,7 @@
     "regionId": "venice",
     "month": 7,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "여름 더위, 운하 냄새와 관광객 혼잡",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -391,14 +391,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "venice",
     "month": 8,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "더위와 혼잡, 운하 악취 주의",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -409,14 +409,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "venice",
     "month": 9,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "베네치아 영화제, 가을의 낭만",
     "highlights": [
       "수상도시 봄·가을 황금기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -439,8 +439,8 @@
   {
     "regionId": "venice",
     "month": 10,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "가을, 아쿠아 알타 시작될 수 있는 시기",
     "highlights": [
       "수상도시 봄·가을 황금기"
     ],
@@ -456,14 +456,14 @@
       "접이식 우산이나 우비 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "venice",
     "month": 11,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 1,
+    "summary": "아쿠아 알타(침수) 최빈 시즌, 산마르코 광장 잠김",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -473,14 +473,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "venice",
     "month": 12,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 1,
+    "summary": "겨울, 안개와 침수 위험 지속",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -490,14 +490,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "amalfi",
     "month": 1,
-    "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "rating": 1,
+    "summary": "겨울, 대부분의 호텔·식당 폐업",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -512,13 +512,13 @@
     ],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "amalfi",
     "month": 2,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "겨울, 폐업 지속과 해안도로 위험",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -530,14 +530,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "amalfi",
     "month": 3,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "봄 시작, 일부 시설 오픈 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -552,14 +552,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "amalfi",
     "month": 4,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄꽃 만개, 레몬 과수원이 아름다운 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -578,8 +578,8 @@
   {
     "regionId": "amalfi",
     "month": 5,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "레몬 시즌, 해안 절경과 따뜻한 바다",
     "highlights": [
       "지중해 절경 + 쾌적한 기온",
       "일조시간이 길어 야외 활동에 좋음",
@@ -604,7 +604,7 @@
     "regionId": "amalfi",
     "month": 6,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "여름 시작, 해변과 리모첼로의 계절",
     "highlights": [
       "지중해 절경 + 쾌적한 기온",
       "일조시간이 길어 야외 활동에 좋음",
@@ -621,14 +621,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "amalfi",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "극심한 혼잡, 예약 없이는 못 가는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -640,14 +640,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "medium",
+    "priceLevel": "low"
   },
   {
     "regionId": "amalfi",
     "month": 8,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "가장 혼잡한 시기, 인파와 더위",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -659,14 +659,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "amalfi",
     "month": 9,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "관광객 줄고 바다 여전히 따뜻한 최적기",
     "highlights": [
       "지중해 절경 + 쾌적한 기온",
       "일조시간이 길어 야외 활동에 좋음",
@@ -685,14 +685,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "amalfi",
     "month": 10,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "가을, 레몬 수확과 여유로운 해안",
     "highlights": [
       "지중해 절경 + 쾌적한 기온",
       "일조시간이 길어 야외 활동에 좋음",
@@ -718,8 +718,8 @@
   {
     "regionId": "amalfi",
     "month": 11,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "비수기 시작, 시설 폐업 시작",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -734,13 +734,13 @@
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "amalfi",
     "month": 12,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 1,
+    "summary": "겨울, 대부분 폐업",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -755,6 +755,6 @@
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   }
 ]
