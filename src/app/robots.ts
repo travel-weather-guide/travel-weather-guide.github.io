@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://travel-weather.pages.dev/sitemap.xml',
+    sitemap: 'https://travel-weather-guide.github.io/sitemap.xml',
   };
 }

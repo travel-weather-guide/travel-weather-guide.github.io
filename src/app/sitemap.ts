@@ -4,7 +4,7 @@ import { getAllCountryIds, getCountry } from '@/utils/data';
 
 export const dynamic = 'force-static';
 
-const BASE_URL = 'https://travel-weather.pages.dev';
+const BASE_URL = 'https://travel-weather-guide.github.io';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();

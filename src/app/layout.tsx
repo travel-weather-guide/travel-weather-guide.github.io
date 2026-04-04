@@ -24,7 +24,7 @@ const notoSansSC = Noto_Sans_SC({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://travel-weather.pages.dev'),
+  metadataBase: new URL('https://travel-weather-guide.github.io'),
   title: {
     default: 'Travel Weather - 여행하기 좋은 날씨, 한눈에',
     template: '%s | Travel Weather',
