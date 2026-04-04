@@ -442,3 +442,46 @@
 | 2026-04-05 | 데이터 다국어화 완료: 15개 국가 + 15개 코멘트 + 12개 추천 파일 번역 |
 | 2026-04-05 | 폰트(Noto Sans JP/SC) + 동적 lang 속성 추가 |
 | 2026-04-05 | climateType/MONTH_LABELS/"일" 접미사 등 누락 한국어 수정, 최종 빌드 성공 |
+
+---
+
+## 사용자 유입, 경쟁사이트 관련 분석, 가장 최적의 도메인 이름 선정 (2026-04-05 완료)
+
+### 분석
+- [x] 경쟁사이트 조사 — Holiday-Weather, WeatherSpark, ClimatesToTravel 등 9개 분석
+- [x] 사용자 유입 경로 분석 — SEO 키워드, 검색 의도, 채널별 잠재력
+- [x] 차별화 포인트 정리 — 경쟁사 대비 강점/약점, 39개 지역 데이터 한계 확인
+- [x] 도메인 후보 리스트업 — monthwise.com 1순위 등 5개 후보
+- [x] 도메인 가용성 확인 — .com 중심 TLD 검토
+- [x] 최종 도메인 추천안 제시 — monthwise.com > bestweather.com > wheretotravel.com
+
+### 구현: SEO 인프라
+- [x] GitHub Pages 배포 설정 — output: 'export', trailingSlash, images.unoptimized
+- [x] generateMetadata 구현 — 국가/지역 페이지별 고유 title, description
+- [x] canonical URL 수정 — 전역 / 제거, 페이지별 개별 설정
+- [x] hreflang 태그 — 스킵 (라우트 기반 i18n 없이는 적용 불가)
+- [x] OG 이미지 연결 — 16개 국가별 OG 이미지를 각 페이지에 연결
+- [x] structured data 보강 — FAQPage, Country, ItemList 스키마 추가
+- [x] sitemap 점검 — trailing slash 통일, best-in 12개 페이지 포함
+
+### 구현: 유입 확대
+- [x] /best-in/[month] 12개 페이지 — 월별 추천/숨은보석/비추 목록
+- [x] 최근 본 목적지 — localStorage 기반, 홈 페이지 표시
+
+### 추가 작업
+- 이중 언어 메타 설명 (Korean + English keywords)
+- 국기 이미지 (flagcdn.com) 적용 — CountryCard, best-in, 홈 추천
+- FLAG_EMOJI → flagUrl 공유 유틸 추출
+- preconnect/dns-prefetch 설정
+- 파비콘 리뉴얼 (비행기 + 태양)
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-05 | 경쟁사 9개 분석, SEO/유입 분석, 도메인 5개 후보 선정 완료 |
+| 04-05 | 기능 제안 10개 → 냉정 검토 후 5개로 축소 (데이터 39개 지역 한계 반영) |
+| 04-05 | SEO 인프라: next.config(export), generateMetadata, canonical, OG, FAQ스키마 |
+| 04-05 | /best-in/[month] 12개 페이지 생성 (73페이지 빌드 성공) |
+| 04-05 | 최근 본 목적지 (localStorage + 홈페이지 표시) 구현 |
+| 04-05 | 배포 최적화: 이중언어 메타, Country/ItemList 스키마, sitemap trailing slash |
+| 04-05 | 국기 이미지 전환, 파비콘 리뉴얼 |
