@@ -58,6 +58,7 @@ export default function RootLayout({
   return (
     <html lang="ko" className={`${notoSansKR.variable} ${notoSansJP.variable} ${notoSansSC.variable} h-full antialiased`}>
       <head>
+        <meta name="google-site-verification" content="Mudh050dbsNy8pzORbZVipbjCxy32V4Jxrg9capWvB4" />
         <link rel="dns-prefetch" href="https://flagcdn.com" />
         <link rel="preconnect" href="https://flagcdn.com" crossOrigin="anonymous" />
       </head>

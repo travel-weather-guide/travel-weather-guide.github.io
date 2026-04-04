@@ -485,3 +485,21 @@
 | 04-05 | 최근 본 목적지 (localStorage + 홈페이지 표시) 구현 |
 | 04-05 | 배포 최적화: 이중언어 메타, Country/ItemList 스키마, sitemap trailing slash |
 | 04-05 | 국기 이미지 전환, 파비콘 리뉴얼 |
+
+---
+
+## 배포 — GitHub Pages 정적 배포 (2026-04-05 완료)
+
+- [x] 빌드 정상 동작 확인 (`npm run build` → `out/` 73페이지 생성)
+- [x] GitHub Pages 설정 (GitHub Actions 워크플로우 생성)
+- [x] 도메인 URL 변경 (sitemap, robots, metadataBase → travel-weather-guide.github.io)
+- [x] `.gitignore`에 `out/` 확인 (이미 포함)
+- [x] 새 조직 리포 생성 및 push 완료
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-05 | Cloudflare Pages → GitHub Pages(org) 전환 결정 |
+| 04-05 | URL 3곳 travel-weather-guide.github.io로 변경 |
+| 04-05 | .github/workflows/deploy.yml 생성 |
+| 04-05 | travel-weather-guide 조직 리포로 push 완료 |
