@@ -553,3 +553,36 @@
 | 04-05 | 데이터 생성 실행 — 30개국 67개 지역 완료 |
 | 04-05 | 빌드 성공 확인 |
 | 04-05 | 국기/썸네일 누락 수정 (FLAG_ALPHA2, ISO_CODES, imageUrl) |
+
+---
+
+## 디자인 최적화 → UI/UX 전면 개편 (2026-04-05 완료)
+
+- [x] globals.css — 시맨틱 컬러 토큰 (temp-hot/cool/cold/warm)
+- [x] Header — sky-600 단색 로고, backdrop-blur-md, h-16
+- [x] Footer — py-8, text-sm, 링크 스타일 개선
+- [x] SearchBar — 전체 30개국 검색 (5개국→30개국), rounded-2xl
+- [x] MonthSelector / ContinentFilter — slate-100, sky-500, shadow-sm, transition-all duration-200
+- [x] Homepage — 월 선택기, 6개 추천 카드 + 온도 표시, max-w-6xl, 타이틀 text-2xl/3xl
+- [x] CountryExplorer — 모바일 지도 숨김, rounded-2xl, 온도 프리뷰 전달
+- [x] CountryCard — 온도/날씨 프리뷰 props 추가, rounded-2xl, shadow-sm
+- [x] CountryDetailContent — 브레드크럼, max-w-5xl, 정보 카드 리디자인
+- [x] RegionList — 큰 카드(p-5), text-lg 지역명, 온도 강조, emerald-50 뱃지
+- [x] RegionDetailContent — 탭 제거 → 단일 스크롤, Weather Verdict 카드(bg-slate-50), sticky 월 선택기
+- [x] DailyCalendar — bg-temp-* 시맨틱 토큰, text-xs 최소, 모바일 세로 스택, rounded-2xl
+- [x] WeatherChart — h-72/h-80, slate-200 그리드, rounded-xl 도구팁
+- [x] WeatherTable — rounded-2xl, bg-slate-50 헤더, uppercase tracking-wide
+- [x] TravelRating — rounded-2xl bg-slate-50 카드, h-2.5 w-8 바
+- [x] TravelTips — p-6, ✦/▲/→ 프리픽스, uppercase 라벨
+- [x] BestSeasonBadge — px-3 py-1.5 뱃지
+- [x] YearComparison — rounded-2xl, bg-sky-50/50 선택행
+- [x] BestInMonthContent — max-w-6xl, rounded-2xl 카드, mt-12 섹션
+- [x] WorldMap — useEffect 통합, 숨김 상태 NaN 에러 수정
+- [x] 빌드 검증 — 115 pages, 0 errors
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 2026-04-05 | 3개 병렬 에이전트로 전체 UI/UX 개편 완료 |
+| 2026-04-05 | 홈 히어로 디자인 수정, 캘린더 모바일 최적화, 지도 에러 수정 |
+
