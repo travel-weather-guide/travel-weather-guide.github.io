@@ -611,3 +611,48 @@
 |------|----------|
 | 2026-04-05 | 플랜 시작 — 기존 파일 병합 방식으로 확정 |
 | 2026-04-05 | 67개 지역 2025 데이터 수집 완료 |
+
+---
+
+## 한국에서 여행 많이 가는 도시 20군데 추가 (2026-04-05 완료)
+
+### 데이터 파일 작성
+- [x] japan.json — 교토, 후쿠오카 추가
+- [x] vietnam.json — 나트랑, 호이안 추가
+- [x] thailand.json — 파타야, 크라비 추가
+- [x] indonesia.json — 족자카르타 추가
+- [x] malaysia.json — 페낭 추가
+- [x] china.json — 장가계, 구이린 추가
+- [x] india.json 신규 생성 (뉴델리, 뭄바이)
+- [x] egypt.json 신규 생성 (카이로, 룩소르)
+- [x] canada.json 신규 생성 (밴쿠버, 토론토)
+- [x] austria.json 신규 생성 (빈)
+- [x] netherlands.json 신규 생성 (암스테르담)
+- [x] morocco.json 신규 생성 (마라케시)
+- [x] sri-lanka.json 신규 생성 (콜롬보)
+
+### 인덱스 업데이트
+- [x] countries.json — 7개 신규 국가 항목 추가 + 기존 국가 regionCount 수정
+
+### 2025 daily 데이터
+- [x] 기존 국가 신규 지역 daily 데이터 생성 (교토~구이린 10곳)
+- [x] 신규 국가 daily 데이터 생성 (뉴델리~콜롬보 10곳)
+
+### 코멘트 데이터
+- [x] generate-recommendations.py COMMENTS dict에 20개 지역 코멘트 추가
+- [x] recommendations.json 재생성
+
+### 검증
+- [x] npm run build 성공 (37개국 87개 지역 정적 페이지 생성)
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 2026-04-05 | 플랜 시작 — 추가 도시 20곳 확정 |
+| 2026-04-05 | regions.ts 수정 (20개 지역 + 7개 국가 + seasonOverrides + visaInfo) |
+| 2026-04-05 | generate-recommendations.py 수정 (CATEGORIES, POPULAR, COMMENTS, PENALTY 추가) |
+| 2026-04-05 | generate-data.ts 실행 → 13개국 데이터 Open-Meteo API fetch 완료 |
+| 2026-04-05 | add-2025-data.ts 실행 → 20개 지역 2025 daily 데이터 merge 완료 |
+| 2026-04-05 | generate-recommendations.py 실행 → 87개 지역 추천 + 코멘트 재생성 |
+| 2026-04-05 | npm run build → 37개국 87개 지역 정적 페이지 빌드 성공 |
+| 2026-04-05 | FLAG_ALPHA2 + imageUrl 수정, CLAUDE.md 국가 추가 체크리스트 문서화 |

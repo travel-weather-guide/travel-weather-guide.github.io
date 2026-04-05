@@ -351,10 +351,19 @@ interface RecommendedDestination {
 
 ### 국가 추가 방법
 
-새 국가 추가 시 2개 파일만 추가하면 sitemap, 지도, 국가 목록에 자동 반영된다:
+새 국가/지역 추가 시 아래 체크리스트를 **모두** 완료해야 한다:
 
-1. `src/data/countries.json` — 인덱스에 항목 추가 (`id`, `name`, `continent`, `regionCount`, `isoNumeric` 필드 필수)
-2. `src/data/countries/{id}.json` — 국가 상세 데이터 (regions 포함)
+1. `scripts/regions.ts` — `countries` 배열에 국가/지역 정의 추가 + `seasonOverrides` + `visaInfo`
+2. `npx tsx scripts/generate-data.ts --only <countryId>` — Open-Meteo API로 기후 데이터 fetch → `src/data/countries/{id}.json` + `daily/` + `travel-comments/` + `countries.json` 인덱스 자동 생성
+3. **imageUrl 필수 확인** — `generate-data.ts`는 `imageUrl`을 생성하지 않음. 수동으로 추가 필요:
+   - `src/data/countries/{id}.json`에 `"imageUrl"` 필드 추가
+   - Unsplash URL 사용 시 반드시 `curl -sI <url>` 로 HTTP 200 확인 (404 URL 금지)
+   - 형식: `https://images.unsplash.com/photo-XXXXX?auto=format&fit=crop&w=800&q=80`
+4. `src/utils/data.ts` — `FLAG_ALPHA2`에 국가 ISO alpha-2 코드 추가 (없으면 국기 이미지 깨짐)
+5. `scripts/generate-recommendations.py` — `CATEGORIES`, `POPULAR`, `COMMENTS`, `TYPHOON_PENALTY`/`FLOOD_PENALTY` dict에 지역 추가
+6. `python3 scripts/generate-recommendations.py` — 추천 데이터 재생성
+7. `npx tsx scripts/add-2025-data.ts --only <regionId>` — 2025 daily 데이터 추가
+8. `npm run build` — 빌드 성공 확인
 
 `isoNumeric`은 ISO 3166-1 숫자 코드 (예: japan=`"392"`). 세계지도 국가 클릭 연동에 사용됨.
 
