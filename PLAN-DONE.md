@@ -522,3 +522,34 @@
 | 04-05 | 2차 배치 (인도네시아, 대만, 스페인) 8개 지역 생성 |
 | 04-05 | 3차 배치 (이탈리아, 영국, 터키, 그리스) 11개 지역 생성 |
 | 04-05 | 스키마 URL 수정 + 10개국 썸네일 이미지 추가 |
+
+---
+
+## 주요 여행 국가들 데이터 추가 (2026-04-05 완료)
+
+15개국 → 30개국 확장. 한국 출국자 통계 기준 인기 여행지 중심.
+
+### 추가 국가
+중국, 홍콩, 괌, 말레이시아, 캄보디아, 몰디브, 몽골, 라오스, 스위스, 체코, 크로아티아, UAE, 뉴질랜드, 독일, 포르투갈
+
+### 체크리스트
+- [x] `scripts/regions.ts` — 15개국 CountryDef + seasonOverrides + visaInfo 추가
+- [x] `scripts/generate-recommendations.py` — PENALTIES + CATEGORIES + POPULAR + COMMENTS 324개
+- [x] `npx tsx scripts/generate-data.ts` — 30개국 67개 지역 기후 데이터 수집 + JSON 생성
+- [x] `python scripts/generate-recommendations.py` — 추천 데이터 생성
+- [x] `npm run build` 성공 확인
+- [x] 국기/썸네일 이미지 — FLAG_ALPHA2 + ISO_CODES 30개국 매핑, Unsplash imageUrl 설정
+
+### 추가 작업 (플랜 외)
+- [x] 모바일뷰 지도 제거 (CountryExplorer.tsx)
+- [x] 파비콘 PNG 생성 (16/32/180/192/512px)
+- [x] OG 이미지 30개국 생성
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-05 | 15개국 regions.ts 정의 완료 (CountryDef + seasonOverrides + visaInfo) |
+| 04-05 | generate-recommendations.py 업데이트 (324개 코멘트 + penalties + categories) |
+| 04-05 | 데이터 생성 실행 — 30개국 67개 지역 완료 |
+| 04-05 | 빌드 성공 확인 |
+| 04-05 | 국기/썸네일 누락 수정 (FLAG_ALPHA2, ISO_CODES, imageUrl) |
