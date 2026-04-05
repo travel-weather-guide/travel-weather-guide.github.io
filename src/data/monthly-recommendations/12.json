@@ -14,6 +14,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "겨울 성수기, 나일강 크루즈 + 유적 패키지 인기",
+      "rating": 5
+    },
+    {
       "regionId": "chiang-mai",
       "category": "culture",
       "reason": "건기, 서늘하고 맑은 날씨로 트레킹 최적기",
@@ -35,6 +41,30 @@
       "regionId": "luang-prabang",
       "category": "culture",
       "reason": "건기, 서늘하고 맑은 루앙프라방 최적기",
+      "rating": 5
+    },
+    {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "성수기 절정, 나일강 크루즈와 유적 탐방 러시",
+      "rating": 5
+    },
+    {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "겨울 성수기, 사막 별빛 캠핑과 메디나 야경",
+      "rating": 5
+    },
+    {
+      "regionId": "mumbai",
+      "category": "city",
+      "reason": "연말 성수기, 크리스마스 콜라바 거리 분위기",
+      "rating": 5
+    },
+    {
+      "regionId": "pattaya",
+      "category": "beach",
+      "reason": "성수기 재개, 카운트다운 파티로 붐비는 해변",
       "rating": 5
     },
     {
@@ -70,15 +100,15 @@
       "rating": 4
     },
     {
-      "regionId": "phnom-penh",
-      "category": "city",
-      "reason": "건기, 선선하고 쾌적한 여행 최적기",
+      "regionId": "new-delhi",
+      "category": "culture",
+      "reason": "선선한 겨울, 크리스마스 분위기와 관광 성수기",
       "rating": 4
     },
     {
-      "regionId": "sydney",
+      "regionId": "phnom-penh",
       "category": "city",
-      "reason": "여름 시작, NYE 불꽃축제와 해변 시즌",
+      "reason": "건기, 선선하고 쾌적한 여행 최적기",
       "rating": 4
     }
   ],
@@ -86,6 +116,10 @@
     {
       "regionId": "amalfi",
       "reason": "겨울, 대부분 폐업"
+    },
+    {
+      "regionId": "amsterdam",
+      "reason": "크리스마스 마켓과 운하 일루미네이션 축제"
     },
     {
       "regionId": "antalya",
@@ -116,6 +150,10 @@
       "reason": "건기, 크리스마스 분위기의 세부"
     },
     {
+      "regionId": "colombo",
+      "reason": "건기 재개, 갈레 문학 축제 시즌"
+    },
+    {
       "regionId": "da-nang",
       "reason": "우기 끝자락, 점차 날씨 회복 중"
     },
@@ -126,6 +164,14 @@
     {
       "regionId": "edinburgh",
       "reason": "호그마니(새해 축제), 추위 속 연말 분위기"
+    },
+    {
+      "regionId": "fukuoka",
+      "reason": "연말 일루미네이션과 캐널 시티 크리스마스"
+    },
+    {
+      "regionId": "hoi-an",
+      "reason": "건기 시작, 다시 맑아지는 호이안"
     },
     {
       "regionId": "hokkaido",
@@ -146,6 +192,10 @@
     {
       "regionId": "kota-kinabalu",
       "reason": "건기, 열대 해변의 크리스마스"
+    },
+    {
+      "regionId": "krabi",
+      "reason": "건기 성수기, 에메랄드빛 바다로 돌아온 크라비"
     },
     {
       "regionId": "kuala-lumpur",
@@ -184,6 +234,10 @@
       "reason": "록펠러 트리, 홀리데이 쇼핑의 연말 분위기"
     },
     {
+      "regionId": "nha-trang",
+      "reason": "날씨 회복 중이지만 아직 불안정한 시기"
+    },
+    {
       "regionId": "nice",
       "reason": "겨울이지만 온화, 크리스마스 마켓"
     },
@@ -194,6 +248,10 @@
     {
       "regionId": "paris",
       "reason": "크리스마스 마켓과 일루미네이션의 연말 분위기"
+    },
+    {
+      "regionId": "penang",
+      "reason": "건기 성수기, 연말 연휴 페낭 음식 축제"
     },
     {
       "regionId": "porto",
@@ -220,8 +278,24 @@
       "reason": "건기 지속, 쌀쌀하지만 야시장과 온천 매력"
     },
     {
+      "regionId": "toronto",
+      "reason": "크리스마스 성수기, 나이아가라 윈터 페스티벌"
+    },
+    {
+      "regionId": "vancouver",
+      "reason": "크리스마스 시즌, 휘슬러 스키 리조트 오픈"
+    },
+    {
       "regionId": "venice",
       "reason": "겨울, 안개와 침수 위험 지속"
+    },
+    {
+      "regionId": "vienna",
+      "reason": "빈 크리스마스 마켓 — 유럽 최고, 신년 카운트다운"
+    },
+    {
+      "regionId": "yogyakarta",
+      "reason": "우기, 보로부두르 새벽 운해 사진 시도해볼 시기"
     },
     {
       "regionId": "zurich",

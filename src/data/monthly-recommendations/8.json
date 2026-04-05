@@ -26,6 +26,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "폭염 지속, 해질 무렵 나일강 유람선 추천",
+      "rating": 5
+    },
+    {
       "regionId": "cappadocia",
       "category": "adventure",
       "reason": "폭염 지속, 야외 활동 힘든 시기",
@@ -65,6 +71,12 @@
       "regionId": "madrid",
       "category": "city",
       "reason": "폭염 지속, 현지인도 도시를 떠나는 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "폭염 지속, 산악 지역 아이트벤하두로 피서",
       "rating": 5
     },
     {
@@ -140,6 +152,12 @@
       "category": "beach",
       "reason": "건기 지속, 해양 액티비티 최고",
       "rating": 4
+    },
+    {
+      "regionId": "toronto",
+      "category": "city",
+      "reason": "여름 절정, 토론토 아이랜드 페리·레이크쇼어 산책",
+      "rating": 4
     }
   ],
   "avoidList": [
@@ -168,8 +186,20 @@
       "reason": "우기, 산길이 미끄럽고 트레킹 주의"
     },
     {
+      "regionId": "colombo",
+      "reason": "우기, 서퍼들이 찾는 우기 전용 파도 시즌"
+    },
+    {
+      "regionId": "fukuoka",
+      "reason": "더운 여름, 바다와 포장마차의 도시"
+    },
+    {
       "regionId": "guam",
       "reason": "우기 지속, 하늘이 흐린 날 많은 시기"
+    },
+    {
+      "regionId": "guilin",
+      "reason": "고온다습, 녹색 물든 카르스트 산수"
     },
     {
       "regionId": "hanoi",
@@ -192,6 +222,10 @@
       "reason": "우기 지속, 선셋 대신 비 구름"
     },
     {
+      "regionId": "krabi",
+      "reason": "우기 지속, 저가 숙박 시즌"
+    },
+    {
       "regionId": "kuala-lumpur",
       "reason": "우기 지속, 헤이즈 가능성 있는 시기"
     },
@@ -212,8 +246,24 @@
       "reason": "태풍 절정기, 가장 위험한 시기"
     },
     {
+      "regionId": "mumbai",
+      "reason": "몬순 지속, 가네샤 차투르티 축제 (8~9월)"
+    },
+    {
+      "regionId": "new-delhi",
+      "reason": "우기 지속, 독립기념일(15일) 분위기"
+    },
+    {
       "regionId": "okinawa",
       "reason": "태풍 절정기, 여행 일정이 틀어질 위험 큼"
+    },
+    {
+      "regionId": "pattaya",
+      "reason": "우기 중반, 성수기 대비 항공권·숙박 저렴"
+    },
+    {
+      "regionId": "penang",
+      "reason": "우기 지속, 음식의 도시 특성상 실내 탐방 지속"
     },
     {
       "regionId": "phnom-penh",
@@ -250,6 +300,10 @@
     {
       "regionId": "vientiane",
       "reason": "우기 절정, 메콩강 범람 위험"
+    },
+    {
+      "regionId": "zhangjiajie",
+      "reason": "고온다습, 구름 아래 숨은 봉우리 신비로운 풍경"
     }
   ]
 }

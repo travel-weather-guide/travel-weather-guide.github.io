@@ -26,6 +26,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "극한 더위, 유럽인 관광객 감소로 한산",
+      "rating": 5
+    },
+    {
       "regionId": "cappadocia",
       "category": "adventure",
       "reason": "40°C 폭염, 열기구 조건 악화",
@@ -62,9 +68,21 @@
       "rating": 5
     },
     {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "폭염 절정, 외국 관광객 거의 없는 시기",
+      "rating": 5
+    },
+    {
       "regionId": "madrid",
       "category": "city",
       "reason": "40°C 넘는 극심한 폭염, 낮에는 야외 불가",
+      "rating": 5
+    },
+    {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "40°C 극한 더위, 실내 전통 궁전 관람 위주",
       "rating": 5
     },
     {
@@ -110,9 +128,21 @@
       "rating": 5
     },
     {
+      "regionId": "vancouver",
+      "category": "city",
+      "reason": "캐나다 데이, 맑고 쾌적한 여름 피크",
+      "rating": 5
+    },
+    {
       "regionId": "venice",
       "category": "culture",
       "reason": "여름 더위, 운하 냄새와 관광객 혼잡",
+      "rating": 5
+    },
+    {
+      "regionId": "vienna",
+      "category": "culture",
+      "reason": "여름 성수기, 빈 필하모닉 잘츠부르크 페스티벌",
       "rating": 5
     }
   ],
@@ -174,8 +204,20 @@
       "reason": "우기 지속, 짧은 오후 소나기 후 맑은 하늘"
     },
     {
+      "regionId": "colombo",
+      "reason": "우기 지속, 스리랑카 페라헤라 축제 (캔디, 7~8월)"
+    },
+    {
+      "regionId": "fukuoka",
+      "reason": "야마카사 축제 — 박력 넘치는 가마 질주 구경"
+    },
+    {
       "regionId": "guam",
       "reason": "태풍 시즌과 우기 겹침, 일정 변동 주의"
+    },
+    {
+      "regionId": "guilin",
+      "reason": "우기 성수기, 더운 여름이지만 경치는 절경"
     },
     {
       "regionId": "hanoi",
@@ -198,8 +240,16 @@
       "reason": "우기 중, 키나발루산 운무 장관"
     },
     {
+      "regionId": "krabi",
+      "reason": "우기 절정, 서퍼들의 시즌으로 전환"
+    },
+    {
       "regionId": "kuala-lumpur",
       "reason": "우기 중, 실내 쇼핑몰 투어로 대응"
+    },
+    {
+      "regionId": "kyoto",
+      "reason": "기온 마츠리 월간 축제, 무더위와 함께하는 여름 교토"
     },
     {
       "regionId": "langkawi",
@@ -222,12 +272,28 @@
       "reason": "겨울 한가운데, 춥지만 겨울 나이트마켓"
     },
     {
+      "regionId": "mumbai",
+      "reason": "몬순 절정, 도시 곳곳 침수 — 여행 비추"
+    },
+    {
+      "regionId": "new-delhi",
+      "reason": "몬순 우기, 도시 침수 주의"
+    },
+    {
       "regionId": "okinawa",
       "reason": "태풍 시즌 시작, 항공편 결항 가능성 높음"
     },
     {
       "regionId": "osaka",
       "reason": "35°C 이상 폭염, 무더위가 기승을 부리는 시기"
+    },
+    {
+      "regionId": "pattaya",
+      "reason": "우기 지속, 리조트 풀빌라 중심 여행"
+    },
+    {
+      "regionId": "penang",
+      "reason": "우기 시작, 오후 스콜 잦은 시기"
     },
     {
       "regionId": "phnom-penh",
@@ -268,6 +334,10 @@
     {
       "regionId": "vientiane",
       "reason": "우기, 라오스 전통 시장 탐방 추천"
+    },
+    {
+      "regionId": "zhangjiajie",
+      "reason": "여름 성수기, 중국 관광객으로 붐비는 시기"
     }
   ]
 }

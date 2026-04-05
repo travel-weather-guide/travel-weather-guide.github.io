@@ -8,6 +8,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "봄 시작, 모래바람(하마신) 시작 전 마지막 쾌적 시기",
+      "rating": 5
+    },
+    {
       "regionId": "chiang-mai",
       "category": "culture",
       "reason": "산불 연무(스모그) 시작, 대기질 급격히 악화",
@@ -29,6 +35,24 @@
       "regionId": "kaohsiung",
       "category": "city",
       "reason": "건기 지속, 쾌적한 남부 관광",
+      "rating": 5
+    },
+    {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "아직 쾌적, 룩소르 신전 석양이 아름다운 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "mumbai",
+      "category": "city",
+      "reason": "더워지지만 바다 바람으로 위안, 해안 산책 추천",
+      "rating": 5
+    },
+    {
+      "regionId": "new-delhi",
+      "category": "culture",
+      "reason": "홀리 색깔 축제, 봄 기운과 함께 찾아오는 축제",
       "rating": 5
     },
     {
@@ -76,6 +100,10 @@
       "reason": "봄 시작, 일부 시설 오픈 시작"
     },
     {
+      "regionId": "amsterdam",
+      "reason": "쿠켄호프 개장, 튤립 시즌 시작"
+    },
+    {
       "regionId": "bali",
       "reason": "우기 끝자락, 비가 줄어들기 시작"
     },
@@ -94,6 +122,14 @@
     {
       "regionId": "edinburgh",
       "reason": "봄 시작, 서서히 길어지는 해"
+    },
+    {
+      "regionId": "fukuoka",
+      "reason": "벚꽃 시작, 오호리 공원과 마이즈루 공원 분홍 물결"
+    },
+    {
+      "regionId": "guilin",
+      "reason": "봄 시작, 유채꽃 밭과 논길 자전거 여행"
     },
     {
       "regionId": "hokkaido",
@@ -116,6 +152,10 @@
       "reason": "비 줄고 쾌청, KL 탐방 좋은 시기"
     },
     {
+      "regionId": "kyoto",
+      "reason": "마루야마 공원 벚꽃 시작, 철학의 길이 분홍빛으로"
+    },
+    {
       "regionId": "lombok",
       "reason": "우기 끝자락, 비 줄어들기 시작"
     },
@@ -136,6 +176,10 @@
       "reason": "봄기운이 시작, 카페 테라스가 열리기 시작"
     },
     {
+      "regionId": "penang",
+      "reason": "쾌청한 봄, 페낭힐 & 스트리트아트 탐방 최고"
+    },
+    {
       "regionId": "porto",
       "reason": "봄 기운, 두로강변 라벨루 보트 투어"
     },
@@ -150,6 +194,22 @@
     {
       "regionId": "tokyo",
       "reason": "벚꽃 시즌 시작, 우에노·메구로 벚꽃 명소 인파"
+    },
+    {
+      "regionId": "toronto",
+      "reason": "봄 시작이지만 여전히 쌀쌀한 토론토"
+    },
+    {
+      "regionId": "vancouver",
+      "reason": "봄 시작, 벚꽃 피는 밴쿠버 공원 산책"
+    },
+    {
+      "regionId": "yogyakarta",
+      "reason": "우기 막바지, 점점 맑아지는 날씨"
+    },
+    {
+      "regionId": "zhangjiajie",
+      "reason": "봄 시작, 안개와 새 나뭇잎의 환상적인 조화"
     },
     {
       "regionId": "zurich",

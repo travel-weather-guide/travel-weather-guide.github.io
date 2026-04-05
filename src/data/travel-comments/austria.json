@@ -1,0 +1,251 @@
+[
+  {
+    "regionId": "vienna",
+    "month": 1,
+    "rating": 2,
+    "summary": "신년 필하모닉 음악회 여운, 조용한 겨울 빈",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -1°C로 방한 대비 필요",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vienna",
+    "month": 2,
+    "rating": 3,
+    "summary": "빈 오페라 볼 시즌, 황실 무도회의 도시",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "vienna",
+    "month": 3,
+    "rating": 3,
+    "summary": "봄 시작, 쉔브룬 궁전 정원 산책 재개",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "vienna",
+    "month": 4,
+    "rating": 3,
+    "summary": "봄꽃 만개한 황실 정원, 노천 카페 문 열기 시작",
+    "highlights": [
+      "봄 빈, 쉔브룬 궁전 꽃밭과 음악회 시즌",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [],
+    "events": [
+      "빈 음악주간 (5~6월)",
+      "빈 봄 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vienna",
+    "month": 5,
+    "rating": 3,
+    "summary": "빈 최고의 계절, 음악 축제와 미술사 박물관",
+    "highlights": [
+      "봄 빈, 쉔브룬 궁전 꽃밭과 음악회 시즌",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 13.2일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "빈 음악주간 (5~6월)",
+      "빈 봄 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vienna",
+    "month": 6,
+    "rating": 4,
+    "summary": "초여름, 야외 음악회·빈 국제 공항 음악 페스티벌",
+    "highlights": [
+      "봄 빈, 쉔브룬 궁전 꽃밭과 음악회 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 12.8일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "빈 음악주간 (5~6월)",
+      "빈 봄 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vienna",
+    "month": 7,
+    "rating": 5,
+    "summary": "여름 성수기, 빈 필하모닉 잘츠부르크 페스티벌",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vienna",
+    "month": 8,
+    "rating": 4,
+    "summary": "여름 절정, 도나우 강변 비치 바 & 야외 오페라",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11.4일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "vienna",
+    "month": 9,
+    "rating": 3,
+    "summary": "오페라 시즌 개막, 빈 필하모닉 새 시즌",
+    "highlights": [
+      "가을 빈, 오페라·클래식 음악 시즌 개막",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 101mm로 우산 필수",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [
+      "빈 오페라 시즌 개막 (9월)",
+      "빈 영화제 (10월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vienna",
+    "month": 10,
+    "rating": 3,
+    "summary": "가을 빈, 포도주 축제와 선선한 박물관 투어",
+    "highlights": [
+      "가을 빈, 오페라·클래식 음악 시즌 개막"
+    ],
+    "cautions": [
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [
+      "빈 오페라 시즌 개막 (9월)",
+      "빈 영화제 (10월)"
+    ],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vienna",
+    "month": 11,
+    "rating": 2,
+    "summary": "서늘한 가을, 쇼핑 & 카페 문화 즐기기",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vienna",
+    "month": 12,
+    "rating": 1,
+    "summary": "빈 크리스마스 마켓 — 유럽 최고, 신년 카운트다운",
+    "highlights": [
+      "빈 크리스마스 마켓, 유럽 최고 수준",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도 84%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [
+      "빈 크리스마스 마켓 (12월)",
+      "빈 필하모닉 신년 음악회"
+    ],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  }
+]

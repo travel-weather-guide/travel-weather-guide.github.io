@@ -433,6 +433,151 @@
           "weatherSummary": "습하고 비 잦음"
         }
       ]
+    },
+    {
+      "id": "penang",
+      "name": {
+        "ko": "페낭",
+        "en": "Penang"
+      },
+      "countryId": "malaysia",
+      "latitude": 5.4141,
+      "longitude": 100.3288,
+      "climateType": "열대 우림",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 30,
+          "tempLow": 24.4,
+          "rainfall": 105.8,
+          "rainyDays": 17.2,
+          "humidity": 81.5,
+          "sunshineHours": 9.4,
+          "seaTemp": 30.6,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 2,
+          "tempHigh": 30.9,
+          "tempLow": 24.5,
+          "rainfall": 112.5,
+          "rainyDays": 16,
+          "humidity": 79.3,
+          "sunshineHours": 9.9,
+          "seaTemp": 31.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 3,
+          "tempHigh": 31.1,
+          "tempLow": 25,
+          "rainfall": 207.3,
+          "rainyDays": 24.4,
+          "humidity": 81.8,
+          "sunshineHours": 10.1,
+          "seaTemp": 32.2,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 4,
+          "tempHigh": 30.5,
+          "tempLow": 25.3,
+          "rainfall": 355.9,
+          "rainyDays": 28.2,
+          "humidity": 86.2,
+          "sunshineHours": 9.3,
+          "seaTemp": 32.6,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 5,
+          "tempHigh": 30.4,
+          "tempLow": 25.7,
+          "rainfall": 433.8,
+          "rainyDays": 26.2,
+          "humidity": 86.8,
+          "sunshineHours": 8.6,
+          "seaTemp": 32.3,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 6,
+          "tempHigh": 29.9,
+          "tempLow": 25.4,
+          "rainfall": 257.7,
+          "rainyDays": 25.4,
+          "humidity": 85.7,
+          "sunshineHours": 9.1,
+          "seaTemp": 32.1,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 30.1,
+          "tempLow": 25.5,
+          "rainfall": 202.9,
+          "rainyDays": 19.8,
+          "humidity": 84.1,
+          "sunshineHours": 9.1,
+          "seaTemp": 31.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 29.9,
+          "tempLow": 25,
+          "rainfall": 368,
+          "rainyDays": 26.2,
+          "humidity": 85.5,
+          "sunshineHours": 8.9,
+          "seaTemp": 31.5,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 9,
+          "tempHigh": 29.5,
+          "tempLow": 24.9,
+          "rainfall": 361.1,
+          "rainyDays": 25,
+          "humidity": 86.2,
+          "sunshineHours": 8,
+          "seaTemp": 31.3,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 10,
+          "tempHigh": 29.2,
+          "tempLow": 24.7,
+          "rainfall": 445.4,
+          "rainyDays": 27.6,
+          "humidity": 88.1,
+          "sunshineHours": 7.7,
+          "seaTemp": 31.2,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 29.1,
+          "tempLow": 24.6,
+          "rainfall": 413.4,
+          "rainyDays": 29.4,
+          "humidity": 89.4,
+          "sunshineHours": 7.3,
+          "seaTemp": 31.1,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 29.3,
+          "tempLow": 24.4,
+          "rainfall": 250.9,
+          "rainyDays": 23,
+          "humidity": 86.3,
+          "sunshineHours": 7.6,
+          "seaTemp": 30.3,
+          "weatherSummary": "우기"
+        }
+      ]
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?auto=format&fit=crop&w=800&q=80"

@@ -433,6 +433,272 @@
           "weatherSummary": "추움"
         }
       ]
+    },
+    {
+      "id": "zhangjiajie",
+      "name": {
+        "ko": "장가계",
+        "en": "Zhangjiajie"
+      },
+      "countryId": "china",
+      "latitude": 29.1166,
+      "longitude": 110.4791,
+      "climateType": "아열대 습윤",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 10.4,
+          "tempLow": 3.3,
+          "rainfall": 87.2,
+          "rainyDays": 10.4,
+          "humidity": 73.5,
+          "sunshineHours": 4.4,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 2,
+          "tempHigh": 12.2,
+          "tempLow": 4.6,
+          "rainfall": 74.6,
+          "rainyDays": 13.4,
+          "humidity": 76.1,
+          "sunshineHours": 4.4,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 18.3,
+          "tempLow": 9.9,
+          "rainfall": 140.6,
+          "rainyDays": 13.8,
+          "humidity": 76.8,
+          "sunshineHours": 5.1,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 4,
+          "tempHigh": 21.8,
+          "tempLow": 13.7,
+          "rainfall": 185.1,
+          "rainyDays": 15.2,
+          "humidity": 77.9,
+          "sunshineHours": 5.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 26.1,
+          "tempLow": 18.1,
+          "rainfall": 182.8,
+          "rainyDays": 14,
+          "humidity": 79.8,
+          "sunshineHours": 6.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 29.6,
+          "tempLow": 22.5,
+          "rainfall": 245.4,
+          "rainyDays": 17.2,
+          "humidity": 82,
+          "sunshineHours": 7.4,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 32.3,
+          "tempLow": 25.1,
+          "rainfall": 229.1,
+          "rainyDays": 17.8,
+          "humidity": 81.4,
+          "sunshineHours": 9.1,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 32.9,
+          "tempLow": 25.4,
+          "rainfall": 152.6,
+          "rainyDays": 12.2,
+          "humidity": 76.5,
+          "sunshineHours": 10.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 29.5,
+          "tempLow": 21.8,
+          "rainfall": 88.5,
+          "rainyDays": 9.4,
+          "humidity": 73.2,
+          "sunshineHours": 7.9,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 10,
+          "tempHigh": 22.1,
+          "tempLow": 15.2,
+          "rainfall": 74.4,
+          "rainyDays": 9.4,
+          "humidity": 72.6,
+          "sunshineHours": 5.6,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 11,
+          "tempHigh": 18.5,
+          "tempLow": 10.8,
+          "rainfall": 59,
+          "rainyDays": 10.8,
+          "humidity": 75.1,
+          "sunshineHours": 5.5,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 12,
+          "tempHigh": 11.6,
+          "tempLow": 4,
+          "rainfall": 28.5,
+          "rainyDays": 4.6,
+          "humidity": 67.3,
+          "sunshineHours": 5.4,
+          "weatherSummary": "쌀쌀"
+        }
+      ]
+    },
+    {
+      "id": "guilin",
+      "name": {
+        "ko": "구이린",
+        "en": "Guilin"
+      },
+      "countryId": "china",
+      "latitude": 25.2735,
+      "longitude": 110.2985,
+      "climateType": "아열대 습윤",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 13.7,
+          "tempLow": 6.3,
+          "rainfall": 148.6,
+          "rainyDays": 14,
+          "humidity": 71.6,
+          "sunshineHours": 4.9,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 2,
+          "tempHigh": 15,
+          "tempLow": 7.4,
+          "rainfall": 158.8,
+          "rainyDays": 16.8,
+          "humidity": 78.1,
+          "sunshineHours": 4.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 3,
+          "tempHigh": 20.4,
+          "tempLow": 12.7,
+          "rainfall": 315,
+          "rainyDays": 23.8,
+          "humidity": 80.3,
+          "sunshineHours": 4.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 4,
+          "tempHigh": 23.3,
+          "tempLow": 15.7,
+          "rainfall": 456.3,
+          "rainyDays": 22.4,
+          "humidity": 80.6,
+          "sunshineHours": 5.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 5,
+          "tempHigh": 27.2,
+          "tempLow": 19.9,
+          "rainfall": 451.6,
+          "rainyDays": 22.6,
+          "humidity": 82.7,
+          "sunshineHours": 6.9,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 6,
+          "tempHigh": 29.7,
+          "tempLow": 23.4,
+          "rainfall": 632,
+          "rainyDays": 26.4,
+          "humidity": 85.7,
+          "sunshineHours": 7.2,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 32.3,
+          "tempLow": 25,
+          "rainfall": 263.4,
+          "rainyDays": 19.8,
+          "humidity": 78.5,
+          "sunshineHours": 10.3,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 31.9,
+          "tempLow": 24.7,
+          "rainfall": 203.8,
+          "rainyDays": 20.8,
+          "humidity": 79.8,
+          "sunshineHours": 10.5,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 9,
+          "tempHigh": 31.2,
+          "tempLow": 23.6,
+          "rainfall": 101.5,
+          "rainyDays": 12.6,
+          "humidity": 71,
+          "sunshineHours": 9.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 25.3,
+          "tempLow": 17.7,
+          "rainfall": 82.9,
+          "rainyDays": 7,
+          "humidity": 64.5,
+          "sunshineHours": 8.4,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 11,
+          "tempHigh": 21.4,
+          "tempLow": 13.6,
+          "rainfall": 153.4,
+          "rainyDays": 10.2,
+          "humidity": 68.5,
+          "sunshineHours": 6.9,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 12,
+          "tempHigh": 14.7,
+          "tempLow": 6.5,
+          "rainfall": 41.1,
+          "rainyDays": 6.4,
+          "humidity": 63,
+          "sunshineHours": 6.7,
+          "weatherSummary": "쌀쌀"
+        }
+      ]
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=800&q=80"

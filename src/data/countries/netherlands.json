@@ -1,0 +1,149 @@
+{
+  "id": "netherlands",
+  "name": {
+    "ko": "네덜란드",
+    "en": "Netherlands"
+  },
+  "continent": "europe",
+  "capital": "Amsterdam",
+  "currency": "euro (€)",
+  "language": "Dutch",
+  "timezone": "UTC+01:00",
+  "visaInfo": "무비자 90일 (쉥겐 지역)",
+  "regions": [
+    {
+      "id": "amsterdam",
+      "name": {
+        "ko": "암스테르담",
+        "en": "Amsterdam"
+      },
+      "countryId": "netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "climateType": "서안 해양성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 7.2,
+          "tempLow": 2.7,
+          "rainfall": 85.3,
+          "rainyDays": 13.6,
+          "humidity": 85.7,
+          "sunshineHours": 3.8,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 2,
+          "tempHigh": 8.9,
+          "tempLow": 3.6,
+          "rainfall": 82.8,
+          "rainyDays": 16,
+          "humidity": 82.9,
+          "sunshineHours": 4.8,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 10.5,
+          "tempLow": 3.5,
+          "rainfall": 58.9,
+          "rainyDays": 12,
+          "humidity": 78.6,
+          "sunshineHours": 7.5,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 12.8,
+          "tempLow": 4.9,
+          "rainfall": 66.6,
+          "rainyDays": 11.2,
+          "humidity": 74.1,
+          "sunshineHours": 10,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 16.9,
+          "tempLow": 8.7,
+          "rainfall": 84.7,
+          "rainyDays": 13.2,
+          "humidity": 77.5,
+          "sunshineHours": 11.8,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 6,
+          "tempHigh": 20.8,
+          "tempLow": 12.7,
+          "rainfall": 72.4,
+          "rainyDays": 11.6,
+          "humidity": 75.2,
+          "sunshineHours": 11.8,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 7,
+          "tempHigh": 20.9,
+          "tempLow": 13.8,
+          "rainfall": 95.2,
+          "rainyDays": 17,
+          "humidity": 78,
+          "sunshineHours": 11.5,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 8,
+          "tempHigh": 22.2,
+          "tempLow": 14.8,
+          "rainfall": 73.6,
+          "rainyDays": 13.6,
+          "humidity": 78.5,
+          "sunshineHours": 11.3,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 9,
+          "tempHigh": 20,
+          "tempLow": 12.3,
+          "rainfall": 74.9,
+          "rainyDays": 12.2,
+          "humidity": 81,
+          "sunshineHours": 9.3,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 10,
+          "tempHigh": 15.4,
+          "tempLow": 9.7,
+          "rainfall": 118.8,
+          "rainyDays": 17.8,
+          "humidity": 85.1,
+          "sunshineHours": 6,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 10.6,
+          "tempLow": 5.6,
+          "rainfall": 92.6,
+          "rainyDays": 17,
+          "humidity": 87.1,
+          "sunshineHours": 4.3,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 12,
+          "tempHigh": 7.5,
+          "tempLow": 3.3,
+          "rainfall": 90.6,
+          "rainyDays": 16.4,
+          "humidity": 89.2,
+          "sunshineHours": 2.6,
+          "weatherSummary": "쌀쌀"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=800&q=80"
+}

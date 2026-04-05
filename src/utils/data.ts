@@ -58,6 +58,13 @@ export const FLAG_ALPHA2: Record<string, string> = {
   'new-zealand': 'nz',
   germany: 'de',
   portugal: 'pt',
+  india: 'in',
+  egypt: 'eg',
+  canada: 'ca',
+  austria: 'at',
+  netherlands: 'nl',
+  morocco: 'ma',
+  'sri-lanka': 'lk',
 };
 
 export function flagUrl(countryId: string): string {

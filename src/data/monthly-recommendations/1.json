@@ -14,6 +14,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "쾌적한 겨울, 피라미드·스핑크스·이집트 박물관 최적기",
+      "rating": 5
+    },
+    {
       "regionId": "chiang-mai",
       "category": "culture",
       "reason": "건기의 서늘한 날씨, 트레킹과 사원 투어 최적기",
@@ -35,6 +41,24 @@
       "regionId": "luang-prabang",
       "category": "culture",
       "reason": "건기, 새벽 탁발 행렬과 서늘한 메콩강변",
+      "rating": 5
+    },
+    {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "건기 절정, 왕가의 계곡·카르낙 신전 최적 관광기",
+      "rating": 5
+    },
+    {
+      "regionId": "mumbai",
+      "category": "city",
+      "reason": "건기 성수기, 마린 드라이브·발리우드 투어 최적기",
+      "rating": 5
+    },
+    {
+      "regionId": "pattaya",
+      "category": "beach",
+      "reason": "건기 성수기, 맑고 잔잔한 바다에서 수상 스포츠",
       "rating": 5
     },
     {
@@ -82,6 +106,10 @@
       "reason": "겨울, 대부분의 호텔·식당 폐업"
     },
     {
+      "regionId": "amsterdam",
+      "reason": "추운 겨울이지만 뮤지엄 투어(반고흐·국립) 적기"
+    },
+    {
       "regionId": "antalya",
       "reason": "겨울 비, 해변 부적합하지만 유적지 관광 가능"
     },
@@ -118,6 +146,18 @@
       "reason": "혹한과 어둠, 일조시간 7시간의 깊은 겨울"
     },
     {
+      "regionId": "fukuoka",
+      "reason": "추운 겨울이지만 야타이 포장마차에서 라멘 한 그릇"
+    },
+    {
+      "regionId": "guilin",
+      "reason": "한겨울이지만 이강 유람선 운항, 수묵화 속 여행"
+    },
+    {
+      "regionId": "hoi-an",
+      "reason": "건기, 황등 불빛 아래 고도 골목 산책 최적기"
+    },
+    {
       "regionId": "hokkaido",
       "reason": "파우더 스노우 스키의 천국, 니세코·루스쓰 최적기"
     },
@@ -140,6 +180,10 @@
     {
       "regionId": "kuala-lumpur",
       "reason": "북동 몬순, 비 잦지만 페트로나스 타워는 언제나 장관"
+    },
+    {
+      "regionId": "kyoto",
+      "reason": "금각사 설경, 고요한 교토의 겨울 풍경"
     },
     {
       "regionId": "london",
@@ -186,8 +230,28 @@
       "reason": "겨울 일루미네이션과 맑은 후지산 전망이 매력인 시기"
     },
     {
+      "regionId": "toronto",
+      "reason": "혹한과 폭설, 실내 CN타워·박물관 위주 여행"
+    },
+    {
+      "regionId": "vancouver",
+      "reason": "눈이 드물지만 스키 리조트(휘슬러) 당일치기 가능"
+    },
+    {
       "regionId": "venice",
       "reason": "겨울 추위, 안개와 아쿠아 알타(침수) 위험"
+    },
+    {
+      "regionId": "vienna",
+      "reason": "신년 필하모닉 음악회 여운, 조용한 겨울 빈"
+    },
+    {
+      "regionId": "yogyakarta",
+      "reason": "우기, 하지만 보로부두르 새벽 안개 사진 명소"
+    },
+    {
+      "regionId": "zhangjiajie",
+      "reason": "겨울 설경, 눈 덮인 아바타 산의 신비로운 풍경"
     },
     {
       "regionId": "zurich",

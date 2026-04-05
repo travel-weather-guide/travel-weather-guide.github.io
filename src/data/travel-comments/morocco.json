@@ -1,0 +1,265 @@
+[
+  {
+    "regionId": "marrakech",
+    "month": 1,
+    "rating": 4,
+    "summary": "겨울 쾌적, 제마 엘프나 광장 야시장 & 수크 탐방",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 2,
+    "rating": 5,
+    "summary": "온화한 겨울 마라케시, 사막 투어 출발점으로 최적",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 3,
+    "rating": 4,
+    "summary": "봄 시작, 아틀라스 산맥 당일 트레킹 가능",
+    "highlights": [
+      "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "마라케시 국제 영화제 (11월)",
+      "모로코 문화 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 4,
+    "rating": 5,
+    "summary": "봄 절정, 수크·메디나 탐방 & 타데르트 계곡",
+    "highlights": [
+      "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "마라케시 국제 영화제 (11월)",
+      "모로코 문화 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 5,
+    "rating": 5,
+    "summary": "더워지기 시작, 이른 아침·저녁 위주 시장 투어",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 6,
+    "rating": 5,
+    "summary": "기온 상승, 리야드 수영장 중심 리조트 여행",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 7,
+    "rating": 5,
+    "summary": "40°C 극한 더위, 실내 전통 궁전 관람 위주",
+    "highlights": [
+      "40°C 이상 폭염, 야외 활동 힘든 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 40°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 8,
+    "rating": 5,
+    "summary": "폭염 지속, 산악 지역 아이트벤하두로 피서",
+    "highlights": [
+      "40°C 이상 폭염, 야외 활동 힘든 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 39°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 9,
+    "rating": 5,
+    "summary": "더위 가시기 시작, 9월 중순부터 여행 재개",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 10,
+    "rating": 5,
+    "summary": "가을 황금기 시작, 사막·메디나 탐방 최적기",
+    "highlights": [
+      "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "마라케시 국제 영화제 (11월)",
+      "모로코 문화 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 11,
+    "rating": 5,
+    "summary": "마라케시 국제 영화제, 쾌적한 가을 탐방",
+    "highlights": [
+      "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "마라케시 국제 영화제 (11월)",
+      "모로코 문화 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marrakech",
+    "month": 12,
+    "rating": 5,
+    "summary": "겨울 성수기, 사막 별빛 캠핑과 메디나 야경",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  }
+]

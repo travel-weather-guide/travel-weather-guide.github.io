@@ -421,6 +421,296 @@
           "weatherSummary": "우기"
         }
       ]
+    },
+    {
+      "id": "nha-trang",
+      "name": {
+        "ko": "나트랑",
+        "en": "Nha Trang"
+      },
+      "countryId": "vietnam",
+      "latitude": 12.2388,
+      "longitude": 109.1967,
+      "climateType": "열대 몬순",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 26.4,
+          "tempLow": 21.5,
+          "rainfall": 65.9,
+          "rainyDays": 11,
+          "humidity": 77.9,
+          "sunshineHours": 9.4,
+          "seaTemp": 24.9,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 2,
+          "tempHigh": 27.2,
+          "tempLow": 21.8,
+          "rainfall": 31.4,
+          "rainyDays": 10.4,
+          "humidity": 77.9,
+          "sunshineHours": 10.4,
+          "seaTemp": 25.7,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 29.1,
+          "tempLow": 22.9,
+          "rainfall": 53,
+          "rainyDays": 9.4,
+          "humidity": 78.3,
+          "sunshineHours": 11.4,
+          "seaTemp": 26.4,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 4,
+          "tempHigh": 30.5,
+          "tempLow": 24.5,
+          "rainfall": 55.7,
+          "rainyDays": 11,
+          "humidity": 78.8,
+          "sunshineHours": 11.4,
+          "seaTemp": 28.4,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 5,
+          "tempHigh": 32,
+          "tempLow": 25.9,
+          "rainfall": 64.7,
+          "rainyDays": 14,
+          "humidity": 78.4,
+          "sunshineHours": 11.7,
+          "seaTemp": 30.6,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 6,
+          "tempHigh": 33.3,
+          "tempLow": 26.4,
+          "rainfall": 39.1,
+          "rainyDays": 8.8,
+          "humidity": 73.3,
+          "sunshineHours": 11.6,
+          "seaTemp": 30.2,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 32.3,
+          "tempLow": 25.9,
+          "rainfall": 83.1,
+          "rainyDays": 14.6,
+          "humidity": 76.5,
+          "sunshineHours": 10.7,
+          "seaTemp": 29.2,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 32.6,
+          "tempLow": 26,
+          "rainfall": 77.6,
+          "rainyDays": 13.6,
+          "humidity": 76.1,
+          "sunshineHours": 11.2,
+          "seaTemp": 28.9,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 9,
+          "tempHigh": 31.2,
+          "tempLow": 25.3,
+          "rainfall": 134.6,
+          "rainyDays": 20,
+          "humidity": 81.7,
+          "sunshineHours": 9.9,
+          "seaTemp": 30.2,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 29.2,
+          "tempLow": 24.3,
+          "rainfall": 277.3,
+          "rainyDays": 26,
+          "humidity": 85.9,
+          "sunshineHours": 8.4,
+          "seaTemp": 29.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 27.9,
+          "tempLow": 23.6,
+          "rainfall": 393.3,
+          "rainyDays": 22.2,
+          "humidity": 85.2,
+          "sunshineHours": 8.2,
+          "seaTemp": 28,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 26.6,
+          "tempLow": 22.6,
+          "rainfall": 196.6,
+          "rainyDays": 18.4,
+          "humidity": 80.6,
+          "sunshineHours": 7.8,
+          "seaTemp": 26.3,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    },
+    {
+      "id": "hoi-an",
+      "name": {
+        "ko": "호이안",
+        "en": "Hoi An"
+      },
+      "countryId": "vietnam",
+      "latitude": 15.8801,
+      "longitude": 108.338,
+      "climateType": "열대 몬순",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 24,
+          "tempLow": 19.8,
+          "rainfall": 153.6,
+          "rainyDays": 19.4,
+          "humidity": 85.5,
+          "sunshineHours": 6.8,
+          "seaTemp": 24.1,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 2,
+          "tempHigh": 25.1,
+          "tempLow": 20.2,
+          "rainfall": 63.7,
+          "rainyDays": 13,
+          "humidity": 85.8,
+          "sunshineHours": 8.6,
+          "seaTemp": 24.1,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 27.9,
+          "tempLow": 22.4,
+          "rainfall": 50.7,
+          "rainyDays": 8.8,
+          "humidity": 85.7,
+          "sunshineHours": 10.6,
+          "seaTemp": 24.9,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 4,
+          "tempHigh": 30.4,
+          "tempLow": 24.2,
+          "rainfall": 91.2,
+          "rainyDays": 11.5,
+          "humidity": 82.8,
+          "sunshineHours": 10.8,
+          "seaTemp": 26.3,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 5,
+          "tempHigh": 32.4,
+          "tempLow": 25.8,
+          "rainfall": 84.3,
+          "rainyDays": 12.4,
+          "humidity": 80.1,
+          "sunshineHours": 10.8,
+          "seaTemp": 28.5,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 6,
+          "tempHigh": 34.8,
+          "tempLow": 26.9,
+          "rainfall": 61.8,
+          "rainyDays": 12.2,
+          "humidity": 73.5,
+          "sunshineHours": 11.5,
+          "seaTemp": 30.8,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 33.4,
+          "tempLow": 26.4,
+          "rainfall": 118.5,
+          "rainyDays": 14,
+          "humidity": 75.3,
+          "sunshineHours": 10.8,
+          "seaTemp": 30,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 34.1,
+          "tempLow": 26.6,
+          "rainfall": 119.6,
+          "rainyDays": 17.8,
+          "humidity": 73.7,
+          "sunshineHours": 10.8,
+          "seaTemp": 31.2,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 31,
+          "tempLow": 25.3,
+          "rainfall": 324,
+          "rainyDays": 23,
+          "humidity": 83.1,
+          "sunshineHours": 9.2,
+          "seaTemp": 31,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 10,
+          "tempHigh": 28,
+          "tempLow": 24,
+          "rainfall": 668.5,
+          "rainyDays": 27.8,
+          "humidity": 86.2,
+          "sunshineHours": 6.4,
+          "seaTemp": 29.4,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 26.9,
+          "tempLow": 23,
+          "rainfall": 421.6,
+          "rainyDays": 24.4,
+          "humidity": 85.5,
+          "sunshineHours": 6.9,
+          "seaTemp": 27.5,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 24.2,
+          "tempLow": 20.9,
+          "rainfall": 409.7,
+          "rainyDays": 26.6,
+          "humidity": 85,
+          "sunshineHours": 4.6,
+          "seaTemp": 25.5,
+          "weatherSummary": "우기"
+        }
+      ]
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?auto=format&fit=crop&w=800&q=80"

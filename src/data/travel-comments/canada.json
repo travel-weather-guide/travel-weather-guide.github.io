@@ -1,0 +1,542 @@
+[
+  {
+    "regionId": "vancouver",
+    "month": 1,
+    "rating": 1,
+    "summary": "눈이 드물지만 스키 리조트(휘슬러) 당일치기 가능",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 284mm로 우기에 해당",
+      "월 21.4일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 2,
+    "rating": 1,
+    "summary": "겨울 막바지, 동계올림픽 유산 코스 탐방",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "강수량이 109mm로 우산 필수",
+      "월 16일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 3,
+    "rating": 1,
+    "summary": "봄 시작, 벚꽃 피는 밴쿠버 공원 산책",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 128mm로 우산 필수",
+      "비 오는 날이 14.8일로 실내 대안 준비 권장",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 4,
+    "rating": 2,
+    "summary": "벚꽃 만개, 스탠리 파크 산책로 분홍빛",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 111mm로 우산 필수",
+      "비 오는 날이 13.4일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 5,
+    "rating": 3,
+    "summary": "쾌적한 봄, 캐필라노 현수교 & 그라우스산 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 10.8일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 6,
+    "rating": 3,
+    "summary": "화창한 초여름, 재즈 페스티벌과 야외 마켓",
+    "highlights": [
+      "화창한 여름, 스탠리 파크·캐필라노 현수교 최적기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "밴쿠버 재즈 페스티벌 (6월)",
+      "캐나다 데이 (7월 1일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 7,
+    "rating": 5,
+    "summary": "캐나다 데이, 맑고 쾌적한 여름 피크",
+    "highlights": [
+      "화창한 여름, 스탠리 파크·캐필라노 현수교 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [
+      "밴쿠버 재즈 페스티벌 (6월)",
+      "캐나다 데이 (7월 1일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 8,
+    "rating": 4,
+    "summary": "여름 성수기, 개니타 섬 카약·고래 관찰 크루즈",
+    "highlights": [
+      "화창한 여름, 스탠리 파크·캐필라노 현수교 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "밴쿠버 재즈 페스티벌 (6월)",
+      "캐나다 데이 (7월 1일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 9,
+    "rating": 3,
+    "summary": "선선한 가을 시작, 단풍과 와이너리 투어",
+    "highlights": [
+      "선선한 가을, 단풍과 와이너리 시즌",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 111mm로 우산 필수",
+      "비 오는 날이 10.4일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "밴쿠버 국제 영화제 (10월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 10,
+    "rating": 1,
+    "summary": "단풍 절정, 오카나간 와인 수확 축제",
+    "highlights": [
+      "선선한 가을, 단풍과 와이너리 시즌"
+    ],
+    "cautions": [
+      "월 강수량 225mm로 우기에 해당",
+      "비 오는 날이 14.6일로 실내 대안 준비 권장",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [
+      "밴쿠버 국제 영화제 (10월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 11,
+    "rating": 1,
+    "summary": "가을비 시작, 아쿠아리움·박물관 실내 탐방",
+    "highlights": [
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 310mm로 우기에 해당",
+      "월 19일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vancouver",
+    "month": 12,
+    "rating": 1,
+    "summary": "크리스마스 시즌, 휘슬러 스키 리조트 오픈",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 267mm로 우기에 해당",
+      "월 21.2일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "toronto",
+    "month": 1,
+    "rating": 1,
+    "summary": "혹한과 폭설, 실내 CN타워·박물관 위주 여행",
+    "highlights": [
+      "혹한과 폭설, 야외 관광 힘든 시기",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -6°C로 방한 대비 필요",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "toronto",
+    "month": 2,
+    "rating": 2,
+    "summary": "겨울 지속, 겨울 축제와 아이스 스케이팅 시즌",
+    "highlights": [
+      "혹한과 폭설, 야외 관광 힘든 시기",
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -7°C로 방한 대비 필요",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "toronto",
+    "month": 3,
+    "rating": 2,
+    "summary": "봄 시작이지만 여전히 쌀쌀한 토론토",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -2°C로 방한 대비 필요",
+      "비 오는 날이 11.4일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "toronto",
+    "month": 4,
+    "rating": 2,
+    "summary": "봄꽃 시작, 하이 파크 벚꽃 명소",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 13.8일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "toronto",
+    "month": 5,
+    "rating": 3,
+    "summary": "쾌적한 봄, 하이 파크 벚꽃 만개 & 아웃도어 시즌",
+    "highlights": [
+      "나이아가라·CN타워 관광 최적 시즌",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [],
+    "events": [
+      "토론토 국제 영화제 (9월)",
+      "캐나다 데이 (7월 1일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "toronto",
+    "month": 6,
+    "rating": 4,
+    "summary": "초여름, 나이아가라 폭포 당일치기 최고 시기",
+    "highlights": [
+      "나이아가라·CN타워 관광 최적 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 10.4일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "토론토 국제 영화제 (9월)",
+      "캐나다 데이 (7월 1일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "toronto",
+    "month": 7,
+    "rating": 4,
+    "summary": "캐나다 데이, 토론토 여름 성수기",
+    "highlights": [
+      "나이아가라·CN타워 관광 최적 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11.6일로 실내 대안 준비 권장",
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "토론토 국제 영화제 (9월)",
+      "캐나다 데이 (7월 1일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "toronto",
+    "month": 8,
+    "rating": 4,
+    "summary": "여름 절정, 토론토 아이랜드 페리·레이크쇼어 산책",
+    "highlights": [
+      "나이아가라·CN타워 관광 최적 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [
+      "토론토 국제 영화제 (9월)",
+      "캐나다 데이 (7월 1일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "toronto",
+    "month": 9,
+    "rating": 4,
+    "summary": "TIFF(토론토 국제 영화제), 서늘하고 쾌적한 가을",
+    "highlights": [
+      "나이아가라·CN타워 관광 최적 시즌",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "토론토 국제 영화제 (9월)",
+      "캐나다 데이 (7월 1일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "toronto",
+    "month": 10,
+    "rating": 3,
+    "summary": "단풍 절정, 한국계 커뮤니티 코리아타운 탐방",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "toronto",
+    "month": 11,
+    "rating": 2,
+    "summary": "추워지기 시작, 실내 박물관·푸드마켓 투어",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "toronto",
+    "month": 12,
+    "rating": 1,
+    "summary": "크리스마스 성수기, 나이아가라 윈터 페스티벌",
+    "highlights": [
+      "혹한과 폭설, 야외 관광 힘든 시기",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -2°C로 방한 대비 필요",
+      "비 오는 날이 13일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  }
+]

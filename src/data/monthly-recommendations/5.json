@@ -26,6 +26,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "기온 급상승, 야외 유적 오전에만 관광",
+      "rating": 5
+    },
+    {
       "regionId": "dubai",
       "category": "city",
       "reason": "더위 본격화, 야외 활동 오전으로 제한",
@@ -50,15 +56,33 @@
       "rating": 5
     },
     {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "고온 시작, 열기구 취소 가능성 증가",
+      "rating": 5
+    },
+    {
       "regionId": "madrid",
       "category": "city",
       "reason": "봄꽃 만개, 산 이시드로 축제의 최적기",
       "rating": 5
     },
     {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "더워지기 시작, 이른 아침·저녁 위주 시장 투어",
+      "rating": 5
+    },
+    {
       "regionId": "mykonos",
       "category": "beach",
       "reason": "파티 시즌 시작, 완벽한 해변 날씨",
+      "rating": 5
+    },
+    {
+      "regionId": "new-delhi",
+      "category": "culture",
+      "reason": "45°C 이상 폭염, 야외 유적 관광 자제",
       "rating": 5
     },
     {
@@ -100,9 +124,9 @@
       "rating": 4
     },
     {
-      "regionId": "nice",
-      "category": "beach",
-      "reason": "지중해 해변 시즌 시작, 쾌적한 기온",
+      "regionId": "mumbai",
+      "category": "city",
+      "reason": "몬순 직전 극심한 더위, 여행 비비추천",
       "rating": 4
     }
   ],
@@ -128,8 +152,16 @@
       "reason": "연무 끝자락과 우기 시작이 겹치는 시기"
     },
     {
+      "regionId": "colombo",
+      "reason": "서남 몬순 시작, 인도양 거대 파도 주의"
+    },
+    {
       "regionId": "guam",
       "reason": "건기 막바지, 아직 맑은 해변"
+    },
+    {
+      "regionId": "guilin",
+      "reason": "녹음 짙어지는 계절, 양숴 자전거 투어 최적기"
     },
     {
       "regionId": "hanoi",
@@ -164,6 +196,10 @@
       "reason": "우기 시작, 비 잦아지는 과도기"
     },
     {
+      "regionId": "krabi",
+      "reason": "우기 시작, 섬 투어 중단 권고"
+    },
+    {
       "regionId": "kuala-lumpur",
       "reason": "우기 접근, 오후 스콜 시작"
     },
@@ -196,6 +232,14 @@
       "reason": "장마 직전, 해변은 좋지만 비 올 확률 증가"
     },
     {
+      "regionId": "pattaya",
+      "reason": "우기 시작, 오후 스콜 잦아지는 시기"
+    },
+    {
+      "regionId": "penang",
+      "reason": "기온 오르고 습해지지만 음식 탐방은 언제나 OK"
+    },
+    {
       "regionId": "phnom-penh",
       "reason": "우기 시작, 메콩강 수위 오르기 시작"
     },
@@ -226,6 +270,10 @@
     {
       "regionId": "vientiane",
       "reason": "우기 시작, 오후 스콜이 잦아지는 시기"
+    },
+    {
+      "regionId": "yogyakarta",
+      "reason": "쾌청한 날씨, 보로부두르·프람바난 함께 투어"
     },
     {
       "regionId": "zurich",

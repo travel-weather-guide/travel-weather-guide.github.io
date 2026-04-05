@@ -855,5 +855,578 @@
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "high",
     "priceLevel": "high"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 1,
+    "rating": 5,
+    "summary": "건기 성수기, 맑고 잔잔한 바다에서 수상 스포츠",
+    "highlights": [
+      "건기 해변 성수기, 맑고 파도 잔잔",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "파타야 국제 불꽃놀이 (11월)",
+      "파타야 카운트다운 (12월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 2,
+    "rating": 4,
+    "summary": "건기 지속, 해변에서 여유로운 파타야 최고의 시기",
+    "highlights": [
+      "건기 해변 성수기, 맑고 파도 잔잔",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "파타야 국제 불꽃놀이 (11월)",
+      "파타야 카운트다운 (12월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 3,
+    "rating": 3,
+    "summary": "더워지기 시작하지만 여전히 맑은 바다",
+    "highlights": [
+      "건기 해변 성수기, 맑고 파도 잔잔",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 12.8일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "파타야 국제 불꽃놀이 (11월)",
+      "파타야 카운트다운 (12월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 4,
+    "rating": 3,
+    "summary": "송크란 물축제, 파타야 해변 파티 피크",
+    "highlights": [
+      "송크란 물축제, 파타야 최대 이벤트",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "송크란 축제 (4월 13~15일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 5,
+    "rating": 2,
+    "summary": "우기 시작, 오후 스콜 잦아지는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "강수량이 144mm로 우산 필수",
+      "월 18.6일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기, 해변보다 쇼핑·야시장 탐방 추천",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "강수량이 110mm로 우산 필수",
+      "월 16.4일 비가 와 야외 일정에 유의",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기 지속, 리조트 풀빌라 중심 여행",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 196mm로 우기에 해당",
+      "월 24일 비가 와 야외 일정에 유의",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 8,
+    "rating": 2,
+    "summary": "우기 중반, 성수기 대비 항공권·숙박 저렴",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 163mm로 우기에 해당",
+      "월 18.8일 비가 와 야외 일정에 유의",
+      "습도 80%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 9,
+    "rating": 1,
+    "summary": "우기 막바지, 파도가 높아지는 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 295mm로 우기에 해당",
+      "월 25.4일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 10,
+    "rating": 1,
+    "summary": "비가 줄어들기 시작, 건기 준비기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 280mm로 우기에 해당",
+      "월 23.6일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 11,
+    "rating": 3,
+    "summary": "건기 시작, 파타야 국제 불꽃놀이 축제",
+    "highlights": [
+      "건기 해변 성수기, 맑고 파도 잔잔",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 105mm로 우산 필수",
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "파타야 국제 불꽃놀이 (11월)",
+      "파타야 카운트다운 (12월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "pattaya",
+    "month": 12,
+    "rating": 5,
+    "summary": "성수기 재개, 카운트다운 파티로 붐비는 해변",
+    "highlights": [
+      "건기 해변 성수기, 맑고 파도 잔잔",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "파타야 국제 불꽃놀이 (11월)",
+      "파타야 카운트다운 (12월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "krabi",
+    "month": 1,
+    "rating": 4,
+    "summary": "건기 절정, 라일레이 비치·4개 섬 투어 최적기",
+    "highlights": [
+      "건기 에메랄드 바다, 라일레이 비치 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "건기 스노클링·카약 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "krabi",
+    "month": 2,
+    "rating": 4,
+    "summary": "건기 지속, 태국 최고의 해변 크라비 황금기",
+    "highlights": [
+      "건기 에메랄드 바다, 라일레이 비치 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [
+      "건기 스노클링·카약 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "krabi",
+    "month": 3,
+    "rating": 4,
+    "summary": "더워지지만 바다는 맑고 아름다운 시기",
+    "highlights": [
+      "건기 에메랄드 바다, 라일레이 비치 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의",
+      "비 오는 날이 13일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "건기 스노클링·카약 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "krabi",
+    "month": 4,
+    "rating": 2,
+    "summary": "우기 직전 마지막 건기, 섬 투어 서두르기",
+    "highlights": [
+      "건기 에메랄드 바다, 라일레이 비치 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 160mm로 우기에 해당",
+      "월 24.4일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "건기 스노클링·카약 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "krabi",
+    "month": 5,
+    "rating": 2,
+    "summary": "우기 시작, 섬 투어 중단 권고",
+    "highlights": [
+      "우기, 강한 파도로 섬 투어 불가",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 239mm로 우기에 해당",
+      "월 27.2일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "krabi",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기, 강한 파도로 섬 투어 불가",
+    "highlights": [
+      "우기, 강한 파도로 섬 투어 불가",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 180mm로 우기에 해당",
+      "월 23.4일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "krabi",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기 절정, 서퍼들의 시즌으로 전환",
+    "highlights": [
+      "우기, 강한 파도로 섬 투어 불가",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 219mm로 우기에 해당",
+      "월 23.6일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "krabi",
+    "month": 8,
+    "rating": 2,
+    "summary": "우기 지속, 저가 숙박 시즌",
+    "highlights": [
+      "우기, 강한 파도로 섬 투어 불가",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 210mm로 우기에 해당",
+      "월 24.6일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "krabi",
+    "month": 9,
+    "rating": 2,
+    "summary": "우기 막바지, 파도 높고 비 많은 시기",
+    "highlights": [
+      "우기, 강한 파도로 섬 투어 불가",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 286mm로 우기에 해당",
+      "월 25.6일 비가 와 야외 일정에 유의",
+      "습도 88%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "krabi",
+    "month": 10,
+    "rating": 1,
+    "summary": "건기 전환 시작, 날씨 조금씩 회복",
+    "highlights": [
+      "우기, 강한 파도로 섬 투어 불가",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 310mm로 우기에 해당",
+      "월 28일 비가 와 야외 일정에 유의",
+      "습도 90%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "krabi",
+    "month": 11,
+    "rating": 1,
+    "summary": "건기 재개, 라일레이 비치가 다시 열리는 시기",
+    "highlights": [
+      "건기 에메랄드 바다, 라일레이 비치 최적기",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 311mm로 우기에 해당",
+      "월 28일 비가 와 야외 일정에 유의",
+      "습도 91%로 불쾌지수 높음"
+    ],
+    "events": [
+      "건기 스노클링·카약 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "krabi",
+    "month": 12,
+    "rating": 2,
+    "summary": "건기 성수기, 에메랄드빛 바다로 돌아온 크라비",
+    "highlights": [
+      "건기 에메랄드 바다, 라일레이 비치 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 164mm로 우기에 해당",
+      "월 19.4일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [
+      "건기 스노클링·카약 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

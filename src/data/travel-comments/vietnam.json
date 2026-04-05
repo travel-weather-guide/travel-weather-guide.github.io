@@ -820,5 +820,565 @@
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "low",
     "priceLevel": "low"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 1,
+    "rating": 4,
+    "summary": "건기 시작, 맑고 잔잔한 에메랄드 바다 스노클링 최적",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 2,
+    "rating": 4,
+    "summary": "건기 피크, 나트랑 해변 최고의 시기",
+    "highlights": [
+      "건기 해변 최적기, 맑고 잔잔한 에메랄드 바다",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 10.4일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [
+      "나트랑 씨 페스티벌 (6월, 격년)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 3,
+    "rating": 4,
+    "summary": "쾌청한 하늘과 맑은 바다, 섬 투어 최적기",
+    "highlights": [
+      "건기 해변 최적기, 맑고 잔잔한 에메랄드 바다",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [
+      "나트랑 씨 페스티벌 (6월, 격년)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 4,
+    "rating": 4,
+    "summary": "더워지지만 바다는 맑고 파도 잔잔",
+    "highlights": [
+      "건기 해변 최적기, 맑고 잔잔한 에메랄드 바다",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "나트랑 씨 페스티벌 (6월, 격년)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 5,
+    "rating": 3,
+    "summary": "우기 시작되지만 아직 맑은 날 많은 시기",
+    "highlights": [
+      "건기 해변 최적기, 맑고 잔잔한 에메랄드 바다",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [
+      "나트랑 씨 페스티벌 (6월, 격년)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 6,
+    "rating": 4,
+    "summary": "우기 중반, 해변보다 시내 관광 위주로",
+    "highlights": [
+      "건기 해변 최적기, 맑고 잔잔한 에메랄드 바다",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [
+      "나트랑 씨 페스티벌 (6월, 격년)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 7,
+    "rating": 3,
+    "summary": "우기, 오후 스콜 잦지만 리조트 즐기기엔 무방",
+    "highlights": [
+      "건기 해변 최적기, 맑고 잔잔한 에메랄드 바다",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 14.6일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "나트랑 씨 페스티벌 (6월, 격년)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 8,
+    "rating": 3,
+    "summary": "우기 지속, 다이빙 시야 다소 감소",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 13.6일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 9,
+    "rating": 3,
+    "summary": "우기 끝자락, 파도가 높아지는 시기",
+    "highlights": [
+      "몬순 시즌, 강풍과 폭우 주의",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "강수량이 135mm로 우산 필수",
+      "월 20일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 10,
+    "rating": 1,
+    "summary": "태풍 리스크 높음, 항공편 결항 가능성 있음",
+    "highlights": [
+      "몬순 시즌, 강풍과 폭우 주의",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 277mm로 우기에 해당",
+      "월 26일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 11,
+    "rating": 1,
+    "summary": "태풍 시즌 막바지, 날씨 회복 시작",
+    "highlights": [
+      "몬순 시즌, 강풍과 폭우 주의",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 393mm로 우기에 해당",
+      "월 22.2일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "nha-trang",
+    "month": 12,
+    "rating": 1,
+    "summary": "날씨 회복 중이지만 아직 불안정한 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 197mm로 우기에 해당",
+      "월 18.4일 비가 와 야외 일정에 유의",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 1,
+    "rating": 2,
+    "summary": "건기, 황등 불빛 아래 고도 골목 산책 최적기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 154mm로 우기에 해당",
+      "월 19.4일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 2,
+    "rating": 3,
+    "summary": "쾌청한 날씨, 로맨틱한 고도(古都) 호이안의 절정",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 13일로 실내 대안 준비 권장",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 3,
+    "rating": 4,
+    "summary": "맑고 따뜻한 봄, 구시가지 사진 촬영 최고 시기",
+    "highlights": [
+      "맑은 날씨에 고도(古都) 골목 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [
+      "호이안 등불 축제 (매월 14일 음력)",
+      "호이안 카니발 (4~5월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 4,
+    "rating": 4,
+    "summary": "더워지기 시작, 이른 아침 재래시장 탐방 추천",
+    "highlights": [
+      "맑은 날씨에 고도(古都) 골목 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11.5일로 실내 대안 준비 권장",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [
+      "호이안 등불 축제 (매월 14일 음력)",
+      "호이안 카니발 (4~5월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 5,
+    "rating": 3,
+    "summary": "습하고 더운 여름 시작, 해변 안방 비치 동시 방문 가능",
+    "highlights": [
+      "맑은 날씨에 고도(古都) 골목 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 12.4일로 실내 대안 준비 권장",
+      "습도 80%로 불쾌지수 높음"
+    ],
+    "events": [
+      "호이안 등불 축제 (매월 14일 음력)",
+      "호이안 카니발 (4~5월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 6,
+    "rating": 3,
+    "summary": "더운 여름, 야시장과 저녁 골목 투어 위주로",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 35°C로 더위에 주의",
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 7,
+    "rating": 3,
+    "summary": "무더위 절정, 하지만 야경은 아름다운 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "강수량이 119mm로 우산 필수",
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 8,
+    "rating": 3,
+    "summary": "더운 여름, 일출·일몰 사진 촬영 인기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의",
+      "강수량이 120mm로 우산 필수",
+      "월 17.8일 비가 와 야외 일정에 유의",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 9,
+    "rating": 1,
+    "summary": "태풍 가능성 상승, 여행 일정 여유 있게",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 324mm로 우기에 해당",
+      "월 23일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 10,
+    "rating": 1,
+    "summary": "태풍·홍수 시즌 절정, 구시가지 침수 가능",
+    "highlights": [
+      "태풍·홍수 시즌, 구시가지 침수 가능",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 669mm로 우기에 해당",
+      "월 27.8일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 11,
+    "rating": 1,
+    "summary": "홍수 리스크 여전, 날씨 회복 중",
+    "highlights": [
+      "태풍·홍수 시즌, 구시가지 침수 가능",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 422mm로 우기에 해당",
+      "월 24.4일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hoi-an",
+    "month": 12,
+    "rating": 1,
+    "summary": "건기 시작, 다시 맑아지는 호이안",
+    "highlights": [
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 410mm로 우기에 해당",
+      "월 26.6일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

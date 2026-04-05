@@ -1,0 +1,550 @@
+[
+  {
+    "regionId": "new-delhi",
+    "month": 1,
+    "rating": 3,
+    "summary": "쾌적한 겨울, 타지마할·붉은 요새 관광 최적기",
+    "highlights": [
+      "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [
+      "디왈리 (11월, 힌두 빛 축제)",
+      "공화국의 날 퍼레이드 (1월 26일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 2,
+    "rating": 5,
+    "summary": "공화국의 날 후, 상쾌한 겨울 여행 계속",
+    "highlights": [
+      "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [
+      "디왈리 (11월, 힌두 빛 축제)",
+      "공화국의 날 퍼레이드 (1월 26일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 3,
+    "rating": 5,
+    "summary": "홀리 색깔 축제, 봄 기운과 함께 찾아오는 축제",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 4,
+    "rating": 5,
+    "summary": "기온 급상승 시작, 야외 관광 아침·저녁만",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 36°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 5,
+    "rating": 5,
+    "summary": "45°C 이상 폭염, 야외 유적 관광 자제",
+    "highlights": [
+      "45°C 이상 극심한 폭염 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 38°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 6,
+    "rating": 4,
+    "summary": "몬순 직전 극한 더위, 실내 박물관 위주",
+    "highlights": [
+      "45°C 이상 극심한 폭염 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 38°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 7,
+    "rating": 1,
+    "summary": "몬순 우기, 도시 침수 주의",
+    "highlights": [
+      "몬순 우기, 도시 침수 빈번",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의",
+      "월 강수량 248mm로 우기에 해당",
+      "월 22.2일 비가 와 야외 일정에 유의",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 8,
+    "rating": 1,
+    "summary": "우기 지속, 독립기념일(15일) 분위기",
+    "highlights": [
+      "몬순 우기, 도시 침수 빈번",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 154mm로 우기에 해당",
+      "월 17.4일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 9,
+    "rating": 2,
+    "summary": "우기 마무리, 더위 가시기 시작",
+    "highlights": [
+      "몬순 우기, 도시 침수 빈번",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 160mm로 우기에 해당",
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 10,
+    "rating": 5,
+    "summary": "건기 복귀, 디왈리 빛 축제 시즌",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 11,
+    "rating": 5,
+    "summary": "쾌적한 건기, 뉴델리 여행 황금기",
+    "highlights": [
+      "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "디왈리 (11월, 힌두 빛 축제)",
+      "공화국의 날 퍼레이드 (1월 26일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "new-delhi",
+    "month": 12,
+    "rating": 4,
+    "summary": "선선한 겨울, 크리스마스 분위기와 관광 성수기",
+    "highlights": [
+      "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [
+      "디왈리 (11월, 힌두 빛 축제)",
+      "공화국의 날 퍼레이드 (1월 26일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 1,
+    "rating": 5,
+    "summary": "건기 성수기, 마린 드라이브·발리우드 투어 최적기",
+    "highlights": [
+      "건기 뭄바이, 발리우드·해안 산책 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "가네샤 차투르티 (8~9월)",
+      "뭄바이 마라톤 (1월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 2,
+    "rating": 5,
+    "summary": "쾌청한 건기, 뭄바이 마라톤 시즌",
+    "highlights": [
+      "건기 뭄바이, 발리우드·해안 산책 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "가네샤 차투르티 (8~9월)",
+      "뭄바이 마라톤 (1월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 3,
+    "rating": 5,
+    "summary": "더워지지만 바다 바람으로 위안, 해안 산책 추천",
+    "highlights": [
+      "건기 뭄바이, 발리우드·해안 산책 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "가네샤 차투르티 (8~9월)",
+      "뭄바이 마라톤 (1월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 4,
+    "rating": 5,
+    "summary": "고온다습, 오전 위주 관광으로 체력 관리",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 5,
+    "rating": 4,
+    "summary": "몬순 직전 극심한 더위, 여행 비비추천",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 6,
+    "rating": 1,
+    "summary": "몬순 시작, 아라비아해 거대 파도와 침수",
+    "highlights": [
+      "몬순 우기, 폭우와 도시 침수",
+      "따뜻한 날씨로 해변 활동에 적합",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 412mm로 우기에 해당",
+      "월 26.6일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 7,
+    "rating": 1,
+    "summary": "몬순 절정, 도시 곳곳 침수 — 여행 비추",
+    "highlights": [
+      "몬순 우기, 폭우와 도시 침수",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 927mm로 우기에 해당",
+      "월 30.8일 비가 와 야외 일정에 유의",
+      "습도 89%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 8,
+    "rating": 1,
+    "summary": "몬순 지속, 가네샤 차투르티 축제 (8~9월)",
+    "highlights": [
+      "몬순 우기, 폭우와 도시 침수",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 476mm로 우기에 해당",
+      "월 29.6일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 9,
+    "rating": 1,
+    "summary": "몬순 마무리, 가네샤 축제 클라이맥스",
+    "highlights": [
+      "몬순 우기, 폭우와 도시 침수",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 455mm로 우기에 해당",
+      "월 28.8일 비가 와 야외 일정에 유의",
+      "습도 88%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 10,
+    "rating": 3,
+    "summary": "건기 시작, 쾌청해진 뭄바이",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 12.4일로 실내 대안 준비 권장",
+      "습도 80%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 11,
+    "rating": 5,
+    "summary": "건기 성수기 재개, 쾌적한 해안 도시 탐방",
+    "highlights": [
+      "건기 뭄바이, 발리우드·해안 산책 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "가네샤 차투르티 (8~9월)",
+      "뭄바이 마라톤 (1월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "mumbai",
+    "month": 12,
+    "rating": 5,
+    "summary": "연말 성수기, 크리스마스 콜라바 거리 분위기",
+    "highlights": [
+      "건기 뭄바이, 발리우드·해안 산책 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "가네샤 차투르티 (8~9월)",
+      "뭄바이 마라톤 (1월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  }
+]

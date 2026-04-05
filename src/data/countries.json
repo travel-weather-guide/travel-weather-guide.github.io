@@ -6,7 +6,7 @@
       "en": "Japan"
     },
     "continent": "asia",
-    "regionCount": 4,
+    "regionCount": 6,
     "isoNumeric": "392"
   },
   {
@@ -16,7 +16,7 @@
       "en": "Thailand"
     },
     "continent": "asia",
-    "regionCount": 3,
+    "regionCount": 5,
     "isoNumeric": "764"
   },
   {
@@ -56,7 +56,7 @@
       "en": "Vietnam"
     },
     "continent": "asia",
-    "regionCount": 3,
+    "regionCount": 5,
     "isoNumeric": "704"
   },
   {
@@ -86,7 +86,7 @@
       "en": "Indonesia"
     },
     "continent": "asia",
-    "regionCount": 3,
+    "regionCount": 4,
     "isoNumeric": "360"
   },
   {
@@ -156,7 +156,7 @@
       "en": "China"
     },
     "continent": "asia",
-    "regionCount": 3,
+    "regionCount": 5,
     "isoNumeric": "156"
   },
   {
@@ -186,7 +186,7 @@
       "en": "Malaysia"
     },
     "continent": "asia",
-    "regionCount": 3,
+    "regionCount": 4,
     "isoNumeric": "458"
   },
   {
@@ -298,5 +298,75 @@
     "continent": "europe",
     "regionCount": 2,
     "isoNumeric": "620"
+  },
+  {
+    "id": "india",
+    "name": {
+      "ko": "인도",
+      "en": "India"
+    },
+    "continent": "asia",
+    "regionCount": 2,
+    "isoNumeric": "356"
+  },
+  {
+    "id": "egypt",
+    "name": {
+      "ko": "이집트",
+      "en": "Egypt"
+    },
+    "continent": "africa",
+    "regionCount": 2,
+    "isoNumeric": "818"
+  },
+  {
+    "id": "canada",
+    "name": {
+      "ko": "캐나다",
+      "en": "Canada"
+    },
+    "continent": "north-america",
+    "regionCount": 2,
+    "isoNumeric": "124"
+  },
+  {
+    "id": "austria",
+    "name": {
+      "ko": "오스트리아",
+      "en": "Austria"
+    },
+    "continent": "europe",
+    "regionCount": 1,
+    "isoNumeric": "040"
+  },
+  {
+    "id": "netherlands",
+    "name": {
+      "ko": "네덜란드",
+      "en": "Netherlands"
+    },
+    "continent": "europe",
+    "regionCount": 1,
+    "isoNumeric": "528"
+  },
+  {
+    "id": "morocco",
+    "name": {
+      "ko": "모로코",
+      "en": "Morocco"
+    },
+    "continent": "africa",
+    "regionCount": 1,
+    "isoNumeric": "504"
+  },
+  {
+    "id": "sri-lanka",
+    "name": {
+      "ko": "스리랑카",
+      "en": "Sri Lanka"
+    },
+    "continent": "asia",
+    "regionCount": 1,
+    "isoNumeric": "144"
   }
 ]

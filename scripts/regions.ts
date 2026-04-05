@@ -32,6 +32,8 @@ export const countries: CountryDef[] = [
       { id: 'osaka', name: { ko: '오사카', en: 'Osaka' }, latitude: 34.6937, longitude: 135.5023, climateType: '온대 습윤', isCoastal: true, category: 'culture', peakTourismMonths: [3, 4, 10, 11] },
       { id: 'okinawa', name: { ko: '오키나와', en: 'Okinawa' }, latitude: 26.3344, longitude: 127.8056, climateType: '아열대', isCoastal: true, category: 'beach', peakTourismMonths: [7, 8, 3, 4] },
       { id: 'hokkaido', name: { ko: '홋카이도', en: 'Hokkaido' }, latitude: 43.0642, longitude: 141.3469, climateType: '냉대 습윤', isCoastal: true, category: 'adventure', peakTourismMonths: [2, 7, 8] },
+      { id: 'kyoto', name: { ko: '교토', en: 'Kyoto' }, latitude: 35.0116, longitude: 135.7681, climateType: '온대 습윤', isCoastal: false, category: 'culture', peakTourismMonths: [3, 4, 11, 12] },
+      { id: 'fukuoka', name: { ko: '후쿠오카', en: 'Fukuoka' }, latitude: 33.5904, longitude: 130.4017, climateType: '온대 습윤', isCoastal: true, category: 'city', peakTourismMonths: [3, 4, 10, 11] },
     ],
   },
   {
@@ -44,6 +46,8 @@ export const countries: CountryDef[] = [
       { id: 'bangkok', name: { ko: '방콕', en: 'Bangkok' }, latitude: 13.7563, longitude: 100.5018, climateType: '열대 사바나', isCoastal: false, category: 'culture', peakTourismMonths: [11, 12, 1, 2] },
       { id: 'chiang-mai', name: { ko: '치앙마이', en: 'Chiang Mai' }, latitude: 18.7883, longitude: 98.9853, climateType: '열대 사바나', isCoastal: false, category: 'mountain', peakTourismMonths: [11, 12, 1, 2] },
       { id: 'phuket', name: { ko: '푸켓', en: 'Phuket' }, latitude: 7.8804, longitude: 98.3923, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [11, 12, 1, 2, 3] },
+      { id: 'pattaya', name: { ko: '파타야', en: 'Pattaya' }, latitude: 12.9236, longitude: 100.8824, climateType: '열대 사바나', isCoastal: true, category: 'beach', peakTourismMonths: [11, 12, 1, 2, 3] },
+      { id: 'krabi', name: { ko: '크라비', en: 'Krabi' }, latitude: 8.0863, longitude: 98.9063, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [11, 12, 1, 2, 3, 4] },
     ],
   },
   {
@@ -91,6 +95,8 @@ export const countries: CountryDef[] = [
       { id: 'hanoi', name: { ko: '하노이', en: 'Hanoi' }, latitude: 21.0285, longitude: 105.8542, climateType: '아열대 몬순', isCoastal: false, category: 'city', peakTourismMonths: [10, 11, 12, 1, 2] },
       { id: 'ho-chi-minh', name: { ko: '호치민', en: 'Ho Chi Minh' }, latitude: 10.8231, longitude: 106.6297, climateType: '열대 몬순', isCoastal: false, category: 'city', peakTourismMonths: [12, 1, 2, 3] },
       { id: 'da-nang', name: { ko: '다낭', en: 'Da Nang' }, latitude: 16.0544, longitude: 108.2022, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [3, 4, 5, 6, 7, 8] },
+      { id: 'nha-trang', name: { ko: '나트랑', en: 'Nha Trang' }, latitude: 12.2388, longitude: 109.1967, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [2, 3, 4, 5, 6, 7] },
+      { id: 'hoi-an', name: { ko: '호이안', en: 'Hoi An' }, latitude: 15.8801, longitude: 108.3380, climateType: '열대 몬순', isCoastal: true, category: 'culture', peakTourismMonths: [3, 4, 5, 6, 7, 8] },
     ],
   },
   // 필리핀
@@ -128,6 +134,7 @@ export const countries: CountryDef[] = [
       { id: 'bali', name: { ko: '발리', en: 'Bali' }, latitude: -8.3405, longitude: 115.0920, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [7, 8, 6, 9] },
       { id: 'lombok', name: { ko: '롬복', en: 'Lombok' }, latitude: -8.6500, longitude: 116.3240, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [7, 8, 6, 9] },
       { id: 'jakarta', name: { ko: '자카르타', en: 'Jakarta' }, latitude: -6.2088, longitude: 106.8456, climateType: '열대 몬순', isCoastal: true, category: 'city', peakTourismMonths: [7, 8, 6, 9] },
+      { id: 'yogyakarta', name: { ko: '족자카르타', en: 'Yogyakarta' }, latitude: -7.7956, longitude: 110.3695, climateType: '열대 몬순', isCoastal: false, category: 'culture', peakTourismMonths: [7, 8, 6, 9] },
     ],
   },
   // 대만
@@ -217,6 +224,8 @@ export const countries: CountryDef[] = [
       { id: 'beijing', name: { ko: '베이징', en: 'Beijing' }, latitude: 39.9042, longitude: 116.4074, climateType: '온대 대륙성', isCoastal: false, category: 'culture', peakTourismMonths: [4, 5, 9, 10] },
       { id: 'shanghai', name: { ko: '상하이', en: 'Shanghai' }, latitude: 31.2304, longitude: 121.4737, climateType: '아열대 습윤', isCoastal: true, category: 'city', peakTourismMonths: [4, 5, 10, 11] },
       { id: 'qingdao', name: { ko: '칭다오', en: 'Qingdao' }, latitude: 36.0671, longitude: 120.3826, climateType: '온대 습윤', isCoastal: true, category: 'city', peakTourismMonths: [7, 8, 9] },
+      { id: 'zhangjiajie', name: { ko: '장가계', en: 'Zhangjiajie' }, latitude: 29.1166, longitude: 110.4791, climateType: '아열대 습윤', isCoastal: false, category: 'adventure', peakTourismMonths: [4, 5, 10, 11] },
+      { id: 'guilin', name: { ko: '구이린', en: 'Guilin' }, latitude: 25.2735, longitude: 110.2985, climateType: '아열대 습윤', isCoastal: false, category: 'adventure', peakTourismMonths: [4, 5, 9, 10] },
     ],
   },
   // 홍콩
@@ -252,6 +261,7 @@ export const countries: CountryDef[] = [
       { id: 'kuala-lumpur', name: { ko: '쿠알라룸푸르', en: 'Kuala Lumpur' }, latitude: 3.1390, longitude: 101.6869, climateType: '열대 우림', isCoastal: false, category: 'city', peakTourismMonths: [6, 7, 8, 12] },
       { id: 'kota-kinabalu', name: { ko: '코타키나발루', en: 'Kota Kinabalu' }, latitude: 5.9804, longitude: 116.0735, climateType: '열대 우림', isCoastal: true, category: 'beach', peakTourismMonths: [1, 2, 3, 4, 5] },
       { id: 'langkawi', name: { ko: '랑카위', en: 'Langkawi' }, latitude: 6.3500, longitude: 99.8000, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [11, 12, 1, 2, 3] },
+      { id: 'penang', name: { ko: '페낭', en: 'Penang' }, latitude: 5.4141, longitude: 100.3288, climateType: '열대 우림', isCoastal: true, category: 'culture', peakTourismMonths: [12, 1, 2, 11] },
     ],
   },
   // 캄보디아
@@ -381,6 +391,86 @@ export const countries: CountryDef[] = [
     regions: [
       { id: 'lisbon', name: { ko: '리스본', en: 'Lisbon' }, latitude: 38.7223, longitude: -9.1393, climateType: '지중해성', isCoastal: true, category: 'city', peakTourismMonths: [4, 5, 6, 9, 10] },
       { id: 'porto', name: { ko: '포르투', en: 'Porto' }, latitude: 41.1579, longitude: -8.6291, climateType: '서안 해양성', isCoastal: true, category: 'culture', peakTourismMonths: [6, 7, 8, 9] },
+    ],
+  },
+  // 인도
+  {
+    id: 'india',
+    name: { ko: '인도', en: 'India' },
+    continent: 'asia',
+    countryCode: 'IN',
+    isoNumeric: '356',
+    regions: [
+      { id: 'new-delhi', name: { ko: '뉴델리', en: 'New Delhi' }, latitude: 28.6139, longitude: 77.2090, climateType: '반건조 대륙성', isCoastal: false, category: 'culture', peakTourismMonths: [11, 12, 1, 2, 3] },
+      { id: 'mumbai', name: { ko: '뭄바이', en: 'Mumbai' }, latitude: 19.0760, longitude: 72.8777, climateType: '열대 몬순', isCoastal: true, category: 'city', peakTourismMonths: [11, 12, 1, 2, 3] },
+    ],
+  },
+  // 이집트
+  {
+    id: 'egypt',
+    name: { ko: '이집트', en: 'Egypt' },
+    continent: 'africa',
+    countryCode: 'EG',
+    isoNumeric: '818',
+    regions: [
+      { id: 'cairo', name: { ko: '카이로', en: 'Cairo' }, latitude: 30.0444, longitude: 31.2357, climateType: '사막 건조', isCoastal: false, category: 'culture', peakTourismMonths: [11, 12, 1, 2, 3, 4] },
+      { id: 'luxor', name: { ko: '룩소르', en: 'Luxor' }, latitude: 25.6872, longitude: 32.6396, climateType: '사막 건조', isCoastal: false, category: 'culture', peakTourismMonths: [11, 12, 1, 2, 3] },
+    ],
+  },
+  // 캐나다
+  {
+    id: 'canada',
+    name: { ko: '캐나다', en: 'Canada' },
+    continent: 'north-america',
+    countryCode: 'CA',
+    isoNumeric: '124',
+    regions: [
+      { id: 'vancouver', name: { ko: '밴쿠버', en: 'Vancouver' }, latitude: 49.2827, longitude: -123.1207, climateType: '서안 해양성', isCoastal: true, category: 'city', peakTourismMonths: [6, 7, 8] },
+      { id: 'toronto', name: { ko: '토론토', en: 'Toronto' }, latitude: 43.6532, longitude: -79.3832, climateType: '온대 습윤', isCoastal: false, category: 'city', peakTourismMonths: [5, 6, 7, 8, 9, 10] },
+    ],
+  },
+  // 오스트리아
+  {
+    id: 'austria',
+    name: { ko: '오스트리아', en: 'Austria' },
+    continent: 'europe',
+    countryCode: 'AT',
+    isoNumeric: '040',
+    regions: [
+      { id: 'vienna', name: { ko: '빈', en: 'Vienna' }, latitude: 48.2082, longitude: 16.3738, climateType: '온대 대륙성', isCoastal: false, category: 'culture', peakTourismMonths: [4, 5, 6, 9, 10, 12] },
+    ],
+  },
+  // 네덜란드
+  {
+    id: 'netherlands',
+    name: { ko: '네덜란드', en: 'Netherlands' },
+    continent: 'europe',
+    countryCode: 'NL',
+    isoNumeric: '528',
+    regions: [
+      { id: 'amsterdam', name: { ko: '암스테르담', en: 'Amsterdam' }, latitude: 52.3676, longitude: 4.9041, climateType: '서안 해양성', isCoastal: false, category: 'city', peakTourismMonths: [4, 5, 6, 7, 8] },
+    ],
+  },
+  // 모로코
+  {
+    id: 'morocco',
+    name: { ko: '모로코', en: 'Morocco' },
+    continent: 'africa',
+    countryCode: 'MA',
+    isoNumeric: '504',
+    regions: [
+      { id: 'marrakech', name: { ko: '마라케시', en: 'Marrakech' }, latitude: 31.6295, longitude: -7.9811, climateType: '반건조 대륙성', isCoastal: false, category: 'culture', peakTourismMonths: [3, 4, 10, 11] },
+    ],
+  },
+  // 스리랑카
+  {
+    id: 'sri-lanka',
+    name: { ko: '스리랑카', en: 'Sri Lanka' },
+    continent: 'asia',
+    countryCode: 'LK',
+    isoNumeric: '144',
+    regions: [
+      { id: 'colombo', name: { ko: '콜롬보', en: 'Colombo' }, latitude: 6.9271, longitude: 79.8612, climateType: '열대 몬순', isCoastal: true, category: 'city', peakTourismMonths: [1, 2, 3, 4] },
     ],
   },
 ];
@@ -581,6 +671,89 @@ export const seasonOverrides: SeasonOverride[] = [
   { regionId: 'lisbon', months: [9, 10], ratingBonus: 1, highlight: '가을 리스본, 황금빛 빛과 와인 수확철', events: ['리스본 국제 영화제 (11월)', '포르투갈 와인 수확 시즌 (9월)'] },
   { regionId: 'porto', months: [6], ratingBonus: 1, highlight: '상 주앙 축제 — 포르투 최대 여름 축제', events: ['상 주앙 축제 (6월 23~24일)', '도우루 강변 파티'] },
   { regionId: 'porto', months: [7, 8, 9], ratingBonus: 1, highlight: '도우루 강변 와이너리와 해변 성수기', events: ['포르투 와인 투어 성수기', '도우루 와인 수확 (9월)'] },
+
+  // 일본 - 교토
+  { regionId: 'kyoto', months: [3, 4], ratingBonus: 2, highlight: '벚꽃 명소 1번지, 일본 최고의 봄 여행지', events: ['벚꽃 시즌 (3월 말~4월 초)', '기온 거리 벚꽃', '철학의 길 벚꽃'] },
+  { regionId: 'kyoto', months: [11, 12], ratingBonus: 2, highlight: '단풍 1번지, 금각사·아라시야마 단풍', events: ['단풍 시즌 (11~12월)', '아라시야마 단풍', '기요미즈데라 야간 특별 개방'] },
+  { regionId: 'kyoto', months: [7], ratingBonus: 0, highlight: '기온 마츠리 — 일본 3대 축제', events: ['기온 마츠리 (7월 17일·24일 퍼레이드)'] },
+
+  // 일본 - 후쿠오카
+  { regionId: 'fukuoka', months: [3, 4], ratingBonus: 1, highlight: '벚꽃과 함께하는 오호리 공원 산책', events: ['벚꽃 시즌', '후쿠오카 성터 벚꽃'] },
+  { regionId: 'fukuoka', months: [7], ratingBonus: 1, highlight: '하카타 기온 야마카사 — 박력 넘치는 여름 축제', events: ['야마카사 축제 (7월 1~15일)'] },
+  { regionId: 'fukuoka', months: [10, 11], ratingBonus: 1, highlight: '선선한 가을, 규슈 미식 여행의 계절', events: ['후쿠오카 아시아 미술 트리엔날레', '가을 야타이 포장마차 시즌'] },
+
+  // 베트남 - 나트랑
+  { regionId: 'nha-trang', months: [2, 3, 4, 5, 6, 7], ratingBonus: 1, highlight: '건기 해변 최적기, 맑고 잔잔한 에메랄드 바다', events: ['나트랑 씨 페스티벌 (6월, 격년)'] },
+  { regionId: 'nha-trang', months: [9, 10, 11], ratingBonus: -1, highlight: '몬순 시즌, 강풍과 폭우 주의', events: [] },
+
+  // 베트남 - 호이안
+  { regionId: 'hoi-an', months: [3, 4, 5], ratingBonus: 1, highlight: '맑은 날씨에 고도(古都) 골목 탐방 최적기', events: ['호이안 등불 축제 (매월 14일 음력)', '호이안 카니발 (4~5월)'] },
+  { regionId: 'hoi-an', months: [10, 11], ratingBonus: -1, highlight: '태풍·홍수 시즌, 구시가지 침수 가능', events: [] },
+
+  // 태국 - 파타야
+  { regionId: 'pattaya', months: [11, 12, 1, 2, 3], ratingBonus: 1, highlight: '건기 해변 성수기, 맑고 파도 잔잔', events: ['파타야 국제 불꽃놀이 (11월)', '파타야 카운트다운 (12월)'] },
+  { regionId: 'pattaya', months: [4], ratingBonus: 1, highlight: '송크란 물축제, 파타야 최대 이벤트', events: ['송크란 축제 (4월 13~15일)'] },
+
+  // 태국 - 크라비
+  { regionId: 'krabi', months: [11, 12, 1, 2, 3, 4], ratingBonus: 1, highlight: '건기 에메랄드 바다, 라일레이 비치 최적기', events: ['건기 스노클링·카약 시즌'] },
+  { regionId: 'krabi', months: [5, 6, 7, 8, 9, 10], ratingBonus: -1, highlight: '우기, 강한 파도로 섬 투어 불가', events: [] },
+
+  // 인도네시아 - 족자카르타
+  { regionId: 'yogyakarta', months: [6, 7, 8, 9], ratingBonus: 1, highlight: '건기 보로부두르·프람바난 유적 탐방 최적기', events: ['욕야카르타 아트 페스티벌 (6~7월)', '보로부두르 웨삭 축제 (5~6월)'] },
+
+  // 말레이시아 - 페낭
+  { regionId: 'penang', months: [12, 1, 2, 11], ratingBonus: 1, highlight: '건기 조지타운 거리 탐방 최적기', events: ['페낭 조지타운 페스티벌 (7월)', '타이푸삼 축제 (1~2월)'] },
+  { regionId: 'penang', months: [3, 4, 5], ratingBonus: 1, highlight: '쾌적한 날씨, 거리 아트 투어 좋은 시기', events: ['페낭 스트리트 아트 시즌'] },
+
+  // 중국 - 장가계
+  { regionId: 'zhangjiajie', months: [4, 5], ratingBonus: 1, highlight: '봄 아바타 산 안개 경관 절정기', events: ['봄 철쭉 시즌'] },
+  { regionId: 'zhangjiajie', months: [10, 11], ratingBonus: 1, highlight: '단풍으로 물든 천문산·유리다리 절경', events: ['국경절 황금연휴 (10월)'] },
+
+  // 중국 - 구이린
+  { regionId: 'guilin', months: [4, 5], ratingBonus: 1, highlight: '안개 낀 이강 수묵화 풍경 절정기', events: ['봄 유채꽃 시즌'] },
+  { regionId: 'guilin', months: [9, 10], ratingBonus: 1, highlight: '선선한 가을, 계림 산수 여행 최적기', events: ['국경절 황금연휴 (10월)'] },
+
+  // 인도 - 뉴델리
+  { regionId: 'new-delhi', months: [11, 12, 1, 2], ratingBonus: 1, highlight: '쾌적한 건기, 타지마할·붉은 요새 관광 적기', events: ['디왈리 (11월, 힌두 빛 축제)', '공화국의 날 퍼레이드 (1월 26일)'] },
+  { regionId: 'new-delhi', months: [5, 6], ratingBonus: -1, highlight: '45°C 이상 극심한 폭염 시기', events: [] },
+  { regionId: 'new-delhi', months: [7, 8, 9], ratingBonus: -1, highlight: '몬순 우기, 도시 침수 빈번', events: [] },
+
+  // 인도 - 뭄바이
+  { regionId: 'mumbai', months: [11, 12, 1, 2, 3], ratingBonus: 1, highlight: '건기 뭄바이, 발리우드·해안 산책 최적기', events: ['가네샤 차투르티 (8~9월)', '뭄바이 마라톤 (1월)'] },
+  { regionId: 'mumbai', months: [6, 7, 8, 9], ratingBonus: -1, highlight: '몬순 우기, 폭우와 도시 침수', events: [] },
+
+  // 이집트 - 카이로
+  { regionId: 'cairo', months: [11, 12, 1, 2, 3], ratingBonus: 1, highlight: '피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨', events: ['라마단 (이슬람력 기준)', '카이로 국제 영화제 (11월)'] },
+  { regionId: 'cairo', months: [6, 7, 8], ratingBonus: -1, highlight: '40°C 이상 폭염, 야외 유적 관광 힘든 시기', events: [] },
+
+  // 이집트 - 룩소르
+  { regionId: 'luxor', months: [11, 12, 1, 2, 3], ratingBonus: 1, highlight: '왕가의 계곡·카르낙 신전 최적 관광 시기', events: ['옵트 축제 (이슬람력 기준)', '룩소르 열기구 시즌'] },
+  { regionId: 'luxor', months: [6, 7, 8], ratingBonus: -1, highlight: '45°C 이상 극한 폭염, 유적 관광 힘듦', events: [] },
+
+  // 캐나다 - 밴쿠버
+  { regionId: 'vancouver', months: [6, 7, 8], ratingBonus: 1, highlight: '화창한 여름, 스탠리 파크·캐필라노 현수교 최적기', events: ['밴쿠버 재즈 페스티벌 (6월)', '캐나다 데이 (7월 1일)'] },
+  { regionId: 'vancouver', months: [9, 10], ratingBonus: 1, highlight: '선선한 가을, 단풍과 와이너리 시즌', events: ['밴쿠버 국제 영화제 (10월)'] },
+
+  // 캐나다 - 토론토
+  { regionId: 'toronto', months: [5, 6, 7, 8, 9], ratingBonus: 1, highlight: '나이아가라·CN타워 관광 최적 시즌', events: ['토론토 국제 영화제 (9월)', '캐나다 데이 (7월 1일)'] },
+  { regionId: 'toronto', months: [12, 1, 2], ratingBonus: -1, highlight: '혹한과 폭설, 야외 관광 힘든 시기', events: [] },
+
+  // 오스트리아 - 빈
+  { regionId: 'vienna', months: [4, 5, 6], ratingBonus: 1, highlight: '봄 빈, 쉔브룬 궁전 꽃밭과 음악회 시즌', events: ['빈 음악주간 (5~6월)', '빈 봄 축제'] },
+  { regionId: 'vienna', months: [9, 10], ratingBonus: 1, highlight: '가을 빈, 오페라·클래식 음악 시즌 개막', events: ['빈 오페라 시즌 개막 (9월)', '빈 영화제 (10월)'] },
+  { regionId: 'vienna', months: [12], ratingBonus: 1, highlight: '빈 크리스마스 마켓, 유럽 최고 수준', events: ['빈 크리스마스 마켓 (12월)', '빈 필하모닉 신년 음악회'] },
+
+  // 네덜란드 - 암스테르담
+  { regionId: 'amsterdam', months: [4, 5], ratingBonus: 2, highlight: '쿠켄호프 튤립 시즌 — 세계 최대 꽃 공원', events: ['쿠켄호프 튤립 축제 (3~5월)', '킹스 데이 (4월 27일)'] },
+  { regionId: 'amsterdam', months: [6, 7, 8], ratingBonus: 1, highlight: '운하 보트 투어와 야외 테라스 시즌', events: ['암스테르담 프라이드 (8월)', '암스테르담 음악제 (8월)'] },
+
+  // 모로코 - 마라케시
+  { regionId: 'marrakech', months: [3, 4, 10, 11], ratingBonus: 1, highlight: '쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기', events: ['마라케시 국제 영화제 (11월)', '모로코 문화 축제'] },
+  { regionId: 'marrakech', months: [7, 8], ratingBonus: -1, highlight: '40°C 이상 폭염, 야외 활동 힘든 시기', events: [] },
+
+  // 스리랑카 - 콜롬보
+  { regionId: 'colombo', months: [1, 2, 3, 4], ratingBonus: 1, highlight: '서남부 건기, 갈레 요새·스리랑카 해변 최적기', events: ['싱할라·타밀 새해 (4월)', '스리랑카 독립기념일 (2월 4일)'] },
+  { regionId: 'colombo', months: [5, 6, 7, 8, 9, 10], ratingBonus: -1, highlight: '서남 몬순 우기, 강한 비와 높은 파도', events: [] },
 ];
 
 export const visaInfo: Record<string, string> = {
@@ -614,4 +787,11 @@ export const visaInfo: Record<string, string> = {
   'new-zealand': 'NZeTA 필요 (90일)',
   germany: '무비자 90일 (쉥겐 지역)',
   portugal: '무비자 90일 (쉥겐 지역)',
+  india: '전자비자(e-Visa) 필요 (60일)',
+  egypt: '도착비자 또는 e-Visa (30일)',
+  canada: 'eTA 필요 (항공 입국 시, 6개월)',
+  austria: '무비자 90일 (쉥겐 지역)',
+  netherlands: '무비자 90일 (쉥겐 지역)',
+  morocco: '무비자 90일',
+  'sri-lanka': '전자여행허가(ETA) 필요 (30일)',
 };

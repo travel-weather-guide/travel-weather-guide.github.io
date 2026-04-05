@@ -14,6 +14,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "더위 가시기 시작, 이른 가을 여행 가능",
+      "rating": 5
+    },
+    {
       "regionId": "cappadocia",
       "category": "adventure",
       "reason": "더위 물러간 가을, 열기구 최적 시즌 재개",
@@ -44,9 +50,21 @@
       "rating": 5
     },
     {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "더위 가시기 시작, 가을 여행 시즌 준비",
+      "rating": 5
+    },
+    {
       "regionId": "madrid",
       "category": "city",
       "reason": "폭염이 물러간 쾌적한 가을 시작",
+      "rating": 5
+    },
+    {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "더위 가시기 시작, 9월 중순부터 여행 재개",
       "rating": 5
     },
     {
@@ -132,12 +150,20 @@
       "reason": "우기 절정, 강우량이 가장 많은 시기"
     },
     {
+      "regionId": "colombo",
+      "reason": "우기 막바지, 동부 해안 건기 시작"
+    },
+    {
       "regionId": "da-nang",
       "reason": "태풍 접근, 폭우가 빈번한 시기"
     },
     {
       "regionId": "edinburgh",
       "reason": "프린지 후 여유로운 가을, 하이랜드 단풍"
+    },
+    {
+      "regionId": "fukuoka",
+      "reason": "태풍 시즌 마무리, 서늘해지는 규슈의 가을"
     },
     {
       "regionId": "guam",
@@ -152,6 +178,10 @@
       "reason": "우기 절정, 침수 빈번"
     },
     {
+      "regionId": "hoi-an",
+      "reason": "태풍 가능성 상승, 여행 일정 여유 있게"
+    },
+    {
       "regionId": "hong-kong",
       "reason": "태풍 리스크 지속, 장마처럼 비 잦음"
     },
@@ -164,8 +194,16 @@
       "reason": "우기 절정, 산악 트레킹 주의"
     },
     {
+      "regionId": "krabi",
+      "reason": "우기 막바지, 파도 높고 비 많은 시기"
+    },
+    {
       "regionId": "kuala-lumpur",
       "reason": "연무와 비가 번갈아 오는 시기"
+    },
+    {
+      "regionId": "kyoto",
+      "reason": "태풍 이후 선선해지는 초가을, 여유로운 관광"
     },
     {
       "regionId": "langkawi",
@@ -184,8 +222,16 @@
       "reason": "초대형 태풍 빈발, 여행 피해야 할 시기"
     },
     {
+      "regionId": "mumbai",
+      "reason": "몬순 마무리, 가네샤 축제 클라이맥스"
+    },
+    {
       "regionId": "munich",
       "reason": "옥토버페스트 개막, 세계 최대 맥주 축제"
+    },
+    {
+      "regionId": "new-delhi",
+      "reason": "우기 마무리, 더위 가시기 시작"
     },
     {
       "regionId": "okinawa",
@@ -194,6 +240,14 @@
     {
       "regionId": "osaka",
       "reason": "태풍 리스크와 잔여 더위가 남은 시기"
+    },
+    {
+      "regionId": "pattaya",
+      "reason": "우기 막바지, 파도가 높아지는 시기"
+    },
+    {
+      "regionId": "penang",
+      "reason": "우기 막바지, 조금씩 맑아지는 페낭"
     },
     {
       "regionId": "phnom-penh",

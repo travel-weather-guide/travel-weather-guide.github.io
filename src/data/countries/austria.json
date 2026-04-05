@@ -1,0 +1,149 @@
+{
+  "id": "austria",
+  "name": {
+    "ko": "오스트리아",
+    "en": "Austria"
+  },
+  "continent": "europe",
+  "capital": "Vienna",
+  "currency": "euro (€)",
+  "language": "German",
+  "timezone": "UTC+01:00",
+  "visaInfo": "무비자 90일 (쉥겐 지역)",
+  "regions": [
+    {
+      "id": "vienna",
+      "name": {
+        "ko": "빈",
+        "en": "Vienna"
+      },
+      "countryId": "austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "climateType": "온대 대륙성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 4.9,
+          "tempLow": -1,
+          "rainfall": 41.7,
+          "rainyDays": 10,
+          "humidity": 78.9,
+          "sunshineHours": 4.7,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 2,
+          "tempHigh": 9,
+          "tempLow": 1.7,
+          "rainfall": 27.6,
+          "rainyDays": 8.6,
+          "humidity": 71.9,
+          "sunshineHours": 6.8,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 11.7,
+          "tempLow": 2.1,
+          "rainfall": 30,
+          "rainyDays": 5.2,
+          "humidity": 63.6,
+          "sunshineHours": 8.7,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 15,
+          "tempLow": 5.3,
+          "rainfall": 55.5,
+          "rainyDays": 10,
+          "humidity": 62.5,
+          "sunshineHours": 9.5,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 19.6,
+          "tempLow": 10.3,
+          "rainfall": 73.8,
+          "rainyDays": 13.2,
+          "humidity": 66.6,
+          "sunshineHours": 10.7,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 6,
+          "tempHigh": 25,
+          "tempLow": 15.3,
+          "rainfall": 83.4,
+          "rainyDays": 12.8,
+          "humidity": 67,
+          "sunshineHours": 12.4,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 7,
+          "tempHigh": 27.5,
+          "tempLow": 17.3,
+          "rainfall": 59.7,
+          "rainyDays": 8.8,
+          "humidity": 60.3,
+          "sunshineHours": 12.4,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 26.6,
+          "tempLow": 17.3,
+          "rainfall": 84.7,
+          "rainyDays": 11.4,
+          "humidity": 66.7,
+          "sunshineHours": 10.9,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 9,
+          "tempHigh": 22,
+          "tempLow": 12.7,
+          "rainfall": 100.9,
+          "rainyDays": 9.6,
+          "humidity": 70.9,
+          "sunshineHours": 9.4,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 16.4,
+          "tempLow": 8.4,
+          "rainfall": 53.9,
+          "rainyDays": 8.8,
+          "humidity": 78.4,
+          "sunshineHours": 7.4,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 11,
+          "tempHigh": 9,
+          "tempLow": 2.9,
+          "rainfall": 42.8,
+          "rainyDays": 8.2,
+          "humidity": 82.7,
+          "sunshineHours": 5.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 12,
+          "tempHigh": 5.2,
+          "tempLow": 0.2,
+          "rainfall": 52.4,
+          "rainyDays": 11.4,
+          "humidity": 84.3,
+          "sunshineHours": 3.6,
+          "weatherSummary": "추움"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?auto=format&fit=crop&w=800&q=80"
+}

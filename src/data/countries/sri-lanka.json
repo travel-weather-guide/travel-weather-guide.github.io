@@ -1,0 +1,161 @@
+{
+  "id": "sri-lanka",
+  "name": {
+    "ko": "스리랑카",
+    "en": "Sri Lanka"
+  },
+  "continent": "asia",
+  "capital": "Sri Jayawardenepura Kotte",
+  "currency": "Sri Lankan rupee (Rs  රු)",
+  "language": "Sinhala, Tamil",
+  "timezone": "UTC+05:30",
+  "visaInfo": "전자여행허가(ETA) 필요 (30일)",
+  "regions": [
+    {
+      "id": "colombo",
+      "name": {
+        "ko": "콜롬보",
+        "en": "Colombo"
+      },
+      "countryId": "sri-lanka",
+      "latitude": 6.9271,
+      "longitude": 79.8612,
+      "climateType": "열대 몬순",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 30,
+          "tempLow": 22.6,
+          "rainfall": 119.8,
+          "rainyDays": 15,
+          "humidity": 80.8,
+          "sunshineHours": 10,
+          "seaTemp": 28.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 2,
+          "tempHigh": 31.2,
+          "tempLow": 23.2,
+          "rainfall": 33.9,
+          "rainyDays": 10.4,
+          "humidity": 77.3,
+          "sunshineHours": 11.1,
+          "seaTemp": 28.8,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 31,
+          "tempLow": 23.9,
+          "rainfall": 105.2,
+          "rainyDays": 18,
+          "humidity": 80.5,
+          "sunshineHours": 10.8,
+          "seaTemp": 29.9,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 4,
+          "tempHigh": 30.8,
+          "tempLow": 24.5,
+          "rainfall": 156,
+          "rainyDays": 24,
+          "humidity": 83.5,
+          "sunshineHours": 10.5,
+          "seaTemp": 31.1,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 29.7,
+          "tempLow": 25.4,
+          "rainfall": 439.5,
+          "rainyDays": 30,
+          "humidity": 85.9,
+          "sunshineHours": 8.3,
+          "seaTemp": 30.4,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 6,
+          "tempHigh": 28.9,
+          "tempLow": 25.2,
+          "rainfall": 306.6,
+          "rainyDays": 29.2,
+          "humidity": 85.4,
+          "sunshineHours": 9.5,
+          "seaTemp": 29.2,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 28.7,
+          "tempLow": 25.2,
+          "rainfall": 250.4,
+          "rainyDays": 27.8,
+          "humidity": 85.5,
+          "sunshineHours": 9.3,
+          "seaTemp": 28.9,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 28.5,
+          "tempLow": 25,
+          "rainfall": 256.6,
+          "rainyDays": 28.6,
+          "humidity": 85.2,
+          "sunshineHours": 9.6,
+          "seaTemp": 29,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 9,
+          "tempHigh": 28.4,
+          "tempLow": 24.7,
+          "rainfall": 341.1,
+          "rainyDays": 29.2,
+          "humidity": 86.1,
+          "sunshineHours": 8.6,
+          "seaTemp": 28.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 10,
+          "tempHigh": 28.4,
+          "tempLow": 24.2,
+          "rainfall": 365.1,
+          "rainyDays": 29.4,
+          "humidity": 86.9,
+          "sunshineHours": 8.4,
+          "seaTemp": 29,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 28.7,
+          "tempLow": 23.3,
+          "rainfall": 410.7,
+          "rainyDays": 24.6,
+          "humidity": 87.8,
+          "sunshineHours": 7.5,
+          "seaTemp": 29.5,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 29.4,
+          "tempLow": 23.1,
+          "rainfall": 198,
+          "rainyDays": 20.8,
+          "humidity": 84.5,
+          "sunshineHours": 8.9,
+          "seaTemp": 29,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?auto=format&fit=crop&w=800&q=80"
+}

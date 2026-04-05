@@ -832,5 +832,287 @@
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 1,
+    "rating": 1,
+    "summary": "우기, 하지만 보로부두르 새벽 안개 사진 명소",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 297mm로 우기에 해당",
+      "월 28.2일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 2,
+    "rating": 1,
+    "summary": "우기 지속, 실내 바틱 공방 투어 추천",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 303mm로 우기에 해당",
+      "월 27.2일 비가 와 야외 일정에 유의",
+      "습도 88%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 3,
+    "rating": 2,
+    "summary": "우기 막바지, 점점 맑아지는 날씨",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 345mm로 우기에 해당",
+      "월 29.2일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 4,
+    "rating": 2,
+    "summary": "건기 시작, 프람바난 일출 사진 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 257mm로 우기에 해당",
+      "월 26.8일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 5,
+    "rating": 2,
+    "summary": "쾌청한 날씨, 보로부두르·프람바난 함께 투어",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 152mm로 우기에 해당",
+      "월 18.4일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 6,
+    "rating": 3,
+    "summary": "건기 성수기, 웨삭 축제와 아트 페스티벌",
+    "highlights": [
+      "건기 보로부두르·프람바난 유적 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 150mm로 우산 필수",
+      "월 18.4일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "욕야카르타 아트 페스티벌 (6~7월)",
+      "보로부두르 웨삭 축제 (5~6월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 7,
+    "rating": 4,
+    "summary": "건기 절정, 성수기 맞아 유적지 붐빔",
+    "highlights": [
+      "건기 보로부두르·프람바난 유적 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 10.8일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "욕야카르타 아트 페스티벌 (6~7월)",
+      "보로부두르 웨삭 축제 (5~6월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 8,
+    "rating": 4,
+    "summary": "건기 지속, 맑고 선선한 자바 고원의 아침",
+    "highlights": [
+      "건기 보로부두르·프람바난 유적 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "욕야카르타 아트 페스티벌 (6~7월)",
+      "보로부두르 웨삭 축제 (5~6월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 9,
+    "rating": 3,
+    "summary": "건기 마무리, 여유로운 유적 탐방",
+    "highlights": [
+      "건기 보로부두르·프람바난 유적 탐방 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 17.4일 비가 와 야외 일정에 유의",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "욕야카르타 아트 페스티벌 (6~7월)",
+      "보로부두르 웨삭 축제 (5~6월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 10,
+    "rating": 2,
+    "summary": "우기 시작, 우산 챙기고 야시장 탐방",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 196mm로 우기에 해당",
+      "월 24.8일 비가 와 야외 일정에 유의",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 11,
+    "rating": 1,
+    "summary": "우기 중반, 바틱 쇼핑과 실내 문화 탐방",
+    "highlights": [
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 403mm로 우기에 해당",
+      "월 28.6일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "yogyakarta",
+    "month": 12,
+    "rating": 1,
+    "summary": "우기, 보로부두르 새벽 운해 사진 시도해볼 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 322mm로 우기에 해당",
+      "월 27일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

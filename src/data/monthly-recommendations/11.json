@@ -8,6 +8,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "건기 여행 황금기, 이집트 박물관 & 유적 순례",
+      "rating": 5
+    },
+    {
       "regionId": "dubai",
       "category": "city",
       "reason": "겨울 시작, 두바이 마라톤과 쇼핑 시즌",
@@ -29,6 +35,30 @@
       "regionId": "luang-prabang",
       "category": "culture",
       "reason": "건기 시작, 쾨청한 하늘과 탁발 투어",
+      "rating": 5
+    },
+    {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "건기 여행 최적기, 카르낙 신전 야간 쇼 추천",
+      "rating": 5
+    },
+    {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "마라케시 국제 영화제, 쾌적한 가을 탐방",
+      "rating": 5
+    },
+    {
+      "regionId": "mumbai",
+      "category": "city",
+      "reason": "건기 성수기 재개, 쾌적한 해안 도시 탐방",
+      "rating": 5
+    },
+    {
+      "regionId": "new-delhi",
+      "category": "culture",
+      "reason": "쾌적한 건기, 뉴델리 여행 황금기",
       "rating": 5
     },
     {
@@ -82,6 +112,10 @@
       "reason": "비수기 시작, 시설 폐업 시작"
     },
     {
+      "regionId": "amsterdam",
+      "reason": "서늘한 가을, 반 고흐 미술관 여유롭게 감상"
+    },
+    {
       "regionId": "auckland",
       "reason": "봄 끝자락, 여름 직전 쾌적한 시기"
     },
@@ -100,6 +134,10 @@
     {
       "regionId": "cebu",
       "reason": "건기 시작, 다이빙 시야 회복"
+    },
+    {
+      "regionId": "colombo",
+      "reason": "북동 몬순 시작, 콜롬보는 쾌청해지는 시기"
     },
     {
       "regionId": "da-nang",
@@ -122,6 +160,10 @@
       "reason": "우기 마무리, 건기로 전환 중"
     },
     {
+      "regionId": "hoi-an",
+      "reason": "홍수 리스크 여전, 날씨 회복 중"
+    },
+    {
       "regionId": "hokkaido",
       "reason": "초겨울, 첫 눈이 내리지만 스키장은 아직"
     },
@@ -140,6 +182,10 @@
     {
       "regionId": "kota-kinabalu",
       "reason": "건기 시작, 코타키나발루 최고의 선셋"
+    },
+    {
+      "regionId": "krabi",
+      "reason": "건기 재개, 라일레이 비치가 다시 열리는 시기"
     },
     {
       "regionId": "kuala-lumpur",
@@ -174,8 +220,16 @@
       "reason": "추워지지만 추수감사절·홀리데이 시즌 시작"
     },
     {
+      "regionId": "nha-trang",
+      "reason": "태풍 시즌 막바지, 날씨 회복 시작"
+    },
+    {
       "regionId": "paris",
       "reason": "쌀쌀해지고 해가 짧아지는 초겨울"
+    },
+    {
+      "regionId": "penang",
+      "reason": "건기 재개, 다시 쾌청해진 조지타운"
     },
     {
       "regionId": "phnom-penh",
@@ -206,8 +260,24 @@
       "reason": "비수기 시작, 페리 감편 시작"
     },
     {
+      "regionId": "toronto",
+      "reason": "추워지기 시작, 실내 박물관·푸드마켓 투어"
+    },
+    {
+      "regionId": "vancouver",
+      "reason": "가을비 시작, 아쿠아리움·박물관 실내 탐방"
+    },
+    {
       "regionId": "venice",
       "reason": "아쿠아 알타(침수) 최빈 시즌, 산마르코 광장 잠김"
+    },
+    {
+      "regionId": "vienna",
+      "reason": "서늘한 가을, 쇼핑 & 카페 문화 즐기기"
+    },
+    {
+      "regionId": "yogyakarta",
+      "reason": "우기 중반, 바틱 쇼핑과 실내 문화 탐방"
     },
     {
       "regionId": "zurich",

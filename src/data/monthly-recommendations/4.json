@@ -20,6 +20,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "모래바람 시즌, 유적 관광은 가능하지만 눈·코 주의",
+      "rating": 5
+    },
+    {
       "regionId": "dubai",
       "category": "city",
       "reason": "점점 더워지는 과도기, 아직 버틸 만한 시기",
@@ -38,9 +44,33 @@
       "rating": 5
     },
     {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "더위 시작, 오전 유적 관광 필수",
+      "rating": 5
+    },
+    {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "봄 절정, 수크·메디나 탐방 & 타데르트 계곡",
+      "rating": 5
+    },
+    {
+      "regionId": "mumbai",
+      "category": "city",
+      "reason": "고온다습, 오전 위주 관광으로 체력 관리",
+      "rating": 5
+    },
+    {
       "regionId": "mykonos",
       "category": "beach",
       "reason": "봄, 해변 산책과 여유로운 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "new-delhi",
+      "category": "culture",
+      "reason": "기온 급상승 시작, 야외 관광 아침·저녁만",
       "rating": 5
     },
     {
@@ -98,8 +128,16 @@
       "reason": "건기 끝자락, 아직 해변 좋은 시기"
     },
     {
+      "regionId": "colombo",
+      "reason": "싱할라 새해 축제, 콜롬보 전통 문화 체험"
+    },
+    {
       "regionId": "edinburgh",
       "reason": "봄, 아서스시트 하이킹 시작"
+    },
+    {
+      "regionId": "guilin",
+      "reason": "봄 절정, 안개 낀 이강 수묵화 풍경 피크"
     },
     {
       "regionId": "hokkaido",
@@ -122,8 +160,16 @@
       "reason": "건기 막바지, 아직 맑은 해변"
     },
     {
+      "regionId": "krabi",
+      "reason": "우기 직전 마지막 건기, 섬 투어 서두르기"
+    },
+    {
       "regionId": "kuala-lumpur",
       "reason": "더워지지만 쾌적, 차이나타운과 야시장"
+    },
+    {
+      "regionId": "kyoto",
+      "reason": "벚꽃 만개, 일본 여행 중 교토는 이 시기가 최고"
     },
     {
       "regionId": "langkawi",
@@ -142,6 +188,10 @@
       "reason": "센트럴파크에 봄꽃이 피는 시기"
     },
     {
+      "regionId": "penang",
+      "reason": "더워지지만 저녁 나이트마켓과 호커센터 활기"
+    },
+    {
       "regionId": "queenstown",
       "reason": "가을 황금빛, 남섬 단풍 드라이브"
     },
@@ -152,6 +202,22 @@
     {
       "regionId": "singapore",
       "reason": "건조한 시기, 야외 관광하기 좋은 시기"
+    },
+    {
+      "regionId": "toronto",
+      "reason": "봄꽃 시작, 하이 파크 벚꽃 명소"
+    },
+    {
+      "regionId": "vancouver",
+      "reason": "벚꽃 만개, 스탠리 파크 산책로 분홍빛"
+    },
+    {
+      "regionId": "yogyakarta",
+      "reason": "건기 시작, 프람바난 일출 사진 최적기"
+    },
+    {
+      "regionId": "zhangjiajie",
+      "reason": "봄 절정, 맑은 날 천문산 유리다리 최적기"
     },
     {
       "regionId": "zurich",

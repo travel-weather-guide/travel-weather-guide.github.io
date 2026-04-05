@@ -32,6 +32,12 @@
       "rating": 5
     },
     {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "40°C 이상 폭염, 박물관·실내 위주 여행",
+      "rating": 5
+    },
+    {
       "regionId": "cappadocia",
       "category": "adventure",
       "reason": "따뜻한 초여름, 하이킹과 열기구",
@@ -62,9 +68,21 @@
       "rating": 5
     },
     {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "45°C 이상 극한 더위, 아침 일찍만 유적 가능",
+      "rating": 5
+    },
+    {
       "regionId": "madrid",
       "category": "city",
       "reason": "더워지기 시작, 밤 산책이 매력인 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "기온 상승, 리야드 수영장 중심 리조트 여행",
       "rating": 5
     },
     {
@@ -118,15 +136,21 @@
       "rating": 4
     },
     {
+      "regionId": "new-delhi",
+      "category": "culture",
+      "reason": "몬순 직전 극한 더위, 실내 박물관 위주",
+      "rating": 4
+    },
+    {
       "regionId": "porto",
       "category": "culture",
       "reason": "상 주앙 축제(6/24), 망치와 마늘로 서로 치는 유쾌한 축제",
       "rating": 4
     },
     {
-      "regionId": "ulaanbaatar",
-      "category": "adventure",
-      "reason": "여름 시작, 광활한 초원 게르 투어 시즌",
+      "regionId": "toronto",
+      "category": "city",
+      "reason": "초여름, 나이아가라 폭포 당일치기 최고 시기",
       "rating": 4
     }
   ],
@@ -156,8 +180,16 @@
       "reason": "우기이지만 공기가 맑아지고 녹음이 짙어지는 시기"
     },
     {
+      "regionId": "colombo",
+      "reason": "우기 절정, 동부 해안(아루감만)으로 이동 추천"
+    },
+    {
       "regionId": "guam",
       "reason": "우기 시작, 간간이 스콜이 오는 시기"
+    },
+    {
+      "regionId": "guilin",
+      "reason": "우기 시작, 강물 불어 이강 유람선 더 운치 있음"
     },
     {
       "regionId": "hanoi",
@@ -184,6 +216,10 @@
       "reason": "우기, 오후 소나기 잦은 시기"
     },
     {
+      "regionId": "krabi",
+      "reason": "우기, 강한 파도로 섬 투어 불가"
+    },
+    {
       "regionId": "kuala-lumpur",
       "reason": "남서 몬순, 오후 스콜이 일상인 시기"
     },
@@ -204,8 +240,20 @@
       "reason": "겨울, 비가 잦고 바람 강한 시기"
     },
     {
+      "regionId": "mumbai",
+      "reason": "몬순 시작, 아라비아해 거대 파도와 침수"
+    },
+    {
       "regionId": "okinawa",
       "reason": "장마(쯔유) 시즌, 폭우가 잦은 시기"
+    },
+    {
+      "regionId": "pattaya",
+      "reason": "우기, 해변보다 쇼핑·야시장 탐방 추천"
+    },
+    {
+      "regionId": "penang",
+      "reason": "고온다습, 저녁 위주 여행으로 전환 추천"
     },
     {
       "regionId": "phnom-penh",
@@ -238,6 +286,10 @@
     {
       "regionId": "vientiane",
       "reason": "우기 본격화, 메콩강변 산책 후 소나기"
+    },
+    {
+      "regionId": "zhangjiajie",
+      "reason": "여름 시작, 습하고 무더워지는 계절"
     }
   ]
 }

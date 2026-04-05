@@ -98,7 +98,7 @@ export default function Home() {
       />
 
       {/* Hero section */}
-      <section className="-mx-4 px-4 pt-14 pb-10 text-center">
+      <section className="-mx-4 px-4 pt-8 pb-6 text-center">
         <h1 className="text-2xl font-extrabold tracking-tight text-gray-900 md:text-3xl">
           {t(messages.home.hero, locale)}
         </h1>
@@ -114,7 +114,7 @@ export default function Home() {
       </section>
 
       {topDests.length > 0 && (
-        <section className="mt-12">
+        <section className="mt-6">
           <div className="flex items-center justify-between mb-4">
             <h2 className="text-lg font-bold text-gray-900">
               {monthLabel} {t(SECTION_TITLE, locale)}

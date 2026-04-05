@@ -445,6 +445,139 @@
           "weatherSummary": "우기"
         }
       ]
+    },
+    {
+      "id": "yogyakarta",
+      "name": {
+        "ko": "족자카르타",
+        "en": "Yogyakarta"
+      },
+      "countryId": "indonesia",
+      "latitude": -7.7956,
+      "longitude": 110.3695,
+      "climateType": "열대 몬순",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 29.3,
+          "tempLow": 22.9,
+          "rainfall": 296.9,
+          "rainyDays": 28.2,
+          "humidity": 86.7,
+          "sunshineHours": 7.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 2,
+          "tempHigh": 29.5,
+          "tempLow": 23,
+          "rainfall": 302.6,
+          "rainyDays": 27.2,
+          "humidity": 87.8,
+          "sunshineHours": 6.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 3,
+          "tempHigh": 29.9,
+          "tempLow": 23,
+          "rainfall": 345.2,
+          "rainyDays": 29.2,
+          "humidity": 86.8,
+          "sunshineHours": 8.2,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 4,
+          "tempHigh": 30.3,
+          "tempLow": 23.2,
+          "rainfall": 257.1,
+          "rainyDays": 26.8,
+          "humidity": 86,
+          "sunshineHours": 9,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 5,
+          "tempHigh": 30.9,
+          "tempLow": 23,
+          "rainfall": 152,
+          "rainyDays": 18.4,
+          "humidity": 82.5,
+          "sunshineHours": 9.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 30.5,
+          "tempLow": 22.4,
+          "rainfall": 149.6,
+          "rainyDays": 18.4,
+          "humidity": 82.3,
+          "sunshineHours": 10,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 7,
+          "tempHigh": 30.3,
+          "tempLow": 21.1,
+          "rainfall": 45.4,
+          "rainyDays": 10.8,
+          "humidity": 78.6,
+          "sunshineHours": 10.6,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 31.2,
+          "tempLow": 21.2,
+          "rainfall": 48.3,
+          "rainyDays": 11,
+          "humidity": 76.3,
+          "sunshineHours": 10.6,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 9,
+          "tempHigh": 31.4,
+          "tempLow": 22,
+          "rainfall": 98.3,
+          "rainyDays": 17.4,
+          "humidity": 76.9,
+          "sunshineHours": 10.2,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 10,
+          "tempHigh": 31.1,
+          "tempLow": 22.8,
+          "rainfall": 195.5,
+          "rainyDays": 24.8,
+          "humidity": 79.7,
+          "sunshineHours": 9.1,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 30.1,
+          "tempLow": 23.1,
+          "rainfall": 403.3,
+          "rainyDays": 28.6,
+          "humidity": 86.4,
+          "sunshineHours": 7.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 29.7,
+          "tempLow": 23,
+          "rainfall": 322,
+          "rainyDays": 27,
+          "humidity": 85.7,
+          "sunshineHours": 7.8,
+          "weatherSummary": "우기"
+        }
+      ]
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80"
