@@ -25,7 +25,7 @@ interface DailyCalendarProps {
 }
 
 const ratingColors: Record<number, string> = {
-  5: 'bg-green-100 text-green-700',
+  5: 'bg-emerald-100 text-emerald-700',
   4: 'bg-sky-100 text-sky-700',
   3: 'bg-yellow-100 text-yellow-700',
   2: 'bg-orange-100 text-orange-700',
@@ -34,10 +34,10 @@ const ratingColors: Record<number, string> = {
 
 function cellBg(tempHigh: number, tempLow: number): string {
   const avg = (tempHigh + tempLow) / 2;
-  if (avg >= 25) return 'bg-[#fff0f0]';
-  if (avg >= 15) return 'bg-white';
-  if (avg >= 5) return 'bg-[#eef8f5]';
-  return 'bg-[#edf3fb]';
+  if (avg >= 25) return 'bg-temp-hot';
+  if (avg >= 15) return 'bg-temp-warm';
+  if (avg >= 5) return 'bg-temp-cool';
+  return 'bg-temp-cold';
 }
 
 export default function DailyCalendar({ days, month, year, commentBadge }: DailyCalendarProps) {
@@ -65,10 +65,10 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
 
   return (
     <div>
-      {/* 호버 정보 바 */}
+      {/* Hover info bar */}
       <div className="flex h-10 items-center">
         {hoveredDay ? (
-          <div className="flex flex-wrap items-center gap-x-4 gap-y-1 rounded-lg bg-gray-50 px-4 py-2 text-sm">
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-1 rounded-xl bg-slate-50 px-4 py-2 text-sm">
             <span className="font-semibold text-gray-800">{month}/{hoveredDay.day}</span>
             <span>{t(messages.calendar.infoTempHigh, locale)} <b className="text-rose-400">{hoveredDay.tempHigh}°</b></span>
             <span>{t(messages.calendar.infoTempLow, locale)} <b className="text-gray-500">{hoveredDay.tempLow}°</b></span>
@@ -80,21 +80,21 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
         )}
       </div>
 
-      {/* 범례 + 코멘트 */}
+      {/* Legend + comment badge */}
       <div className="mt-2 flex flex-wrap items-center justify-between gap-y-1">
-        <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-[11px] text-gray-400">
-        <span className="font-medium text-gray-500">{t(messages.calendar.legendTitle, locale)}</span>
-        {[
-          { label: t(messages.calendar.legendHot, locale), bg: 'bg-[#fff0f0]' },
-          { label: t(messages.calendar.legendWarm, locale), bg: 'bg-white border' },
-          { label: t(messages.calendar.legendCool, locale), bg: 'bg-[#eef8f5]' },
-          { label: t(messages.calendar.legendCold, locale), bg: 'bg-[#edf3fb]' },
-        ].map((item) => (
-          <span key={item.label} className="flex items-center gap-1">
-            <span className={`inline-block h-3 w-3 rounded-sm border border-gray-200 ${item.bg}`} />
-            {item.label}
-          </span>
-        ))}
+        <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-gray-400">
+          <span className="font-medium text-gray-500">{t(messages.calendar.legendTitle, locale)}</span>
+          {[
+            { label: t(messages.calendar.legendHot, locale), bg: 'bg-temp-hot' },
+            { label: t(messages.calendar.legendWarm, locale), bg: 'bg-temp-warm border' },
+            { label: t(messages.calendar.legendCool, locale), bg: 'bg-temp-cool' },
+            { label: t(messages.calendar.legendCold, locale), bg: 'bg-temp-cold' },
+          ].map((item) => (
+            <span key={item.label} className="flex items-center gap-1">
+              <span className={`inline-block h-3 w-3 rounded-sm border border-gray-200 ${item.bg}`} />
+              {item.label}
+            </span>
+          ))}
         </div>
         {commentBadge && (
           <div className="flex items-center gap-1.5">
@@ -106,12 +106,12 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
         )}
       </div>
 
-      {/* 요일 헤더 */}
+      {/* Day-of-week headers */}
       <div className="mt-3 grid grid-cols-7">
         {DAY_HEADERS.map((d, i) => (
           <div
             key={d}
-            className={`pb-2 text-center text-[11px] font-medium tracking-widest ${
+            className={`pb-2 text-center text-xs font-medium tracking-widest ${
               i === 0 ? 'text-rose-300' : i === 6 ? 'text-blue-300' : 'text-gray-300'
             }`}
           >
@@ -120,11 +120,11 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
         ))}
       </div>
 
-      {/* 캘린더 그리드 */}
-      <div className="grid grid-cols-7 gap-px overflow-hidden rounded-xl border border-gray-200 bg-gray-200">
+      {/* Calendar grid */}
+      <div className="grid grid-cols-7 gap-px overflow-hidden rounded-2xl border border-slate-200 bg-slate-200">
         {cells.map((cell, i) => {
           if (!cell) {
-            return <div key={`e-${i}`} className="min-h-[88px] bg-gray-50" />;
+            return <div key={`e-${i}`} className="min-h-20 bg-gray-50" />;
           }
 
           const dow = i % 7;
@@ -135,33 +135,30 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
               key={cell.day}
               onMouseEnter={() => setHoveredDay(cell)}
               onMouseLeave={() => setHoveredDay(null)}
-              className={`relative min-h-[88px] p-2 transition-colors hover:bg-white ${cellBg(cell.tempHigh, cell.tempLow)}`}
+              className={`relative min-h-16 p-1.5 transition-colors hover:bg-white md:min-h-20 md:p-2 ${cellBg(cell.tempHigh, cell.tempLow)}`}
             >
-              <div className={`text-[11px] ${
+              <div className={`text-xs leading-none ${
                 dow === 0 ? 'text-rose-400' : dow === 6 ? 'text-blue-400' : 'text-gray-400'
               }`}>
                 {cell.day}
-              </div>
-              <div className="mt-2 leading-tight">
-                <span className="text-[15px] font-semibold text-gray-800">{cell.tempHigh}°</span>
-                <span className="ml-1 text-[12px] font-medium text-gray-400">{cell.tempLow}°</span>
-              </div>
-              {isRainy && (
-                <div className="absolute right-1.5 top-1.5 flex items-center gap-0.5 text-blue-400/70">
-                  <svg className="h-[10px] w-[10px]" viewBox="0 0 24 24" fill="currentColor">
+                {isRainy && (
+                  <svg className="ml-0.5 inline h-2 w-2 text-blue-400/70" viewBox="0 0 24 24" fill="currentColor">
                     <path d="M12 2C6.5 10 4 14.5 4 17a8 8 0 1 0 16 0c0-2.5-2.5-7-8-15z" />
                   </svg>
-                  <span className="text-[9px] font-medium">{cell.rainfall}</span>
-                </div>
-              )}
+                )}
+              </div>
+              <div className="mt-1.5 flex flex-col leading-none">
+                <span className="text-xs font-semibold text-gray-800 md:text-sm">{cell.tempHigh}°</span>
+                <span className="mt-0.5 text-xs font-medium text-gray-400">{cell.tempLow}°</span>
+              </div>
             </div>
           );
         })}
       </div>
 
-      {/* 요약 */}
+      {/* Summary */}
       {days.length > 0 && (
-        <div className="mt-6 flex flex-wrap justify-center gap-6 text-center text-sm">
+        <div className="mt-6 rounded-2xl bg-slate-50 p-5 flex flex-wrap justify-center gap-6 text-center text-sm">
           <div>
             <p className="text-gray-400">{t(messages.calendar.summaryAvgTemp, locale)}</p>
             <p className="mt-0.5 text-lg font-semibold text-gray-800">

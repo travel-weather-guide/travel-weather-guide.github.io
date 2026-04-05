@@ -27,7 +27,7 @@ function CustomTooltip({ active, payload, label, locale }: { active?: boolean; p
   const rain = payload.find(p => p.dataKey === 'rainfall');
 
   return (
-    <div className="rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm shadow-md">
+    <div className="rounded-xl border border-gray-200 bg-white px-3 py-2 text-sm shadow-lg">
       <p className="font-semibold text-gray-900">{label}</p>
       {temp && <p className="text-red-500">{t(messages.weather.tooltipTempHigh, locale)} {temp.value}°C</p>}
       {tempLow && <p className="text-gray-500">{t(messages.weather.tooltipTempLow, locale)} {tempLow.value}°C</p>}
@@ -54,10 +54,10 @@ export default function WeatherChart({ data }: WeatherChartProps) {
   const tempDomain = [Math.floor(minTemp / 5) * 5 - 5, Math.ceil(maxTemp / 5) * 5 + 5];
 
   return (
-    <div className="h-[300px] w-full sm:h-[350px]">
+    <div className="h-72 w-full sm:h-80">
       <ResponsiveContainer width="100%" height="100%">
         <ComposedChart data={chartData} margin={{ top: 8, right: 8, bottom: 0, left: -8 }}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
           <XAxis
             dataKey="name"
             tick={{ fontSize: 12, fill: '#6b7280' }}
@@ -86,7 +86,7 @@ export default function WeatherChart({ data }: WeatherChartProps) {
           <Legend
             iconType="circle"
             iconSize={8}
-            wrapperStyle={{ fontSize: 12, paddingTop: 8 }}
+            wrapperStyle={{ fontSize: 13, paddingTop: 8 }}
           />
           <Bar
             yAxisId="rain"

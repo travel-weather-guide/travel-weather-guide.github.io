@@ -8,6 +8,7 @@ import type { CountryMarker } from '@/components/map/MapView';
 import type { Country, Continent } from '@/types';
 import { useLocale } from '@/contexts/LocaleContext';
 import { getLocalizedName } from '@/i18n/utils';
+import { resolveLocalizedString } from '@/utils/data';
 
 const ISO_CODES: Record<string, string> = {
   japan: 'JP', thailand: 'TH', france: 'FR', usa: 'US', australia: 'AU',
@@ -62,28 +63,37 @@ export default function CountryExplorer({ allCountries }: CountryExplorerProps) 
     );
   }, [filteredCountries]);
 
+  const currentMonth = new Date().getMonth() + 1;
+
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-6">
       {/* 대륙 필터 (좌정렬) */}
       <ContinentFilter selected={filter} onChange={setFilter} />
 
       {/* 지도 + 국가 리스트 */}
       <div className="flex flex-col gap-6 lg:flex-row">
-        <div className="hidden md:block h-[280px] overflow-hidden rounded-xl border border-gray-200 lg:h-[400px] lg:w-1/2">
+        <div className="hidden md:block overflow-hidden rounded-2xl border border-slate-200 md:h-[280px] lg:h-[400px] lg:w-1/2">
           <MapView countries={countryMarkers} countryNames={countryNames} focusFilter={filter} boundPoints={boundPoints} />
         </div>
         <div className="lg:w-1/2">
-          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
-            {filteredCountries.map((c) => (
-              <CountryCard
-                key={c.id}
-                id={c.id}
-                name={c.name}
-                continent={c.continent}
-                regionCount={c.regions.length}
-                imageUrl={c.imageUrl}
-              />
-            ))}
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
+            {filteredCountries.map((c) => {
+              const firstRegion = c.regions[0];
+              const monthData = firstRegion?.monthlyData[currentMonth - 1];
+              return (
+                <CountryCard
+                  key={c.id}
+                  id={c.id}
+                  name={c.name}
+                  continent={c.continent}
+                  regionCount={c.regions.length}
+                  imageUrl={c.imageUrl}
+                  tempHigh={monthData?.tempHigh}
+                  tempLow={monthData?.tempLow}
+                  weatherSummary={resolveLocalizedString(monthData?.weatherSummary ?? '', locale)}
+                />
+              );
+            })}
           </div>
         </div>
       </div>

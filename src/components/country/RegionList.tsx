@@ -27,7 +27,7 @@ export default function RegionList({ countryId, regions, comments = [] }: Region
   const currentMonth = new Date().getMonth() + 1;
 
   return (
-    <div className="grid gap-3 sm:grid-cols-2">
+    <div className="grid gap-4 sm:grid-cols-2">
       {regions.map((region) => {
         const data = region.monthlyData[currentMonth - 1];
         const regionComments = comments.filter((c) => c.regionId === region.id);
@@ -45,23 +45,24 @@ export default function RegionList({ countryId, regions, comments = [] }: Region
           <Link
             key={region.id}
             href={`/country/${countryId}/${region.id}`}
-            className="rounded-xl border border-border bg-white p-4 transition-shadow hover:shadow-md"
+            className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition-all duration-200 hover:shadow-md hover:border-sky-200"
           >
             <div className="flex items-start justify-between">
               <div>
-                <h3 className="font-semibold text-gray-900">{getLocalizedName(region.name, locale)}</h3>
+                <h3 className="text-lg font-semibold text-gray-900">{getLocalizedName(region.name, locale)}</h3>
                 <p className="text-sm text-gray-500">{resolveLocalizedString(region.climateType, locale)}</p>
               </div>
               {ratingEntry && ratingLabel && (
-                <span className={`shrink-0 rounded-full px-2 py-0.5 text-xs font-semibold ${ratingEntry.color}`}>
+                <span className={`shrink-0 rounded-full px-2.5 py-1 text-xs font-semibold ${ratingEntry.color}`}>
                   {currentMonth}{t(messages.regionList.monthSuffix, locale)} {ratingLabel}
                 </span>
               )}
             </div>
 
             {data && (
-              <p className="mt-2 text-sm text-gray-600">
-                {data.tempLow}°~{data.tempHigh}° · {resolveLocalizedString(data.weatherSummary, locale)}
+              <p className="mt-2 text-base font-semibold text-gray-800">
+                {data.tempLow}°~{data.tempHigh}°
+                <span className="ml-1.5 text-sm font-normal text-gray-500">{resolveLocalizedString(data.weatherSummary, locale)}</span>
               </p>
             )}
 
@@ -69,7 +70,7 @@ export default function RegionList({ countryId, regions, comments = [] }: Region
               {bestMonths.map((m) => (
                 <span
                   key={m}
-                  className="rounded-full bg-green-50 px-2 py-0.5 text-[11px] font-medium text-green-600"
+                  className="rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-medium text-emerald-600"
                 >
                   {t(messages.months[m as keyof typeof messages.months], locale)}
                 </span>

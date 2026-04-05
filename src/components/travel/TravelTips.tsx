@@ -19,53 +19,59 @@ export default function TravelTips({ comment }: TravelTipsProps) {
   const tips = resolveLocalizedStringArray(comment.tips, locale);
 
   return (
-    <div className="space-y-3 rounded-xl border border-border bg-white p-4">
-      <p className="font-semibold text-gray-900">{summary}</p>
+    <div className="space-y-3 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
+      <p className="text-base font-semibold text-gray-900">{summary}</p>
 
-      {/* 옷차림 */}
+      {/* Clothing */}
       <div>
-        <p className="text-xs font-medium text-gray-500">{t(messages.travel.clothing, locale)}</p>
-        <p className="text-sm text-gray-700">{clothingAdvice}</p>
+        <p className="text-xs font-semibold uppercase tracking-wide text-gray-500">{t(messages.travel.clothing, locale)}</p>
+        <p className="mt-1 text-sm text-gray-700">{clothingAdvice}</p>
       </div>
 
-      {/* 좋은 점 */}
+      {/* Highlights */}
       {highlights.length > 0 && (
         <div>
-          <p className="text-xs font-medium text-green-600">{t(messages.travel.highlights, locale)}</p>
+          <p className="text-xs font-semibold uppercase tracking-wide text-emerald-600">{t(messages.travel.highlights, locale)}</p>
           <ul className="mt-1 space-y-1">
             {highlights.map((h, i) => (
-              <li key={i} className="text-sm text-gray-700">+ {h}</li>
+              <li key={i} className="text-sm text-gray-700">
+                <span className="text-emerald-500 mr-1">✦</span>{h}
+              </li>
             ))}
           </ul>
         </div>
       )}
 
-      {/* 주의사항 */}
+      {/* Cautions */}
       {cautions.length > 0 && (
         <div>
-          <p className="text-xs font-medium text-orange-600">{t(messages.travel.cautions, locale)}</p>
+          <p className="text-xs font-semibold uppercase tracking-wide text-orange-600">{t(messages.travel.cautions, locale)}</p>
           <ul className="mt-1 space-y-1">
             {cautions.map((c, i) => (
-              <li key={i} className="text-sm text-gray-700">! {c}</li>
+              <li key={i} className="text-sm text-gray-700">
+                <span className="text-orange-500 mr-1">▲</span>{c}
+              </li>
             ))}
           </ul>
         </div>
       )}
 
-      {/* 팁 */}
+      {/* Tips */}
       {tips.length > 0 && (
         <div>
-          <p className="text-xs font-medium text-sky-600">{t(messages.travel.tips, locale)}</p>
+          <p className="text-xs font-semibold uppercase tracking-wide text-sky-600">{t(messages.travel.tips, locale)}</p>
           <ul className="mt-1 space-y-1">
             {tips.map((tip, i) => (
-              <li key={i} className="text-sm text-gray-700">- {tip}</li>
+              <li key={i} className="text-sm text-gray-700">
+                <span className="text-sky-500 mr-1">→</span>{tip}
+              </li>
             ))}
           </ul>
         </div>
       )}
 
-      {/* 밀집도 / 물가 */}
-      <div className="flex gap-4 text-xs text-gray-500">
+      {/* Crowd / Price */}
+      <div className="rounded-xl bg-slate-50 p-3 flex gap-6 text-sm text-gray-500">
         <span>{t(messages.crowd.label, locale)}: {t(messages.crowd[comment.crowdLevel], locale)}</span>
         <span>{t(messages.price.label, locale)}: {t(messages.price[comment.priceLevel], locale)}</span>
       </div>

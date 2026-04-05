@@ -8,15 +8,15 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="border-t border-border bg-muted py-6">
-      <div className="mx-auto max-w-6xl px-4 text-center text-xs text-gray-500">
-        <p>
+    <footer className="border-t border-slate-200 bg-slate-50 py-8">
+      <div className="mx-auto max-w-6xl px-4 text-center">
+        <p className="text-sm text-gray-500">
           {t(messages.footer.weatherData, locale)}{' '}
           <a
             href="https://open-meteo.com/"
             target="_blank"
             rel="noopener noreferrer"
-            className="underline hover:text-sky-600"
+            className="text-sky-600 transition-all duration-200 hover:text-sky-700 hover:underline"
           >
             Open-Meteo
           </a>{' '}
@@ -25,12 +25,12 @@ export default function Footer() {
             href="https://restcountries.com/"
             target="_blank"
             rel="noopener noreferrer"
-            className="underline hover:text-sky-600"
+            className="text-sky-600 transition-all duration-200 hover:text-sky-700 hover:underline"
           >
             REST Countries
           </a>
         </p>
-        <p className="mt-1">{t(messages.footer.copyright, locale).replace('{year}', String(year))}</p>
+        <p className="mt-2 text-sm text-gray-400">{t(messages.footer.copyright, locale).replace('{year}', String(year))}</p>
       </div>
     </footer>
   );

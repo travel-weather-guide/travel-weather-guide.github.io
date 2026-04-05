@@ -54,8 +54,8 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
   const monthLabel = t(messages.months[month as keyof typeof messages.months], locale);
 
   return (
-    <main className="mx-auto max-w-5xl px-4 py-8">
-      <h1 className="text-3xl font-bold text-gray-900">
+    <main className="mx-auto max-w-6xl px-4 py-8">
+      <h1 className="text-2xl font-bold text-gray-900 md:text-3xl">
         {monthLabel} {t(HEADINGS.title, locale)}
       </h1>
       <p className="mt-2 text-gray-500">
@@ -68,10 +68,10 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
           <Link
             key={m}
             href={`/best-in/${m}`}
-            className={`rounded-full px-3 py-1.5 text-sm font-medium transition-colors ${
+            className={`rounded-full px-3 py-1.5 text-sm font-medium transition-all duration-200 ${
               m === month
-                ? 'bg-sky-500 text-white'
-                : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                ? 'bg-sky-500 text-white shadow-sm'
+                : 'bg-slate-100 text-gray-600 hover:bg-sky-50 hover:text-sky-600'
             }`}
           >
             {t(messages.months[m as keyof typeof messages.months], locale)}
@@ -80,7 +80,7 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
       </nav>
 
       {/* Best destinations */}
-      <section className="mt-10">
+      <section className="mt-12">
         <h2 className="text-xl font-bold text-gray-800 mb-4">
           {t(HEADINGS.best, locale)}
         </h2>
@@ -92,7 +92,7 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
               <Link
                 key={dest.regionId}
                 href={`/country/${info.countryId}/${dest.regionId}`}
-                className="block rounded-xl border border-gray-200 p-4 hover:border-sky-300 hover:shadow-md transition-all"
+                className="block rounded-2xl border border-slate-200 bg-white p-5 shadow-sm hover:shadow-md hover:border-sky-200 transition-all duration-200"
               >
                 <div className="flex items-center justify-between mb-2">
                   <div className="flex items-center gap-2">
@@ -102,14 +102,14 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
                       <span className="ml-1.5 text-sm text-gray-400">{name(info.countryName, locale)}</span>
                     </div>
                   </div>
-                  <span className={`rounded-full px-2 py-0.5 text-xs font-medium ${CATEGORY_COLORS[dest.category] ?? 'bg-gray-100 text-gray-600'}`}>
+                  <span className={`rounded-full px-2.5 py-1 text-xs font-medium ${CATEGORY_COLORS[dest.category] ?? 'bg-slate-100 text-gray-600'}`}>
                     {CATEGORY_LABELS[dest.category]?.[locale] ?? dest.category}
                   </span>
                 </div>
                 <p className="text-sm text-gray-600">{reason(dest.reason, locale)}</p>
                 <div className="mt-2 flex items-center gap-0.5">
                   {Array.from({ length: 5 }, (_, i) => (
-                    <span key={i} className={`text-sm ${i < dest.rating ? 'text-yellow-400' : 'text-gray-200'}`}>&#9733;</span>
+                    <span key={i} className={`text-base ${i < dest.rating ? 'text-yellow-400' : 'text-gray-200'}`}>&#9733;</span>
                   ))}
                 </div>
               </Link>
@@ -120,7 +120,7 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
 
       {/* Hidden gems */}
       {data.hiddenGems.length > 0 && (
-        <section className="mt-10">
+        <section className="mt-12">
           <h2 className="text-xl font-bold text-gray-800 mb-4">
             {t(HEADINGS.hidden, locale)}
           </h2>
@@ -132,7 +132,7 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
                 <Link
                   key={dest.regionId}
                   href={`/country/${info.countryId}/${dest.regionId}`}
-                  className="block rounded-xl border border-amber-200 bg-amber-50/50 p-4 hover:border-amber-300 hover:shadow-md transition-all"
+                  className="block rounded-2xl border border-amber-200 bg-amber-50/30 p-5 hover:shadow-md transition-all duration-200"
                 >
                   <div className="flex items-center justify-between mb-2">
                     <div className="flex items-center gap-2">
@@ -142,7 +142,7 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
                         <span className="ml-1.5 text-sm text-gray-400">{name(info.countryName, locale)}</span>
                       </div>
                     </div>
-                    <span className={`rounded-full px-2 py-0.5 text-xs font-medium ${CATEGORY_COLORS[dest.category] ?? 'bg-gray-100 text-gray-600'}`}>
+                    <span className={`rounded-full px-2.5 py-1 text-xs font-medium ${CATEGORY_COLORS[dest.category] ?? 'bg-slate-100 text-gray-600'}`}>
                       {CATEGORY_LABELS[dest.category]?.[locale] ?? dest.category}
                     </span>
                   </div>
@@ -156,7 +156,7 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
 
       {/* Avoid list */}
       {data.avoidList.length > 0 && (
-        <section className="mt-10">
+        <section className="mt-12">
           <h2 className="text-xl font-bold text-gray-800 mb-4">
             {t(HEADINGS.avoid, locale)}
           </h2>
@@ -165,8 +165,8 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
               const info = regionLookup[item.regionId];
               if (!info) return null;
               return (
-                <div key={item.regionId} className="flex items-start gap-3 rounded-lg border border-gray-100 bg-gray-50 p-3">
-                  <img src={flagUrl(info.countryId)} alt="" className="h-3 w-4 object-cover shrink-0" />
+                <div key={item.regionId} className="flex items-start gap-3 rounded-xl bg-slate-50 p-4">
+                  <img src={flagUrl(info.countryId)} alt="" className="h-3 w-4 object-cover shrink-0 mt-0.5" />
                   <span className="text-sm font-medium text-gray-700 whitespace-nowrap">
                     {name(info.regionName, locale)}
                     <span className="ml-1 text-gray-400 font-normal">{name(info.countryName, locale)}</span>

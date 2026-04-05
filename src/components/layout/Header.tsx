@@ -9,9 +9,9 @@ export default function Header() {
   const { locale } = useLocale();
 
   return (
-    <header className="sticky top-0 z-50 border-b border-border bg-white/90 backdrop-blur-sm">
-      <div className="mx-auto flex h-14 max-w-6xl items-center px-4">
-        <Link href="/" className="text-lg font-bold text-sky-600">
+    <header className="sticky top-0 z-50 border-b border-slate-200/80 bg-white/80 backdrop-blur-md">
+      <div className="mx-auto flex h-16 max-w-6xl items-center px-4">
+        <Link href="/" className="text-xl font-extrabold text-sky-600">
           {t(messages.header.siteTitle, locale)}
         </Link>
         <div className="ml-auto">

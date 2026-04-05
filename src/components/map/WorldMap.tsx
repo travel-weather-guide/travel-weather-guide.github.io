@@ -3,7 +3,7 @@
 import 'leaflet/dist/leaflet.css';
 import { MapContainer, TileLayer, GeoJSON, CircleMarker, Tooltip, useMap } from 'react-leaflet';
 import { useRouter } from 'next/navigation';
-import { useMemo, useState, useEffect } from 'react';
+import { useMemo, useState, useEffect, useRef } from 'react';
 import { feature } from 'topojson-client';
 import type { Topology, GeometryCollection } from 'topojson-specification';
 import type { Feature, FeatureCollection } from 'geojson';
@@ -28,12 +28,20 @@ const NO_DATA_FILL = { fillColor: 'transparent', fillOpacity: 0, color: 'transpa
 
 function FitBounds({ boundPoints, focusFilter }: { boundPoints: [number, number][]; focusFilter?: string }) {
   const map = useMap();
-  useEffect(() => {
-    map.setView([25, 20], 2);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [map]);
+  const initialized = useRef(false);
 
   useEffect(() => {
+    if (!initialized.current) {
+      // 최초 마운트: 애니메이션 없이 바로 세팅
+      map.setView([25, 20], 2);
+      initialized.current = true;
+      return;
+    }
+    // 지도가 숨겨져 있으면 애니메이션 skip (컨테이너 0x0 → NaN)
+    const container = map.getContainer();
+    if (!container.offsetWidth) return;
+
+    // 필터 변경: 애니메이션
     if (!focusFilter || focusFilter === 'all') {
       map.flyTo([25, 20], 2, { duration: 0.8 });
       return;
@@ -42,6 +50,7 @@ function FitBounds({ boundPoints, focusFilter }: { boundPoints: [number, number]
     const bounds = L.latLngBounds(boundPoints);
     const pad = focusFilter === 'asia' ? 0.1 : 0.3;
     map.flyToBounds(bounds.pad(pad), { duration: 0.8, maxZoom: 5 });
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [map, boundPoints, focusFilter]);
   return null;
 }

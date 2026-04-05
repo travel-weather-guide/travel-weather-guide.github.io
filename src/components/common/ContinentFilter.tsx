@@ -22,10 +22,10 @@ export default function ContinentFilter({ selected, onChange }: ContinentFilterP
         <button
           key={value}
           onClick={() => onChange(value)}
-          className={`shrink-0 rounded-full px-4 py-2 text-sm font-medium transition-colors ${
+          className={`shrink-0 rounded-full px-4 py-2 text-sm font-medium transition-all duration-200 ${
             selected === value
-              ? 'bg-sky-500 text-white'
-              : 'bg-gray-100 text-gray-600 hover:bg-sky-100 hover:text-sky-600'
+              ? 'bg-sky-500 text-white shadow-sm'
+              : 'bg-slate-100 text-gray-600 hover:bg-sky-50 hover:text-sky-600'
           }`}
         >
           {t(messages.continents[value], locale)}
