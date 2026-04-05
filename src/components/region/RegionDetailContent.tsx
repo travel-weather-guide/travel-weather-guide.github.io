@@ -29,7 +29,7 @@ const ratingConfig: Record<number, { color: string }> = {
   1: { color: 'bg-red-100 text-red-700' },
 };
 
-const YEARS = [2024, 2023, 2022];
+const YEARS = [2025, 2024, 2023, 2022];
 
 const SECTION_TITLES = {
   calendar: { ko: '일별 날씨', en: 'Daily Weather', ja: '日別天気', zh: '每日天气' },
@@ -53,7 +53,7 @@ export default function RegionDetailContent({ country, region, comments, dailyDa
   const { record } = useRecentlyViewed();
   const currentMonth = new Date().getMonth() + 1;
   const [selectedMonth, setSelectedMonth] = useState(currentMonth);
-  const [selectedYear, setSelectedYear] = useState(2024);
+  const [selectedYear, setSelectedYear] = useState(2025);
 
   useEffect(() => {
     record({

@@ -4,7 +4,7 @@ import type { DayData } from './DailyCalendar';
 import { useLocale } from '@/contexts/LocaleContext';
 import { messages, t } from '@/i18n/messages';
 
-const YEARS = [2024, 2023, 2022];
+const YEARS = [2025, 2024, 2023, 2022];
 
 interface YearComparisonProps {
   years: Record<string, DayData[]>;
