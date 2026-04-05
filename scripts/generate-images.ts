@@ -88,7 +88,7 @@ async function generateDefaultOg() {
 // C. Country OG images
 // ─────────────────────────────────────────────
 
-type Continent = "asia" | "europe" | "north-america" | "oceania";
+type Continent = "asia" | "europe" | "north-america" | "oceania" | "africa" | "south-america";
 
 interface CountryMeta {
   id: string;
@@ -97,23 +97,16 @@ interface CountryMeta {
   continent: Continent;
 }
 
-const COUNTRIES: CountryMeta[] = [
-  { id: "japan",       nameKo: "일본",      nameEn: "Japan",       continent: "asia" },
-  { id: "thailand",    nameKo: "태국",      nameEn: "Thailand",    continent: "asia" },
-  { id: "vietnam",     nameKo: "베트남",    nameEn: "Vietnam",     continent: "asia" },
-  { id: "philippines", nameKo: "필리핀",    nameEn: "Philippines", continent: "asia" },
-  { id: "singapore",   nameKo: "싱가포르",  nameEn: "Singapore",   continent: "asia" },
-  { id: "indonesia",   nameKo: "인도네시아",nameEn: "Indonesia",   continent: "asia" },
-  { id: "taiwan",      nameKo: "대만",      nameEn: "Taiwan",      continent: "asia" },
-  { id: "turkey",      nameKo: "터키",      nameEn: "Turkey",      continent: "asia" },
-  { id: "france",      nameKo: "프랑스",    nameEn: "France",      continent: "europe" },
-  { id: "spain",       nameKo: "스페인",    nameEn: "Spain",       continent: "europe" },
-  { id: "italy",       nameKo: "이탈리아",  nameEn: "Italy",       continent: "europe" },
-  { id: "uk",          nameKo: "영국",      nameEn: "United Kingdom", continent: "europe" },
-  { id: "greece",      nameKo: "그리스",    nameEn: "Greece",      continent: "europe" },
-  { id: "usa",         nameKo: "미국",      nameEn: "United States", continent: "north-america" },
-  { id: "australia",   nameKo: "호주",      nameEn: "Australia",   continent: "oceania" },
-];
+// countries.json에서 동적으로 로드
+const countriesJsonPath = path.resolve(__dirname, "../src/data/countries.json");
+const COUNTRIES: CountryMeta[] = JSON.parse(fs.readFileSync(countriesJsonPath, "utf-8")).map(
+  (c: { id: string; name: { ko: string; en: string }; continent: Continent }) => ({
+    id: c.id,
+    nameKo: c.name.ko,
+    nameEn: c.name.en,
+    continent: c.continent,
+  })
+);
 
 // Gradient colors per continent
 const CONTINENT_GRADIENTS: Record<Continent, [string, string]> = {
@@ -121,6 +114,8 @@ const CONTINENT_GRADIENTS: Record<Continent, [string, string]> = {
   "europe":        ["#6366f1", "#3730a3"],   // indigo
   "north-america": ["#10b981", "#065f46"],   // emerald
   "oceania":       ["#14b8a6", "#0f766e"],   // teal
+  "africa":        ["#f59e0b", "#b45309"],   // amber
+  "south-america": ["#ec4899", "#9d174d"],   // pink
 };
 
 function buildCountryOgSvg(country: CountryMeta): string {
@@ -169,6 +164,44 @@ async function generateCountryOgs() {
 // Main
 // ─────────────────────────────────────────────
 
+// ─────────────────────────────────────────────
+// D. Country thumbnails + JSON update
+// ─────────────────────────────────────────────
+
+const THUMB_DIR = path.join(PUBLIC_DIR, "thumbnails");
+fs.mkdirSync(THUMB_DIR, { recursive: true });
+
+function buildThumbnailSvg(country: CountryMeta): string {
+  const [colorStart, colorEnd] = CONTINENT_GRADIENTS[country.continent];
+  const koFontSize = country.nameKo.length > 4 ? 42 : 52;
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="${colorStart}"/>
+      <stop offset="100%" stop-color="${colorEnd}"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bg)"/>
+  <circle cx="480" cy="80" r="120" fill="white" fill-opacity="0.06"/>
+  <circle cx="100" cy="350" r="90" fill="white" fill-opacity="0.06"/>
+  <text x="300" y="185" font-family="Arial, Helvetica, sans-serif" font-size="${koFontSize}" font-weight="700" fill="white" text-anchor="middle">${country.nameKo}</text>
+  <text x="300" y="235" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="white" fill-opacity="0.75" text-anchor="middle">${country.nameEn}</text>
+  <rect x="250" y="260" width="100" height="2" rx="1" fill="white" fill-opacity="0.35"/>
+</svg>`;
+}
+
+async function generateThumbnails() {
+  for (const country of COUNTRIES) {
+    const svg = buildThumbnailSvg(country);
+    const outPath = path.join(THUMB_DIR, `${country.id}.png`);
+    await sharp(Buffer.from(svg)).resize(600, 400).png().toFile(outPath);
+    console.log(`  thumbnails/${country.id}.png`);
+  }
+}
+
+// imageUrl은 generate-data.ts에서 Unsplash URL로 관리 — 여기서 덮어쓰지 않음
+
 async function main() {
   console.log("\n[generate-images] Starting...\n");
 
@@ -180,6 +213,9 @@ async function main() {
 
   console.log("\nCountry OG images:");
   await generateCountryOgs();
+
+  console.log("\nCountry thumbnails:");
+  await generateThumbnails();
 
   console.log("\n[generate-images] Done.\n");
 }
