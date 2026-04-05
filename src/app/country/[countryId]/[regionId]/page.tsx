@@ -102,10 +102,10 @@ export default async function RegionDetailPage({
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather.pages.dev' },
-        { '@type': 'ListItem', position: 2, name: '국가', item: 'https://travel-weather.pages.dev/country' },
-        { '@type': 'ListItem', position: 3, name: country.name.ko, item: `https://travel-weather.pages.dev/country/${countryId}` },
-        { '@type': 'ListItem', position: 4, name: region.name.ko, item: `https://travel-weather.pages.dev/country/${countryId}/${regionId}` },
+        { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather-guide.github.io' },
+        { '@type': 'ListItem', position: 2, name: '국가', item: 'https://travel-weather-guide.github.io/country' },
+        { '@type': 'ListItem', position: 3, name: country.name.ko, item: `https://travel-weather-guide.github.io/country/${countryId}` },
+        { '@type': 'ListItem', position: 4, name: region.name.ko, item: `https://travel-weather-guide.github.io/country/${countryId}/${regionId}` },
       ],
     },
     {

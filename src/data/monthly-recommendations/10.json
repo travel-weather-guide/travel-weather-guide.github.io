@@ -2,305 +2,171 @@
   "month": 10,
   "bestDestinations": [
     {
-      "regionId": "antalya",
-      "category": "beach",
-      "reason": {
-        "ko": "지중해 가을, 수온 23°C로 아직 해수욕 가능",
-        "en": "Mediterranean autumn — sea temperature at 23°C, still perfect for swimming",
-        "ja": "地中海の秋、水温23°Cでまだ海水浴が可能",
-        "zh": "地中海秋季，海水温度23°C，仍可畅快游泳"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "athens",
-      "category": "culture",
-      "reason": {
-        "ko": "완벽한 가을 날씨, 유적지 관광 최적기",
-        "en": "Perfect autumn weather — the ideal time to explore the ancient ruins",
-        "ja": "完璧な秋の天気、遺跡観光の最適期",
-        "zh": "完美秋日天气，游览古遗址的最佳时机"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "cappadocia",
-      "category": "adventure",
-      "reason": {
-        "ko": "가을 단풍과 열기구, 카파도키아 최고의 시기",
-        "en": "Autumn colours and hot-air balloons — Cappadocia at its very best",
-        "ja": "秋の紅葉と熱気球、カッパドキアの最高の時期",
-        "zh": "秋叶与热气球——卡帕多奇亚最美好的时节"
-      },
+      "regionId": "los-angeles",
+      "category": "city",
+      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": {
-        "ko": "날씨 좋고 관광객 적은 황금 시기",
-        "en": "Great weather and fewer tourists — a golden window to visit",
-        "ja": "天気が良く観光客が少ない黄金の時期",
-        "zh": "天气绝佳，游客稀少，堪称黄金旅游窗口"
-      },
+      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
-      "regionId": "los-angeles",
+      "regionId": "madrid",
       "category": "city",
-      "reason": {
-        "ko": "인디언 서머, 맑고 따뜻한 최적기",
-        "en": "Indian summer — clear skies and warm temperatures at their finest",
-        "ja": "インディアンサマー、晴れて暖かい最適期",
-        "zh": "小阳春季节，晴朗温暖，是最佳旅游时机"
-      },
+      "reason": "평균 16°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
       "rating": 5
     },
     {
-      "regionId": "mykonos",
+      "regionId": "seville",
+      "category": "culture",
+      "reason": "평균 21°C의 쾌적한 기온, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "istanbul",
+      "category": "culture",
+      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "cappadocia",
+      "category": "adventure",
+      "reason": "평균 14°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "antalya",
       "category": "beach",
-      "reason": {
-        "ko": "가을, 수영 가능한 바다(23°C)와 여유",
-        "en": "Autumn calm — the sea is still swimmable at 23°C",
-        "ja": "秋、泳げる海(23°C)と余裕",
-        "zh": "秋日悠闲，海水23°C仍可畅游"
-      },
+      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "athens",
+      "category": "culture",
+      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "santorini",
       "category": "beach",
-      "reason": {
-        "ko": "가을, 관광객 줄고 아직 따뜻한 시기",
-        "en": "Autumn — tourist numbers drop and the weather is still warm",
-        "ja": "秋、観光客が減り、まだ温かい時期",
-        "zh": "秋季来临，游客减少，天气依然温暖宜人"
-      },
+      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
-    }
-  ],
-  "hiddenGems": [
+    },
     {
-      "regionId": "seville",
-      "category": "culture",
-      "reason": {
-        "ko": "선선한 가을, 플라멩코와 타파스의 계절",
-        "en": "Cool autumn — the season of flamenco and tapas",
-        "ja": "涼しい秋、フラメンコとタパスの季節",
-        "zh": "凉爽秋日，弗拉明戈与塔帕斯的美好时节"
-      },
-      "rating": 4
+      "regionId": "mykonos",
+      "category": "beach",
+      "reason": "평균 21°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
     },
     {
       "regionId": "sydney",
       "category": "city",
-      "reason": {
-        "ko": "봄 한가운데, 야외 활동 최적기",
-        "en": "Mid-spring — perfect conditions for outdoor activities",
-        "ja": "春の真っ只中、屋外活動の最適期",
-        "zh": "仲春时节，户外活动的最佳时机"
-      },
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
       "rating": 4
-    }
-  ],
-  "avoidList": [
-    {
-      "regionId": "bali",
-      "reason": {
-        "ko": "건기 끝자락, 간간이 소나기 시작",
-        "en": "End of dry season — occasional showers are beginning",
-        "ja": "乾季の終わり、時々にわか雨が始まる",
-        "zh": "干季尾声，偶尔阵雨开始出现"
-      }
     },
     {
-      "regionId": "bangkok",
-      "reason": {
-        "ko": "우기 막바지, 비가 줄어들기 시작",
-        "en": "Rainy season tails off — rainfall is starting to ease",
-        "ja": "雨季の終盤、雨が減り始める",
-        "zh": "雨季接近尾声，降雨开始逐渐减少"
-      }
-    },
-    {
-      "regionId": "boracay",
-      "reason": {
-        "ko": "우기 끝자락, 아직 바다가 거친 시기",
-        "en": "Rainy season tails off — but the sea is still rough",
-        "ja": "雨季の終わり、まだ海が荒れている時期",
-        "zh": "雨季尾声，但海面依然波涛汹涌"
-      }
-    },
-    {
-      "regionId": "cebu",
-      "reason": {
-        "ko": "우기 끝자락, 비 줄어들기 시작",
-        "en": "Rainy season tails off — rain is beginning to ease",
-        "ja": "雨季の終わり、雨が減り始める",
-        "zh": "雨季尾声，降雨开始逐渐减少"
-      }
-    },
-    {
-      "regionId": "da-nang",
-      "reason": {
-        "ko": "태풍·폭우 절정, 홍수 위험 가장 높은 시기",
-        "en": "Peak typhoon and heavy rain season — flooding risk is at its highest",
-        "ja": "台風・豪雨の絶頂、洪水リスクが最も高い時期",
-        "zh": "台风与暴雨高峰期，洪涝风险达到全年最高"
-      }
-    },
-    {
-      "regionId": "edinburgh",
-      "reason": {
-        "ko": "가을 단풍, 쌀쌀해지는 시기",
-        "en": "Autumn colours appear — but the chill is setting in",
-        "ja": "秋の紅葉、肌寒くなる時期",
-        "zh": "秋叶渐染，寒意开始袭来"
-      }
-    },
-    {
-      "regionId": "ho-chi-minh",
-      "reason": {
-        "ko": "우기 끝자락, 비가 줄어들기 시작",
-        "en": "Rainy season tails off — rainfall is starting to ease",
-        "ja": "雨季の終わり、雨が減り始める",
-        "zh": "雨季尾声，降雨开始逐渐减少"
-      }
-    },
-    {
-      "regionId": "hokkaido",
-      "reason": {
-        "ko": "단풍 절정이지만 급격히 추워지는 시기",
-        "en": "Autumn colours peak — but temperatures drop sharply",
-        "ja": "紅葉の絶頂だが急激に寒くなる時期",
-        "zh": "红叶达到全盛，但气温急剧骤降"
-      }
-    },
-    {
-      "regionId": "jakarta",
-      "reason": {
-        "ko": "과도기, 비가 조금씩 시작",
-        "en": "Transitional period — rain is gradually beginning",
-        "ja": "過渡期、雨が少しずつ始まる",
-        "zh": "过渡时节，降雨逐渐开始"
-      }
-    },
-    {
-      "regionId": "kaohsiung",
-      "reason": {
-        "ko": "건기 시작, 쾌적한 가을 남부",
-        "en": "Dry season begins — pleasant autumn weather in the south",
-        "ja": "乾季の始まり、快適な秋の南部",
-        "zh": "干季来临，南部秋日天气舒适宜人"
-      }
+      "regionId": "hanoi",
+      "category": "city",
+      "reason": "평균 25°C의 쾌적한 기온",
+      "rating": 4
     },
     {
       "regionId": "lombok",
-      "reason": {
-        "ko": "과도기, 비가 조금씩 시작",
-        "en": "Transitional period — rain is gradually beginning",
-        "ja": "過渡期、雨が少しずつ始まる",
-        "zh": "过渡时节，降雨逐渐开始"
-      }
-    },
-    {
-      "regionId": "london",
-      "reason": {
-        "ko": "가을 단풍, 쌀쌀해지는 시기",
-        "en": "Autumn foliage — but the chill is arriving",
-        "ja": "秋の紅葉、肌寒くなる時期",
-        "zh": "秋叶初染，寒意开始袭来"
-      }
-    },
-    {
-      "regionId": "manila",
-      "reason": {
-        "ko": "태풍 시즌 끝자락, 비 여전히 많음",
-        "en": "Tail end of typhoon season — rain is still heavy",
-        "ja": "台風シーズンの終わり、雨はまだ多い",
-        "zh": "台风季尾声，降雨依然较多"
-      }
-    },
-    {
-      "regionId": "melbourne",
-      "reason": {
-        "ko": "봄, 정원과 공원이 아름다운 시기",
-        "en": "Spring — gardens and parks are at their most beautiful",
-        "ja": "春、庭園と公園が美しい時期",
-        "zh": "春季，花园与公园美不胜收"
-      }
-    },
-    {
-      "regionId": "okinawa",
-      "reason": {
-        "ko": "태풍 시즌 마무리, 따뜻한 바다가 돌아오는 시기",
-        "en": "Typhoon season wraps up — warm seas are returning",
-        "ja": "台風シーズンの終わり、温かい海が戻ってくる時期",
-        "zh": "台风季落幕，温暖海水重新回归"
-      }
-    },
-    {
-      "regionId": "osaka",
-      "reason": {
-        "ko": "단풍 시즌 시작, 미노오 폭포와 교토 근교 단풍",
-        "en": "Autumn colours begin — Minoo Falls and Kyoto's outskirts are stunning",
-        "ja": "紅葉シーズン開始、箕面滝と京都近郊の紅葉",
-        "zh": "红叶季节开启，箕面瀑布与京都近郊美景如画"
-      }
-    },
-    {
-      "regionId": "paris",
-      "reason": {
-        "ko": "가을빛 파리, 뤽상부르 공원 단풍",
-        "en": "Autumn Paris — the chestnut trees in the Luxembourg Gardens turn golden",
-        "ja": "秋のパリ、リュクサンブール公園の紅葉",
-        "zh": "秋日巴黎，卢森堡公园红叶如火"
-      }
-    },
-    {
-      "regionId": "phuket",
-      "reason": {
-        "ko": "우기 끝자락, 비가 줄어들기 시작",
-        "en": "Rainy season tails off — rainfall is starting to ease",
-        "ja": "雨季の終わり、雨が減り始める",
-        "zh": "雨季尾声，降雨开始逐渐减少"
-      }
-    },
-    {
-      "regionId": "singapore",
-      "reason": {
-        "ko": "과도기, 비가 늘어나기 시작",
-        "en": "Transitional period — rainfall is starting to increase",
-        "ja": "過渡期、雨が増え始める",
-        "zh": "过渡时节，降雨量开始增多"
-      }
+      "category": "beach",
+      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
+      "rating": 4
     },
     {
       "regionId": "taipei",
-      "reason": {
-        "ko": "건기 시작, 가을 단풍과 쾌적한 날씨",
-        "en": "Dry season begins — autumn foliage and comfortable weather",
-        "ja": "乾季の始まり、秋の紅葉と快適な天気",
-        "zh": "干季来临，秋叶绚烂，天气舒适宜人"
-      }
+      "category": "city",
+      "reason": "평균 25°C의 쾌적한 기온",
+      "rating": 4
     },
     {
-      "regionId": "tokyo",
-      "reason": {
-        "ko": "단풍이 물드는 가을, 맑고 쾌적한 날씨",
-        "en": "Autumn leaves are turning — clear skies and comfortable temperatures",
-        "ja": "紅葉が色づく秋、晴れて快適な天気",
-        "zh": "红叶渐染秋色，天空晴朗，气候舒适宜人"
-      }
+      "regionId": "barcelona",
+      "category": "beach",
+      "reason": "평균 19°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "rome",
+      "category": "culture",
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
     },
     {
       "regionId": "venice",
-      "reason": {
-        "ko": "가을, 아쿠아 알타 시작될 수 있는 시기",
-        "en": "Autumn — acqua alta flooding can start to occur",
-        "ja": "秋、アクア・アルタが始まる可能性がある時期",
-        "zh": "秋季，水上涌潮（高水位）可能开始出现"
-      }
+      "category": "culture",
+      "reason": "평균 16°C의 온화한 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "amalfi",
+      "category": "beach",
+      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "london",
+      "category": "city",
+      "reason": "평균 13°C",
+      "rating": 4
+    },
+    {
+      "regionId": "edinburgh",
+      "category": "culture",
+      "reason": "평균 11°C",
+      "rating": 4
+    }
+  ],
+  "hiddenGems": [],
+  "avoidList": [
+    {
+      "regionId": "tokyo",
+      "reason": "잦은 비(158mm)"
+    },
+    {
+      "regionId": "osaka",
+      "reason": "잦은 비(163mm)"
+    },
+    {
+      "regionId": "okinawa",
+      "reason": "잦은 비(127mm)"
+    },
+    {
+      "regionId": "hokkaido",
+      "reason": "잦은 비(116mm)"
+    },
+    {
+      "regionId": "phuket",
+      "reason": "강수량 306mm의 우기"
+    },
+    {
+      "regionId": "paris",
+      "reason": "여행에 적합하지 않은 날씨"
+    },
+    {
+      "regionId": "melbourne",
+      "reason": "잦은 비(118mm)"
+    },
+    {
+      "regionId": "ho-chi-minh",
+      "reason": "강수량 367mm의 우기"
+    },
+    {
+      "regionId": "da-nang",
+      "reason": "강수량 628mm의 우기"
+    },
+    {
+      "regionId": "boracay",
+      "reason": "강수량 417mm의 우기"
+    },
+    {
+      "regionId": "bangkok",
+      "reason": "강수량 290mm의 우기"
     }
   ]
 }

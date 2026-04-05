@@ -2,339 +2,189 @@
   "month": 7,
   "bestDestinations": [
     {
-      "regionId": "amalfi",
+      "regionId": "nice",
       "category": "beach",
-      "reason": {
-        "ko": "극심한 혼잡, 예약 없이는 못 가는 시기",
-        "en": "Extremely crowded — impossible to visit without advance bookings",
-        "ja": "極度の混雑、予約なしでは行けない時期",
-        "zh": "极度拥挤，不提前预订几乎无法前往"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "antalya",
-      "category": "beach",
-      "reason": {
-        "ko": "비치 피크 시즌, 수온 27°C의 뜨거운 여름",
-        "en": "Peak beach season — scorching summer with sea temperature at 27°C",
-        "ja": "ビーチのピークシーズン、水温27°Cの熱い夏",
-        "zh": "海滩旺季高峰，炎炎夏日海水温度达27°C"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "athens",
-      "category": "culture",
-      "reason": {
-        "ko": "38°C+ 극심한 폭염, 아크로폴리스 정오 폐쇄",
-        "en": "Extreme heat above 38°C — the Acropolis closes at midday",
-        "ja": "38°C超の極度の熱波、アクロポリスは正午に閉鎖",
-        "zh": "极端高温超过38°C，卫城正午关闭"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "barcelona",
-      "category": "city",
-      "reason": {
-        "ko": "비치 피크 시즌, 바르셀로네타 해변 만석",
-        "en": "Peak beach season — Barceloneta beach is packed to capacity",
-        "ja": "ビーチのピークシーズン、バルセロネタビーチは満員",
-        "zh": "海滩旺季高峰，巴塞罗内塔海滩人满为患"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "cappadocia",
-      "category": "adventure",
-      "reason": {
-        "ko": "40°C 폭염, 열기구 조건 악화",
-        "en": "Scorching heat at 40°C — hot-air balloon conditions deteriorate",
-        "ja": "40°Cの猛暑、熱気球の条件が悪化",
-        "zh": "40°C高温炙烤，热气球飞行条件变差"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "hawaii",
-      "category": "beach",
-      "reason": {
-        "ko": "여름 피크 시즌, 가족 관광객 많은 시기",
-        "en": "Summer peak season — busy with families on holiday",
-        "ja": "夏のピークシーズン、家族旅行者が多い時期",
-        "zh": "夏季旅游旺季，家庭游客众多"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "istanbul",
-      "category": "culture",
-      "reason": {
-        "ko": "여름 더위, 그랜드바자르와 실내 관광",
-        "en": "Summer heat — the Grand Bazaar and indoor attractions offer welcome relief",
-        "ja": "夏の暑さ、グランドバザールと室内観光",
-        "zh": "夏日酷热，大巴扎与室内景点提供舒适避暑去处"
-      },
+      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "los-angeles",
       "category": "city",
-      "reason": {
-        "ko": "여름 해변 시즌, 산타모니카·베니스 비치",
-        "en": "Summer beach season — Santa Monica and Venice Beach are at their best",
-        "ja": "夏のビーチシーズン、サンタモニカ・ベニスビーチ",
-        "zh": "夏日海滩旺季，圣莫尼卡与威尼斯海滩魅力尽显"
-      },
+      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "hawaii",
+      "category": "beach",
+      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "lombok",
+      "category": "beach",
+      "reason": "평균 25°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "madrid",
       "category": "city",
-      "reason": {
-        "ko": "40°C 넘는 극심한 폭염, 낮에는 야외 불가",
-        "en": "Extreme heat above 40°C — outdoor activities are impossible during the day",
-        "ja": "40°C超の極度の熱波、昼間の屋外活動は不可",
-        "zh": "极端高温超过40°C，白天几乎无法进行户外活动"
-      },
+      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
-      "regionId": "mykonos",
+      "regionId": "barcelona",
       "category": "beach",
-      "reason": {
-        "ko": "파티 피크, 비치클럽 만석",
-        "en": "Party peak — beach clubs are completely full",
-        "ja": "パーティーのピーク、ビーチクラブは満席",
-        "zh": "派对旺季高峰，海滩俱乐部座无虚席"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "nice",
-      "category": "beach",
-      "reason": {
-        "ko": "여름 성수기, 코트다쥐르 해변 만석",
-        "en": "High summer season — Côte d'Azur beaches are packed",
-        "ja": "夏の成時期、コート・ダジュールのビーチは満員",
-        "zh": "夏季旅游旺季，蔚蓝海岸海滩人满为患"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "rome",
-      "category": "culture",
-      "reason": {
-        "ko": "35°C 이상 더위, 혼잡하지만 관광은 가능",
-        "en": "Heat above 35°C and crowds — but sightseeing is still very much possible",
-        "ja": "35°C以上の暑さ、混雑しているが観光は可能",
-        "zh": "气温超过35°C且人潮涌动，但观光仍可进行"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "santorini",
-      "category": "beach",
-      "reason": {
-        "ko": "성수기, 오이아 석양 명소 극심한 인파",
-        "en": "Peak season — the Oia sunset viewpoint is overwhelmed with visitors",
-        "ja": "成時期、オイアの夕日スポットに極度の人混み",
-        "zh": "旅游旺季，伊亚落日观景点人潮极为拥挤"
-      },
+      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "seville",
       "category": "culture",
-      "reason": {
-        "ko": "45°C까지 오르는 유럽 최악의 폭염",
-        "en": "Europe's worst heat — temperatures can soar to 45°C",
-        "ja": "45°Cに達するヨーロッパ最悪の熱波",
-        "zh": "欧洲最极端酷热，气温可攀升至45°C"
-      },
+      "reason": "평균 30°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "rome",
+      "category": "culture",
+      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "venice",
       "category": "culture",
-      "reason": {
-        "ko": "여름 더위, 운하 냄새와 관광객 혼잡",
-        "en": "Summer heat — canal odours and overwhelming tourist crowds",
-        "ja": "夏の暑さ、運河の臭いと観光客の混雑",
-        "zh": "夏日炎热，运河异味与游客拥挤令人不适"
-      },
+      "reason": "평균 25°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
       "rating": 5
-    }
-  ],
-  "hiddenGems": [
+    },
+    {
+      "regionId": "amalfi",
+      "category": "beach",
+      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "london",
+      "category": "city",
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "istanbul",
+      "category": "culture",
+      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "cappadocia",
+      "category": "adventure",
+      "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "antalya",
+      "category": "beach",
+      "reason": "평균 31°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "athens",
+      "category": "culture",
+      "reason": "평균 29°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "santorini",
+      "category": "beach",
+      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "mykonos",
+      "category": "beach",
+      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
     {
       "regionId": "hokkaido",
       "category": "adventure",
-      "reason": {
-        "ko": "라벤더 만개, 25°C의 시원한 여름 피서지",
-        "en": "Lavender in full bloom — a cool summer escape at just 25°C",
-        "ja": "ラベンダーが満開、25°Cの涼しい夏の避暑地",
-        "zh": "薰衣草盛放，气温仅25°C的清凉避暑胜地"
-      },
+      "reason": "평균 22°C의 쾌적한 기온, 풍부한 일조량",
       "rating": 4
     },
     {
-      "regionId": "lombok",
+      "regionId": "paris",
+      "category": "culture",
+      "reason": "평균 20°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "new-york",
+      "category": "city",
+      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "da-nang",
       "category": "beach",
-      "reason": {
-        "ko": "건기, 서핑과 스노클링 최적 컨디션",
-        "en": "Dry season — perfect conditions for surfing and snorkelling",
-        "ja": "乾季、サーフィンとシュノーケリングの最適コンディション",
-        "zh": "干季，冲浪与浮潜条件绝佳"
-      },
+      "reason": "평균 30°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "jakarta",
+      "category": "city",
+      "reason": "평균 28°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "edinburgh",
+      "category": "culture",
+      "reason": "평균 15°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
       "rating": 4
     }
   ],
+  "hiddenGems": [],
   "avoidList": [
     {
-      "regionId": "bali",
-      "reason": {
-        "ko": "건기, 성수기라 관광객 많지만 날씨 최고",
-        "en": "Dry season peak — crowded with tourists but the weather is superb",
-        "ja": "乾季のピーク、観光客が多いが天気は最高",
-        "zh": "干季旺季，游客众多但天气极为出色"
-      }
-    },
-    {
-      "regionId": "bangkok",
-      "reason": {
-        "ko": "우기 지속, 도로 침수가 빈번한 시기",
-        "en": "Rainy season continues — road flooding is frequent",
-        "ja": "雨季が続く、道路の浸水が頻繁な時期",
-        "zh": "雨季持续，道路积水频繁"
-      }
-    },
-    {
-      "regionId": "boracay",
-      "reason": {
-        "ko": "우기, 파도 높고 투어 취소 빈번",
-        "en": "Rainy season — high waves cause frequent tour cancellations",
-        "ja": "雨季、波が高くツアーのキャンセルが頻繁",
-        "zh": "雨季，海浪高涨，游览项目频繁取消"
-      }
-    },
-    {
-      "regionId": "cebu",
-      "reason": {
-        "ko": "우기 지속, 태풍 영향 가능",
-        "en": "Rainy season continues — typhoon influence is possible",
-        "ja": "雨季が続く、台風の影響の可能性",
-        "zh": "雨季持续，可能受台风影响"
-      }
-    },
-    {
-      "regionId": "chiang-mai",
-      "reason": {
-        "ko": "우기 지속, 짧은 오후 소나기 후 맑은 하늘",
-        "en": "Rainy season — brief afternoon showers followed by clear skies",
-        "ja": "雨季が続く、短い午後のにわか雨の後は晴れ",
-        "zh": "雨季持续，短暂午后阵雨过后天空放晴"
-      }
-    },
-    {
-      "regionId": "hanoi",
-      "reason": {
-        "ko": "우기 절정, 폭우와 폭염이 동시에",
-        "en": "Rainy season peaks — torrential rain and scorching heat hit simultaneously",
-        "ja": "雨季の絶頂、豪雨と猛暑が同時に",
-        "zh": "雨季高峰，暴雨与酷热同时袭来"
-      }
-    },
-    {
-      "regionId": "ho-chi-minh",
-      "reason": {
-        "ko": "우기 지속, 높은 습도",
-        "en": "Rainy season continues — high humidity throughout",
-        "ja": "雨季が続く、高い湿度",
-        "zh": "雨季持续，湿度居高不下"
-      }
-    },
-    {
-      "regionId": "kaohsiung",
-      "reason": {
-        "ko": "태풍+우기, 극심한 더위",
-        "en": "Typhoons and the rainy season combine with extreme heat",
-        "ja": "台風＋雨季、極度の暑さ",
-        "zh": "台风与雨季叠加，极度炎热"
-      }
-    },
-    {
-      "regionId": "manila",
-      "reason": {
-        "ko": "태풍 시즌, 극심한 폭우와 홍수",
-        "en": "Typhoon season — extreme rainfall and flooding",
-        "ja": "台風シーズン、極度の豪雨と洪水",
-        "zh": "台风季节，极端暴雨与洪涝灾害频发"
-      }
-    },
-    {
-      "regionId": "melbourne",
-      "reason": {
-        "ko": "겨울 한가운데, 춥지만 겨울 나이트마켓",
-        "en": "Deep winter — cold but the winter night markets are a highlight",
-        "ja": "冬の真っ只中、寒いが冬のナイトマーケット",
-        "zh": "隆冬时节，天气寒冷但冬季夜市别有情趣"
-      }
-    },
-    {
-      "regionId": "okinawa",
-      "reason": {
-        "ko": "태풍 시즌 시작, 항공편 결항 가능성 높음",
-        "en": "Typhoon season begins — there is a high risk of flight cancellations",
-        "ja": "台風シーズン開始、航空便の欠航の可能性が高い",
-        "zh": "台风季节开始，航班取消风险较高"
-      }
+      "regionId": "tokyo",
+      "reason": "강수량 219mm의 우기"
     },
     {
       "regionId": "osaka",
-      "reason": {
-        "ko": "35°C 이상 폭염, 무더위가 기승을 부리는 시기",
-        "en": "Scorching heat above 35°C — the humidity makes it feel even hotter",
-        "ja": "35°C以上の猛暑、蒸し暑さが増す時期",
-        "zh": "高温超过35°C，闷热难耐，暑气逼人"
-      }
+      "reason": "강수량 274mm의 우기"
+    },
+    {
+      "regionId": "bangkok",
+      "reason": "강수량 241mm의 우기"
+    },
+    {
+      "regionId": "chiang-mai",
+      "reason": "강수량 375mm의 우기"
     },
     {
       "regionId": "phuket",
-      "reason": {
-        "ko": "우기, 비와 거친 파도가 지속되는 시기",
-        "en": "Rainy season — persistent rain and rough seas",
-        "ja": "雨季、雨と荒れた波が続く時期",
-        "zh": "雨季，持续降雨与波涛汹涌的海面"
-      }
+      "reason": "강수량 205mm의 우기"
     },
     {
-      "regionId": "singapore",
-      "reason": {
-        "ko": "세일 시즌(GSS), 쇼핑하기 좋은 시기",
-        "en": "Great Singapore Sale season — a shopper's paradise",
-        "ja": "グレートシンガポールセールシーズン、ショッピングに良い時期",
-        "zh": "新加坡大促销季，购物爱好者的天堂"
-      }
+      "regionId": "melbourne",
+      "reason": "평균 10°C의 추위"
     },
     {
-      "regionId": "taipei",
-      "reason": {
-        "ko": "태풍 시즌과 극심한 고온다습",
-        "en": "Typhoon season and extreme heat with high humidity",
-        "ja": "台風シーズンと極度の高温多湿",
-        "zh": "台风季节与极端高温高湿同期到来"
-      }
+      "regionId": "hanoi",
+      "reason": "강수량 288mm의 우기"
     },
     {
-      "regionId": "tokyo",
-      "reason": {
-        "ko": "무더위와 높은 습도, 불꽃축제가 열리는 여름",
-        "en": "Sweltering heat and high humidity — but summer fireworks festivals light up the nights",
-        "ja": "蒸し暑さと高湿度、花火大会が開かれる夏",
-        "zh": "酷热潮湿，但夏季烟火大会点亮漫漫长夜"
-      }
+      "regionId": "ho-chi-minh",
+      "reason": "강수량 338mm의 우기"
+    },
+    {
+      "regionId": "manila",
+      "reason": "강수량 409mm의 우기"
+    },
+    {
+      "regionId": "kaohsiung",
+      "reason": "강수량 327mm의 우기"
+    },
+    {
+      "regionId": "okinawa",
+      "reason": "잦은 비(175mm)"
     }
   ]
 }

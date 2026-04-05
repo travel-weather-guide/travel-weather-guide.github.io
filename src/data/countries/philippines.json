@@ -2,9 +2,7 @@
   "id": "philippines",
   "name": {
     "ko": "필리핀",
-    "en": "Philippines",
-    "ja": "フィリピン",
-    "zh": "菲律宾"
+    "en": "Philippines"
   },
   "continent": "asia",
   "capital": "Manila",
@@ -18,19 +16,12 @@
       "id": "manila",
       "name": {
         "ko": "마닐라",
-        "en": "Manila",
-        "ja": "マニラ",
-        "zh": "马尼拉"
+        "en": "Manila"
       },
       "countryId": "philippines",
       "latitude": 14.5995,
       "longitude": 120.9842,
-      "climateType": {
-        "ko": "열대 몬순",
-        "en": "Tropical Monsoon",
-        "ja": "熱帯モンスーン",
-        "zh": "热带季风"
-      },
+      "climateType": "열대 몬순",
       "monthlyData": [
         {
           "month": 1,
@@ -41,12 +32,7 @@
           "humidity": 77.6,
           "sunshineHours": 9.9,
           "seaTemp": 27.8,
-          "weatherSummary": {
-            "ko": "따뜻하고 쾌청",
-            "en": "Warm & Clear",
-            "ja": "暖かく快晴",
-            "zh": "温暖晴朗"
-          }
+          "weatherSummary": "따뜻하고 쾌청"
         },
         {
           "month": 2,
@@ -57,12 +43,7 @@
           "humidity": 72.8,
           "sunshineHours": 10.7,
           "seaTemp": 27.8,
-          "weatherSummary": {
-            "ko": "따뜻하고 쾌청",
-            "en": "Warm & Clear",
-            "ja": "暖かく快晴",
-            "zh": "温暖晴朗"
-          }
+          "weatherSummary": "따뜻하고 쾌청"
         },
         {
           "month": 3,
@@ -73,12 +54,7 @@
           "humidity": 70.2,
           "sunshineHours": 11.6,
           "seaTemp": 28.8,
-          "weatherSummary": {
-            "ko": "따뜻하고 쾌청",
-            "en": "Warm & Clear",
-            "ja": "暖かく快晴",
-            "zh": "温暖晴朗"
-          }
+          "weatherSummary": "따뜻하고 쾌청"
         },
         {
           "month": 4,
@@ -89,12 +65,7 @@
           "humidity": 69.1,
           "sunshineHours": 11.4,
           "seaTemp": 30.7,
-          "weatherSummary": {
-            "ko": "따뜻하고 쾌청",
-            "en": "Warm & Clear",
-            "ja": "暖かく快晴",
-            "zh": "温暖晴朗"
-          }
+          "weatherSummary": "따뜻하고 쾌청"
         },
         {
           "month": 5,
@@ -105,12 +76,7 @@
           "humidity": 73.1,
           "sunshineHours": 11.1,
           "seaTemp": 31.9,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 6,
@@ -121,12 +87,7 @@
           "humidity": 81.8,
           "sunshineHours": 10.5,
           "seaTemp": 31.6,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 7,
@@ -137,12 +98,7 @@
           "humidity": 83.8,
           "sunshineHours": 8.8,
           "seaTemp": 31,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 8,
@@ -153,12 +109,7 @@
           "humidity": 85.2,
           "sunshineHours": 9.1,
           "seaTemp": 30.7,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 9,
@@ -169,12 +120,7 @@
           "humidity": 86.1,
           "sunshineHours": 8.7,
           "seaTemp": 30.2,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 10,
@@ -185,12 +131,7 @@
           "humidity": 85.6,
           "sunshineHours": 8.3,
           "seaTemp": 30.5,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 11,
@@ -201,12 +142,7 @@
           "humidity": 81.1,
           "sunshineHours": 9.7,
           "seaTemp": 29.9,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 12,
@@ -217,12 +153,7 @@
           "humidity": 80.3,
           "sunshineHours": 9.1,
           "seaTemp": 29,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         }
       ]
     },
@@ -230,19 +161,12 @@
       "id": "boracay",
       "name": {
         "ko": "보라카이",
-        "en": "Boracay",
-        "ja": "ボラカイ",
-        "zh": "长滩岛"
+        "en": "Boracay"
       },
       "countryId": "philippines",
       "latitude": 11.9674,
       "longitude": 121.9248,
-      "climateType": {
-        "ko": "열대 몬순",
-        "en": "Tropical Monsoon",
-        "ja": "熱帯モンスーン",
-        "zh": "热带季风"
-      },
+      "climateType": "열대 몬순",
       "monthlyData": [
         {
           "month": 1,
@@ -253,12 +177,7 @@
           "humidity": 84.4,
           "sunshineHours": 9,
           "seaTemp": 27.6,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 2,
@@ -269,12 +188,7 @@
           "humidity": 83.7,
           "sunshineHours": 10.1,
           "seaTemp": 26.9,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 3,
@@ -285,12 +199,7 @@
           "humidity": 82.7,
           "sunshineHours": 11.3,
           "seaTemp": 27.4,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 4,
@@ -301,12 +210,7 @@
           "humidity": 80.7,
           "sunshineHours": 11.2,
           "seaTemp": 29,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 5,
@@ -317,12 +221,7 @@
           "humidity": 81.9,
           "sunshineHours": 11,
           "seaTemp": 30.5,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 6,
@@ -333,12 +232,7 @@
           "humidity": 83.9,
           "sunshineHours": 10,
           "seaTemp": 30.6,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 7,
@@ -349,12 +243,7 @@
           "humidity": 86,
           "sunshineHours": 9,
           "seaTemp": 30.1,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 8,
@@ -365,12 +254,7 @@
           "humidity": 84.7,
           "sunshineHours": 9.4,
           "seaTemp": 29.8,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 9,
@@ -381,12 +265,7 @@
           "humidity": 85.9,
           "sunshineHours": 9,
           "seaTemp": 29.7,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 10,
@@ -397,12 +276,7 @@
           "humidity": 87,
           "sunshineHours": 8.3,
           "seaTemp": 30,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 11,
@@ -413,12 +287,7 @@
           "humidity": 86.1,
           "sunshineHours": 9.4,
           "seaTemp": 29.5,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 12,
@@ -429,12 +298,7 @@
           "humidity": 86.3,
           "sunshineHours": 8.7,
           "seaTemp": 28.8,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         }
       ]
     },
@@ -442,19 +306,12 @@
       "id": "cebu",
       "name": {
         "ko": "세부",
-        "en": "Cebu",
-        "ja": "セブ",
-        "zh": "宿务"
+        "en": "Cebu"
       },
       "countryId": "philippines",
       "latitude": 10.3157,
       "longitude": 123.8854,
-      "climateType": {
-        "ko": "열대 몬순",
-        "en": "Tropical Monsoon",
-        "ja": "熱帯モンスーン",
-        "zh": "热带季风"
-      },
+      "climateType": "열대 몬순",
       "monthlyData": [
         {
           "month": 1,
@@ -465,12 +322,7 @@
           "humidity": 84.3,
           "sunshineHours": 9.1,
           "seaTemp": 28.5,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 2,
@@ -481,12 +333,7 @@
           "humidity": 82.8,
           "sunshineHours": 9.9,
           "seaTemp": 27.9,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 3,
@@ -497,12 +344,7 @@
           "humidity": 80.6,
           "sunshineHours": 11,
           "seaTemp": 28.2,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 4,
@@ -513,12 +355,7 @@
           "humidity": 79.1,
           "sunshineHours": 10.8,
           "seaTemp": 29.3,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 5,
@@ -529,12 +366,7 @@
           "humidity": 82.6,
           "sunshineHours": 11,
           "seaTemp": 30.4,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 6,
@@ -545,12 +377,7 @@
           "humidity": 85.9,
           "sunshineHours": 10.1,
           "seaTemp": 30.7,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 7,
@@ -561,12 +388,7 @@
           "humidity": 86,
           "sunshineHours": 9.5,
           "seaTemp": 30.3,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 8,
@@ -577,12 +399,7 @@
           "humidity": 85.3,
           "sunshineHours": 10.1,
           "seaTemp": 30.5,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 9,
@@ -593,12 +410,7 @@
           "humidity": 85.9,
           "sunshineHours": 9.5,
           "seaTemp": 30.5,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 10,
@@ -609,12 +421,7 @@
           "humidity": 87.1,
           "sunshineHours": 8.8,
           "seaTemp": 30.9,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 11,
@@ -625,12 +432,7 @@
           "humidity": 86,
           "sunshineHours": 9.5,
           "seaTemp": 30.3,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         },
         {
           "month": 12,
@@ -641,12 +443,7 @@
           "humidity": 86.3,
           "sunshineHours": 8.9,
           "seaTemp": 29.3,
-          "weatherSummary": {
-            "ko": "우기",
-            "en": "Rainy season",
-            "ja": "雨季",
-            "zh": "雨季"
-          }
+          "weatherSummary": "우기"
         }
       ]
     }

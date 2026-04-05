@@ -2,948 +2,264 @@
   {
     "regionId": "hanoi",
     "month": 1,
-    "rating": 3,
-    "summary": {
-      "ko": "겨울 안개와 보슬비, 쌀쌀하고 흐린 날이 많은 시기",
-      "en": "Winter fog and drizzle with many cool, overcast days",
-      "ja": "冬の霧と小雨、肌寒く曇りの日が多い時期",
-      "zh": "冬日薄雾与毛毛雨，阴凉多云的天气为主"
-    },
-    "highlights": {
-      "ko": [
-        "설날(뗏) 축제 시즌"
-      ],
-      "en": [
-        "Tet (Lunar New Year) festival season"
-      ],
-      "ja": [
-        "テト（旧正月）祭りシーズン"
-      ],
-      "zh": [
-        "春节（越南新年）节庆季节"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 12일로 실내 대안 준비 권장",
-        "습도가 75%로 다소 높음"
-      ],
-      "en": [
-        "12 rainy days — have indoor backup plans ready",
-        "Humidity at 75% is somewhat high"
-      ],
-      "ja": [
-        "12日の雨日、室内代替案の準備を推奨",
-        "湿度75%でやや高い"
-      ],
-      "zh": [
-        "约12天雨天，建议准备室内备选方案",
-        "湿度75%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "뗏(구정) 연휴 (1~2월)",
-        "하노이 꽃 축제"
-      ],
-      "en": [
-        "Tet (Lunar New Year) holiday (January–February)",
-        "Hanoi Flower Festival"
-      ],
-      "ja": [
-        "テト（旧正月）連休（1〜2月）",
-        "ハノイフラワーフェスティバル"
-      ],
-      "zh": [
-        "春节（农历新年）假期（1-2月）",
-        "河内花卉节"
-      ]
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "설날(뗏) 축제 시즌"
+    ],
+    "cautions": [
+      "비 오는 날이 12일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "뗏(구정) 연휴 (1~2월)",
+      "하노이 꽃 축제"
+    ],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hanoi",
     "month": 2,
-    "rating": 3,
-    "summary": {
-      "ko": "아직 쌀쌀하지만 봄기운이 시작되는 시기",
-      "en": "Still chilly but spring vibes are beginning to emerge",
-      "ja": "まだ肌寒いが、春の気配が感じられる時期",
-      "zh": "仍有寒意，但春的气息已悄然来临"
-    },
-    "highlights": {
-      "ko": [
-        "설날(뗏) 축제 시즌",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Tet (Lunar New Year) festival season",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "テト（旧正月）祭りシーズン",
-        "快適な気温"
-      ],
-      "zh": [
-        "春节（越南新年）节庆季节",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 10.8일로 실내 대안 준비 권장",
-        "습도가 79%로 다소 높음",
-        "일조시간이 짧아 흐린 날이 많음"
-      ],
-      "en": [
-        "10.8 rainy days — have indoor backup plans ready",
-        "Humidity at 79% is somewhat high",
-        "Short sunshine hours mean many cloudy days"
-      ],
-      "ja": [
-        "10.8日の雨日、室内代替案の準備を推奨",
-        "湿度79%でやや高い",
-        "日照時間が短く曇りの日が多い"
-      ],
-      "zh": [
-        "约10.8天雨天，建议准备室内备选方案",
-        "湿度79%，略偏高",
-        "日照时间短，阴天较多"
-      ]
-    },
-    "events": {
-      "ko": [
-        "뗏(구정) 연휴 (1~2월)",
-        "하노이 꽃 축제"
-      ],
-      "en": [
-        "Tet (Lunar New Year) holiday (January–February)",
-        "Hanoi Flower Festival"
-      ],
-      "ja": [
-        "テト（旧正月）連休（1〜2月）",
-        "ハノイフラワーフェスティバル"
-      ],
-      "zh": [
-        "春节（农历新年）假期（1-2月）",
-        "河内花卉节"
-      ]
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "설날(뗏) 축제 시즌",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 10.8일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [
+      "뗏(구정) 연휴 (1~2월)",
+      "하노이 꽃 축제"
+    ],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "hanoi",
     "month": 3,
-    "rating": 3,
-    "summary": {
-      "ko": "봄꽃이 피고 기온이 올라가는 시기",
-      "en": "Spring flowers bloom as temperatures start to rise",
-      "ja": "春の花が咲き、気温が上がってくる時期",
-      "zh": "春花盛开，气温逐渐回升"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "快適な気温"
-      ],
-      "zh": [
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 13일로 실내 대안 준비 권장",
-        "습도 82%로 불쾌지수 높음",
-        "일조시간이 짧아 흐린 날이 많음"
-      ],
-      "en": [
-        "13 rainy days — have indoor backup plans ready",
-        "Humidity at 82% makes it feel quite uncomfortable",
-        "Short sunshine hours mean many cloudy days"
-      ],
-      "ja": [
-        "13日の雨日、室内代替案の準備を推奨",
-        "湿度82%で不快指数が高い",
-        "日照時間が短く曇りの日が多い"
-      ],
-      "zh": [
-        "约13天雨天，建议准备室内备选方案",
-        "湿度82%，不适感指数较高",
-        "日照时间短，阴天较多"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 13일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "hanoi",
     "month": 4,
-    "rating": 3,
-    "summary": {
-      "ko": "따뜻한 봄, 하롱베이 크루즈 좋은 시기",
-      "en": "Warm spring — a great time for a Ha Long Bay cruise",
-      "ja": "暖かい春、ハロン湾クルーズに最適な時期",
-      "zh": "春暖花开，下龙湾游船正当时"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "快適な気温"
-      ],
-      "zh": [
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 13.6일로 실내 대안 준비 권장",
-        "습도 82%로 불쾌지수 높음"
-      ],
-      "en": [
-        "13.6 rainy days — have indoor backup plans ready",
-        "Humidity at 82% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "13.6日の雨日、室内代替案の準備を推奨",
-        "湿度82%で不快指数が高い"
-      ],
-      "zh": [
-        "约13.6天雨天，建议准备室内备选方案",
-        "湿度82%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 13.6일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "hanoi",
     "month": 5,
-    "rating": 2,
-    "summary": {
-      "ko": "폭염 시작, 35°C 이상 고온다습한 시기",
-      "en": "Heat wave begins with temperatures above 35°C and high humidity",
-      "ja": "猛暑が始まり、35°C以上の高温多湿な時期",
-      "zh": "酷暑来临，气温超过35°C，高温高湿"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 206mm로 우기에 해당",
-        "월 16.8일 비가 와 야외 일정에 유의",
-        "습도 82%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 206mm qualifies as rainy season",
-        "16.8 rainy days — outdoor plans need flexibility",
-        "Humidity at 82% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "月降水量206mmで雨季に相当",
-        "16.8日の雨日、屋外日程に注意が必要",
-        "湿度82%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量206mm，属于雨季",
-        "月内约16.8天雨天，户外行程需灵活安排",
-        "湿度82%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 206mm로 우기에 해당",
+      "월 16.8일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "hanoi",
     "month": 6,
-    "rating": 1,
-    "summary": {
-      "ko": "우기와 극심한 더위가 겹치는 최악의 시기",
-      "en": "The worst period when the rainy season and extreme heat overlap",
-      "ja": "雨季と猛暑が重なる最悪の時期",
-      "zh": "雨季与极端酷热叠加，全年最难熬的时段"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최고기온 33°C로 더위에 주의",
-        "월 강수량 293mm로 우기에 해당",
-        "월 18일 비가 와 야외 일정에 유의",
-        "습도가 80%로 다소 높음"
-      ],
-      "en": [
-        "Average high of 33°C — take precautions against the heat",
-        "Monthly rainfall of 293mm qualifies as rainy season",
-        "18 rainy days — outdoor plans need flexibility",
-        "Humidity at 80% is somewhat high"
-      ],
-      "ja": [
-        "平均最高気温33°C、暑さに注意",
-        "月降水量293mmで雨季に相当",
-        "18日の雨日、屋外日程に注意が必要",
-        "湿度80%でやや高い"
-      ],
-      "zh": [
-        "平均最高气温33°C，注意防暑",
-        "月降雨量293mm，属于雨季",
-        "月内约18天雨天，户外行程需灵活安排",
-        "湿度80%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "냉방이 잘 되는 숙소 선택 권장",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Choose well air-conditioned accommodation",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "エアコンの効いた宿泊施設を選ぶことを推奨",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "建议选择空调良好的住宿",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
-      "en": "T-shirts, shorts, light dresses. Breathable fabrics recommended",
-      "ja": "半袖、ショートパンツ、軽いワンピース。通気性の良い素材がおすすめ",
-      "zh": "短袖、短裤、轻便连衣裙，推荐透气材质"
-    },
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "월 강수량 293mm로 우기에 해당",
+      "월 18일 비가 와 야외 일정에 유의",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
   {
     "regionId": "hanoi",
     "month": 7,
-    "rating": 1,
-    "summary": {
-      "ko": "우기 절정, 폭우와 폭염이 동시에",
-      "en": "Peak rainy season with torrential rain and scorching heat simultaneously",
-      "ja": "雨季のピーク、豪雨と猛暑が同時に",
-      "zh": "雨季高峰，暴雨与酷热同时来袭"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최고기온 33°C로 더위에 주의",
-        "월 강수량 288mm로 우기에 해당",
-        "월 20.6일 비가 와 야외 일정에 유의",
-        "습도 81%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Average high of 33°C — take precautions against the heat",
-        "Monthly rainfall of 288mm qualifies as rainy season",
-        "20.6 rainy days — outdoor plans need flexibility",
-        "Humidity at 81% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "平均最高気温33°C、暑さに注意",
-        "月降水量288mmで雨季に相当",
-        "20.6日の雨日、屋外日程に注意が必要",
-        "湿度81%で不快指数が高い"
-      ],
-      "zh": [
-        "平均最高气温33°C，注意防暑",
-        "月降雨量288mm，属于雨季",
-        "月内约20.6天雨天，户外行程需灵活安排",
-        "湿度81%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "월 강수량 288mm로 우기에 해당",
+      "월 20.6일 비가 와 야외 일정에 유의",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
   {
     "regionId": "hanoi",
     "month": 8,
-    "rating": 1,
-    "summary": {
-      "ko": "우기 지속, 태풍 영향 가능",
-      "en": "Rainy season continues with possible typhoon influence",
-      "ja": "雨季が続き、台風の影響も考えられる",
-      "zh": "雨季持续，可能受台风影响"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 406mm로 우기에 해당",
-        "월 24.8일 비가 와 야외 일정에 유의",
-        "습도 86%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 406mm qualifies as rainy season",
-        "24.8 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 86% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量406mmで雨季に相当",
-        "24.8日の雨日、屋外日程に注意が必要",
-        "湿度86%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量406mm，属于雨季",
-        "月内约24.8天雨天，户外行程需充分灵活安排",
-        "湿度86%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 406mm로 우기에 해당",
+      "월 24.8일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
   {
     "regionId": "hanoi",
     "month": 9,
-    "rating": 1,
-    "summary": {
-      "ko": "우기 끝자락, 비가 줄어들기 시작",
-      "en": "Tail end of rainy season as rain starts to decrease",
-      "ja": "雨季の終わり、雨が減り始める",
-      "zh": "雨季尾声，降雨量开始减少"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Comfortable temperatures",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "快適な気温",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "气温宜人",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 441mm로 우기에 해당",
-        "월 22.4일 비가 와 야외 일정에 유의",
-        "습도 86%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 441mm qualifies as rainy season",
-        "22.4 rainy days — outdoor plans need flexibility",
-        "Humidity at 86% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量441mmで雨季に相当",
-        "22.4日の雨日、屋外日程に注意が必要",
-        "湿度86%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量441mm，属于雨季",
-        "月内约22.4天雨天，户外行程需灵活安排",
-        "湿度86%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 441mm로 우기에 해당",
+      "월 22.4일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
   {
     "regionId": "hanoi",
     "month": 10,
-    "rating": 3,
-    "summary": {
-      "ko": "건기 시작, 25°C의 가장 쾌적한 시기",
-      "en": "Dry season begins at a comfortable 25°C — the most pleasant time of year",
-      "ja": "乾季が始まり、25°Cの最も快適な時期",
-      "zh": "干季开始，25°C的宜人气候，全年最舒适的时期"
-    },
-    "highlights": {
-      "ko": [
-        "선선하고 건조한 최적 관광시즌",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Cool and dry — the best sightseeing season",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "涼しく乾燥した最高の観光シーズン",
-        "快適な気温"
-      ],
-      "zh": [
-        "凉爽干燥，最佳观光季节",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 197mm로 우기에 해당",
-        "비 오는 날이 12.6일로 실내 대안 준비 권장",
-        "습도가 75%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 197mm qualifies as rainy season",
-        "12.6 rainy days — have indoor backup plans ready",
-        "Humidity at 75% is somewhat high"
-      ],
-      "ja": [
-        "月降水量197mmで雨季に相当",
-        "12.6日の雨日、室内代替案の準備を推奨",
-        "湿度75%でやや高い"
-      ],
-      "zh": [
-        "月降雨量197mm，属于雨季",
-        "约12.6天雨天，建议准备室内备选方案",
-        "湿度75%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "하노이 구시가 가을 여행 적기"
-      ],
-      "en": [
-        "Best time to explore the Hanoi Old Quarter in autumn"
-      ],
-      "ja": [
-        "ハノイ旧市街の秋旅行に最適"
-      ],
-      "zh": [
-        "秋季游览河内古街区的好时机"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
-    "crowdLevel": "medium",
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "선선하고 건조한 최적 관광시즌",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 197mm로 우기에 해당",
+      "비 오는 날이 12.6일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "하노이 구시가 가을 여행 적기"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "hanoi",
     "month": 11,
-    "rating": 4,
-    "summary": {
-      "ko": "건기, 선선하고 맑은 하노이 여행 최적기",
-      "en": "Dry season with cool, clear weather — the best time to visit Hanoi",
-      "ja": "乾季、涼しく晴れたハノイ旅行の最適期",
-      "zh": "干季凉爽晴朗，游览河内的最佳时机"
-    },
-    "highlights": {
-      "ko": [
-        "선선하고 건조한 최적 관광시즌",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Cool and dry — the best sightseeing season",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "涼しく乾燥した最高の観光シーズン",
-        "快適な気温"
-      ],
-      "zh": [
-        "凉爽干燥，最佳观光季节",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "습도가 74%로 다소 높음"
-      ],
-      "en": [
-        "Humidity at 74% is somewhat high"
-      ],
-      "ja": [
-        "湿度74%でやや高い"
-      ],
-      "zh": [
-        "湿度74%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "하노이 구시가 가을 여행 적기"
-      ],
-      "en": [
-        "Best time to explore the Hanoi Old Quarter in autumn"
-      ],
-      "ja": [
-        "ハノイ旧市街の秋旅行に最適"
-      ],
-      "zh": [
-        "秋季游览河内古街区的好时机"
-      ]
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
-    "crowdLevel": "medium",
+    "rating": 5,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "선선하고 건조한 최적 관광시즌",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "하노이 구시가 가을 여행 적기"
+    ],
+    "tips": [],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "hanoi",
     "month": 12,
-    "rating": 4,
-    "summary": {
-      "ko": "건기 지속, 쌀쌀하지만 맑은 겨울",
-      "en": "Dry season continues with cool but clear winter weather",
-      "ja": "乾季が続き、肌寒いが晴れた冬",
-      "zh": "干季持续，天气凉爽但晴朗的冬日"
-    },
-    "highlights": {
-      "ko": [
-        "강수량이 적어 맑은 날이 많음"
-      ],
-      "en": [
-        "Low rainfall means many clear sunny days"
-      ],
-      "ja": [
-        "降水量が少なく晴れの日が多い"
-      ],
-      "zh": [
-        "降雨量少，晴天居多"
-      ]
-    },
-    "cautions": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -951,2016 +267,558 @@
     "regionId": "ho-chi-minh",
     "month": 1,
     "rating": 5,
-    "summary": {
-      "ko": "건기 한가운데, 맑고 쾌적한 여행 최적기",
-      "en": "Peak dry season with clear skies and comfortable weather — ideal for travel",
-      "ja": "乾季の真っ只中、晴れて快適な旅行の最適期",
-      "zh": "干季正盛，天气晴朗宜人，旅行最佳时节"
-    },
-    "highlights": {
-      "ko": [
-        "건기, 야외 활동 최적",
-        "일조시간이 길어 야외 활동에 좋음",
-        "강수량이 적어 맑은 날이 많음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Dry season — perfect for outdoor activities",
-        "Long sunshine hours make it great for outdoor activities",
-        "Low rainfall means many clear sunny days",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "乾季、屋外活動に最適",
-        "日照時間が長く、屋外活動に最適",
-        "降水量が少なく晴れの日が多い",
-        "快適な気温"
-      ],
-      "zh": [
-        "干季，户外活动最为适宜",
-        "日照时间充足，非常适合户外活动",
-        "降雨量少，晴天居多",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "events": {
-      "ko": [
-        "뗏(구정) 연휴 (1~2월)"
-      ],
-      "en": [
-        "Tet (Lunar New Year) holiday (January–February)"
-      ],
-      "ja": [
-        "テト（旧正月）連休（1〜2月）"
-      ],
-      "zh": [
-        "春节（农历新年）假期（1-2月）"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "medium",
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "건기, 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "뗏(구정) 연휴 (1~2월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 2,
     "rating": 5,
-    "summary": {
-      "ko": "건기 절정, 가장 건조한 달",
-      "en": "Peak dry season — the driest month of the year",
-      "ja": "乾季のピーク、最も乾燥した月",
-      "zh": "干季高峰，全年最为干燥的月份"
-    },
-    "highlights": {
-      "ko": [
-        "건기, 야외 활동 최적",
-        "일조시간이 길어 야외 활동에 좋음",
-        "강수량이 적어 맑은 날이 많음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Dry season — perfect for outdoor activities",
-        "Long sunshine hours make it great for outdoor activities",
-        "Low rainfall means many clear sunny days",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "乾季、屋外活動に最適",
-        "日照時間が長く、屋外活動に最適",
-        "降水量が少なく晴れの日が多い",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "干季，户外活动最为适宜",
-        "日照时间充足，非常适合户外活动",
-        "降雨量少，晴天居多",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최고기온 34°C로 더위에 주의"
-      ],
-      "en": [
-        "Average high of 34°C — take precautions against the heat"
-      ],
-      "ja": [
-        "平均最高気温34°C、暑さに注意"
-      ],
-      "zh": [
-        "平均最高气温34°C，注意防暑"
-      ]
-    },
-    "events": {
-      "ko": [
-        "뗏(구정) 연휴 (1~2월)"
-      ],
-      "en": [
-        "Tet (Lunar New Year) holiday (January–February)"
-      ],
-      "ja": [
-        "テト（旧正月）連休（1〜2月）"
-      ],
-      "zh": [
-        "春节（农历新年）假期（1-2月）"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "medium",
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "건기, 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의"
+    ],
+    "events": [
+      "뗏(구정) 연휴 (1~2월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 3,
-    "rating": 5,
-    "summary": {
-      "ko": "건기 지속, 더위가 올라오지만 아직 쾌적",
-      "en": "Dry season continues as heat builds but it's still comfortable",
-      "ja": "乾季が続き、暑さが上がってくるが、まだ快適",
-      "zh": "干季持续，气温升高但仍属舒适"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "강수량이 적어 맑은 날이 많음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Low rainfall means many clear sunny days",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "降水量が少なく晴れの日が多い",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "降雨量少，晴天居多",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최고기온 35°C로 더위에 주의"
-      ],
-      "en": [
-        "Average high of 35°C — take precautions against the heat"
-      ],
-      "ja": [
-        "平均最高気温35°C、暑さに注意"
-      ],
-      "zh": [
-        "平均最高气温35°C，注意防暑"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "medium",
+    "rating": 4,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 35°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 4,
-    "rating": 3,
-    "summary": {
-      "ko": "더위 본격화, 건기 막바지",
-      "en": "Heat intensifies as the dry season reaches its end",
-      "ja": "暑さが本格化し、乾季の終盤",
-      "zh": "酷热全面来袭，干季接近尾声"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최고기온 34°C로 더위에 주의",
-        "강수량이 121mm로 우산 필수",
-        "월 16.8일 비가 와 야외 일정에 유의",
-        "습도가 73%로 다소 높음"
-      ],
-      "en": [
-        "Average high of 34°C — take precautions against the heat",
-        "Rainfall of 121mm — umbrella essential",
-        "16.8 rainy days — outdoor plans need flexibility",
-        "Humidity at 73% is somewhat high"
-      ],
-      "ja": [
-        "平均最高気温34°C、暑さに注意",
-        "降水量121mm、傘が必須",
-        "16.8日の雨日、屋外日程に注意が必要",
-        "湿度73%でやや高い"
-      ],
-      "zh": [
-        "平均最高气温34°C，注意防暑",
-        "降雨量121mm，雨伞必备",
-        "月内约16.8天雨天，户外行程需灵活安排",
-        "湿度73%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의",
+      "강수량이 121mm로 우산 필수",
+      "월 16.8일 비가 와 야외 일정에 유의",
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 5,
-    "rating": 1,
-    "summary": {
-      "ko": "우기 시작, 매일 오후 스콜이 쏟아짐",
-      "en": "Rainy season starts with afternoon squalls every day",
-      "ja": "雨季が始まり、毎日午後にスコールが降り注ぐ",
-      "zh": "雨季开始，每天午后雷阵雨倾泻而下"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최고기온 33°C로 더위에 주의",
-        "월 강수량 257mm로 우기에 해당",
-        "월 24.4일 비가 와 야외 일정에 유의",
-        "습도가 80%로 다소 높음"
-      ],
-      "en": [
-        "Average high of 33°C — take precautions against the heat",
-        "Monthly rainfall of 257mm qualifies as rainy season",
-        "24.4 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 80% is somewhat high"
-      ],
-      "ja": [
-        "平均最高気温33°C、暑さに注意",
-        "月降水量257mmで雨季に相当",
-        "24.4日の雨日、屋外日程に注意が必要",
-        "湿度80%でやや高い"
-      ],
-      "zh": [
-        "平均最高气温33°C，注意防暑",
-        "月降雨量257mm，属于雨季",
-        "月内约24.4天雨天，户外行程需充分灵活安排",
-        "湿度80%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "월 강수량 257mm로 우기에 해당",
+      "월 24.4일 비가 와 야외 일정에 유의",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 6,
-    "rating": 2,
-    "summary": {
-      "ko": "우기, 오후 집중 호우와 도로 침수",
-      "en": "Rainy season with heavy afternoon downpours and road flooding",
-      "ja": "雨季、午後の集中豪雨と道路浸水",
-      "zh": "雨季来临，午后暴雨集中，道路积水严重"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 282mm로 우기에 해당",
-        "월 27.2일 비가 와 야외 일정에 유의",
-        "습도 85%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 282mm qualifies as rainy season",
-        "27.2 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 85% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量282mmで雨季に相当",
-        "27.2日の雨日、屋外日程に注意が必要",
-        "湿度85%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量282mm，属于雨季",
-        "월内约27.2天雨天，户外行程需充分灵活安排",
-        "湿度85%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 282mm로 우기에 해당",
+      "월 27.2일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 7,
     "rating": 2,
-    "summary": {
-      "ko": "우기 지속, 높은 습도",
-      "en": "Rainy season continues with high humidity",
-      "ja": "雨季が続き、高い湿度",
-      "zh": "雨季持续，湿度居高不下"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 338mm로 우기에 해당",
-        "월 29.8일 비가 와 야외 일정에 유의",
-        "습도 86%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 338mm qualifies as rainy season",
-        "29.8 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 86% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量338mmで雨季に相当",
-        "29.8日の雨日、屋外日程に注意が必要",
-        "湿度86%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量338mm，属于雨季",
-        "月内约29.8天雨天，户外行程需充分灵活安排",
-        "湿度86%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 338mm로 우기에 해당",
+      "월 29.8일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 8,
-    "rating": 2,
-    "summary": {
-      "ko": "우기, 비와 습도가 극심한 시기",
-      "en": "Rainy season with extreme rain and humidity",
-      "ja": "雨季、雨と湿度が極めて高い時期",
-      "zh": "雨季之中，降雨与湿度均达极值"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 309mm로 우기에 해당",
-        "월 29일 비가 와 야외 일정에 유의",
-        "습도 86%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 309mm qualifies as rainy season",
-        "29 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 86% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量309mmで雨季に相当",
-        "29日の雨日、屋外日程に注意が必要",
-        "湿度86%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量309mm，属于雨季",
-        "月内约29天雨天，户外行程需充分灵活安排",
-        "湿度86%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 309mm로 우기에 해당",
+      "월 29일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 9,
-    "rating": 1,
-    "summary": {
-      "ko": "우기 절정, 침수 빈번",
-      "en": "Peak rainy season with frequent flooding",
-      "ja": "雨季のピーク、浸水が頻繁",
-      "zh": "雨季高峰，内涝频发"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Comfortable temperatures",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "快適な気温",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "气温宜人",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 393mm로 우기에 해당",
-        "월 30일 비가 와 야외 일정에 유의",
-        "습도 87%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 393mm qualifies as rainy season",
-        "30 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 87% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量393mmで雨季に相当",
-        "30日の雨日、屋外日程に注意が必要",
-        "湿度87%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量393mm，属于雨季",
-        "月内约30天雨天，户外行程需充分灵活安排",
-        "湿度87%，不适感明显"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 393mm로 우기에 해당",
+      "월 30일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 10,
-    "rating": 1,
-    "summary": {
-      "ko": "우기 끝자락, 비가 줄어들기 시작",
-      "en": "Tail end of rainy season as rain starts to decrease",
-      "ja": "雨季の終わり、雨が減り始める",
-      "zh": "雨季尾声，降雨量开始减少"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Comfortable temperatures",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "快適な気温",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "气温宜人",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 367mm로 우기에 해당",
-        "월 28.4일 비가 와 야외 일정에 유의",
-        "습도 87%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 367mm qualifies as rainy season",
-        "28.4 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 87% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量367mmで雨季に相当",
-        "28.4日の雨日、屋外日程に注意が必要",
-        "湿度87%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量367mm，属于雨季",
-        "月内约28.4天雨天，户外行程需充分灵活安排",
-        "湿度87%，不适感明显"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 367mm로 우기에 해당",
+      "월 28.4일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 11,
-    "rating": 2,
-    "summary": {
-      "ko": "우기 마무리, 건기로 전환 중",
-      "en": "Wrapping up the rainy season and transitioning to dry season",
-      "ja": "雨季の締めくくり、乾季への移行中",
-      "zh": "雨季收尾，正向干季过渡"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 150mm로 우기에 해당",
-        "월 20.2일 비가 와 야외 일정에 유의",
-        "습도 83%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 150mm qualifies as rainy season",
-        "20.2 rainy days — outdoor plans need flexibility",
-        "Humidity at 83% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "月降水量150mmで雨季に相当",
-        "20.2日の雨日、屋外日程に注意が必要",
-        "湿度83%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量150mm，属于雨季",
-        "月内约20.2天雨天，户外行程需灵活安排",
-        "湿度83%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 150mm로 우기에 해당",
+      "월 20.2일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 12,
-    "rating": 4,
-    "summary": {
-      "ko": "건기 시작, 선선한 바람이 부는 여행 적기",
-      "en": "Dry season begins with refreshing breezes — a good time to travel",
-      "ja": "乾季が始まり、涼しい風が吹く旅行適期",
-      "zh": "干季开始，凉风习习，出行好时节"
-    },
-    "highlights": {
-      "ko": [
-        "건기, 야외 활동 최적",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Dry season — perfect for outdoor activities",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "乾季、屋外活動に最適",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "干季，户外活动最为适宜",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "습도가 74%로 다소 높음"
-      ],
-      "en": [
-        "Humidity at 74% is somewhat high"
-      ],
-      "ja": [
-        "湿度74%でやや高い"
-      ],
-      "zh": [
-        "湿度74%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "뗏(구정) 연휴 (1~2월)"
-      ],
-      "en": [
-        "Tet (Lunar New Year) holiday (January–February)"
-      ],
-      "ja": [
-        "テト（旧正月）連休（1〜2月）"
-      ],
-      "zh": [
-        "春节（农历新年）假期（1-2月）"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "medium",
+    "rating": 5,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "건기, 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "뗏(구정) 연휴 (1~2월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "da-nang",
     "month": 1,
-    "rating": 2,
-    "summary": {
-      "ko": "비가 줄지만 아직 흐린 날이 많은 시기",
-      "en": "Rainfall decreases but many overcast days remain",
-      "ja": "雨は減るが、まだ曇りの日が多い時期",
-      "zh": "降雨减少，但阴天仍然较多"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "快適な気温"
-      ],
-      "zh": [
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 154mm로 우기에 해당",
-        "월 19.8일 비가 와 야외 일정에 유의",
-        "습도 85%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 154mm qualifies as rainy season",
-        "19.8 rainy days — outdoor plans need flexibility",
-        "Humidity at 85% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量154mmで雨季に相当",
-        "19.8日の雨日、屋外日程に注意が必要",
-        "湿度85%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量154mm，属于雨季",
-        "月内约19.8天雨天，户外行程需灵活安排",
-        "湿度85%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 154mm로 우기에 해당",
+      "월 19.8일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "da-nang",
     "month": 2,
     "rating": 4,
-    "summary": {
-      "ko": "건기 시작, 날씨가 좋아지는 시기",
-      "en": "Dry season begins as the weather improves",
-      "ja": "乾季が始まり、天気が良くなる時期",
-      "zh": "干季开始，天气逐渐好转"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 13.4일로 실내 대안 준비 권장",
-        "습도 86%로 불쾌지수 높음"
-      ],
-      "en": [
-        "13.4 rainy days — have indoor backup plans ready",
-        "Humidity at 86% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "13.4日の雨日、室内代替案の準備を推奨",
-        "湿度86%で不快指数が高い"
-      ],
-      "zh": [
-        "约13.4天雨天，建议准备室内备选方案",
-        "湿度86%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 13.4일로 실내 대안 준비 권장",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "da-nang",
     "month": 3,
-    "rating": 4,
-    "summary": {
-      "ko": "건기, 해변 시즌 시작",
-      "en": "Dry season — beach season begins",
-      "ja": "乾季、ビーチシーズン開幕",
-      "zh": "干季到来，海滩季节正式开始"
-    },
-    "highlights": {
-      "ko": [
-        "맑고 따뜻한 해변 시즌",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Clear and warm beach season",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "晴れて暖かいビーチシーズン",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "晴朗温暖的海滩季节",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 11일로 실내 대안 준비 권장",
-        "습도 87%로 불쾌지수 높음"
-      ],
-      "en": [
-        "11 rainy days — have indoor backup plans ready",
-        "Humidity at 87% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "11日の雨日、室内代替案の準備を推奨",
-        "湿度87%で不快指数が高い"
-      ],
-      "zh": [
-        "约11天雨天，建议准备室内备选方案",
-        "湿度87%，不适感明显"
-      ]
-    },
-    "events": {
-      "ko": [
-        "다낭 국제 불꽃놀이 (4~6월)"
-      ],
-      "en": [
-        "Da Nang International Fireworks Festival (April–June)"
-      ],
-      "ja": [
-        "ダナン国際花火大会（4〜6月）"
-      ],
-      "zh": [
-        "岘港国际烟火节（4-6月）"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
-    "crowdLevel": "medium",
+    "rating": 5,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "맑고 따뜻한 해변 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [
+      "다낭 국제 불꽃놀이 (4~6월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "da-nang",
     "month": 4,
-    "rating": 3,
-    "summary": {
-      "ko": "건기 절정, 완벽한 해변과 바나힐 관광",
-      "en": "Peak dry season — perfect beaches and Ba Na Hills sightseeing",
-      "ja": "乾季のピーク、完璧なビーチとバーナーヒルズ観光",
-      "zh": "干季极致，完美的海滩与巴拿山观光两不误"
-    },
-    "highlights": {
-      "ko": [
-        "맑고 따뜻한 해변 시즌",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Clear and warm beach season",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "晴れて暖かいビーチシーズン",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "晴朗温暖的海滩季节",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 104mm로 우산 필수",
-        "습도 85%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Rainfall of 104mm — umbrella essential",
-        "Humidity at 85% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "降水量104mm、傘が必須",
-        "湿度85%で不快指数が高い"
-      ],
-      "zh": [
-        "降雨量104mm，雨伞必备",
-        "湿度85%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [
-        "다낭 국제 불꽃놀이 (4~6월)"
-      ],
-      "en": [
-        "Da Nang International Fireworks Festival (April–June)"
-      ],
-      "ja": [
-        "ダナン国際花火大会（4〜6月）"
-      ],
-      "zh": [
-        "岘港国际烟火节（4-6月）"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "medium",
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "맑고 따뜻한 해변 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 104mm로 우산 필수",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [
+      "다낭 국제 불꽃놀이 (4~6월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "da-nang",
     "month": 5,
     "rating": 4,
-    "summary": {
-      "ko": "건기 지속, 해변과 마블마운틴 관광 최적기",
-      "en": "Dry season continues — the best time for beaches and Marble Mountains",
-      "ja": "乾季が続き、ビーチと大理石山観光の最適期",
-      "zh": "干季持续，海滩与大理山观光的最佳时期"
-    },
-    "highlights": {
-      "ko": [
-        "맑고 따뜻한 해변 시즌",
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Clear and warm beach season",
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "晴れて暖かいビーチシーズン",
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "晴朗温暖的海滩季节",
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 12일로 실내 대안 준비 권장",
-        "습도 82%로 불쾌지수 높음"
-      ],
-      "en": [
-        "12 rainy days — have indoor backup plans ready",
-        "Humidity at 82% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "12日の雨日、室内代替案の準備を推奨",
-        "湿度82%で不快指数が高い"
-      ],
-      "zh": [
-        "约12天雨天，建议准备室内备选方案",
-        "湿度82%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "다낭 국제 불꽃놀이 (4~6월)"
-      ],
-      "en": [
-        "Da Nang International Fireworks Festival (April–June)"
-      ],
-      "ja": [
-        "ダナン国際花火大会（4〜6月）"
-      ],
-      "zh": [
-        "岘港国际烟火节（4-6月）"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "맑고 따뜻한 해변 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 12일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "다낭 국제 불꽃놀이 (4~6월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "da-nang",
     "month": 6,
-    "rating": 3,
-    "summary": {
-      "ko": "더워지지만 아직 해변 즐기기 좋은 시기",
-      "en": "Getting hotter but still a great time to enjoy the beach",
-      "ja": "暑くなってくるが、まだビーチを楽しめる時期",
-      "zh": "气温升高，但海滩依然令人流连"
-    },
-    "highlights": {
-      "ko": [
-        "해변 성수기",
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Peak beach season",
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "ビーチの繁忙期",
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "海滩旺季",
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최고기온 34°C로 더위에 주의",
-        "비 오는 날이 10.2일로 실내 대안 준비 권장",
-        "습도가 74%로 다소 높음"
-      ],
-      "en": [
-        "Average high of 34°C — take precautions against the heat",
-        "10.2 rainy days — have indoor backup plans ready",
-        "Humidity at 74% is somewhat high"
-      ],
-      "ja": [
-        "平均最高気温34°C、暑さに注意",
-        "10.2日の雨日、室内代替案の準備を推奨",
-        "湿度74%でやや高い"
-      ],
-      "zh": [
-        "平均最高气温34°C，注意防暑",
-        "约10.2天雨天，建议准备室内备选方案",
-        "湿度74%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "다낭 국제 불꽃놀이 대회 결선"
-      ],
-      "en": [
-        "Da Nang International Fireworks Festival final"
-      ],
-      "ja": [
-        "ダナン国際花火大会決勝"
-      ],
-      "zh": [
-        "岘港国际烟火节决赛"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "냉방이 잘 되는 숙소 선택 권장",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Choose well air-conditioned accommodation",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "エアコンの効いた宿泊施設を選ぶことを推奨",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "建议选择空调良好的住宿",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
-      "en": "T-shirts, shorts, light dresses. Breathable fabrics recommended",
-      "ja": "半袖、ショートパンツ、軽いワンピース。通気性の良い素材がおすすめ",
-      "zh": "短袖、短裤、轻便连衣裙，推荐透气材质"
-    },
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의",
+      "비 오는 날이 10.2일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "다낭 국제 불꽃놀이 대회 결선"
+    ],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "da-nang",
     "month": 7,
-    "rating": 3,
-    "summary": {
-      "ko": "고온이지만 해변 성수기",
-      "en": "High temperatures but it's peak beach season",
-      "ja": "高温だが、ビーチの繁忙期",
-      "zh": "气温偏高，但正值海滩旺季"
-    },
-    "highlights": {
-      "ko": [
-        "해변 성수기",
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Peak beach season",
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "ビーチの繁忙期",
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "海滩旺季",
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 14.2일로 실내 대안 준비 권장",
-        "습도가 76%로 다소 높음"
-      ],
-      "en": [
-        "14.2 rainy days — have indoor backup plans ready",
-        "Humidity at 76% is somewhat high"
-      ],
-      "ja": [
-        "14.2日の雨日、室内代替案の準備を推奨",
-        "湿度76%でやや高い"
-      ],
-      "zh": [
-        "约14.2天雨天，建议准备室内备选方案",
-        "湿度76%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "다낭 국제 불꽃놀이 대회 결선"
-      ],
-      "en": [
-        "Da Nang International Fireworks Festival final"
-      ],
-      "ja": [
-        "ダナン国際花火大会決勝"
-      ],
-      "zh": [
-        "岘港国际烟火节决赛"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 14.2일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "다낭 국제 불꽃놀이 대회 결선"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "da-nang",
     "month": 8,
-    "rating": 3,
-    "summary": {
-      "ko": "태풍 시즌 시작, 비가 잦아지는 시기",
-      "en": "Typhoon season begins as rainfall increases",
-      "ja": "台風シーズン開始、雨が多くなる時期",
-      "zh": "台风季节开始，降雨频率增加"
-    },
-    "highlights": {
-      "ko": [
-        "해변 성수기",
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Peak beach season",
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "ビーチの繁忙期",
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "海滩旺季",
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최고기온 34°C로 더위에 주의",
-        "월 16일 비가 와 야외 일정에 유의",
-        "습도가 74%로 다소 높음"
-      ],
-      "en": [
-        "Average high of 34°C — take precautions against the heat",
-        "16 rainy days — outdoor plans need flexibility",
-        "Humidity at 74% is somewhat high"
-      ],
-      "ja": [
-        "平均最高気温34°C、暑さに注意",
-        "16日の雨日、屋外日程に注意が必要",
-        "湿度74%でやや高い"
-      ],
-      "zh": [
-        "平均最高气温34°C，注意防暑",
-        "月内约16天雨天，户外行程需灵活安排",
-        "湿度74%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "다낭 국제 불꽃놀이 대회 결선"
-      ],
-      "en": [
-        "Da Nang International Fireworks Festival final"
-      ],
-      "ja": [
-        "ダナン国際花火大会決勝"
-      ],
-      "zh": [
-        "岘港国际烟火节决赛"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "냉방이 잘 되는 숙소 선택 권장",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Choose well air-conditioned accommodation",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "エアコンの効いた宿泊施設を選ぶことを推奨",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "建议选择空调良好的住宿",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
-      "en": "T-shirts, shorts, light dresses. Breathable fabrics recommended",
-      "ja": "半袖、ショートパンツ、軽いワンピース。通気性の良い素材がおすすめ",
-      "zh": "短袖、短裤、轻便连衣裙，推荐透气材质"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의",
+      "월 16일 비가 와 야외 일정에 유의",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "다낭 국제 불꽃놀이 대회 결선"
+    ],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "da-nang",
     "month": 9,
-    "rating": 1,
-    "summary": {
-      "ko": "태풍 접근, 폭우가 빈번한 시기",
-      "en": "Typhoons approaching with frequent heavy rains",
-      "ja": "台風接近、暴雨が頻繁な時期",
-      "zh": "台风逼近，暴雨频繁来袭"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 280mm로 우기에 해당",
-        "월 22.6일 비가 와 야외 일정에 유의",
-        "습도 82%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 280mm qualifies as rainy season",
-        "22.6 rainy days — outdoor plans need flexibility",
-        "Humidity at 82% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "月降水量280mmで雨季に相当",
-        "22.6日の雨日、屋外日程に注意が必要",
-        "湿度82%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量280mm，属于雨季",
-        "月内约22.6天雨天，户外行程需灵活安排",
-        "湿度82%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 280mm로 우기에 해당",
+      "월 22.6일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "da-nang",
     "month": 10,
-    "rating": 1,
-    "summary": {
-      "ko": "태풍·폭우 절정, 홍수 위험 가장 높은 시기",
-      "en": "Peak typhoon and storm period with the highest flood risk",
-      "ja": "台風・暴雨のピーク、洪水リスクが最も高い時期",
-      "zh": "台风与暴雨双重高峰，洪水风险最大的时段"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Comfortable temperatures",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "快適な気温",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "气温宜人",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 628mm로 우기에 해당",
-        "월 28일 비가 와 야외 일정에 유의",
-        "습도 85%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 628mm qualifies as rainy season",
-        "28 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 85% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量628mmで雨季に相当",
-        "28日の雨日、屋外日程に注意が必要",
-        "湿度85%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量628mm，属于雨季",
-        "月内约28天雨天，户外行程需充分灵活安排",
-        "湿度85%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 2,
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 628mm로 우기에 해당",
+      "월 28일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
   {
     "regionId": "da-nang",
     "month": 11,
-    "rating": 1,
-    "summary": {
-      "ko": "태풍 지속, 해수욕 불가능",
-      "en": "Typhoons continue — swimming in the sea is not possible",
-      "ja": "台風が続き、海水浴は不可能",
-      "zh": "台风持续，无法在海里游泳"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "快適な気温"
-      ],
-      "zh": [
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 374mm로 우기에 해당",
-        "월 23.6일 비가 와 야외 일정에 유의",
-        "습도 85%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 374mm qualifies as rainy season",
-        "23.6 rainy days — outdoor plans need flexibility",
-        "Humidity at 85% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量374mmで雨季に相当",
-        "23.6日の雨日、屋外日程に注意が必要",
-        "湿度85%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量374mm，属于雨季",
-        "月内约23.6天雨天，户外行程需灵活安排",
-        "湿度85%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 374mm로 우기에 해당",
+      "월 23.6일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "da-nang",
     "month": 12,
-    "rating": 2,
-    "summary": {
-      "ko": "우기 끝자락, 점차 날씨 회복 중",
-      "en": "Tail end of rainy season as the weather gradually recovers",
-      "ja": "雨季の終わり、天気が徐々に回復中",
-      "zh": "雨季尾声，天气正在逐渐好转"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "快適な気温"
-      ],
-      "zh": [
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 353mm로 우기에 해당",
-        "월 25.8일 비가 와 야외 일정에 유의",
-        "습도 85%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 353mm qualifies as rainy season",
-        "25.8 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 85% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量353mmで雨季に相当",
-        "25.8日の雨日、屋外日程に注意が必要",
-        "湿度85%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量353mm，属于雨季",
-        "月内约25.8天雨天，户外行程需充分灵活安排",
-        "湿度85%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 353mm로 우기에 해당",
+      "월 25.8일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   }
 ]

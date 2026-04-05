@@ -2,1033 +2,500 @@
   {
     "regionId": "london",
     "month": 1,
-    "rating": 1,
-    "summary": {
-      "ko": "어두운 겨울, 뮤지컬과 실내 관광 위주",
-      "en": "Dark winter — musicals and indoor sightseeing take centre stage",
-      "ja": "暗い冬、ミュージカルと室内観光がメイン",
-      "zh": "阴暗的冬季，以音乐剧和室内观光为主"
-    },
-    "highlights": {
-      "ko": ["겨울 스포츠에 적합한 시기"],
-      "en": ["Good season for winter sports"],
-      "ja": ["ウィンタースポーツに適した時期"],
-      "zh": ["适合冬季运动的季节"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 11.2일로 실내 대안 준비 권장", "습도 87%로 불쾌지수 높음"],
-      "en": ["11.2 rainy days — have indoor backup plans ready", "87% humidity makes it feel uncomfortable"],
-      "ja": ["雨の日が11.2日と多いため、室内プランを準備推奨", "湿度87%で不快指数が高い"],
-      "zh": ["雨天达11.2天，建议准备室内备选方案", "湿度87%，体感不适"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["보온 용품과 핫팩 준비"],
-      "en": ["Pack warm layers and hand warmers"],
-      "ja": ["防寒グッズとカイロを準備"],
-      "zh": ["准备保暖用品和暖贴"]
-    },
-    "clothingAdvice": {
-      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
-      "en": "Down jacket, heavy coat, and cold-weather gear are essential",
-      "ja": "ダウンジャケット、厚手のコート、防寒グッズは必須",
-      "zh": "必备羽绒服、厚外套及防寒用品"
-    },
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 11.2일로 실내 대안 준비 권장",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "london",
     "month": 2,
-    "rating": 2,
-    "summary": {
-      "ko": "겨울 끝자락, 아직 춥고 비 잦은 시기",
-      "en": "Tail end of winter — still cold with frequent rain",
-      "ja": "冬の終わり、まだ寒く雨も多い時期",
-      "zh": "冬末，依然寒冷且雨水频繁"
-    },
-    "highlights": {
-      "ko": ["현지 일상을 경험하기 좋은 시기"],
-      "en": ["A good time to experience everyday London life"],
-      "ja": ["ロンドンの日常を体験するのに良い時期"],
-      "zh": ["适合体验伦敦日常生活的时期"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 12.8일로 실내 대안 준비 권장", "습도 82%로 불쾌지수 높음"],
-      "en": ["12.8 rainy days — have indoor backup plans ready", "82% humidity makes it feel uncomfortable"],
-      "ja": ["雨の日が12.8日と多く、室内プランを準備推奨", "湿度82%で不快指数が高い"],
-      "zh": ["雨天达12.8天，建议准备室内备选方案", "湿度82%，体感不适"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 12.8일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "london",
     "month": 3,
-    "rating": 2,
-    "summary": {
-      "ko": "봄 시작, 공원에 꽃이 피기 시작",
-      "en": "Spring arrives — flowers begin to bloom in the parks",
-      "ja": "春の始まり、公園に花が咲き始める",
-      "zh": "春天来临，公园里花朵开始绽放"
-    },
-    "highlights": {
-      "ko": ["현지 일상을 경험하기 좋은 시기"],
-      "en": ["A good time to experience everyday London life"],
-      "ja": ["ロンドンの日常を体験するのに良い時期"],
-      "zh": ["适合体验伦敦日常生活的时期"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 13.6일로 실내 대안 준비 권장", "습도가 79%로 다소 높음"],
-      "en": ["13.6 rainy days — have indoor backup plans ready", "Humidity at 79% is somewhat high"],
-      "ja": ["雨の日が13.6日と多く、室内プランを準備推奨", "湿度79%とやや高め"],
-      "zh": ["雨天达13.6天，建议准备室内备选方案", "湿度79%，略偏高"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 13.6일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "london",
     "month": 4,
-    "rating": 3,
-    "summary": {
-      "ko": "봄, 하이드파크와 리젠트파크 꽃 만발",
-      "en": "Spring in full swing — Hyde Park and Regent's Park ablaze with blossom",
-      "ja": "春爛漫、ハイドパークとリージェンツパークに花が咲き誇る",
-      "zh": "春意盎然，海德公园与摄政公园繁花盛开"
-    },
-    "highlights": {
-      "ko": ["일조시간이 길어 야외 활동에 좋음", "강수량이 적어 맑은 날이 많음"],
-      "en": ["Long daylight hours are great for outdoor activities", "Low rainfall means plenty of sunny days"],
-      "ja": ["日照時間が長く、屋外活動に最適", "降水量が少なく晴れの日が多い"],
-      "zh": ["日照时间长，适合户外活动", "降水量少，晴天多"]
-    },
-    "cautions": {
-      "ko": ["습도가 72%로 다소 높음"],
-      "en": ["Humidity at 72% is somewhat high"],
-      "ja": ["湿度72%とやや高め"],
-      "zh": ["湿度72%，略偏高"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
+    "rating": 4,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "london",
     "month": 5,
-    "rating": 3,
-    "summary": {
-      "ko": "봄 끝자락, 긴 일조시간과 공원 산책",
-      "en": "Late spring — long daylight hours perfect for park strolls",
-      "ja": "春の終わり、長い日照時間と公園散歩",
-      "zh": "暮春时节，日照时间长，适合公园漫步"
-    },
-    "highlights": {
-      "ko": ["일조시간이 길어 야외 활동에 좋음"],
-      "en": ["Long daylight hours are great for outdoor activities"],
-      "ja": ["日照時間が長く、屋外活動に最適"],
-      "zh": ["日照时间长，适合户外活动"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 11.2일로 실내 대안 준비 권장", "습도가 73%로 다소 높음"],
-      "en": ["11.2 rainy days — have indoor backup plans ready", "Humidity at 73% is somewhat high"],
-      "ja": ["雨の日が11.2日と多く、室内プランを準備推奨", "湿度73%とやや高め"],
-      "zh": ["雨天达11.2天，建议准备室内备选方案", "湿度73%，略偏高"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，必备外套"
-    },
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 11.2일로 실내 대안 준비 권장",
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "london",
     "month": 6,
-    "rating": 3,
-    "summary": {
-      "ko": "여름 시작, 밤 10시까지 밝은 긴 해",
-      "en": "Summer begins — daylight stretches until 10 pm",
-      "ja": "夏の始まり、夜10時まで明るい長い一日",
-      "zh": "夏季开始，白昼延续至晚上10点"
-    },
-    "highlights": {
-      "ko": ["런던 여름 성수기", "일조시간이 길어 야외 활동에 좋음"],
-      "en": ["London's summer high season", "Long daylight hours are great for outdoor activities"],
-      "ja": ["ロンドンの夏のハイシーズン", "日照時間が長く、屋外活動に最適"],
-      "zh": ["伦敦夏季旺季", "日照时间长，适合户外活动"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 10.6일로 실내 대안 준비 권장", "습도가 71%로 다소 높음"],
-      "en": ["10.6 rainy days — have indoor backup plans ready", "Humidity at 71% is somewhat high"],
-      "ja": ["雨の日が10.6日と多く、室内プランを準備推奨", "湿度71%とやや高め"],
-      "zh": ["雨天达10.6天，建议准备室内备选方案", "湿度71%，略偏高"]
-    },
-    "events": {
-      "ko": ["윔블던 (6~7월)", "노팅힐 카니발 (8월)", "프롬스 음악 축제 (7~9월)"],
-      "en": ["Wimbledon (Jun–Jul)", "Notting Hill Carnival (Aug)", "BBC Proms (Jul–Sep)"],
-      "ja": ["ウィンブルドン（6〜7月）", "ノッティングヒル・カーニバル（8月）", "BBCプロムス（7〜9月）"],
-      "zh": ["温布尔登网球锦标赛（6~7月）", "诺丁山狂欢节（8月）", "BBC逍遥音乐节（7~9月）"]
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket — layering recommended",
-      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
-      "zh": "长袖加轻薄外套，推荐叠穿"
-    },
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "런던 여름 성수기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 10.6일로 실내 대안 준비 권장",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [
+      "윔블던 (6~7월)",
+      "노팅힐 카니발 (8월)",
+      "프롬스 음악 축제 (7~9월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "london",
     "month": 7,
-    "rating": 4,
-    "summary": {
-      "ko": "여름 성수기, 윔블던과 야외 축제",
-      "en": "Peak summer — Wimbledon and outdoor festivals",
-      "ja": "夏のピークシーズン、ウィンブルドンと野外フェスティバル",
-      "zh": "夏季旺季，温布尔登与户外节庆齐聚"
-    },
-    "highlights": {
-      "ko": ["런던 여름 성수기", "일조시간이 길어 야외 활동에 좋음", "쾌적한 기온"],
-      "en": ["London's summer high season", "Long daylight hours are great for outdoor activities", "Pleasant temperatures"],
-      "ja": ["ロンドンの夏のハイシーズン", "日照時間が長く、屋外活動に最適", "快適な気温"],
-      "zh": ["伦敦夏季旺季", "日照时间长，适合户外活动", "气温舒适"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 11.4일로 실내 대안 준비 권장", "습도가 71%로 다소 높음"],
-      "en": ["11.4 rainy days — have indoor backup plans ready", "Humidity at 71% is somewhat high"],
-      "ja": ["雨の日が11.4日と多く、室内プランを準備推奨", "湿度71%とやや高め"],
-      "zh": ["雨天达11.4天，建议准备室内备选方案", "湿度71%，略偏高"]
-    },
-    "events": {
-      "ko": ["윔블던 (6~7월)", "노팅힐 카니발 (8월)", "프롬스 음악 축제 (7~9월)"],
-      "en": ["Wimbledon (Jun–Jul)", "Notting Hill Carnival (Aug)", "BBC Proms (Jul–Sep)"],
-      "ja": ["ウィンブルドン（6〜7月）", "ノッティングヒル・カーニバル（8月）", "BBCプロムス（7〜9月）"],
-      "zh": ["温布尔登网球锦标赛（6~7月）", "诺丁山狂欢节（8月）", "BBC逍遥音乐节（7~9月）"]
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket — layering recommended",
-      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
-      "zh": "长袖加轻薄外套，推荐叠穿"
-    },
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "런던 여름 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [
+      "윔블던 (6~7월)",
+      "노팅힐 카니발 (8월)",
+      "프롬스 음악 축제 (7~9월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "london",
     "month": 8,
-    "rating": 4,
-    "summary": {
-      "ko": "여름 피크, 노팅힐 카니발",
-      "en": "Summer peak — Notting Hill Carnival lights up the city",
-      "ja": "夏のピーク、ノッティングヒル・カーニバルが街を彩る",
-      "zh": "夏季高峰，诺丁山狂欢节点亮全城"
-    },
-    "highlights": {
-      "ko": ["런던 여름 성수기", "일조시간이 길어 야외 활동에 좋음", "강수량이 적어 맑은 날이 많음", "쾌적한 기온"],
-      "en": ["London's summer high season", "Long daylight hours are great for outdoor activities", "Low rainfall means plenty of sunny days", "Pleasant temperatures"],
-      "ja": ["ロンドンの夏のハイシーズン", "日照時間が長く、屋外活動に最適", "降水量が少なく晴れの日が多い", "快適な気温"],
-      "zh": ["伦敦夏季旺季", "日照时间长，适合户外活动", "降水量少，晴天多", "气温舒适"]
-    },
-    "cautions": {
-      "ko": ["습도가 73%로 다소 높음"],
-      "en": ["Humidity at 73% is somewhat high"],
-      "ja": ["湿度73%とやや高め"],
-      "zh": ["湿度73%，略偏高"]
-    },
-    "events": {
-      "ko": ["윔블던 (6~7월)", "노팅힐 카니발 (8월)", "프롬스 음악 축제 (7~9월)"],
-      "en": ["Wimbledon (Jun–Jul)", "Notting Hill Carnival (Aug)", "BBC Proms (Jul–Sep)"],
-      "ja": ["ウィンブルドン（6〜7月）", "ノッティングヒル・カーニバル（8月）", "BBCプロムス（7〜9月）"],
-      "zh": ["温布尔登网球锦标赛（6~7月）", "诺丁山狂欢节（8月）", "BBC逍遥音乐节（7~9月）"]
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket — layering recommended",
-      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
-      "zh": "长袖加轻薄外套，推荐叠穿"
-    },
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "런던 여름 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [
+      "윔블던 (6~7월)",
+      "노팅힐 카니발 (8월)",
+      "프롬스 음악 축제 (7~9월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "london",
     "month": 9,
-    "rating": 3,
-    "summary": {
-      "ko": "여름 끝자락, 쾌적한 초가을",
-      "en": "Late summer fades into a pleasant early autumn",
-      "ja": "夏の終わり、爽やかな初秋へ",
-      "zh": "夏末时节，迎来舒适的初秋"
-    },
-    "highlights": {
-      "ko": ["일조시간이 길어 야외 활동에 좋음"],
-      "en": ["Long daylight hours are great for outdoor activities"],
-      "ja": ["日照時間が長く、屋外活動に最適"],
-      "zh": ["日照时间长，适合户外活动"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 11일로 실내 대안 준비 권장", "습도가 78%로 다소 높음"],
-      "en": ["11 rainy days — have indoor backup plans ready", "Humidity at 78% is somewhat high"],
-      "ja": ["雨の日が11日と多く、室内プランを準備推奨", "湿度78%とやや高め"],
-      "zh": ["雨天达11天，建议准备室内备选方案", "湿度78%，略偏高"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket — layering recommended",
-      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
-      "zh": "长袖加轻薄外套，推荐叠穿"
-    },
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "london",
     "month": 10,
-    "rating": 2,
-    "summary": {
-      "ko": "가을 단풍, 쌀쌀해지는 시기",
-      "en": "Autumn foliage arrives as the chill sets in",
-      "ja": "秋の紅葉、肌寒さが増す時期",
-      "zh": "秋叶渐染，天气转凉"
-    },
-    "highlights": {
-      "ko": ["현지 일상을 경험하기 좋은 시기"],
-      "en": ["A good time to experience everyday London life"],
-      "ja": ["ロンドンの日常を体験するのに良い時期"],
-      "zh": ["适合体验伦敦日常生活的时期"]
-    },
-    "cautions": {
-      "ko": ["강수량이 107mm로 우산 필수", "월 15.8일 비가 와 야외 일정에 유의", "습도 84%로 불쾌지수 높음"],
-      "en": ["107mm of rain — an umbrella is essential", "Rain on 15.8 days — outdoor plans need flexibility", "84% humidity makes it feel uncomfortable"],
-      "ja": ["降水量107mmで傘は必須", "月15.8日雨が降るため屋外スケジュールに注意", "湿度84%で不快指数が高い"],
-      "zh": ["降水量107mm，必备雨伞", "月内雨天达15.8天，户外行程需灵活安排", "湿度84%，体感不适"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["접이식 우산이나 우비 챙기기"],
-      "en": ["Pack a folding umbrella or raincoat"],
-      "ja": ["折りたたみ傘やレインコートを持参"],
-      "zh": ["携带折叠伞或雨衣"]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，必备外套"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 107mm로 우산 필수",
+      "월 15.8일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "london",
     "month": 11,
-    "rating": 1,
-    "summary": {
-      "ko": "초겨울, 16시면 어두워지는 짧은 해",
-      "en": "Early winter — darkness falls by 4 pm",
-      "ja": "初冬、16時には暗くなる短い日",
-      "zh": "初冬，下午4点便已天黑"
-    },
-    "highlights": {
-      "ko": ["현지 일상을 경험하기 좋은 시기"],
-      "en": ["A good time to experience everyday London life"],
-      "ja": ["ロンドンの日常を体験するのに良い時期"],
-      "zh": ["适合体验伦敦日常生活的时期"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 11일로 실내 대안 준비 권장", "습도 86%로 불쾌지수 높음"],
-      "en": ["11 rainy days — have indoor backup plans ready", "86% humidity makes it feel uncomfortable"],
-      "ja": ["雨の日が11日と多く、室内プランを準備推奨", "湿度86%で不快指数が高い"],
-      "zh": ["雨天达11天，建议准备室内备选方案", "湿度86%，体感不适"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "london",
     "month": 12,
-    "rating": 1,
-    "summary": {
-      "ko": "크리스마스 마켓, 연말 분위기이지만 추움",
-      "en": "Christmas markets and festive cheer — but bitterly cold",
-      "ja": "クリスマスマーケットと年末の雰囲気、でも寒い",
-      "zh": "圣诞市集与年末氛围浓郁，但天寒料峭"
-    },
-    "highlights": {
-      "ko": ["크리스마스 마켓과 일루미네이션"],
-      "en": ["Christmas markets and festive illuminations"],
-      "ja": ["クリスマスマーケットとイルミネーション"],
-      "zh": ["圣诞市集与节日彩灯"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 11.8일로 실내 대안 준비 권장", "습도 88%로 불쾌지수 높음", "일조시간이 짧아 흐린 날이 많음"],
-      "en": ["11.8 rainy days — have indoor backup plans ready", "88% humidity makes it feel uncomfortable", "Short daylight hours mean many overcast days"],
-      "ja": ["雨の日が11.8日と多く、室内プランを準備推奨", "湿度88%で不快指数が高い", "日照時間が短く曇りの日が多い"],
-      "zh": ["雨天达11.8天，建议准备室内备选方案", "湿度88%，体感不适", "日照时间短，阴天较多"]
-    },
-    "events": {
-      "ko": ["옥스퍼드 스트리트 크리스마스 조명", "하이드파크 윈터 원더랜드"],
-      "en": ["Oxford Street Christmas lights", "Hyde Park Winter Wonderland"],
-      "ja": ["オックスフォードストリートのクリスマスライト", "ハイドパーク・ウィンターワンダーランド"],
-      "zh": ["牛津街圣诞彩灯", "海德公园冬日仙境"]
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "highlights": [
+      "크리스마스 마켓과 일루미네이션"
+    ],
+    "cautions": [
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도 88%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [
+      "옥스퍼드 스트리트 크리스마스 조명",
+      "하이드파크 윈터 원더랜드"
+    ],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 1,
-    "rating": 1,
-    "summary": {
-      "ko": "혹한과 어둠, 일조시간 7시간의 깊은 겨울",
-      "en": "Bitter cold and darkness — only 7 hours of daylight in deep winter",
-      "ja": "厳寒と暗闇、日照7時間の深い冬",
-      "zh": "严寒与黑暗交织，深冬日照仅7小时"
-    },
-    "highlights": {
-      "ko": ["호그마네(스코틀랜드 새해) 축제", "겨울 스포츠에 적합한 시기"],
-      "en": ["Hogmanay (Scottish New Year) festivities", "Good season for winter sports"],
-      "ja": ["ホグマネー（スコットランドの新年）祭り", "ウィンタースポーツに適した時期"],
-      "zh": ["霍格马内节（苏格兰新年）庆典", "适合冬季运动的季节"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 13.6일로 실내 대안 준비 권장", "습도 83%로 불쾌지수 높음", "일조시간이 짧아 흐린 날이 많음"],
-      "en": ["13.6 rainy days — have indoor backup plans ready", "83% humidity makes it feel uncomfortable", "Short daylight hours mean many overcast days"],
-      "ja": ["雨の日が13.6日と多く、室内プランを準備推奨", "湿度83%で不快指数が高い", "日照時間が短く曇りの日が多い"],
-      "zh": ["雨天达13.6天，建议准备室内备选方案", "湿度83%，体感不适", "日照时间短，阴天较多"]
-    },
-    "events": {
-      "ko": ["호그마네 (12월 31일~1월 1일)"],
-      "en": ["Hogmanay (31 Dec – 1 Jan)"],
-      "ja": ["ホグマネー（12月31日〜1月1日）"],
-      "zh": ["霍格马内节（12月31日~1月1日）"]
-    },
-    "tips": {
-      "ko": ["보온 용품과 핫팩 준비"],
-      "en": ["Pack warm layers and hand warmers"],
-      "ja": ["防寒グッズとカイロを準備"],
-      "zh": ["准备保暖用品和暖贴"]
-    },
-    "clothingAdvice": {
-      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
-      "en": "Down jacket, heavy coat, and cold-weather gear are essential",
-      "ja": "ダウンジャケット、厚手のコート、防寒グッズは必須",
-      "zh": "必备羽绒服、厚外套及防寒用品"
-    },
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "highlights": [
+      "호그마네(스코틀랜드 새해) 축제",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 13.6일로 실내 대안 준비 권장",
+      "습도 83%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [
+      "호그마네 (12월 31일~1월 1일)"
+    ],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 2,
-    "rating": 1,
-    "summary": {
-      "ko": "아직 추운 겨울, 위스키 투어에 적합",
-      "en": "Still cold — the perfect excuse for a whisky distillery tour",
-      "ja": "まだ寒い冬、ウイスキー蒸留所ツアーに最適",
-      "zh": "依然寒冷，正是探访威士忌酒厂的好时机"
-    },
-    "highlights": {
-      "ko": ["현지 일상을 경험하기 좋은 시기"],
-      "en": ["A good time to experience everyday Edinburgh life"],
-      "ja": ["エジンバラの日常を体験するのに良い時期"],
-      "zh": ["适合体验爱丁堡日常生活的时期"]
-    },
-    "cautions": {
-      "ko": ["월 15.4일 비가 와 야외 일정에 유의", "습도 80%로 불쾌지수 높음"],
-      "en": ["Rain on 15.4 days — outdoor plans need flexibility", "80% humidity makes it feel uncomfortable"],
-      "ja": ["月15.4日雨が降るため屋外スケジュールに注意", "湿度80%で不快指数が高い"],
-      "zh": ["月内雨天达15.4天，户外行程需灵活安排", "湿度80%，体感不适"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 15.4일 비가 와 야외 일정에 유의",
+      "습도 80%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 3,
-    "rating": 1,
-    "summary": {
-      "ko": "봄 시작, 서서히 길어지는 해",
-      "en": "Spring stirs — daylight slowly stretches longer",
-      "ja": "春の始まり、少しずつ長くなる日",
-      "zh": "春意渐起，白昼慢慢延长"
-    },
-    "highlights": {
-      "ko": ["현지 일상을 경험하기 좋은 시기"],
-      "en": ["A good time to experience everyday Edinburgh life"],
-      "ja": ["エジンバラの日常を体験するのに良い時期"],
-      "zh": ["适合体验爱丁堡日常生活的时期"]
-    },
-    "cautions": {
-      "ko": ["월 16.4일 비가 와 야외 일정에 유의", "습도가 80%로 다소 높음"],
-      "en": ["Rain on 16.4 days — outdoor plans need flexibility", "Humidity at 80% is somewhat high"],
-      "ja": ["月16.4日雨が降るため屋外スケジュールに注意", "湿度80%とやや高め"],
-      "zh": ["月内雨天达16.4天，户外行程需灵活安排", "湿度80%，略偏高"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 16.4일 비가 와 야외 일정에 유의",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 4,
-    "rating": 2,
-    "summary": {
-      "ko": "봄, 아서스시트 하이킹 시작",
-      "en": "Spring hiking season opens — Arthur's Seat calls",
-      "ja": "春、アーサーズシートのハイキングが始まる",
-      "zh": "春季徒步季节开启，亚瑟王宝座等您登顶"
-    },
-    "highlights": {
-      "ko": ["일조시간이 길어 야외 활동에 좋음"],
-      "en": ["Long daylight hours are great for outdoor activities"],
-      "ja": ["日照時間が長く、屋外活動に最適"],
-      "zh": ["日照时间长，适合户外活动"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 12일로 실내 대안 준비 권장", "습도가 76%로 다소 높음"],
-      "en": ["12 rainy days — have indoor backup plans ready", "Humidity at 76% is somewhat high"],
-      "ja": ["雨の日が12日と多く、室内プランを準備推奨", "湿度76%とやや高め"],
-      "zh": ["雨天达12天，建议准备室内备选方案", "湿度76%，略偏高"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 12일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 5,
-    "rating": 3,
-    "summary": {
-      "ko": "봄 끝자락, 축제 시즌 직전",
-      "en": "Late spring — calm days just before festival season ignites",
-      "ja": "春の終わり、フェスティバルシーズン直前の静けさ",
-      "zh": "暮春时节，节庆季即将开幕前的宁静"
-    },
-    "highlights": {
-      "ko": ["일조시간이 길어 야외 활동에 좋음"],
-      "en": ["Long daylight hours are great for outdoor activities"],
-      "ja": ["日照時間が長く、屋外活動に最適"],
-      "zh": ["日照时间长，适合户外活动"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 14.6일로 실내 대안 준비 권장", "습도가 79%로 다소 높음"],
-      "en": ["14.6 rainy days — have indoor backup plans ready", "Humidity at 79% is somewhat high"],
-      "ja": ["雨の日が14.6日と多く、室内プランを準備推奨", "湿度79%とやや高め"],
-      "zh": ["雨天达14.6天，建议准备室内备选方案", "湿度79%，略偏高"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，必备外套"
-    },
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 14.6일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 6,
-    "rating": 3,
-    "summary": {
-      "ko": "스코틀랜드 여름 시작, 밤 11시까지 밝은 백야",
-      "en": "Scottish summer begins — near-midnight daylight in a magical white night",
-      "ja": "スコットランドの夏の始まり、夜11時まで明るいホワイトナイト",
-      "zh": "苏格兰夏季开启，近乎午夜依然明亮的白夜"
-    },
-    "highlights": {
-      "ko": ["일조시간이 길어 야외 활동에 좋음"],
-      "en": ["Long daylight hours are great for outdoor activities"],
-      "ja": ["日照時間が長く、屋外活動に最適"],
-      "zh": ["日照时间长，适合户外活动"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 13일로 실내 대안 준비 권장", "습도가 76%로 다소 높음"],
-      "en": ["13 rainy days — have indoor backup plans ready", "Humidity at 76% is somewhat high"],
-      "ja": ["雨の日が13日と多く、室内プランを準備推奨", "湿度76%とやや高め"],
-      "zh": ["雨天达13天，建议准备室内备选方案", "湿度76%，略偏高"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，必备外套"
-    },
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 13일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 7,
-    "rating": 3,
-    "summary": {
-      "ko": "에든버러 여름, 야외 하이킹 최적기",
-      "en": "Edinburgh summer — prime time for outdoor hiking",
-      "ja": "エジンバラの夏、野外ハイキングに最適",
-      "zh": "爱丁堡夏日，户外徒步的黄金时节"
-    },
-    "highlights": {
-      "ko": ["일조시간이 길어 야외 활동에 좋음"],
-      "en": ["Long daylight hours are great for outdoor activities"],
-      "ja": ["日照時間が長く、屋外活動に最適"],
-      "zh": ["日照时间长，适合户外活动"]
-    },
-    "cautions": {
-      "ko": ["월 16.6일 비가 와 야외 일정에 유의", "습도가 78%로 다소 높음"],
-      "en": ["Rain on 16.6 days — outdoor plans need flexibility", "Humidity at 78% is somewhat high"],
-      "ja": ["月16.6日雨が降るため屋外スケジュールに注意", "湿度78%とやや高め"],
-      "zh": ["月内雨天达16.6天，户外行程需灵活安排", "湿度78%，略偏高"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket — layering recommended",
-      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
-      "zh": "长袖加轻薄外套，推荐叠穿"
-    },
-    "crowdLevel": "medium",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "월 16.6일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "edinburgh",
     "month": 8,
-    "rating": 3,
-    "summary": {
-      "ko": "에든버러 프린지 페스티벌, 세계 최대 공연 축제",
-      "en": "Edinburgh Fringe Festival — the world's largest arts festival takes over the city",
-      "ja": "エジンバラ・フリンジ・フェスティバル、世界最大の舞台芸術祭",
-      "zh": "爱丁堡艺穗节，全球最大的表演艺术盛会"
-    },
-    "highlights": {
-      "ko": ["에든버러 프린지 + 밀리터리 타투", "일조시간이 길어 야외 활동에 좋음"],
-      "en": ["Edinburgh Fringe + Royal Military Tattoo", "Long daylight hours are great for outdoor activities"],
-      "ja": ["エジンバラ・フリンジ＋ロイヤル・ミリタリー・タトゥー", "日照時間が長く、屋外活動に最適"],
-      "zh": ["爱丁堡艺穗节＋皇家军乐节", "日照时间长，适合户外活动"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 14.4일로 실내 대안 준비 권장", "습도가 79%로 다소 높음"],
-      "en": ["14.4 rainy days — have indoor backup plans ready", "Humidity at 79% is somewhat high"],
-      "ja": ["雨の日が14.4日と多く、室内プランを準備推奨", "湿度79%とやや高め"],
-      "zh": ["雨天达14.4天，建议准备室内备选方案", "湿度79%，略偏高"]
-    },
-    "events": {
-      "ko": ["에든버러 프린지 페스티벌 (8월)", "로얄 마일 퍼포머"],
-      "en": ["Edinburgh Fringe Festival (Aug)", "Royal Mile street performers"],
-      "ja": ["エジンバラ・フリンジ・フェスティバル（8月）", "ロイヤル・マイルのストリートパフォーマー"],
-      "zh": ["爱丁堡艺穗节（8月）", "皇家英里街头表演者"]
-    },
-    "tips": {
-      "ko": ["선글라스와 모자 챙기기"],
-      "en": ["Bring sunglasses and a hat"],
-      "ja": ["サングラスと帽子を忘れずに"],
-      "zh": ["记得带太阳镜和帽子"]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket — layering recommended",
-      "ja": "長袖と薄手のジャケット。重ね着がおすすめ",
-      "zh": "长袖加轻薄外套，推荐叠穿"
-    },
-    "crowdLevel": "medium",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "에든버러 프린지 + 밀리터리 타투",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 14.4일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "에든버러 프린지 페스티벌 (8월)",
+      "로얄 마일 퍼포머"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "edinburgh",
     "month": 9,
-    "rating": 2,
-    "summary": {
-      "ko": "프린지 후 여유로운 가을, 하이랜드 단풍",
-      "en": "Post-Fringe calm — Highland foliage begins to colour",
-      "ja": "フリンジ後の静けさ、ハイランドの紅葉が始まる",
-      "zh": "艺穗节后的宁静秋日，高地红叶渐染"
-    },
-    "highlights": {
-      "ko": ["현지 일상을 경험하기 좋은 시기"],
-      "en": ["A good time to experience everyday Edinburgh life"],
-      "ja": ["エジンバラの日常を体験するのに良い時期"],
-      "zh": ["适合体验爱丁堡日常生活的时期"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 12.2일로 실내 대안 준비 권장", "습도 81%로 불쾌지수 높음"],
-      "en": ["12.2 rainy days — have indoor backup plans ready", "81% humidity makes it feel uncomfortable"],
-      "ja": ["雨の日が12.2日と多く、室内プランを準備推奨", "湿度81%で不快指数が高い"],
-      "zh": ["雨天达12.2天，建议准备室内备选方案", "湿度81%，体感不适"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，必备外套"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 10,
-    "rating": 1,
-    "summary": {
-      "ko": "가을 단풍, 쌀쌀해지는 시기",
-      "en": "Autumn colours arrive as the chill deepens",
-      "ja": "秋の紅葉、肌寒さが増す時期",
-      "zh": "秋叶斑斓，寒意渐浓"
-    },
-    "highlights": {
-      "ko": ["현지 일상을 경험하기 좋은 시기"],
-      "en": ["A good time to experience everyday Edinburgh life"],
-      "ja": ["エジンバラの日常を体験するのに良い時期"],
-      "zh": ["适合体验爱丁堡日常生活的时期"]
-    },
-    "cautions": {
-      "ko": ["강수량이 134mm로 우산 필수", "월 18.6일 비가 와 야외 일정에 유의", "습도 82%로 불쾌지수 높음"],
-      "en": ["134mm of rain — an umbrella is essential", "Rain on 18.6 days — outdoor plans need flexibility", "82% humidity makes it feel uncomfortable"],
-      "ja": ["降水量134mmで傘は必須", "月18.6日雨が降るため屋外スケジュールに注意", "湿度82%で不快指数が高い"],
-      "zh": ["降水量134mm，必备雨伞", "月内雨天达18.6天，户外行程需灵活安排", "湿度82%，体感不适"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": ["접이식 우산이나 우비 챙기기"],
-      "en": ["Pack a folding umbrella or raincoat"],
-      "ja": ["折りたたみ傘やレインコートを持参"],
-      "zh": ["携带折叠伞或雨衣"]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long trousers — an outer layer is essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，必备外套"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 134mm로 우산 필수",
+      "월 18.6일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 11,
-    "rating": 1,
-    "summary": {
-      "ko": "초겨울, 어둡고 비 잦은 시기",
-      "en": "Early winter — dark skies and persistent rain",
-      "ja": "初冬、暗く雨の多い時期",
-      "zh": "初冬，阴暗多雨"
-    },
-    "highlights": {
-      "ko": ["현지 일상을 경험하기 좋은 시기"],
-      "en": ["A good time to experience everyday Edinburgh life"],
-      "ja": ["エジンバラの日常を体験するのに良い時期"],
-      "zh": ["适合体验爱丁堡日常生活的时期"]
-    },
-    "cautions": {
-      "ko": ["비 오는 날이 12.4일로 실내 대안 준비 권장", "습도 84%로 불쾌지수 높음"],
-      "en": ["12.4 rainy days — have indoor backup plans ready", "84% humidity makes it feel uncomfortable"],
-      "ja": ["雨の日が12.4日と多く、室内プランを準備推奨", "湿度84%で不快指数が高い"],
-      "zh": ["雨天达12.4天，建议准备室内备选方案", "湿度84%，体感不适"]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 12.4일로 실내 대안 준비 권장",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "edinburgh",
     "month": 12,
-    "rating": 1,
-    "summary": {
-      "ko": "호그마니(새해 축제), 추위 속 연말 분위기",
-      "en": "Hogmanay countdown — festive spirit blazing through the winter cold",
-      "ja": "ホグマネーカウントダウン、寒さの中に漂う年末の雰囲気",
-      "zh": "霍格马内节倒计时，严寒中洋溢着年末节日气氛"
-    },
-    "highlights": {
-      "ko": ["호그마네(스코틀랜드 새해) 축제"],
-      "en": ["Hogmanay (Scottish New Year) festivities"],
-      "ja": ["ホグマネー（スコットランドの新年）祭り"],
-      "zh": ["霍格马内节（苏格兰新年）庆典"]
-    },
-    "cautions": {
-      "ko": ["강수량이 111mm로 우산 필수", "월 16.4일 비가 와 야외 일정에 유의", "습도 85%로 불쾌지수 높음", "일조시간이 짧아 흐린 날이 많음"],
-      "en": ["111mm of rain — an umbrella is essential", "Rain on 16.4 days — outdoor plans need flexibility", "85% humidity makes it feel uncomfortable", "Short daylight hours mean many overcast days"],
-      "ja": ["降水量111mmで傘は必須", "月16.4日雨が降るため屋外スケジュールに注意", "湿度85%で不快指数が高い", "日照時間が短く曇りの日が多い"],
-      "zh": ["降水量111mm，必备雨伞", "月内雨天达16.4天，户外行程需灵活安排", "湿度85%，体感不适", "日照时间短，阴天较多"]
-    },
-    "events": {
-      "ko": ["호그마네 (12월 31일~1월 1일)"],
-      "en": ["Hogmanay (31 Dec – 1 Jan)"],
-      "ja": ["ホグマネー（12月31日〜1月1日）"],
-      "zh": ["霍格马内节（12月31日~1月1日）"]
-    },
-    "tips": {
-      "ko": ["접이식 우산이나 우비 챙기기"],
-      "en": ["Pack a folding umbrella or raincoat"],
-      "ja": ["折りたたみ傘やレインコートを持参"],
-      "zh": ["携带折叠伞或雨衣"]
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves — warm layering required",
-      "ja": "コート、マフラー、手袋。重ね着で防寒を",
-      "zh": "外套、围巾、手套，需要保暖叠穿"
-    },
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
+    "highlights": [
+      "호그마네(스코틀랜드 새해) 축제"
+    ],
+    "cautions": [
+      "강수량이 111mm로 우산 필수",
+      "월 16.4일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [
+      "호그마네 (12월 31일~1월 1일)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   }
 ]

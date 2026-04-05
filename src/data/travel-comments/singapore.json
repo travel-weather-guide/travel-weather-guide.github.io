@@ -2,1053 +2,291 @@
   {
     "regionId": "singapore",
     "month": 1,
-    "rating": 2,
-    "summary": {
-      "ko": "북동 몬순, 비가 가장 많은 시기",
-      "en": "Northeast monsoon — the rainiest period of the year",
-      "ja": "北東モンスーン、最も雨が多い時期",
-      "zh": "东北季风来袭，全年降雨量最多的时段"
-    },
-    "highlights": {
-      "ko": [
-        "중국 설날 치나타운 장식",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Chinese New Year Chinatown decorations",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "中国新年のチャイナタウン装飾",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "农历新年唐人街节日装饰",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 295mm로 우기에 해당",
-        "월 25일 비가 와 야외 일정에 유의",
-        "습도 86%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 295mm qualifies as rainy season",
-        "25 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 86% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量295mmで雨季に相当",
-        "25日の雨日、屋外日程に注意が必要",
-        "湿度86%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量295mm，属于雨季",
-        "月内约25天雨天，户外行程需充分灵活安排",
-        "湿度86%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [
-        "중국 설날 (1~2월)",
-        "싱가포르 리버 홍바오"
-      ],
-      "en": [
-        "Chinese New Year (January–February)",
-        "Singapore River Hongbao"
-      ],
-      "ja": [
-        "中国正月（1〜2月）",
-        "シンガポール・リバー・ホンバオ"
-      ],
-      "zh": [
-        "农历新年（1-2月）",
-        "新加坡河畔红包嘉年华"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "중국 설날 치나타운 장식",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 295mm로 우기에 해당",
+      "월 25일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [
+      "중국 설날 (1~2월)",
+      "싱가포르 리버 홍바오"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 2,
-    "rating": 3,
-    "summary": {
-      "ko": "몬순 끝자락, 비가 줄어들기 시작",
-      "en": "End of monsoon as rainfall starts to decrease",
-      "ja": "モンスーンの終わり、雨が減り始める",
-      "zh": "季风尾声，降雨量开始减少"
-    },
-    "highlights": {
-      "ko": [
-        "중국 설날 치나타운 장식",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Chinese New Year Chinatown decorations",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "中国新年のチャイナタウン装飾",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "农历新年唐人街节日装饰",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 115mm로 우산 필수",
-        "월 19.8일 비가 와 야외 일정에 유의",
-        "습도 83%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Rainfall of 115mm — umbrella essential",
-        "19.8 rainy days — outdoor plans need flexibility",
-        "Humidity at 83% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "降水量115mm、傘が必須",
-        "19.8日の雨日、屋外日程に注意が必要",
-        "湿度83%で不快指数が高い"
-      ],
-      "zh": [
-        "降雨量115mm，雨伞必备",
-        "月内约19.8天雨天，户外行程需灵活安排",
-        "湿度83%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "중국 설날 (1~2월)",
-        "싱가포르 리버 홍바오"
-      ],
-      "en": [
-        "Chinese New Year (January–February)",
-        "Singapore River Hongbao"
-      ],
-      "ja": [
-        "中国正月（1〜2月）",
-        "シンガポール・リバー・ホンバオ"
-      ],
-      "zh": [
-        "农历新年（1-2月）",
-        "新加坡河畔红包嘉年华"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 4,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "중국 설날 치나타운 장식",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 115mm로 우산 필수",
+      "월 19.8일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [
+      "중국 설날 (1~2월)",
+      "싱가포르 리버 홍바오"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 3,
-    "rating": 2,
-    "summary": {
-      "ko": "비교적 건조한 시기, 가든스바이더베이 관광",
-      "en": "Relatively dry period — a good time to visit Gardens by the Bay",
-      "ja": "比較的乾燥した時期、ガーデンズバイザベイ観光",
-      "zh": "相对干燥的时期，游览滨海湾花园正当时"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 233mm로 우기에 해당",
-        "월 25.4일 비가 와 야외 일정에 유의",
-        "습도 85%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 233mm qualifies as rainy season",
-        "25.4 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 85% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量233mmで雨季に相当",
-        "25.4日の雨日、屋外日程に注意が必要",
-        "湿度85%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量233mm，属于雨季",
-        "月内约25.4天雨天，户外行程需充分灵活安排",
-        "湿度85%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 233mm로 우기에 해당",
+      "월 25.4일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 4,
-    "rating": 2,
-    "summary": {
-      "ko": "건조한 시기, 야외 관광하기 좋은 시기",
-      "en": "Dry period — great for outdoor sightseeing",
-      "ja": "乾燥した時期、屋外観光に良い時期",
-      "zh": "干燥时期，户外观光的好时节"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 288mm로 우기에 해당",
-        "월 27일 비가 와 야외 일정에 유의",
-        "습도 87%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 288mm qualifies as rainy season",
-        "27 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 87% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量288mmで雨季に相当",
-        "27日の雨日、屋外日程に注意が必要",
-        "湿度87%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量288mm，属于雨季",
-        "月内约27天雨天，户外行程需充分灵活安排",
-        "湿度87%，不适感明显"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 288mm로 우기에 해당",
+      "월 27일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 5,
-    "rating": 2,
-    "summary": {
-      "ko": "과도기, 간간이 소나기",
-      "en": "Transitional period with occasional showers",
-      "ja": "過渡期、時々にわか雨",
-      "zh": "过渡期，偶有阵雨"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 329mm로 우기에 해당",
-        "월 27.2일 비가 와 야외 일정에 유의",
-        "습도 87%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 329mm qualifies as rainy season",
-        "27.2 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 87% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量329mmで雨季に相当",
-        "27.2日の雨日、屋外日程に注意が必要",
-        "湿度87%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量329mm，属于雨季",
-        "월内约27.2天雨天，户外行程需充分灵活安排",
-        "湿度87%，不适感明显"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 329mm로 우기에 해당",
+      "월 27.2일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 6,
-    "rating": 2,
-    "summary": {
-      "ko": "남서 몬순, 간간이 비 오지만 관광 가능",
-      "en": "Southwest monsoon with occasional rain but sightseeing is still possible",
-      "ja": "南西モンスーン、時々雨が降るが観光は可能",
-      "zh": "西南季风期间，偶有降雨，但观光仍可进行"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 389mm로 우기에 해당",
-        "월 27일 비가 와 야외 일정에 유의",
-        "습도 87%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 389mm qualifies as rainy season",
-        "27 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 87% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量389mmで雨季に相当",
-        "27日の雨日、屋外日程に注意が必要",
-        "湿度87%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量389mm，属于雨季",
-        "月内约27天雨天，户外行程需充分灵活安排",
-        "湿度87%，不适感明显"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 389mm로 우기에 해당",
+      "월 27일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 7,
-    "rating": 2,
-    "summary": {
-      "ko": "세일 시즌(GSS), 쇼핑하기 좋은 시기",
-      "en": "Great Singapore Sale season — a great time for shopping",
-      "ja": "グレートシンガポールセールシーズン、ショッピングに最適な時期",
-      "zh": "新加坡大减价（GSS）季节，购物的好时机"
-    },
-    "highlights": {
-      "ko": [
-        "싱가포르 국경일 퍼레이드 시즌",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Singapore National Day Parade season",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "シンガポール建国記念日パレードシーズン",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "新加坡国庆日阅兵季节",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 256mm로 우기에 해당",
-        "월 23.6일 비가 와 야외 일정에 유의",
-        "습도 86%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 256mm qualifies as rainy season",
-        "23.6 rainy days — outdoor plans need flexibility",
-        "Humidity at 86% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量256mmで雨季に相当",
-        "23.6日の雨日、屋外日程に注意が必要",
-        "湿度86%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量256mm，属于雨季",
-        "月内约23.6天雨天，户外行程需灵活安排",
-        "湿度86%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [
-        "싱가포르 내셔널 데이 (8월 9일)",
-        "그레이트 싱가포르 세일"
-      ],
-      "en": [
-        "Singapore National Day (August 9)",
-        "Great Singapore Sale"
-      ],
-      "ja": [
-        "シンガポール建国記念日（8月9日）",
-        "グレートシンガポールセール"
-      ],
-      "zh": [
-        "新加坡国庆日（8月9日）",
-        "新加坡大减价"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "싱가포르 국경일 퍼레이드 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 256mm로 우기에 해당",
+      "월 23.6일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [
+      "싱가포르 내셔널 데이 (8월 9일)",
+      "그레이트 싱가포르 세일"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 8,
-    "rating": 2,
-    "summary": {
-      "ko": "국경일 시즌, 축제 분위기",
-      "en": "National Day season with a festive atmosphere",
-      "ja": "ナショナルデーシーズン、お祭りムード",
-      "zh": "国庆节季节，节日气氛浓厚"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 300mm로 우기에 해당",
-        "월 27.8일 비가 와 야외 일정에 유의",
-        "습도 86%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 300mm qualifies as rainy season",
-        "27.8 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 86% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量300mmで雨季に相当",
-        "27.8日の雨日、屋外日程に注意が必要",
-        "湿度86%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量300mm，属于雨季",
-        "月内约27.8天雨天，户外行程需充分灵活安排",
-        "湿度86%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 300mm로 우기에 해당",
+      "월 27.8일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 9,
-    "rating": 2,
-    "summary": {
-      "ko": "헤이즈(인니 산불 연무) 가능성 있는 시기",
-      "en": "Possible haze from Indonesian forest fires during this period",
-      "ja": "インドネシアの山火事による煙霧（ヘイズ）の可能性がある時期",
-      "zh": "可能受印尼山火烟霾（haze）影响的时期"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 276mm로 우기에 해당",
-        "월 25.8일 비가 와 야외 일정에 유의",
-        "습도 86%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 276mm qualifies as rainy season",
-        "25.8 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 86% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量276mmで雨季に相当",
-        "25.8日の雨日、屋外日程に注意が必要",
-        "湿度86%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量276mm，属于雨季",
-        "月内约25.8天雨天，户外行程需充分灵活安排",
-        "湿度86%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 276mm로 우기에 해당",
+      "월 25.8일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 10,
-    "rating": 2,
-    "summary": {
-      "ko": "과도기, 비가 늘어나기 시작",
-      "en": "Transitional period as rainfall starts to increase",
-      "ja": "過渡期、雨が増え始める",
-      "zh": "过渡期，降雨量开始增加"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 311mm로 우기에 해당",
-        "월 27.4일 비가 와 야외 일정에 유의",
-        "습도 87%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 311mm qualifies as rainy season",
-        "27.4 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 87% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量311mmで雨季に相当",
-        "27.4日の雨日、屋外日程に注意が必要",
-        "湿度87%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量311mm，属于雨季",
-        "月内约27.4天雨天，户外行程需充分灵活安排",
-        "湿度87%，不适感明显"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 311mm로 우기에 해당",
+      "월 27.4일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "singapore",
     "month": 11,
     "rating": 2,
-    "summary": {
-      "ko": "북동 몬순 시작, 비 많아지는 시기",
-      "en": "Northeast monsoon begins — rainfall picks up noticeably",
-      "ja": "北東モンスーン開始、雨が多くなる時期",
-      "zh": "东北季风开始，降雨明显增多"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 402mm로 우기에 해당",
-        "월 27.6일 비가 와 야외 일정에 유의",
-        "습도 89%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 402mm qualifies as rainy season",
-        "27.6 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 89% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量402mmで雨季に相当",
-        "27.6日の雨日、屋外日程に注意が必要",
-        "湿度89%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量402mm，属于雨季",
-        "月内约27.6天雨天，户外行程需充分灵活安排",
-        "湿度89%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "우기로 비가 많은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 402mm로 우기에 해당",
+      "월 27.6일 비가 와 야외 일정에 유의",
+      "습도 89%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
   {
     "regionId": "singapore",
     "month": 12,
-    "rating": 2,
-    "summary": {
-      "ko": "몬순 피크, 크리스마스 일루미네이션",
-      "en": "Monsoon peak, but Christmas illuminations light up Orchard Road",
-      "ja": "モンスーンピーク、クリスマスイルミネーションがオーチャードを彩る",
-      "zh": "季风高峰期，乌节路圣诞灯饰璀璨夺目"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 318mm로 우기에 해당",
-        "월 29일 비가 와 야외 일정에 유의",
-        "습도 88%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 318mm qualifies as rainy season",
-        "29 rainy days — outdoor plans need significant flexibility",
-        "Humidity at 88% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量318mmで雨季に相当",
-        "29日の雨日、屋外日程に注意が必要",
-        "湿度88%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量318mm，属于雨季",
-        "月内约29天雨天，户外行程需充分灵活安排",
-        "湿度88%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "rating": 3,
+    "summary": "비가 잦지만 여행 가능한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 318mm로 우기에 해당",
+      "월 29일 비가 와 야외 일정에 유의",
+      "습도 88%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   }
 ]

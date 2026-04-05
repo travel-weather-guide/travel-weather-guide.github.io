@@ -503,3 +503,22 @@
 | 04-05 | URL 3곳 travel-weather-guide.github.io로 변경 |
 | 04-05 | .github/workflows/deploy.yml 생성 |
 | 04-05 | travel-weather-guide 조직 리포로 push 완료 |
+
+---
+
+## 일별 캘린더 데이터 누락 수정 (2026-04-05 완료)
+
+- [x] 데이터 생성 스크립트 확인 (generate-data.ts → --only 플래그로 국가별 실행)
+- [x] 누락 26개 지역 일별 데이터 생성 (3배치: VN/PH/SG → ID/TW/ES → IT/UK/TR/GR)
+- [x] 스키마 URL travel-weather.pages.dev → travel-weather-guide.github.io 수정
+- [x] 10개국 썸네일 이미지(imageUrl) 추가
+- [x] 빌드 확인 (73페이지 정상)
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-05 | 원인 파악: 10개국 26개 지역 daily 데이터 파일 미생성 |
+| 04-05 | 1차 배치 (베트남, 필리핀, 싱가포르) 7개 지역 생성 |
+| 04-05 | 2차 배치 (인도네시아, 대만, 스페인) 8개 지역 생성 |
+| 04-05 | 3차 배치 (이탈리아, 영국, 터키, 그리스) 11개 지역 생성 |
+| 04-05 | 스키마 URL 수정 + 10개국 썸네일 이미지 추가 |
