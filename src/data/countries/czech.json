@@ -1,0 +1,149 @@
+{
+  "id": "czech",
+  "name": {
+    "ko": "체코",
+    "en": "Czech Republic"
+  },
+  "continent": "europe",
+  "capital": "Prague",
+  "currency": "Czech koruna (Kč)",
+  "language": "Czech, Slovak",
+  "timezone": "UTC+01:00",
+  "visaInfo": "무비자 90일 (쉥겐 지역)",
+  "regions": [
+    {
+      "id": "prague",
+      "name": {
+        "ko": "프라하",
+        "en": "Prague"
+      },
+      "countryId": "czech",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "climateType": "온대 대륙성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 4.4,
+          "tempLow": -1,
+          "rainfall": 41.2,
+          "rainyDays": 11.6,
+          "humidity": 81.7,
+          "sunshineHours": 4,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 2,
+          "tempHigh": 7.4,
+          "tempLow": 0.4,
+          "rainfall": 44.3,
+          "rainyDays": 13.8,
+          "humidity": 77.2,
+          "sunshineHours": 5.5,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 3,
+          "tempHigh": 10.7,
+          "tempLow": 1,
+          "rainfall": 32.8,
+          "rainyDays": 9.2,
+          "humidity": 69.1,
+          "sunshineHours": 8.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 14.3,
+          "tempLow": 3.7,
+          "rainfall": 43,
+          "rainyDays": 10.2,
+          "humidity": 63,
+          "sunshineHours": 9.3,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 19.3,
+          "tempLow": 9,
+          "rainfall": 77.2,
+          "rainyDays": 12.2,
+          "humidity": 64.5,
+          "sunshineHours": 10.9,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 6,
+          "tempHigh": 24.5,
+          "tempLow": 14.1,
+          "rainfall": 92.3,
+          "rainyDays": 12.4,
+          "humidity": 64.9,
+          "sunshineHours": 12.1,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 7,
+          "tempHigh": 26,
+          "tempLow": 15.5,
+          "rainfall": 63.2,
+          "rainyDays": 12.4,
+          "humidity": 61.3,
+          "sunshineHours": 12.3,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 25.3,
+          "tempLow": 15.5,
+          "rainfall": 104.1,
+          "rainyDays": 13.2,
+          "humidity": 68.7,
+          "sunshineHours": 10.4,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 9,
+          "tempHigh": 21.4,
+          "tempLow": 11.6,
+          "rainfall": 64.9,
+          "rainyDays": 8.6,
+          "humidity": 71.7,
+          "sunshineHours": 9.3,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 10,
+          "tempHigh": 15.9,
+          "tempLow": 7.4,
+          "rainfall": 51.2,
+          "rainyDays": 10.6,
+          "humidity": 79.2,
+          "sunshineHours": 6.7,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 11,
+          "tempHigh": 8.1,
+          "tempLow": 2.1,
+          "rainfall": 45.4,
+          "rainyDays": 9.6,
+          "humidity": 84.9,
+          "sunshineHours": 4.4,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 12,
+          "tempHigh": 4.7,
+          "tempLow": -0.2,
+          "rainfall": 53.9,
+          "rainyDays": 12.2,
+          "humidity": 85,
+          "sunshineHours": 3.5,
+          "weatherSummary": "추움"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1541849546-216549ae216d?auto=format&fit=crop&w=800&q=80"
+}

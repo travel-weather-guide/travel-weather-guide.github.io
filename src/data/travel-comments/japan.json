@@ -3,58 +3,16 @@
     "regionId": "tokyo",
     "month": 1,
     "rating": 2,
-    "summary": {
-      "ko": "겨울 일루미네이션과 맑은 후지산 전망이 매력인 시기",
-      "en": "Winter illuminations and clear views of Mt. Fuji make this a charming time",
-      "ja": "冬のイルミネーションと晴れた富士山の眺めが魅力の時期",
-      "zh": "冬季灯饰与晴朗的富士山景色交相辉映，魅力十足"
-    },
-    "highlights": {
-      "ko": [
-        "겨울 스포츠에 적합한 시기"
-      ],
-      "en": [
-        "Great time for winter sports"
-      ],
-      "ja": [
-        "ウィンタースポーツに最適な時期"
-      ],
-      "zh": [
-        "适合冬季运动的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "보온 용품과 핫팩 준비"
-      ],
-      "en": [
-        "Bring warm accessories and hand warmers"
-      ],
-      "ja": [
-        "防寒グッズとカイロを準備"
-      ],
-      "zh": [
-        "准备保暖用品和暖手宝"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
-      "en": "Down jacket, thick coat, and winter gear essential",
-      "ja": "ダウンジャケット、厚手のコート、防寒用品必須",
-      "zh": "羽绒服、厚外套、防寒用品必备"
-    },
+    "summary": "겨울 일루미네이션과 맑은 후지산 전망이 매력인 시기",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -62,62 +20,17 @@
     "regionId": "tokyo",
     "month": 2,
     "rating": 3,
-    "summary": {
-      "ko": "아직 쌀쌀하지만 매화가 피기 시작하는 초봄",
-      "en": "Still chilly, but early spring arrives with plum blossoms beginning to bloom",
-      "ja": "まだ肌寒いが、梅が咲き始める初春",
-      "zh": "仍有寒意，但梅花开始绽放，初春气息渐浓"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "강수량이 적어 맑은 날이 많음"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Low rainfall means many clear sunny days"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "降水量が少なく晴れの日が多い"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "降雨量少，晴天居多"
-      ]
-    },
-    "cautions": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves. Warm layering needed",
-      "ja": "コート、マフラー、手袋。保温レイヤーが必要",
-      "zh": "大衣、围巾、手套，需要保暖分层穿搭"
-    },
+    "summary": "아직 쌀쌀하지만 매화가 피기 시작하는 초봄",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -125,82 +38,22 @@
     "regionId": "tokyo",
     "month": 3,
     "rating": 2,
-    "summary": {
-      "ko": "벚꽃 시즌 시작, 우에노·메구로 벚꽃 명소 인파",
-      "en": "Cherry blossom season begins; crowds gather at Ueno and Meguro spots",
-      "ja": "桜シーズン開幕、上野・目黒の花見スポットに人出が集中",
-      "zh": "樱花季开始，上野、目黑赏花名胜游人如织"
-    },
-    "highlights": {
-      "ko": [
-        "벚꽃(사쿠라) 시즌으로 일본 최고의 여행 시기"
-      ],
-      "en": [
-        "Cherry blossom (sakura) season — the best time to travel Japan"
-      ],
-      "ja": [
-        "桜（サクラ）シーズン、日本旅行の最高の時期"
-      ],
-      "zh": [
-        "樱花（sakura）季节，日本旅行的最佳时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 151mm로 우기에 해당",
-        "비 오는 날이 12일로 실내 대안 준비 권장"
-      ],
-      "en": [
-        "Monthly rainfall of 151mm qualifies as rainy season",
-        "12 rainy days — have indoor backup plans ready"
-      ],
-      "ja": [
-        "月降水量151mmで雨季に相当",
-        "12日の雨日、室内代替案の準備を推奨"
-      ],
-      "zh": [
-        "月降雨量151mm，属于雨季",
-        "约12天雨天，建议准备室内备选方案"
-      ]
-    },
-    "events": {
-      "ko": [
-        "벚꽃 시즌 (3월 말~4월 초)",
-        "우에노 공원 벚꽃 축제"
-      ],
-      "en": [
-        "Cherry blossom season (late March to early April)",
-        "Ueno Park cherry blossom festival"
-      ],
-      "ja": [
-        "桜シーズン（3月末〜4月初旬）",
-        "上野公園の桜まつり"
-      ],
-      "zh": [
-        "樱花季（3月下旬至4月初）",
-        "上野公园樱花节"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long pants. Outer layer essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，外套必备"
-    },
+    "summary": "벚꽃 시즌 시작, 우에노·메구로 벚꽃 명소 인파",
+    "highlights": [
+      "벚꽃(사쿠라) 시즌으로 일본 최고의 여행 시기"
+    ],
+    "cautions": [
+      "월 강수량 151mm로 우기에 해당",
+      "비 오는 날이 12일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "벚꽃 시즌 (3월 말~4월 초)",
+      "우에노 공원 벚꽃 축제"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -208,94 +61,25 @@
     "regionId": "tokyo",
     "month": 4,
     "rating": 3,
-    "summary": {
-      "ko": "벚꽃(사쿠라) 만개, 일본 여행의 최고 시기",
-      "en": "Sakura in full bloom — the best time to travel Japan",
-      "ja": "桜（サクラ）満開、日本旅行の最高シーズン",
-      "zh": "樱花（sakura）盛开，日本旅行的最佳时节"
-    },
-    "highlights": {
-      "ko": [
-        "벚꽃(사쿠라) 시즌으로 일본 최고의 여행 시기",
-        "일조시간이 길어 야외 활동에 좋음"
-      ],
-      "en": [
-        "Cherry blossom (sakura) season — the best time to travel Japan",
-        "Long sunshine hours make it great for outdoor activities"
-      ],
-      "ja": [
-        "桜（サクラ）シーズン、日本旅行の最高の時期",
-        "日照時間が長く、屋外活動に最適"
-      ],
-      "zh": [
-        "樱花（sakura）季节，日本旅行的最佳时期",
-        "日照时间充足，非常适合户外活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 162mm로 우기에 해당",
-        "비 오는 날이 11.8일로 실내 대안 준비 권장",
-        "습도가 71%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 162mm qualifies as rainy season",
-        "11.8 rainy days — have indoor backup plans ready",
-        "Humidity at 71% is somewhat high"
-      ],
-      "ja": [
-        "月降水量162mmで雨季に相当",
-        "11.8日の雨日、室内代替案の準備を推奨",
-        "湿度71%でやや高い"
-      ],
-      "zh": [
-        "月降雨量162mm，属于雨季",
-        "约11.8天雨天，建议准备室内备选方案",
-        "湿度71%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "벚꽃 시즌 (3월 말~4월 초)",
-        "우에노 공원 벚꽃 축제"
-      ],
-      "en": [
-        "Cherry blossom season (late March to early April)",
-        "Ueno Park cherry blossom festival"
-      ],
-      "ja": [
-        "桜シーズン（3月末〜4月初旬）",
-        "上野公園の桜まつり"
-      ],
-      "zh": [
-        "樱花季（3月下旬至4月初）",
-        "上野公园樱花节"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long pants. Outer layer essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，外套必备"
-    },
+    "summary": "벚꽃(사쿠라) 만개, 일본 여행의 최고 시기",
+    "highlights": [
+      "벚꽃(사쿠라) 시즌으로 일본 최고의 여행 시기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "월 강수량 162mm로 우기에 해당",
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [
+      "벚꽃 시즌 (3월 말~4월 초)",
+      "우에노 공원 벚꽃 축제"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -303,82 +87,22 @@
     "regionId": "tokyo",
     "month": 5,
     "rating": 2,
-    "summary": {
-      "ko": "신록의 계절, 쾌적한 기온으로 산책하기 좋은 시기",
-      "en": "Season of fresh greenery with pleasant temperatures — perfect for strolling",
-      "ja": "新緑の季節、過ごしやすい気温で散策に最適",
-      "zh": "新绿时节，气温宜人，非常适合漫步游览"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 168mm로 우기에 해당",
-        "비 오는 날이 13.4일로 실내 대안 준비 권장",
-        "습도가 75%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 168mm qualifies as rainy season",
-        "13.4 rainy days — have indoor backup plans ready",
-        "Humidity at 75% is somewhat high"
-      ],
-      "ja": [
-        "月降水量168mmで雨季に相当",
-        "13.4日の雨日、室内代替案の準備を推奨",
-        "湿度75%でやや高い"
-      ],
-      "zh": [
-        "月降雨量168mm，属于雨季",
-        "约13.4天雨天，建议准备室内备选方案",
-        "湿度75%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
+    "summary": "신록의 계절, 쾌적한 기온으로 산책하기 좋은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 168mm로 우기에 해당",
+      "비 오는 날이 13.4일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -386,181 +110,49 @@
     "regionId": "tokyo",
     "month": 6,
     "rating": 3,
-    "summary": {
-      "ko": "장마(쯔유) 시즌, 비가 잦고 습도가 높아지는 시기",
-      "en": "Tsuyu (rainy season) brings frequent rain and rising humidity",
-      "ja": "梅雨シーズン、雨が多く湿度が高くなる時期",
-      "zh": "梅雨季节，降雨频繁，湿度明显上升"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 203mm로 우기에 해당",
-        "월 15.2일 비가 와 야외 일정에 유의",
-        "습도가 80%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 203mm qualifies as rainy season",
-        "15.2 rainy days — outdoor plans need flexibility",
-        "Humidity at 80% is somewhat high"
-      ],
-      "ja": [
-        "月降水量203mmで雨季に相当",
-        "15.2日の雨日、屋外日程に注意が必要",
-        "湿度80%でやや高い"
-      ],
-      "zh": [
-        "月降雨量203mm，属于雨季",
-        "月内约15.2天雨天，户外行程需灵活安排",
-        "湿度80%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "summary": "장마(쯔유) 시즌, 비가 잦고 습도가 높아지는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 203mm로 우기에 해당",
+      "월 15.2일 비가 와 야외 일정에 유의",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "tokyo",
     "month": 7,
     "rating": 2,
-    "summary": {
-      "ko": "무더위와 높은 습도, 불꽃축제가 열리는 여름",
-      "en": "Sweltering heat and high humidity, but summer fireworks festivals light up the sky",
-      "ja": "猛暑と高湿度の中、夏の花火大会が開かれる季節",
-      "zh": "酷暑高湿，夏日烟火大会点亮夜空"
-    },
-    "highlights": {
-      "ko": [
-        "여름 불꽃놀이(하나비) 시즌",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Summer fireworks (Hanabi) season",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "夏の花火（ハナビ）シーズン",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "夏季烟火（花火）季节",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 219mm로 우기에 해당",
-        "월 18일 비가 와 야외 일정에 유의",
-        "습도가 79%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 219mm qualifies as rainy season",
-        "18 rainy days — outdoor plans need flexibility",
-        "Humidity at 79% is somewhat high"
-      ],
-      "ja": [
-        "月降水量219mmで雨季に相当",
-        "18日の雨日、屋外日程に注意が必要",
-        "湿度79%でやや高い"
-      ],
-      "zh": [
-        "月降雨量219mm，属于雨季",
-        "月内约18天雨天，户外行程需灵活安排",
-        "湿度79%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "스미다강 불꽃놀이 (7월)",
-        "여름 마츠리"
-      ],
-      "en": [
-        "Sumida River Fireworks Festival (July)",
-        "Summer matsuri (festivals)"
-      ],
-      "ja": [
-        "隅田川花火大会（7月）",
-        "夏祭り"
-      ],
-      "zh": [
-        "隅田川烟火大会（7月）",
-        "夏日祭典"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "무더위와 높은 습도, 불꽃축제가 열리는 여름",
+    "highlights": [
+      "여름 불꽃놀이(하나비) 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 219mm로 우기에 해당",
+      "월 18일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "스미다강 불꽃놀이 (7월)",
+      "여름 마츠리"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -568,157 +160,43 @@
     "regionId": "tokyo",
     "month": 8,
     "rating": 3,
-    "summary": {
-      "ko": "한여름 폭염, 에어컨 없이는 힘든 시기",
-      "en": "Midsummer heat wave — air conditioning is a must",
-      "ja": "真夏の猛暑、エアコンなしでは厳しい時期",
-      "zh": "盛夏酷热，没有空调几乎难以忍受"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 145mm로 우산 필수",
-        "비 오는 날이 14.2일로 실내 대안 준비 권장",
-        "습도가 78%로 다소 높음"
-      ],
-      "en": [
-        "Rainfall of 145mm — umbrella essential",
-        "14.2 rainy days — have indoor backup plans ready",
-        "Humidity at 78% is somewhat high"
-      ],
-      "ja": [
-        "降水量145mm、傘が必須",
-        "14.2日の雨日、室内代替案の準備を推奨",
-        "湿度78%でやや高い"
-      ],
-      "zh": [
-        "降雨量145mm，雨伞必备",
-        "约14.2天雨天，建议准备室内备选方案",
-        "湿度78%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "summary": "한여름 폭염, 에어컨 없이는 힘든 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "강수량이 145mm로 우산 필수",
+      "비 오는 날이 14.2일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "tokyo",
     "month": 9,
     "rating": 2,
-    "summary": {
-      "ko": "잔여 더위와 태풍 가능성이 있는 초가을",
-      "en": "Lingering heat and potential typhoons mark the start of autumn",
-      "ja": "残暑と台風の可能性がある初秋",
-      "zh": "余热未消，台风风险犹存的初秋时节"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "快適な気温"
-      ],
-      "zh": [
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 188mm로 우기에 해당",
-        "비 오는 날이 15일로 실내 대안 준비 권장",
-        "습도 81%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 188mm qualifies as rainy season",
-        "15 rainy days — have indoor backup plans ready",
-        "Humidity at 81% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "月降水量188mmで雨季に相当",
-        "15日の雨日、室内代替案の準備を推奨",
-        "湿度81%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量188mm，属于雨季",
-        "约15天雨天，建议准备室内备选方案",
-        "湿度81%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
+    "summary": "잔여 더위와 태풍 가능성이 있는 초가을",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 188mm로 우기에 해당",
+      "비 오는 날이 15일로 실내 대안 준비 권장",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -726,74 +204,20 @@
     "regionId": "tokyo",
     "month": 10,
     "rating": 2,
-    "summary": {
-      "ko": "단풍이 물드는 가을, 맑고 쾌적한 날씨",
-      "en": "Autumn colours arrive with clear, comfortable weather",
-      "ja": "紅葉が色づく秋、晴れて過ごしやすい天気",
-      "zh": "秋色渐浓，天气晴朗宜人"
-    },
-    "highlights": {
-      "ko": [
-        "현지 일상을 경험하기 좋은 시기"
-      ],
-      "en": [
-        "A great time to experience local everyday life"
-      ],
-      "ja": [
-        "現地の日常を体験するのに良い時期"
-      ],
-      "zh": [
-        "体验当地日常生活的好时机"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 158mm로 우기에 해당",
-        "비 오는 날이 11.8일로 실내 대안 준비 권장",
-        "습도가 77%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 158mm qualifies as rainy season",
-        "11.8 rainy days — have indoor backup plans ready",
-        "Humidity at 77% is somewhat high"
-      ],
-      "ja": [
-        "月降水量158mmで雨季に相当",
-        "11.8日の雨日、室内代替案の準備を推奨",
-        "湿度77%でやや高い"
-      ],
-      "zh": [
-        "月降雨量158mm，属于雨季",
-        "约11.8天雨天，建议准备室内备选方案",
-        "湿度77%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
+    "summary": "단풍이 물드는 가을, 맑고 쾌적한 날씨",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 강수량 158mm로 우기에 해당",
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -801,70 +225,19 @@
     "regionId": "tokyo",
     "month": 11,
     "rating": 3,
-    "summary": {
-      "ko": "단풍 절정, 가을 축제와 일루미네이션 시작",
-      "en": "Peak foliage — autumn festivals and illuminations begin",
-      "ja": "紅葉最盛期、秋祭りとイルミネーション開始",
-      "zh": "红叶盛极，秋日祭典与灯饰亮相"
-    },
-    "highlights": {
-      "ko": [
-        "단풍과 일루미네이션의 계절"
-      ],
-      "en": [
-        "Season of autumn leaves and illuminations"
-      ],
-      "ja": [
-        "紅葉とイルミネーションの季節"
-      ],
-      "zh": [
-        "红叶与灯饰交相辉映的季节"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "습도가 74%로 다소 높음"
-      ],
-      "en": [
-        "Humidity at 74% is somewhat high"
-      ],
-      "ja": [
-        "湿度74%でやや高い"
-      ],
-      "zh": [
-        "湿度74%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "단풍 시즌 (11~12월)",
-        "도쿄 크리스마스 일루미네이션"
-      ],
-      "en": [
-        "Autumn foliage season (November–December)",
-        "Tokyo Christmas illuminations"
-      ],
-      "ja": [
-        "紅葉シーズン（11〜12月）",
-        "東京クリスマスイルミネーション"
-      ],
-      "zh": [
-        "红叶季节（11-12月）",
-        "东京圣诞灯饰"
-      ]
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long pants. Outer layer essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，外套必备"
-    },
+    "summary": "단풍 절정, 가을 축제와 일루미네이션 시작",
+    "highlights": [
+      "단풍과 일루미네이션의 계절"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "단풍 시즌 (11~12월)",
+      "도쿄 크리스마스 일루미네이션"
+    ],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -872,62 +245,17 @@
     "regionId": "tokyo",
     "month": 12,
     "rating": 3,
-    "summary": {
-      "ko": "쌀쌀한 겨울이지만 연말 분위기와 일루미네이션",
-      "en": "Chilly winter but the year-end atmosphere and illuminations are festive",
-      "ja": "肌寒い冬だが年末ムードとイルミネーションが輝く",
-      "zh": "冬日寒凉，却有浓厚年末氛围与璀璨灯饰"
-    },
-    "highlights": {
-      "ko": [
-        "단풍과 일루미네이션의 계절"
-      ],
-      "en": [
-        "Season of autumn leaves and illuminations"
-      ],
-      "ja": [
-        "紅葉とイルミネーションの季節"
-      ],
-      "zh": [
-        "红叶与灯饰交相辉映的季节"
-      ]
-    },
-    "cautions": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "events": {
-      "ko": [
-        "단풍 시즌 (11~12월)",
-        "도쿄 크리스마스 일루미네이션"
-      ],
-      "en": [
-        "Autumn foliage season (November–December)",
-        "Tokyo Christmas illuminations"
-      ],
-      "ja": [
-        "紅葉シーズン（11〜12月）",
-        "東京クリスマスイルミネーション"
-      ],
-      "zh": [
-        "红叶季节（11-12月）",
-        "东京圣诞灯饰"
-      ]
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves. Warm layering needed",
-      "ja": "コート、マフラー、手袋。保温レイヤーが必要",
-      "zh": "大衣、围巾、手套，需要保暖分层穿搭"
-    },
+    "summary": "쌀쌀한 겨울이지만 연말 분위기와 일루미네이션",
+    "highlights": [
+      "단풍과 일루미네이션의 계절"
+    ],
+    "cautions": [],
+    "events": [
+      "단풍 시즌 (11~12월)",
+      "도쿄 크리스마스 일루미네이션"
+    ],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -935,58 +263,16 @@
     "regionId": "osaka",
     "month": 1,
     "rating": 3,
-    "summary": {
-      "ko": "겨울이지만 오사카성 일루미네이션과 저렴한 항공권",
-      "en": "Winter, but Osaka Castle illuminations and cheap flights make it worthwhile",
-      "ja": "冬でも大阪城イルミネーションとお得な航空券が魅力",
-      "zh": "冬季的大阪城灯饰与便宜的机票让这个时节颇具吸引力"
-    },
-    "highlights": {
-      "ko": [
-        "현지 일상을 경험하기 좋은 시기"
-      ],
-      "en": [
-        "A great time to experience local everyday life"
-      ],
-      "ja": [
-        "現地の日常を体験するのに良い時期"
-      ],
-      "zh": [
-        "体验当地日常生活的好时机"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "습도가 74%로 다소 높음"
-      ],
-      "en": [
-        "Humidity at 74% is somewhat high"
-      ],
-      "ja": [
-        "湿度74%でやや高い"
-      ],
-      "zh": [
-        "湿度74%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves. Warm layering needed",
-      "ja": "コート、マフラー、手袋。保温レイヤーが必要",
-      "zh": "大衣、围巾、手套，需要保暖分层穿搭"
-    },
+    "summary": "겨울이지만 오사카성 일루미네이션과 저렴한 항공권",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -994,58 +280,16 @@
     "regionId": "osaka",
     "month": 2,
     "rating": 2,
-    "summary": {
-      "ko": "추운 겨울, 실내 먹거리 투어에 좋은 시기",
-      "en": "Cold winter — a great time for indoor food tours",
-      "ja": "寒い冬、室内グルメツアーに最適な時期",
-      "zh": "寒冬时节，非常适合室内美食之旅"
-    },
-    "highlights": {
-      "ko": [
-        "현지 일상을 경험하기 좋은 시기"
-      ],
-      "en": [
-        "A great time to experience local everyday life"
-      ],
-      "ja": [
-        "現地の日常を体験するのに良い時期"
-      ],
-      "zh": [
-        "体验当地日常生活的好时机"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "습도가 73%로 다소 높음"
-      ],
-      "en": [
-        "Humidity at 73% is somewhat high"
-      ],
-      "ja": [
-        "湿度73%でやや高い"
-      ],
-      "zh": [
-        "湿度73%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves. Warm layering needed",
-      "ja": "コート、マフラー、手袋。保温レイヤーが必要",
-      "zh": "大衣、围巾、手套，需要保暖分层穿搭"
-    },
+    "summary": "추운 겨울, 실내 먹거리 투어에 좋은 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -1053,94 +297,25 @@
     "regionId": "osaka",
     "month": 3,
     "rating": 2,
-    "summary": {
-      "ko": "벚꽃 시작, 오사카성과 조폐국 벚꽃 명소",
-      "en": "Cherry blossoms begin at Osaka Castle and the Mint Bureau's famed path",
-      "ja": "桜開花、大阪城と造幣局の桜の名所へ",
-      "zh": "樱花初开，大阪城与造币局樱花大道闻名遐迩"
-    },
-    "highlights": {
-      "ko": [
-        "오사카성 벚꽃이 만개하는 시기",
-        "일조시간이 길어 야외 활동에 좋음"
-      ],
-      "en": [
-        "Osaka Castle cherry blossoms reach full bloom",
-        "Long sunshine hours make it great for outdoor activities"
-      ],
-      "ja": [
-        "大阪城の桜が満開になる時期",
-        "日照時間が長く、屋外活動に最適"
-      ],
-      "zh": [
-        "大阪城樱花盛开的时节",
-        "日照时间充足，非常适合户外活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 127mm로 우산 필수",
-        "비 오는 날이 10.6일로 실내 대안 준비 권장",
-        "습도가 73%로 다소 높음"
-      ],
-      "en": [
-        "127mm rainfall — an umbrella is a must",
-        "10.6 rainy days — have indoor backup plans ready",
-        "Humidity at 73% is somewhat high"
-      ],
-      "ja": [
-        "降水量127mmで傘は必須",
-        "10.6日の雨日、室内代替案の準備を推奨",
-        "湿度73%でやや高い"
-      ],
-      "zh": [
-        "降雨量127mm，雨伞必备",
-        "约10.6天雨天，建议准备室内备选方案",
-        "湿度73%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "벚꽃 시즌",
-        "조폐국 벚꽃 통로 개방"
-      ],
-      "en": [
-        "Cherry blossom season",
-        "Osaka Mint Bureau cherry blossom corridor opens"
-      ],
-      "ja": [
-        "桜のシーズン",
-        "造幣局の桜の通り抜け開放"
-      ],
-      "zh": [
-        "樱花季节",
-        "造币局樱花通道开放"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves. Warm layering needed",
-      "ja": "コート、マフラー、手袋。保温レイヤーが必要",
-      "zh": "大衣、围巾、手套，需要保暖分层穿搭"
-    },
+    "summary": "벚꽃 시작, 오사카성과 조폐국 벚꽃 명소",
+    "highlights": [
+      "오사카성 벚꽃이 만개하는 시기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 127mm로 우산 필수",
+      "비 오는 날이 10.6일로 실내 대안 준비 권장",
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [
+      "벚꽃 시즌",
+      "조폐국 벚꽃 통로 개방"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -1148,90 +323,24 @@
     "regionId": "osaka",
     "month": 4,
     "rating": 3,
-    "summary": {
-      "ko": "벚꽃 만개, 조폐국 벚꽃 통로가 절정인 시기",
-      "en": "Full bloom — the Mint Bureau cherry blossom corridor is at its peak",
-      "ja": "桜満開、造幣局の桜の通り抜けが最盛期",
-      "zh": "樱花满开，造币局樱花通道迎来最美时刻"
-    },
-    "highlights": {
-      "ko": [
-        "오사카성 벚꽃이 만개하는 시기",
-        "일조시간이 길어 야외 활동에 좋음"
-      ],
-      "en": [
-        "Osaka Castle cherry blossoms reach full bloom",
-        "Long sunshine hours make it great for outdoor activities"
-      ],
-      "ja": [
-        "大阪城の桜が満開になる時期",
-        "日照時間が長く、屋外活動に最適"
-      ],
-      "zh": [
-        "大阪城樱花盛开的时节",
-        "日照时间充足，非常适合户外活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 166mm로 우기에 해당",
-        "습도가 72%로 다소 높음"
-      ],
-      "en": [
-        "166mm of rainfall this month — rainy season conditions",
-        "Humidity at 72% — somewhat high"
-      ],
-      "ja": [
-        "月降水量166mmで雨季に該当",
-        "湿度72%でやや高め"
-      ],
-      "zh": [
-        "本月降雨量166mm，属于雨季",
-        "湿度72%，稍显偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "벚꽃 시즌",
-        "조폐국 벚꽃 통로 개방"
-      ],
-      "en": [
-        "Cherry blossom season",
-        "Osaka Mint Bureau cherry blossom corridor opens"
-      ],
-      "ja": [
-        "桜のシーズン",
-        "造幣局の桜の通り抜け開放"
-      ],
-      "zh": [
-        "樱花季节",
-        "造币局樱花通道开放"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long pants. Outer layer essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，外套必备"
-    },
+    "summary": "벚꽃 만개, 조폐국 벚꽃 통로가 절정인 시기",
+    "highlights": [
+      "오사카성 벚꽃이 만개하는 시기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "월 강수량 166mm로 우기에 해당",
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "벚꽃 시즌",
+      "조폐국 벚꽃 통로 개방"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -1239,82 +348,22 @@
     "regionId": "osaka",
     "month": 5,
     "rating": 3,
-    "summary": {
-      "ko": "쾌적한 봄 날씨, 관광하기 좋은 시기",
-      "en": "Pleasant spring weather — ideal for sightseeing",
-      "ja": "過ごしやすい春の天気、観光に最適な時期",
-      "zh": "春日气候宜人，非常适合观光游览"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 218mm로 우기에 해당",
-        "비 오는 날이 13.4일로 실내 대안 준비 권장",
-        "습도가 75%로 다소 높음"
-      ],
-      "en": [
-        "218mm of rainfall this month — rainy season conditions",
-        "13.4 rainy days — have indoor backup plans ready",
-        "Humidity at 75% is somewhat high"
-      ],
-      "ja": [
-        "月降水量218mmで雨季に該当",
-        "13.4日の雨日、室内代替案の準備を推奨",
-        "湿度75%でやや高い"
-      ],
-      "zh": [
-        "本月降雨量218mm，属于雨季",
-        "约13.4天雨天，建议准备室内备选方案",
-        "湿度75%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
+    "summary": "쾌적한 봄 날씨, 관광하기 좋은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 218mm로 우기에 해당",
+      "비 오는 날이 13.4일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -1322,165 +371,45 @@
     "regionId": "osaka",
     "month": 6,
     "rating": 3,
-    "summary": {
-      "ko": "장마 시즌 시작, 높은 습도와 잦은 비",
-      "en": "Rainy season begins — high humidity and frequent rain",
-      "ja": "梅雨シーズン開始、高湿度と雨が多くなる時期",
-      "zh": "梅雨季开始，湿度高且雨水频繁"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 248mm로 우기에 해당",
-        "비 오는 날이 13.8일로 실내 대안 준비 권장",
-        "습도가 78%로 다소 높음"
-      ],
-      "en": [
-        "248mm of rainfall this month — rainy season conditions",
-        "13.8 rainy days — have indoor alternatives ready",
-        "Humidity at 78% is somewhat high"
-      ],
-      "ja": [
-        "月降水量248mmで雨季に該当",
-        "雨の日が13.8日と多め — 室内の代替プランを用意するのがおすすめ",
-        "湿度78%でやや高い"
-      ],
-      "zh": [
-        "本月降雨量248mm，属于雨季",
-        "降雨天数约13.8天，建议准备室内备选方案",
-        "湿度78%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "summary": "장마 시즌 시작, 높은 습도와 잦은 비",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 248mm로 우기에 해당",
+      "비 오는 날이 13.8일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "osaka",
     "month": 7,
     "rating": 2,
-    "summary": {
-      "ko": "35°C 이상 폭염, 무더위가 기승을 부리는 시기",
-      "en": "Scorching heat above 35°C — the most sweltering time of year",
-      "ja": "35°C以上の猛暑、うだるような暑さが続く時期",
-      "zh": "气温超过35°C，酷暑难耐的时节"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 274mm로 우기에 해당",
-        "월 17.2일 비가 와 야외 일정에 유의",
-        "습도가 80%로 다소 높음"
-      ],
-      "en": [
-        "274mm of rainfall this month — rainy season conditions",
-        "17.2 rainy days — outdoor plans need flexibility",
-        "Humidity at 80% is somewhat high"
-      ],
-      "ja": [
-        "月降水量274mmで雨季に該当",
-        "17.2日の雨日、屋外日程に注意が必要",
-        "湿度80%でやや高い"
-      ],
-      "zh": [
-        "本月降雨量274mm，属于雨季",
-        "月内约17.2天雨天，户外行程需灵活安排",
-        "湿度80%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "35°C 이상 폭염, 무더위가 기승을 부리는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 274mm로 우기에 해당",
+      "월 17.2일 비가 와 야외 일정에 유의",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -1488,165 +417,45 @@
     "regionId": "osaka",
     "month": 8,
     "rating": 3,
-    "summary": {
-      "ko": "폭염 지속, 야외 활동이 힘든 한여름",
-      "en": "Heat wave continues — outdoor activities are challenging in midsummer",
-      "ja": "猛暑続く、野外活動が辛い真夏",
-      "zh": "酷热持续，盛夏户外活动十分艰难"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 188mm로 우기에 해당",
-        "월 15.4일 비가 와 야외 일정에 유의",
-        "습도가 75%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 188mm qualifies as rainy season",
-        "15.4 rainy days — outdoor plans need flexibility",
-        "Humidity at 75% is somewhat high"
-      ],
-      "ja": [
-        "月降水量188mmで雨季に相当",
-        "15.4日の雨日、屋外日程に注意が必要",
-        "湿度75%でやや高い"
-      ],
-      "zh": [
-        "月降雨量188mm，属于雨季",
-        "月内约15.4天雨天，户外行程需灵活安排",
-        "湿度75%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "summary": "폭염 지속, 야외 활동이 힘든 한여름",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 188mm로 우기에 해당",
+      "월 15.4일 비가 와 야외 일정에 유의",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "osaka",
     "month": 9,
     "rating": 1,
-    "summary": {
-      "ko": "태풍 리스크와 잔여 더위가 남은 시기",
-      "en": "Typhoon risk and lingering heat remain",
-      "ja": "台風リスクと残暑が残る時期",
-      "zh": "台风风险与余热并存的时节"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 190mm로 우기에 해당",
-        "비 오는 날이 14.2일로 실내 대안 준비 권장",
-        "습도가 76%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 190mm qualifies as rainy season",
-        "14.2 rainy days — have indoor backup plans ready",
-        "Humidity at 76% is somewhat high"
-      ],
-      "ja": [
-        "月降水量190mmで雨季に相当",
-        "14.2日の雨日、室内代替案の準備を推奨",
-        "湿度76%でやや高い"
-      ],
-      "zh": [
-        "月降雨量190mm，属于雨季",
-        "约14.2天雨天，建议准备室内备选方案",
-        "湿度76%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "태풍 리스크와 잔여 더위가 남은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 190mm로 우기에 해당",
+      "비 오는 날이 14.2일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -1654,78 +463,21 @@
     "regionId": "osaka",
     "month": 10,
     "rating": 2,
-    "summary": {
-      "ko": "단풍 시즌 시작, 미노오 폭포와 교토 근교 단풍",
-      "en": "Autumn foliage begins at Minoo Falls and around Kyoto",
-      "ja": "紅葉シーズン開始、箕面の滝と京都近郊の紅葉",
-      "zh": "红叶季开始，箕面瀑布与京都周边一片秋色"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 163mm로 우기에 해당",
-        "습도가 76%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 163mm qualifies as rainy season",
-        "Humidity at 76% is somewhat high"
-      ],
-      "ja": [
-        "月降水量163mmで雨季に相当",
-        "湿度76%でやや高い"
-      ],
-      "zh": [
-        "月降雨量163mm，属于雨季",
-        "湿度76%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
+    "summary": "단풍 시즌 시작, 미노오 폭포와 교토 근교 단풍",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 163mm로 우기에 해당",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -1733,70 +485,19 @@
     "regionId": "osaka",
     "month": 11,
     "rating": 3,
-    "summary": {
-      "ko": "단풍 절정, 가을 미식의 계절",
-      "en": "Peak autumn foliage — the season of gourmet autumn cuisine",
-      "ja": "紅葉最盛期、秋のグルメシーズン",
-      "zh": "红叶盛极，正是品味秋季美食的时节"
-    },
-    "highlights": {
-      "ko": [
-        "단풍 명소가 많은 가을"
-      ],
-      "en": [
-        "Autumn with many famous foliage spots"
-      ],
-      "ja": [
-        "紅葉の名所が多い秋"
-      ],
-      "zh": [
-        "红叶名胜遍布的秋天"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "습도가 76%로 다소 높음"
-      ],
-      "en": [
-        "Humidity at 76% is somewhat high"
-      ],
-      "ja": [
-        "湿度76%でやや高い"
-      ],
-      "zh": [
-        "湿度76%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "단풍 시즌",
-        "미노오 폭포 단풍"
-      ],
-      "en": [
-        "Autumn foliage season",
-        "Minoo Falls autumn foliage"
-      ],
-      "ja": [
-        "紅葉シーズン",
-        "箕面の滝の紅葉"
-      ],
-      "zh": [
-        "红叶季节",
-        "箕面瀑布红叶"
-      ]
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long pants. Outer layer essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，外套必备"
-    },
+    "summary": "단풍 절정, 가을 미식의 계절",
+    "highlights": [
+      "단풍 명소가 많은 가을"
+    ],
+    "cautions": [
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "단풍 시즌",
+      "미노오 폭포 단풍"
+    ],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -1804,70 +505,19 @@
     "regionId": "osaka",
     "month": 12,
     "rating": 3,
-    "summary": {
-      "ko": "쌀쌀하지만 연말 일루미네이션과 겨울 먹거리",
-      "en": "Chilly but year-end illuminations and winter street food make it festive",
-      "ja": "肌寒いが年末イルミネーションと冬のグルメが楽しめる",
-      "zh": "天气转凉，但年末灯饰与冬日美食带来浓浓节日气氛"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "강수량이 적어 맑은 날이 많음"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Low rainfall means many clear sunny days"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "降水量が少なく晴れの日が多い"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "降雨量少，晴天居多"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "습도가 73%로 다소 높음"
-      ],
-      "en": [
-        "Humidity at 73% is somewhat high"
-      ],
-      "ja": [
-        "湿度73%でやや高い"
-      ],
-      "zh": [
-        "湿度73%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves. Warm layering needed",
-      "ja": "コート、マフラー、手袋。保温レイヤーが必要",
-      "zh": "大衣、围巾、手套，需要保暖分层穿搭"
-    },
+    "summary": "쌀쌀하지만 연말 일루미네이션과 겨울 먹거리",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -1875,410 +525,113 @@
     "regionId": "okinawa",
     "month": 1,
     "rating": 3,
-    "summary": {
-      "ko": "비교적 따뜻한 겨울, 고래 관찰 시즌",
-      "en": "Relatively mild winter with whale watching season",
-      "ja": "比較的温暖な冬、クジラ観察シーズン",
-      "zh": "冬季气候温和，正值观鲸季节"
-    },
-    "highlights": {
-      "ko": [
-        "현지 일상을 경험하기 좋은 시기"
-      ],
-      "en": [
-        "A great time to experience local everyday life"
-      ],
-      "ja": [
-        "現地の日常を体験するのに良い時期"
-      ],
-      "zh": [
-        "体验当地日常生活的好时机"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 10.4일로 실내 대안 준비 권장",
-        "습도가 70%로 다소 높음"
-      ],
-      "en": [
-        "10.4 rainy days — have indoor backup plans ready",
-        "Humidity at 70% is somewhat high"
-      ],
-      "ja": [
-        "10.4日の雨日、室内代替案の準備を推奨",
-        "湿度70%でやや高い"
-      ],
-      "zh": [
-        "约10.4天雨天，建议准备室内备选方案",
-        "湿度70%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "summary": "비교적 따뜻한 겨울, 고래 관찰 시즌",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 10.4일로 실내 대안 준비 권장",
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "okinawa",
     "month": 2,
     "rating": 3,
-    "summary": {
-      "ko": "겨울이지만 15°C 이상, 고래 관찰 피크",
-      "en": "Above 15°C even in winter — peak humpback whale watching season",
-      "ja": "冬でも15°C以上、ザトウクジラ観察のピーク",
-      "zh": "冬季气温也在15°C以上，座头鲸观赏旺季"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "快適な気温"
-      ],
-      "zh": [
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 10.8일로 실내 대안 준비 권장",
-        "습도가 73%로 다소 높음"
-      ],
-      "en": [
-        "10.8 rainy days — have indoor backup plans ready",
-        "Humidity at 73% is somewhat high"
-      ],
-      "ja": [
-        "10.8日の雨日、室内代替案の準備を推奨",
-        "湿度73%でやや高い"
-      ],
-      "zh": [
-        "约10.8天雨天，建议准备室内备选方案",
-        "湿度73%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "summary": "겨울이지만 15°C 이상, 고래 관찰 피크",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 10.8일로 실내 대안 준비 권장",
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "okinawa",
     "month": 3,
     "rating": 3,
-    "summary": {
-      "ko": "일본 최초 해수욕장 개장, 봄 바다의 시작",
-      "en": "Japan's first beach opens for the season — spring at the sea begins",
-      "ja": "日本初の海水浴場開設、春の海の始まり",
-      "zh": "日本最早开放的海滨浴场，春日海洋序幕拉开"
-    },
-    "highlights": {
-      "ko": [
-        "해수욕 시즌 시작, 본토보다 일찍 따뜻해짐",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Beach season opens earlier than mainland Japan",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "海水浴シーズン開始、本土より早く暖かくなる",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "海水浴季开始，比日本本土更早回暖",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 145mm로 우산 필수",
-        "비 오는 날이 14.8일로 실내 대안 준비 권장",
-        "습도가 77%로 다소 높음"
-      ],
-      "en": [
-        "Rainfall of 145mm — umbrella essential",
-        "14.8 rainy days — have indoor alternatives ready",
-        "Humidity at 77% is somewhat high"
-      ],
-      "ja": [
-        "降水量145mm、傘が必須",
-        "雨の日が14.8日と多め — 室内の代替プランを用意するのがおすすめ",
-        "湿度77%でやや高い"
-      ],
-      "zh": [
-        "降雨量145mm，雨伞必备",
-        "降雨天数约14.8天，建议准备室内备选方案",
-        "湿度77%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "해변 개장 (3~4월)"
-      ],
-      "en": [
-        "Beach season opens (March–April)"
-      ],
-      "ja": [
-        "海水浴場オープン（3〜4月）"
-      ],
-      "zh": [
-        "海滩开放（3月至4月）"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
-    "crowdLevel": "medium",
+    "summary": "일본 최초 해수욕장 개장, 봄 바다의 시작",
+    "highlights": [
+      "해수욕 시즌 시작, 본토보다 일찍 따뜻해짐",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 145mm로 우산 필수",
+      "비 오는 날이 14.8일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "해변 개장 (3~4월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "okinawa",
     "month": 4,
     "rating": 3,
-    "summary": {
-      "ko": "해변 시즌 본격 개막, 성수기 전 여유로운 바다",
-      "en": "Full beach season opens — a relaxed sea before the peak crowds",
-      "ja": "ビーチシーズン本格開幕、ピーク前の穏やかな海",
-      "zh": "海滩季正式开幕，旺季前享受宁静的大海"
-    },
-    "highlights": {
-      "ko": [
-        "해수욕 시즌 시작, 본토보다 일찍 따뜻해짐",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Beach season opens earlier than mainland Japan",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "海水浴シーズン開始、本土より早く暖かくなる",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "海水浴季开始，比日本本土更早回暖",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 122mm로 우산 필수",
-        "비 오는 날이 14일로 실내 대안 준비 권장",
-        "습도가 79%로 다소 높음"
-      ],
-      "en": [
-        "Rainfall of 122mm — umbrella essential",
-        "14 rainy days — have indoor backup plans ready",
-        "Humidity at 79% is somewhat high"
-      ],
-      "ja": [
-        "降水量122mm、傘が必須",
-        "14日の雨日、室内代替案の準備を推奨",
-        "湿度79%でやや高い"
-      ],
-      "zh": [
-        "降雨量122mm，雨伞必备",
-        "约14天雨天，建议准备室内备选方案",
-        "湿度79%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "해변 개장 (3~4월)"
-      ],
-      "en": [
-        "Beach season opens (March–April)"
-      ],
-      "ja": [
-        "海水浴場オープン（3〜4月）"
-      ],
-      "zh": [
-        "海滩开放（3月至4月）"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
-    "crowdLevel": "medium",
+    "summary": "해변 시즌 본격 개막, 성수기 전 여유로운 바다",
+    "highlights": [
+      "해수욕 시즌 시작, 본토보다 일찍 따뜻해짐",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 122mm로 우산 필수",
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "해변 개장 (3~4월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "okinawa",
     "month": 5,
     "rating": 2,
-    "summary": {
-      "ko": "장마 직전, 해변은 좋지만 비 올 확률 증가",
-      "en": "Just before rainy season — beaches are nice but rain chances rise",
-      "ja": "梅雨直前、ビーチは良いが雨の確率が増える",
-      "zh": "梅雨前夕，海滩不错但降雨概率上升"
-    },
-    "highlights": {
-      "ko": [
-        "해수욕 시즌 시작, 본토보다 일찍 따뜻해짐",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Beach season opens earlier than mainland Japan",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "海水浴シーズン開始、本土より早く暖かくなる",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "海水浴季开始，比日本本土更早回暖",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 378mm로 우기에 해당",
-        "월 19일 비가 와 야외 일정에 유의",
-        "습도 85%로 불쾌지수 높음"
-      ],
-      "en": [
-        "378mm of rainfall this month — rainy season conditions",
-        "19 rainy days — outdoor plans need flexibility",
-        "Humidity at 85% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量378mmで雨季に該当",
-        "19日の雨日、屋外日程に注意が必要",
-        "湿度85%で不快指数が高い"
-      ],
-      "zh": [
-        "本月降雨量378mm，属于雨季",
-        "月内约19天雨天，户外行程需灵活安排",
-        "湿度85%，不适感较强"
-      ]
-    },
-    "events": {
-      "ko": [
-        "해변 개장 (3~4월)"
-      ],
-      "en": [
-        "Beach season opens (March–April)"
-      ],
-      "ja": [
-        "海水浴場オープン（3〜4月）"
-      ],
-      "zh": [
-        "海滩开放（3月至4月）"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
+    "summary": "장마 직전, 해변은 좋지만 비 올 확률 증가",
+    "highlights": [
+      "해수욕 시즌 시작, 본토보다 일찍 따뜻해짐",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 378mm로 우기에 해당",
+      "월 19일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [
+      "해변 개장 (3~4월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -2286,82 +639,22 @@
     "regionId": "okinawa",
     "month": 6,
     "rating": 1,
-    "summary": {
-      "ko": "장마(쯔유) 시즌, 폭우가 잦은 시기",
-      "en": "Tsuyu rainy season — heavy downpours are frequent",
-      "ja": "梅雨シーズン、大雨が多い時期",
-      "zh": "梅雨季节，暴雨频繁"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 357mm로 우기에 해당",
-        "월 21.4일 비가 와 야외 일정에 유의",
-        "습도 87%로 불쾌지수 높음"
-      ],
-      "en": [
-        "357mm of rainfall this month — rainy season conditions",
-        "Rain on 21.4 days this month — take care with outdoor plans",
-        "Humidity at 87% makes it feel very uncomfortable"
-      ],
-      "ja": [
-        "月降水量357mmで雨季に該当",
-        "月21.4日雨が降るため、屋外の予定に注意",
-        "湿度87%で不快指数が高い"
-      ],
-      "zh": [
-        "本月降雨量357mm，属于雨季",
-        "本月约21.4天有雨，户外行程需多加注意",
-        "湿度87%，不适感明显"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "장마(쯔유) 시즌, 폭우가 잦은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 357mm로 우기에 해당",
+      "월 21.4일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -2369,98 +662,26 @@
     "regionId": "okinawa",
     "month": 7,
     "rating": 1,
-    "summary": {
-      "ko": "태풍 시즌 시작, 항공편 결항 가능성 높음",
-      "en": "Typhoon season begins — high risk of flight cancellations",
-      "ja": "台風シーズン開始、航空便欠航の可能性が高まる",
-      "zh": "台风季开始，航班取消风险较高"
-    },
-    "highlights": {
-      "ko": [
-        "성수기이나 태풍 가능성 있음",
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Peak season but with typhoon risk",
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "最盛期だが台風の可能性あり",
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "旺季，但存在台风风险",
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 175mm로 우기에 해당",
-        "월 22일 비가 와 야외 일정에 유의",
-        "습도 83%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 175mm qualifies as rainy season",
-        "Rain on 22 days this month — take care with outdoor plans",
-        "Humidity at 83% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "月降水量175mmで雨季に相当",
-        "月22日雨が降るため、屋外の予定に注意",
-        "湿度83%で不快指数が高い"
-      ],
-      "zh": [
-        "月降雨量175mm，属于雨季",
-        "本月约22天有雨，户外行程需多加注意",
-        "湿度83%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "에이사 축제 (8월)",
-        "태풍 시즌"
-      ],
-      "en": [
-        "Eisa Festival (August)",
-        "Typhoon season"
-      ],
-      "ja": [
-        "エイサー祭り（8月）",
-        "台風シーズン"
-      ],
-      "zh": [
-        "艾萨舞蹈节（8月）",
-        "台风季节"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "태풍 시즌 시작, 항공편 결항 가능성 높음",
+    "highlights": [
+      "성수기이나 태풍 가능성 있음",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 175mm로 우기에 해당",
+      "월 22일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [
+      "에이사 축제 (8월)",
+      "태풍 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -2468,98 +689,26 @@
     "regionId": "okinawa",
     "month": 8,
     "rating": 1,
-    "summary": {
-      "ko": "태풍 절정기, 여행 일정이 틀어질 위험 큼",
-      "en": "Peak typhoon period — high risk of disrupted travel plans",
-      "ja": "台風最盛期、旅行日程が狂うリスクが高い",
-      "zh": "台风最旺盛期，旅行计划被打乱的风险极高"
-    },
-    "highlights": {
-      "ko": [
-        "성수기이나 태풍 가능성 있음",
-        "일조시간이 길어 야외 활동에 좋음",
-        "따뜻한 날씨로 해변 활동에 적합"
-      ],
-      "en": [
-        "Peak season but with typhoon risk",
-        "Long sunshine hours make it great for outdoor activities",
-        "Warm weather ideal for beach activities"
-      ],
-      "ja": [
-        "最盛期だが台風の可能性あり",
-        "日照時間が長く、屋外活動に最適",
-        "暖かい天気でビーチ活動に最適"
-      ],
-      "zh": [
-        "旺季，但存在台风风险",
-        "日照时间充足，非常适合户外活动",
-        "天气温暖，非常适合海滩活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 261mm로 우기에 해당",
-        "월 22.4일 비가 와 야외 일정에 유의",
-        "습도 83%로 불쾌지수 높음"
-      ],
-      "en": [
-        "261mm of rainfall this month — rainy season conditions",
-        "22.4 rainy days — outdoor plans need flexibility",
-        "Humidity at 83% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "月降水量261mmで雨季に該当",
-        "22.4日の雨日、屋外日程に注意が必要",
-        "湿度83%で不快指数が高い"
-      ],
-      "zh": [
-        "本月降雨量261mm，属于雨季",
-        "月内约22.4天雨天，户外行程需灵活安排",
-        "湿度83%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "에이사 축제 (8월)",
-        "태풍 시즌"
-      ],
-      "en": [
-        "Eisa Festival (August)",
-        "Typhoon season"
-      ],
-      "ja": [
-        "エイサー祭り（8月）",
-        "台風シーズン"
-      ],
-      "zh": [
-        "艾萨舞蹈节（8月）",
-        "台风季节"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "태풍 절정기, 여행 일정이 틀어질 위험 큼",
+    "highlights": [
+      "성수기이나 태풍 가능성 있음",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 261mm로 우기에 해당",
+      "월 22.4일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [
+      "에이사 축제 (8월)",
+      "태풍 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -2567,82 +716,22 @@
     "regionId": "okinawa",
     "month": 9,
     "rating": 1,
-    "summary": {
-      "ko": "태풍 리스크 여전, 바다도 파도가 높은 시기",
-      "en": "Typhoon risk persists — seas remain rough with high waves",
-      "ja": "台風リスク継続、海も波が高い時期",
-      "zh": "台风风险持续，海浪依然较高"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 176mm로 우기에 해당",
-        "월 23.4일 비가 와 야외 일정에 유의",
-        "습도 82%로 불쾌지수 높음"
-      ],
-      "en": [
-        "176mm of rainfall this month — rainy season conditions",
-        "Rain on 23.4 days this month — take care with outdoor plans",
-        "Humidity at 82% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "月降水量176mmで雨季に該当",
-        "月23.4日雨が降るため、屋外の予定に注意",
-        "湿度82%で不快指数が高い"
-      ],
-      "zh": [
-        "本月降雨量176mm，属于雨季",
-        "本月约23.4天有雨，户外行程需多加注意",
-        "湿度82%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "태풍 리스크 여전, 바다도 파도가 높은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 176mm로 우기에 해당",
+      "월 23.4일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -2650,82 +739,22 @@
     "regionId": "okinawa",
     "month": 10,
     "rating": 2,
-    "summary": {
-      "ko": "태풍 시즌 마무리, 따뜻한 바다가 돌아오는 시기",
-      "en": "Typhoon season wrapping up — warm seas returning",
-      "ja": "台風シーズン終盤、暖かい海が戻ってくる時期",
-      "zh": "台风季尾声，温暖的海水重新回归"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 127mm로 우산 필수",
-        "비 오는 날이 13.2일로 실내 대안 준비 권장",
-        "습도가 74%로 다소 높음"
-      ],
-      "en": [
-        "127mm rainfall — an umbrella is a must",
-        "13.2 rainy days — have indoor backup plans ready",
-        "Humidity at 74% is somewhat high"
-      ],
-      "ja": [
-        "降水量127mmで傘は必須",
-        "13.2日の雨日、室内代替案の準備を推奨",
-        "湿度74%でやや高い"
-      ],
-      "zh": [
-        "降雨量127mm，雨伞必备",
-        "约13.2天雨天，建议准备室内备选方案",
-        "湿度74%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
-      "en": "Short sleeves and light long pants. UV protection essential",
-      "ja": "半袖と薄手の長ズボン。紫外線対策必須",
-      "zh": "短袖和薄长裤，防晒必不可少"
-    },
+    "summary": "태풍 시즌 마무리, 따뜻한 바다가 돌아오는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 127mm로 우산 필수",
+      "비 오는 날이 13.2일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -2733,74 +762,20 @@
     "regionId": "okinawa",
     "month": 11,
     "rating": 3,
-    "summary": {
-      "ko": "쾌적한 기온, 다이빙·스노클링 즐기기 좋은 시기",
-      "en": "Comfortable temperatures — great for diving and snorkeling",
-      "ja": "快適な気温でダイビング・シュノーケリングに最適",
-      "zh": "气温宜人，非常适合潜水和浮潜"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "快適な気温"
-      ],
-      "zh": [
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 129mm로 우산 필수",
-        "비 오는 날이 12.6일로 실내 대안 준비 권장",
-        "습도가 74%로 다소 높음"
-      ],
-      "en": [
-        "129mm rainfall — an umbrella is a must",
-        "12.6 rainy days — have indoor backup plans ready",
-        "Humidity at 74% is somewhat high"
-      ],
-      "ja": [
-        "降水量129mmで傘は必須",
-        "12.6日の雨日、室内代替案の準備を推奨",
-        "湿度74%でやや高い"
-      ],
-      "zh": [
-        "降雨量129mm，雨伞必备",
-        "约12.6天雨天，建议准备室内备选方案",
-        "湿度74%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
+    "summary": "쾌적한 기온, 다이빙·스노클링 즐기기 좋은 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 129mm로 우산 필수",
+      "비 오는 날이 12.6일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -2808,74 +783,20 @@
     "regionId": "okinawa",
     "month": 12,
     "rating": 2,
-    "summary": {
-      "ko": "겨울이지만 온화, 관광객 적어 여유로운 시기",
-      "en": "Mild winter with fewer tourists — a relaxed time to visit",
-      "ja": "温暖な冬、観光客が少なくゆったりと過ごせる時期",
-      "zh": "冬季温和，游客较少，悠闲游览的好时机"
-    },
-    "highlights": {
-      "ko": [
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "快適な気温"
-      ],
-      "zh": [
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 190mm로 우기에 해당",
-        "비 오는 날이 13.6일로 실내 대안 준비 권장",
-        "습도가 71%로 다소 높음"
-      ],
-      "en": [
-        "Monthly rainfall of 190mm qualifies as rainy season",
-        "13.6 rainy days — have indoor backup plans ready",
-        "Humidity at 71% is somewhat high"
-      ],
-      "ja": [
-        "月降水量190mmで雨季に相当",
-        "13.6日の雨日、室内代替案の準備を推奨",
-        "湿度71%でやや高い"
-      ],
-      "zh": [
-        "月降雨量190mm，属于雨季",
-        "约13.6天雨天，建议准备室内备选方案",
-        "湿度71%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
+    "summary": "겨울이지만 온화, 관광객 적어 여유로운 시기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 190mm로 우기에 해당",
+      "비 오는 날이 13.6일로 실내 대안 준비 권장",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -2883,82 +804,22 @@
     "regionId": "hokkaido",
     "month": 1,
     "rating": 1,
-    "summary": {
-      "ko": "파우더 스노우 스키의 천국, 니세코·루스쓰 최적기",
-      "en": "Powder snow paradise — peak season at Niseko and Rusutsu",
-      "ja": "パウダースノースキーの天国、ニセコ・ルスツの最適期",
-      "zh": "粉雪滑雪天堂，二世谷与留寿都的最佳时节"
-    },
-    "highlights": {
-      "ko": [
-        "겨울 스포츠에 적합한 시기",
-        "비수기로 관광객이 적어 여유로움",
-        "비수기 할인을 활용할 수 있는 시기"
-      ],
-      "en": [
-        "Great time for winter sports",
-        "Off-season means fewer crowds and a more relaxed experience",
-        "Great time to take advantage of off-season discounts"
-      ],
-      "ja": [
-        "ウィンタースポーツに最適な時期",
-        "オフシーズンで観光客が少なく、ゆったり楽しめる",
-        "オフシーズン割引を活用できる時期"
-      ],
-      "zh": [
-        "适合冬季运动的时期",
-        "淡季游客稀少，旅行更加悠闲自在",
-        "可以享受淡季优惠的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최저기온 -10°C로 방한 대비 필요",
-        "월 18.6일 비가 와 야외 일정에 유의",
-        "습도가 76%로 다소 높음"
-      ],
-      "en": [
-        "Average low of -10°C — proper cold-weather gear required",
-        "18.6 rainy days — outdoor plans need flexibility",
-        "Humidity at 76% is somewhat high"
-      ],
-      "ja": [
-        "平均最低気温-10°C、防寒対策が必要",
-        "18.6日の雨日、屋外日程に注意が必要",
-        "湿度76%でやや高い"
-      ],
-      "zh": [
-        "平均最低气温-10°C，需做好防寒准备",
-        "月内约18.6天雨天，户外行程需灵活安排",
-        "湿度76%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "보온 용품과 핫팩 준비"
-      ],
-      "en": [
-        "Bring warm accessories and hand warmers"
-      ],
-      "ja": [
-        "防寒グッズとカイロを準備"
-      ],
-      "zh": [
-        "准备保暖用品和暖手宝"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
-      "en": "Thermal wear, down jacket, hand warmers — extreme cold protection essential",
-      "ja": "防寒着、ダウンジャケット、ホッカイロ — 極寒対策は必須",
-      "zh": "保暖内衣、羽绒服、暖宝宝，极寒防护必不可少"
-    },
+    "summary": "파우더 스노우 스키의 천국, 니세코·루스쓰 최적기",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -10°C로 방한 대비 필요",
+      "월 18.6일 비가 와 야외 일정에 유의",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -2966,90 +827,24 @@
     "regionId": "hokkaido",
     "month": 2,
     "rating": 1,
-    "summary": {
-      "ko": "삿포로 눈축제와 최고의 스키 시즌",
-      "en": "Sapporo Snow Festival and the best ski season of the year",
-      "ja": "さっぽろ雪まつりと最高のスキーシーズン",
-      "zh": "札幌雪祭与一年中最棒的滑雪季"
-    },
-    "highlights": {
-      "ko": [
-        "삿포로 눈축제와 겨울 스포츠의 계절",
-        "겨울 스포츠에 적합한 시기"
-      ],
-      "en": [
-        "Sapporo Snow Festival and the season of winter sports",
-        "Great time for winter sports"
-      ],
-      "ja": [
-        "さっぽろ雪まつりと冬のスポーツシーズン",
-        "ウィンタースポーツに最適な時期"
-      ],
-      "zh": [
-        "札幌雪祭与冬季运动季",
-        "适合冬季运动的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최저기온 -8°C로 방한 대비 필요",
-        "월 17.8일 비가 와 야외 일정에 유의",
-        "습도가 77%로 다소 높음"
-      ],
-      "en": [
-        "Average low of -8°C — warm clothing essential",
-        "Rain on 17.8 days this month — take care with outdoor plans",
-        "Humidity at 77% is somewhat high"
-      ],
-      "ja": [
-        "平均最低気温-8°C、防寒対策が必要",
-        "月17.8日雨が降るため、屋外の予定に注意",
-        "湿度77%でやや高い"
-      ],
-      "zh": [
-        "平均最低气温-8°C，需备好保暖衣物",
-        "本月约17.8天有雨，户外行程需多加注意",
-        "湿度77%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "삿포로 눈축제 (2월 초)",
-        "스키/스노보드 시즌"
-      ],
-      "en": [
-        "Sapporo Snow Festival (early February)",
-        "Ski / snowboard season"
-      ],
-      "ja": [
-        "さっぽろ雪まつり（2月初旬）",
-        "スキー・スノーボードシーズン"
-      ],
-      "zh": [
-        "札幌雪祭（2月初）",
-        "滑雪/单板滑雪季节"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "보온 용품과 핫팩 준비"
-      ],
-      "en": [
-        "Bring warm accessories and hand warmers"
-      ],
-      "ja": [
-        "防寒グッズとカイロを準備"
-      ],
-      "zh": [
-        "准备保暖用品和暖手宝"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
-      "en": "Thermal wear, down jacket, hand warmers — extreme cold protection essential",
-      "ja": "防寒着、ダウンジャケット、ホッカイロ — 極寒対策は必須",
-      "zh": "保暖内衣、羽绒服、暖宝宝，极寒防护必不可少"
-    },
+    "summary": "삿포로 눈축제와 최고의 스키 시즌",
+    "highlights": [
+      "삿포로 눈축제와 겨울 스포츠의 계절",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -8°C로 방한 대비 필요",
+      "월 17.8일 비가 와 야외 일정에 유의",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "삿포로 눈축제 (2월 초)",
+      "스키/스노보드 시즌"
+    ],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -3057,82 +852,22 @@
     "regionId": "hokkaido",
     "month": 3,
     "rating": 2,
-    "summary": {
-      "ko": "아직 눈이 남아있는 초봄, 스키 시즌 막바지",
-      "en": "Early spring with lingering snow — the final stretch of ski season",
-      "ja": "雪が残る初春、スキーシーズンの終盤",
-      "zh": "初春仍有积雪，滑雪季接近尾声"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "겨울 스포츠에 적합한 시기"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Great time for winter sports"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "ウィンタースポーツに最適な時期"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "适合冬季运动的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최저기온 -4°C로 방한 대비 필요",
-        "비 오는 날이 12.8일로 실내 대안 준비 권장",
-        "습도가 77%로 다소 높음"
-      ],
-      "en": [
-        "Average low of -4°C — warm clothing essential",
-        "12.8 rainy days — have indoor alternatives ready",
-        "Humidity at 77% is somewhat high"
-      ],
-      "ja": [
-        "平均最低気温-4°C、防寒対策が必要",
-        "雨の日が12.8日と多め — 室内の代替プランを用意するのがおすすめ",
-        "湿度77%でやや高い"
-      ],
-      "zh": [
-        "平均最低气温-4°C，需备好保暖衣物",
-        "降雨天数约12.8天，建议准备室内备选方案",
-        "湿度77%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "보온 용품과 핫팩 준비",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring warm accessories and hand warmers",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "防寒グッズとカイロを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "准备保暖用品和暖手宝",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
-      "en": "Thermal wear, down jacket, hand warmers — extreme cold protection essential",
-      "ja": "防寒着、ダウンジャケット、ホッカイロ — 極寒対策は必須",
-      "zh": "保暖内衣、羽绒服、暖宝宝，极寒防护必不可少"
-    },
+    "summary": "아직 눈이 남아있는 초봄, 스키 시즌 막바지",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -4°C로 방한 대비 필요",
+      "비 오는 날이 12.8일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -3140,66 +875,18 @@
     "regionId": "hokkaido",
     "month": 4,
     "rating": 2,
-    "summary": {
-      "ko": "눈 녹는 진흙 시즌, 여행에 애매한 시기",
-      "en": "Snowmelt muddy season — an awkward time for travel",
-      "ja": "雪解けの泥のシーズン、旅行には中途半端な時期",
-      "zh": "融雪泥泞季，旅行体验较为尴尬"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "비 오는 날이 11.6일로 실내 대안 준비 권장"
-      ],
-      "en": [
-        "11.6 rainy days — have indoor backup plans ready"
-      ],
-      "ja": [
-        "11.6日の雨日、室内代替案の準備を推奨"
-      ],
-      "zh": [
-        "约11.6天雨天，建议准备室内备选方案"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves. Warm layering needed",
-      "ja": "コート、マフラー、手袋。保温レイヤーが必要",
-      "zh": "大衣、围巾、手套，需要保暖分层穿搭"
-    },
+    "summary": "눈 녹는 진흙 시즌, 여행에 애매한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 11.6일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -3207,78 +894,21 @@
     "regionId": "hokkaido",
     "month": 5,
     "rating": 2,
-    "summary": {
-      "ko": "봄꽃이 피기 시작하지만 아직 쌀쌀한 시기",
-      "en": "Spring flowers begin to bloom, but it's still chilly",
-      "ja": "春の花が咲き始めるが、まだ肌寒い時期",
-      "zh": "春花开始绽放，但气温仍有些凉意"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 105mm로 우산 필수",
-        "비 오는 날이 13.2일로 실내 대안 준비 권장",
-        "습도가 76%로 다소 높음"
-      ],
-      "en": [
-        "105mm rainfall — an umbrella is a must",
-        "13.2 rainy days — have indoor backup plans ready",
-        "Humidity at 76% is somewhat high"
-      ],
-      "ja": [
-        "降水量105mmで傘は必須",
-        "13.2日の雨日、室内代替案の準備を推奨",
-        "湿度76%でやや高い"
-      ],
-      "zh": [
-        "降雨量105mm，雨伞必备",
-        "约13.2天雨天，建议准备室内备选方案",
-        "湿度76%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long pants. Outer layer essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，外套必备"
-    },
+    "summary": "봄꽃이 피기 시작하지만 아직 쌀쌀한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 105mm로 우산 필수",
+      "비 오는 날이 13.2일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -3286,78 +916,21 @@
     "regionId": "hokkaido",
     "month": 6,
     "rating": 3,
-    "summary": {
-      "ko": "초여름 시작, 라벤더 밭이 색을 입히는 시기",
-      "en": "Early summer begins as lavender fields start to bloom with colour",
-      "ja": "初夏の始まり、ラベンダー畑が色づき始める時期",
-      "zh": "初夏来临，薰衣草田开始染上色彩"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 114mm로 우산 필수",
-        "비 오는 날이 13일로 실내 대안 준비 권장",
-        "습도 81%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Rainfall of 114mm — umbrella essential",
-        "13 rainy days — have indoor backup plans ready",
-        "Humidity at 81% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "降水量114mm、傘が必須",
-        "13日の雨日、室内代替案の準備を推奨",
-        "湿度81%で不快指数が高い"
-      ],
-      "zh": [
-        "降雨量114mm，雨伞必备",
-        "约13天雨天，建议准备室内备选方案",
-        "湿度81%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
+    "summary": "초여름 시작, 라벤더 밭이 색을 입히는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 114mm로 우산 필수",
+      "비 오는 날이 13일로 실내 대안 준비 권장",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -3365,197 +938,53 @@
     "regionId": "hokkaido",
     "month": 7,
     "rating": 4,
-    "summary": {
-      "ko": "라벤더 만개, 25°C의 시원한 여름 피서지",
-      "en": "Lavender in full bloom — a cool summer retreat at 25°C",
-      "ja": "ラベンダー満開、25°Cの涼しい夏の避暑地",
-      "zh": "薰衣草盛开，25°C的清爽夏日避暑胜地"
-    },
-    "highlights": {
-      "ko": [
-        "라벤더 만개, 본토보다 시원한 피서지",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Lavender in full bloom — a cooler escape than the mainland",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "ラベンダー満開、本土より涼しい避暑地",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "薰衣草盛开，比日本本土更凉爽的避暑胜地",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 104mm로 우산 필수",
-        "비 오는 날이 10.6일로 실내 대안 준비 권장",
-        "습도 83%로 불쾌지수 높음"
-      ],
-      "en": [
-        "Rainfall of 104mm — umbrella essential",
-        "10.6 rainy days — have indoor backup plans ready",
-        "Humidity at 83% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "降水量104mm、傘が必須",
-        "10.6日の雨日、室内代替案の準備を推奨",
-        "湿度83%で不快指数が高い"
-      ],
-      "zh": [
-        "降雨量104mm，雨伞必备",
-        "约10.6天雨天，建议准备室内备选方案",
-        "湿度83%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "후라노 라벤더 축제 (7월)",
-        "홋카이도 여름 피서"
-      ],
-      "en": [
-        "Furano Lavender Festival (July)",
-        "Hokkaido summer escape"
-      ],
-      "ja": [
-        "富良野ラベンダーフェスティバル（7月）",
-        "北海道の夏の避暑"
-      ],
-      "zh": [
-        "富良野薰衣草节（7月）",
-        "北海道夏季避暑"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
-    "crowdLevel": "medium",
+    "summary": "라벤더 만개, 25°C의 시원한 여름 피서지",
+    "highlights": [
+      "라벤더 만개, 본토보다 시원한 피서지",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 104mm로 우산 필수",
+      "비 오는 날이 10.6일로 실내 대안 준비 권장",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [
+      "후라노 라벤더 축제 (7월)",
+      "홋카이도 여름 피서"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "hokkaido",
     "month": 8,
     "rating": 3,
-    "summary": {
-      "ko": "여름 피서 시즌, 자연과 해산물의 천국",
-      "en": "Summer retreat season — a paradise of nature and seafood",
-      "ja": "夏の避暑シーズン、自然と海鮮の天国",
-      "zh": "夏季避暑时节，大自然与海鲜的天堂"
-    },
-    "highlights": {
-      "ko": [
-        "라벤더 만개, 본토보다 시원한 피서지",
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Lavender in full bloom — a cooler escape than the mainland",
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "ラベンダー満開、本土より涼しい避暑地",
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "薰衣草盛开，比日本本土更凉爽的避暑胜地",
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "월 강수량 179mm로 우기에 해당",
-        "월 15.4일 비가 와 야외 일정에 유의",
-        "습도 83%로 불쾌지수 높음"
-      ],
-      "en": [
-        "179mm of rainfall this month — rainy season conditions",
-        "15.4 rainy days — outdoor plans need flexibility",
-        "Humidity at 83% makes it feel quite uncomfortable"
-      ],
-      "ja": [
-        "月降水量179mmで雨季に該当",
-        "15.4日の雨日、屋外日程に注意が必要",
-        "湿度83%で不快指数が高い"
-      ],
-      "zh": [
-        "本月降雨量179mm，属于雨季",
-        "月内约15.4天雨天，户外行程需灵活安排",
-        "湿度83%，不适感指数较高"
-      ]
-    },
-    "events": {
-      "ko": [
-        "후라노 라벤더 축제 (7월)",
-        "홋카이도 여름 피서"
-      ],
-      "en": [
-        "Furano Lavender Festival (July)",
-        "Hokkaido summer escape"
-      ],
-      "ja": [
-        "富良野ラベンダーフェスティバル（7月）",
-        "北海道の夏の避暑"
-      ],
-      "zh": [
-        "富良野薰衣草节（7月）",
-        "北海道夏季避暑"
-      ]
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-      "en": "Thin long sleeves and cardigan. Can be cool in the morning and evening",
-      "ja": "薄手の長袖とカーディガン。朝夕は肌寒いことも",
-      "zh": "薄长袖和开衫，早晚可能较凉"
-    },
+    "summary": "여름 피서 시즌, 자연과 해산물의 천국",
+    "highlights": [
+      "라벤더 만개, 본토보다 시원한 피서지",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 179mm로 우기에 해당",
+      "월 15.4일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [
+      "후라노 라벤더 축제 (7월)",
+      "홋카이도 여름 피서"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -3563,82 +992,22 @@
     "regionId": "hokkaido",
     "month": 9,
     "rating": 3,
-    "summary": {
-      "ko": "가을 시작, 단풍과 수확의 계절",
-      "en": "Autumn begins — season of foliage and harvest",
-      "ja": "秋の始まり、紅葉と収穫の季節",
-      "zh": "秋天到来，红叶与丰收的季节"
-    },
-    "highlights": {
-      "ko": [
-        "일조시간이 길어 야외 활동에 좋음",
-        "쾌적한 기온"
-      ],
-      "en": [
-        "Long sunshine hours make it great for outdoor activities",
-        "Comfortable temperatures"
-      ],
-      "ja": [
-        "日照時間が長く、屋外活動に最適",
-        "快適な気温"
-      ],
-      "zh": [
-        "日照时间充足，非常适合户外活动",
-        "气温宜人"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 122mm로 우산 필수",
-        "비 오는 날이 11.2일로 실내 대안 준비 권장",
-        "습도가 79%로 다소 높음"
-      ],
-      "en": [
-        "Rainfall of 122mm — umbrella essential",
-        "11.2 rainy days — have indoor backup plans ready",
-        "Humidity at 79% is somewhat high"
-      ],
-      "ja": [
-        "降水量122mm、傘が必須",
-        "11.2日の雨日、室内代替案の準備を推奨",
-        "湿度79%でやや高い"
-      ],
-      "zh": [
-        "降雨量122mm，雨伞必备",
-        "约11.2天雨天，建议准备室内备选方案",
-        "湿度79%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기",
-        "선글라스와 모자 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho",
-        "Bring sunglasses and a hat"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備",
-        "サングラスと帽子を忘れずに"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣",
-        "备好太阳镜和帽子"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
-      "en": "Long sleeves and a light jacket. Layering recommended",
-      "ja": "長袖と軽いジャケット。重ね着がおすすめ",
-      "zh": "长袖衣物和轻便夹克，推荐分层穿搭"
-    },
+    "summary": "가을 시작, 단풍과 수확의 계절",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 122mm로 우산 필수",
+      "비 오는 날이 11.2일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -3646,74 +1015,20 @@
     "regionId": "hokkaido",
     "month": 10,
     "rating": 2,
-    "summary": {
-      "ko": "단풍 절정이지만 급격히 추워지는 시기",
-      "en": "Peak autumn foliage but temperatures drop sharply",
-      "ja": "紅葉最盛期だが急激に寒くなる時期",
-      "zh": "红叶最盛，但气温急剧下降"
-    },
-    "highlights": {
-      "ko": [
-        "현지 일상을 경험하기 좋은 시기"
-      ],
-      "en": [
-        "A great time to experience local everyday life"
-      ],
-      "ja": [
-        "現地の日常を体験するのに良い時期"
-      ],
-      "zh": [
-        "体验当地日常生活的好时机"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 116mm로 우산 필수",
-        "비 오는 날이 14일로 실내 대안 준비 권장",
-        "습도가 76%로 다소 높음"
-      ],
-      "en": [
-        "Rainfall of 116mm — umbrella essential",
-        "14 rainy days — have indoor backup plans ready",
-        "Humidity at 76% is somewhat high"
-      ],
-      "ja": [
-        "降水量116mm、傘が必須",
-        "14日の雨日、室内代替案の準備を推奨",
-        "湿度76%でやや高い"
-      ],
-      "zh": [
-        "降雨量116mm，雨伞必备",
-        "约14天雨天，建议准备室内备选方案",
-        "湿度76%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "재킷, 니트, 긴바지. 아우터 필수",
-      "en": "Jacket, knitwear, and long pants. Outer layer essential",
-      "ja": "ジャケット、ニット、長ズボン。アウター必須",
-      "zh": "夹克、针织衫、长裤，外套必备"
-    },
+    "summary": "단풍 절정이지만 급격히 추워지는 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 116mm로 우산 필수",
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -3721,74 +1036,20 @@
     "regionId": "hokkaido",
     "month": 11,
     "rating": 1,
-    "summary": {
-      "ko": "초겨울, 첫 눈이 내리지만 스키장은 아직",
-      "en": "Early winter — first snowfall arrives but ski resorts aren't open yet",
-      "ja": "初冬、初雪が降るがスキー場はまだオープン前",
-      "zh": "初冬时节，第一场雪降临，但滑雪场尚未开放"
-    },
-    "highlights": {
-      "ko": [
-        "현지 일상을 경험하기 좋은 시기"
-      ],
-      "en": [
-        "A great time to experience local everyday life"
-      ],
-      "ja": [
-        "現地の日常を体験するのに良い時期"
-      ],
-      "zh": [
-        "体验当地日常生活的好时机"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "강수량이 129mm로 우산 필수",
-        "월 17.2일 비가 와 야외 일정에 유의",
-        "습도가 75%로 다소 높음"
-      ],
-      "en": [
-        "129mm rainfall — an umbrella is a must",
-        "17.2 rainy days — outdoor plans need flexibility",
-        "Humidity at 75% is somewhat high"
-      ],
-      "ja": [
-        "降水量129mmで傘は必須",
-        "17.2日の雨日、屋外日程に注意が必要",
-        "湿度75%でやや高い"
-      ],
-      "zh": [
-        "降雨量129mm，雨伞必备",
-        "月内约17.2天雨天，户外行程需灵活安排",
-        "湿度75%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "접이식 우산이나 우비 챙기기"
-      ],
-      "en": [
-        "Bring a folding umbrella or rain poncho"
-      ],
-      "ja": [
-        "折りたたみ傘またはレインコートを準備"
-      ],
-      "zh": [
-        "携带折叠雨伞或雨衣"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
-      "en": "Coat, scarf, and gloves. Warm layering needed",
-      "ja": "コート、マフラー、手袋。保温レイヤーが必要",
-      "zh": "大衣、围巾、手套，需要保暖分层穿搭"
-    },
+    "summary": "초겨울, 첫 눈이 내리지만 스키장은 아직",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 129mm로 우산 필수",
+      "월 17.2일 비가 와 야외 일정에 유의",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -3796,74 +1057,20 @@
     "regionId": "hokkaido",
     "month": 12,
     "rating": 1,
-    "summary": {
-      "ko": "스키 시즌 개막, 겨울왕국의 시작",
-      "en": "Ski season opens — the beginning of a winter wonderland",
-      "ja": "スキーシーズン開幕、雪の王国の始まり",
-      "zh": "滑雪季开幕，冰雪王国序幕拉开"
-    },
-    "highlights": {
-      "ko": [
-        "겨울 스포츠에 적합한 시기"
-      ],
-      "en": [
-        "Great time for winter sports"
-      ],
-      "ja": [
-        "ウィンタースポーツに最適な時期"
-      ],
-      "zh": [
-        "适合冬季运动的时期"
-      ]
-    },
-    "cautions": {
-      "ko": [
-        "평균 최저기온 -7°C로 방한 대비 필요",
-        "월 16.4일 비가 와 야외 일정에 유의",
-        "습도가 74%로 다소 높음"
-      ],
-      "en": [
-        "Average low of -7°C — warm clothing essential",
-        "Rain on 16.4 days this month — take care with outdoor plans",
-        "Humidity at 74% is somewhat high"
-      ],
-      "ja": [
-        "平均最低気温-7°C、防寒対策が必要",
-        "月16.4日雨が降るため、屋外の予定に注意",
-        "湿度74%でやや高い"
-      ],
-      "zh": [
-        "平均最低气温-7°C，需备好保暖衣物",
-        "本月约16.4天有雨，户外行程需多加注意",
-        "湿度74%，略偏高"
-      ]
-    },
-    "events": {
-      "ko": [],
-      "en": [],
-      "ja": [],
-      "zh": []
-    },
-    "tips": {
-      "ko": [
-        "보온 용품과 핫팩 준비"
-      ],
-      "en": [
-        "Bring warm accessories and hand warmers"
-      ],
-      "ja": [
-        "防寒グッズとカイロを準備"
-      ],
-      "zh": [
-        "准备保暖用品和暖手宝"
-      ]
-    },
-    "clothingAdvice": {
-      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
-      "en": "Thermal wear, down jacket, hand warmers — extreme cold protection essential",
-      "ja": "防寒着、ダウンジャケット、ホッカイロ — 極寒対策は必須",
-      "zh": "保暖内衣、羽绒服、暖宝宝，极寒防护必不可少"
-    },
+    "summary": "스키 시즌 개막, 겨울왕국의 시작",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -7°C로 방한 대비 필요",
+      "월 16.4일 비가 와 야외 일정에 유의",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
   }

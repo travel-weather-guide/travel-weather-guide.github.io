@@ -1,0 +1,291 @@
+[
+  {
+    "regionId": "guam",
+    "month": 1,
+    "rating": 3,
+    "summary": "건기, 투몬 비치 맑은 바다의 최적기",
+    "highlights": [
+      "건기 해변 최성수기, 맑고 파도 잔잔",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 16.8일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "괌 리베라타 (7월)",
+      "건기 다이빙 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "guam",
+    "month": 2,
+    "rating": 4,
+    "summary": "건기 절정, 스노클링과 다이빙 최고 시야",
+    "highlights": [
+      "건기 해변 최성수기, 맑고 파도 잔잔",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 12.8일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "괌 리베라타 (7월)",
+      "건기 다이빙 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "guam",
+    "month": 3,
+    "rating": 3,
+    "summary": "건기 지속, 파도 잔잔하고 쾌적한 해변",
+    "highlights": [
+      "건기 해변 최성수기, 맑고 파도 잔잔",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 18.6일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [
+      "괌 리베라타 (7월)",
+      "건기 다이빙 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "guam",
+    "month": 4,
+    "rating": 3,
+    "summary": "건기, 수중 시야 최고의 스쿠버 다이빙",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 119mm로 우산 필수",
+      "월 22.4일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "guam",
+    "month": 5,
+    "rating": 2,
+    "summary": "건기 막바지, 아직 맑은 해변",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 195mm로 우기에 해당",
+      "월 24일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "guam",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기 시작, 간간이 스콜이 오는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 182mm로 우기에 해당",
+      "월 26.2일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "guam",
+    "month": 7,
+    "rating": 1,
+    "summary": "태풍 시즌과 우기 겹침, 일정 변동 주의",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 356mm로 우기에 해당",
+      "월 29.2일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "guam",
+    "month": 8,
+    "rating": 1,
+    "summary": "우기 지속, 하늘이 흐린 날 많은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 490mm로 우기에 해당",
+      "월 30.2일 비가 와 야외 일정에 유의",
+      "습도 88%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "guam",
+    "month": 9,
+    "rating": 1,
+    "summary": "태풍 리스크 높음, 여행 취소 가능성",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 464mm로 우기에 해당",
+      "월 28.4일 비가 와 야외 일정에 유의",
+      "습도 88%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "guam",
+    "month": 10,
+    "rating": 1,
+    "summary": "태풍 끝자락, 비 여전히 잦은 시기",
+    "highlights": [
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 528mm로 우기에 해당",
+      "월 30.6일 비가 와 야외 일정에 유의",
+      "습도 89%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "guam",
+    "month": 11,
+    "rating": 2,
+    "summary": "우기 마무리, 날씨 서서히 회복",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 188mm로 우기에 해당",
+      "월 24.6일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "guam",
+    "month": 12,
+    "rating": 3,
+    "summary": "건기 시작, 크리스마스 해변의 낭만",
+    "highlights": [
+      "크리스마스 시즌, 쾌적한 해변",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 133mm로 우산 필수",
+      "월 20.8일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "크리스마스·신년 연휴"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  }
+]

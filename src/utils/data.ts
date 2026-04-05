@@ -43,6 +43,21 @@ export const FLAG_ALPHA2: Record<string, string> = {
   uk: 'gb',
   turkey: 'tr',
   greece: 'gr',
+  china: 'cn',
+  'hong-kong': 'hk',
+  guam: 'gu',
+  malaysia: 'my',
+  cambodia: 'kh',
+  maldives: 'mv',
+  mongolia: 'mn',
+  laos: 'la',
+  switzerland: 'ch',
+  czech: 'cz',
+  croatia: 'hr',
+  uae: 'ae',
+  'new-zealand': 'nz',
+  germany: 'de',
+  portugal: 'pt',
 };
 
 export function flagUrl(countryId: string): string {

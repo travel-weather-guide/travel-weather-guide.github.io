@@ -1,0 +1,514 @@
+[
+  {
+    "regionId": "lisbon",
+    "month": 1,
+    "rating": 3,
+    "summary": "겨울 비, 파두 공연과 따뜻한 파스텔 드 나타",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 2,
+    "rating": 3,
+    "summary": "겨울 끝자락, 카니발과 서퍼들의 코스타 다 카파리카",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 3,
+    "rating": 3,
+    "summary": "봄 시작, 트램28 창문으로 보는 봄꽃",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 4,
+    "rating": 3,
+    "summary": "봄 절정, 알파마 골목과 테라스 카페",
+    "highlights": [
+      "봄 리스본, 산투 안토니우 축제와 파두의 계절",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "산투 안토니우 축제 (6월 13일)",
+      "리스본 서머 파티 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 5,
+    "rating": 5,
+    "summary": "리스본 여행 최적기, 선선하고 맑은 날씨",
+    "highlights": [
+      "봄 리스본, 산투 안토니우 축제와 파두의 계절",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "산투 안토니우 축제 (6월 13일)",
+      "리스본 서머 파티 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 6,
+    "rating": 5,
+    "summary": "성 안토니오 축제(6/13), 정어리 구이와 파티",
+    "highlights": [
+      "봄 리스본, 산투 안토니우 축제와 파두의 계절",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "산투 안토니우 축제 (6월 13일)",
+      "리스본 서머 파티 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 7,
+    "rating": 5,
+    "summary": "여름 성수기, 더위지만 해안 바람으로 버틸 만",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 8,
+    "rating": 5,
+    "summary": "여름 피크, 해변 리조트 세투발·카스카이스",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 9,
+    "rating": 5,
+    "summary": "가을 시작, 관광객 줄고 날씨 여전히 좋은 황금기",
+    "highlights": [
+      "가을 리스본, 황금빛 빛과 와인 수확철",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [
+      "리스본 국제 영화제 (11월)",
+      "포르투갈 와인 수확 시즌 (9월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 10,
+    "rating": 3,
+    "summary": "가을, 파두와 와인의 리스본",
+    "highlights": [
+      "가을 리스본, 황금빛 빛과 와인 수확철",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 10.8일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "리스본 국제 영화제 (11월)",
+      "포르투갈 와인 수확 시즌 (9월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 11,
+    "rating": 3,
+    "summary": "쌀쌀해지는 초겨울, 비 잦아지는 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "lisbon",
+    "month": 12,
+    "rating": 2,
+    "summary": "겨울 비, 크리스마스 로시우 광장 분위기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "porto",
+    "month": 1,
+    "rating": 2,
+    "summary": "겨울 비, 동루이스 다리 위 빗속 산책",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 강수량 176mm로 우기에 해당",
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "porto",
+    "month": 2,
+    "rating": 2,
+    "summary": "겨울, 셀라 노바 와이너리 방문과 포트와인",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 10.4일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "porto",
+    "month": 3,
+    "rating": 2,
+    "summary": "봄 기운, 두로강변 라벨루 보트 투어",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 139mm로 우산 필수",
+      "비 오는 날이 14.2일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "porto",
+    "month": 4,
+    "rating": 3,
+    "summary": "봄 절정, 아줄레주 타일과 골목 탐방",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 109mm로 우산 필수",
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "porto",
+    "month": 5,
+    "rating": 3,
+    "summary": "봄 최적기, 두로밸리 와이너리 당일치기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 10.6일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "porto",
+    "month": 6,
+    "rating": 4,
+    "summary": "상 주앙 축제(6/24), 망치와 마늘로 서로 치는 유쾌한 축제",
+    "highlights": [
+      "상 주앙 축제 — 포르투 최대 여름 축제",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "상 주앙 축제 (6월 23~24일)",
+      "도우루 강변 파티"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "porto",
+    "month": 7,
+    "rating": 5,
+    "summary": "여름 성수기, 포트와인 셀러 투어",
+    "highlights": [
+      "도우루 강변 와이너리와 해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "포르투 와인 투어 성수기",
+      "도우루 와인 수확 (9월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "porto",
+    "month": 8,
+    "rating": 5,
+    "summary": "여름 피크, 해변 마토시뉴스로 당일치기",
+    "highlights": [
+      "도우루 강변 와이너리와 해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [
+      "포르투 와인 투어 성수기",
+      "도우루 와인 수확 (9월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "porto",
+    "month": 9,
+    "rating": 4,
+    "summary": "가을 시작, 두로밸리 포도 수확의 계절",
+    "highlights": [
+      "도우루 강변 와이너리와 해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "포르투 와인 투어 성수기",
+      "도우루 와인 수확 (9월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "porto",
+    "month": 10,
+    "rating": 2,
+    "summary": "포도주 수확 축제, 두로강 크루즈 단풍",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 강수량 237mm로 우기에 해당",
+      "월 15.6일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "porto",
+    "month": 11,
+    "rating": 2,
+    "summary": "비수기 시작, 겨울 비와 포트와인의 매력",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 강수량 156mm로 우기에 해당",
+      "비 오는 날이 13.8일로 실내 대안 준비 권장",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "porto",
+    "month": 12,
+    "rating": 1,
+    "summary": "겨울, 동루이스 다리 크리스마스 일루미네이션",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 강수량 209mm로 우기에 해당",
+      "월 16.4일 비가 와 야외 일정에 유의",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  }
+]

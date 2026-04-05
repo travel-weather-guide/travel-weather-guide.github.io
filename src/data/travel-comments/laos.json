@@ -1,0 +1,555 @@
+[
+  {
+    "regionId": "luang-prabang",
+    "month": 1,
+    "rating": 5,
+    "summary": "건기, 새벽 탁발 행렬과 서늘한 메콩강변",
+    "highlights": [
+      "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "라오스 국경일 (12월 2일)",
+      "탁발 공양 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 2,
+    "rating": 5,
+    "summary": "건기 절정, 황금빛 사원과 쾌청한 하늘",
+    "highlights": [
+      "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "라오스 국경일 (12월 2일)",
+      "탁발 공양 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 3,
+    "rating": 4,
+    "summary": "건기 막바지, 더위 시작되는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 4,
+    "rating": 4,
+    "summary": "라오스 신년 물축제, 폭염 속 씻겨주는 물",
+    "highlights": [
+      "라오스 설날 분피마이 물 축제",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의",
+      "비 오는 날이 10.2일로 실내 대안 준비 권장",
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "분피마이 — 라오스 새해 (4월 13~15일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 5,
+    "rating": 2,
+    "summary": "우기 시작, 폭포 수량 늘어나는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의",
+      "월 강수량 197mm로 우기에 해당",
+      "월 19.4일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기, 쾅시 폭포 최대 수량으로 장관",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 238mm로 우기에 해당",
+      "월 23.2일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기 지속, 메콩강 수위 오르는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 248mm로 우기에 해당",
+      "월 24.6일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 8,
+    "rating": 1,
+    "summary": "우기, 홍수 주의와 폭우",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 361mm로 우기에 해당",
+      "월 27.4일 비가 와 야외 일정에 유의",
+      "습도 89%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 9,
+    "rating": 1,
+    "summary": "우기 끝자락, 홍수 리스크 남아있음",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 276mm로 우기에 해당",
+      "월 24.8일 비가 와 야외 일정에 유의",
+      "습도 90%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 10,
+    "rating": 3,
+    "summary": "우기 마무리, 메콩강 낚시 시즌",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 103mm로 우산 필수",
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 11,
+    "rating": 5,
+    "summary": "건기 시작, 쾨청한 하늘과 탁발 투어",
+    "highlights": [
+      "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [
+      "라오스 국경일 (12월 2일)",
+      "탁발 공양 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "luang-prabang",
+    "month": 12,
+    "rating": 5,
+    "summary": "건기, 서늘하고 맑은 루앙프라방 최적기",
+    "highlights": [
+      "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "라오스 국경일 (12월 2일)",
+      "탁발 공양 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 1,
+    "rating": 5,
+    "summary": "건기, 탓루앙 황금 탑과 선선한 날씨",
+    "highlights": [
+      "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "탓루앙 축제 (11월 보름)",
+      "라오스 국경일 (12월 2일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 2,
+    "rating": 5,
+    "summary": "건기 지속, 메콩강변 선셋 산책",
+    "highlights": [
+      "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "탓루앙 축제 (11월 보름)",
+      "라오스 국경일 (12월 2일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 3,
+    "rating": 4,
+    "summary": "더위 시작, 사원 투어는 오전에",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 4,
+    "rating": 3,
+    "summary": "라오스 신년(분피마이), 물축제와 폭염",
+    "highlights": [
+      "라오스 새해 물 축제",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의"
+    ],
+    "events": [
+      "분피마이 — 라오스 새해 (4월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 5,
+    "rating": 2,
+    "summary": "우기 시작, 오후 스콜이 잦아지는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "월 강수량 219mm로 우기에 해당",
+      "월 21.2일 비가 와 야외 일정에 유의",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기 본격화, 메콩강변 산책 후 소나기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 324mm로 우기에 해당",
+      "월 25.2일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기, 라오스 전통 시장 탐방 추천",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 361mm로 우기에 해당",
+      "월 27일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 8,
+    "rating": 1,
+    "summary": "우기 절정, 메콩강 범람 위험",
+    "highlights": [
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 423mm로 우기에 해당",
+      "월 26.8일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 9,
+    "rating": 1,
+    "summary": "홍수 리스크 지속, 비 많은 시기",
+    "highlights": [
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 442mm로 우기에 해당",
+      "월 28.4일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 10,
+    "rating": 2,
+    "summary": "우기 마무리, 탓루앙 축제(뻔탓루앙)",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 163mm로 우기에 해당",
+      "월 15.4일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 11,
+    "rating": 5,
+    "summary": "건기 시작, 탓루앙 인근 쾌청한 관광",
+    "highlights": [
+      "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "탓루앙 축제 (11월 보름)",
+      "라오스 국경일 (12월 2일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "vientiane",
+    "month": 12,
+    "rating": 5,
+    "summary": "건기, 선선하고 여유로운 비엔티안",
+    "highlights": [
+      "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "탓루앙 축제 (11월 보름)",
+      "라오스 국경일 (12월 2일)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  }
+]

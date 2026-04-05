@@ -1,0 +1,875 @@
+[
+  {
+    "regionId": "kuala-lumpur",
+    "month": 1,
+    "rating": 2,
+    "summary": "북동 몬순, 비 잦지만 페트로나스 타워는 언제나 장관",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 222mm로 우기에 해당",
+      "월 22.6일 비가 와 야외 일정에 유의",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 2,
+    "rating": 3,
+    "summary": "몬순 약해지는 시기, 바투 동굴 힌두 축제",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 115mm로 우산 필수",
+      "월 18.4일 비가 와 야외 일정에 유의",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 3,
+    "rating": 2,
+    "summary": "비 줄고 쾌청, KL 탐방 좋은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 229mm로 우기에 해당",
+      "월 24.8일 비가 와 야외 일정에 유의",
+      "습도 80%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 4,
+    "rating": 2,
+    "summary": "더워지지만 쾌적, 차이나타운과 야시장",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 262mm로 우기에 해당",
+      "월 27.8일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 5,
+    "rating": 2,
+    "summary": "우기 접근, 오후 스콜 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 271mm로 우기에 해당",
+      "월 25.6일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 6,
+    "rating": 2,
+    "summary": "남서 몬순, 오후 스콜이 일상인 시기",
+    "highlights": [
+      "쇼핑몰 투어와 야경의 도시",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 208mm로 우기에 해당",
+      "월 23.6일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "말레이시아 그랑프리 (10월)",
+      "KL 타워 국제 점프"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기 중, 실내 쇼핑몰 투어로 대응",
+    "highlights": [
+      "쇼핑몰 투어와 야경의 도시",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 191mm로 우기에 해당",
+      "월 20일 비가 와 야외 일정에 유의",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [
+      "말레이시아 그랑프리 (10월)",
+      "KL 타워 국제 점프"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 8,
+    "rating": 2,
+    "summary": "우기 지속, 헤이즈 가능성 있는 시기",
+    "highlights": [
+      "쇼핑몰 투어와 야경의 도시",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 288mm로 우기에 해당",
+      "월 26.6일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "말레이시아 그랑프리 (10월)",
+      "KL 타워 국제 점프"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 9,
+    "rating": 2,
+    "summary": "연무와 비가 번갈아 오는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 283mm로 우기에 해당",
+      "월 25.4일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 10,
+    "rating": 2,
+    "summary": "북동 몬순 전환기, 비 늘어나는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 243mm로 우기에 해당",
+      "월 23.4일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 11,
+    "rating": 1,
+    "summary": "몬순 본격화, 폭우와 침수 주의",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 352mm로 우기에 해당",
+      "월 28.8일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kuala-lumpur",
+    "month": 12,
+    "rating": 1,
+    "summary": "몬순 피크, 연말 세일과 쇼핑 시즌",
+    "highlights": [
+      "크리스마스·신년 일루미네이션",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 377mm로 우기에 해당",
+      "월 27.8일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [
+      "부킷 빈탕 크리스마스 장식",
+      "신년 카운트다운"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 1,
+    "rating": 2,
+    "summary": "건기 절정, 키나발루산 트레킹 최적기",
+    "highlights": [
+      "건기 코타키나발루, 스노클링·다이빙 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 273mm로 우기에 해당",
+      "월 22일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [
+      "말레이시아 국경일 (8월 31일)",
+      "건기 다이빙 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 2,
+    "rating": 3,
+    "summary": "건기, 맑은 하늘과 선셋 크루즈",
+    "highlights": [
+      "건기 코타키나발루, 스노클링·다이빙 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 16.2일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [
+      "말레이시아 국경일 (8월 31일)",
+      "건기 다이빙 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 3,
+    "rating": 3,
+    "summary": "건기 지속, 해양 공원 스노클링 최고",
+    "highlights": [
+      "건기 코타키나발루, 스노클링·다이빙 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 148mm로 우산 필수",
+      "월 21일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "말레이시아 국경일 (8월 31일)",
+      "건기 다이빙 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 4,
+    "rating": 2,
+    "summary": "건기 막바지, 아직 맑은 해변",
+    "highlights": [
+      "건기 코타키나발루, 스노클링·다이빙 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 167mm로 우기에 해당",
+      "월 19.8일 비가 와 야외 일정에 유의",
+      "습도 80%로 불쾌지수 높음"
+    ],
+    "events": [
+      "말레이시아 국경일 (8월 31일)",
+      "건기 다이빙 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 5,
+    "rating": 2,
+    "summary": "우기 시작, 비 잦아지는 과도기",
+    "highlights": [
+      "건기 코타키나발루, 스노클링·다이빙 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 304mm로 우기에 해당",
+      "월 23일 비가 와 야외 일정에 유의",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [
+      "말레이시아 국경일 (8월 31일)",
+      "건기 다이빙 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기, 오후 소나기 잦은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 245mm로 우기에 해당",
+      "월 21.2일 비가 와 야외 일정에 유의",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기 중, 키나발루산 운무 장관",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 230mm로 우기에 해당",
+      "월 20.4일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 8,
+    "rating": 2,
+    "summary": "우기 지속, 선셋 대신 비 구름",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 265mm로 우기에 해당",
+      "월 22.4일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 9,
+    "rating": 2,
+    "summary": "우기 절정, 산악 트레킹 주의",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 356mm로 우기에 해당",
+      "월 23.2일 비가 와 야외 일정에 유의",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 10,
+    "rating": 2,
+    "summary": "우기 끝자락, 비 서서히 줄어듦",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 376mm로 우기에 해당",
+      "월 26.2일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 11,
+    "rating": 2,
+    "summary": "건기 시작, 코타키나발루 최고의 선셋",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 241mm로 우기에 해당",
+      "월 24일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "kota-kinabalu",
+    "month": 12,
+    "rating": 2,
+    "summary": "건기, 열대 해변의 크리스마스",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 278mm로 우기에 해당",
+      "월 26.4일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 1,
+    "rating": 4,
+    "summary": "건기, 맹그로브 보트 투어와 맑은 바다",
+    "highlights": [
+      "건기 랑카위, 에메랄드빛 해변 절정기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "랑카위 국제 해양 항공쇼 (격년)",
+      "건기 해변 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 2,
+    "rating": 4,
+    "summary": "건기 절정, 안다만해 스노클링 최적기",
+    "highlights": [
+      "건기 랑카위, 에메랄드빛 해변 절정기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 12일로 실내 대안 준비 권장",
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [
+      "랑카위 국제 해양 항공쇼 (격년)",
+      "건기 해변 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 3,
+    "rating": 3,
+    "summary": "건기 막바지, 아직 맑고 쾌적한 해변",
+    "highlights": [
+      "건기 랑카위, 에메랄드빛 해변 절정기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "강수량이 110mm로 우산 필수",
+      "비 오는 날이 15일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "랑카위 국제 해양 항공쇼 (격년)",
+      "건기 해변 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 4,
+    "rating": 2,
+    "summary": "건기 끝자락, 해변 컨디션 여전히 좋음",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 198mm로 우기에 해당",
+      "월 26.8일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 5,
+    "rating": 2,
+    "summary": "우기 시작, 파도 높아지는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 324mm로 우기에 해당",
+      "월 26.6일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기 본격화, 거친 바다와 폭우",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 244mm로 우기에 해당",
+      "월 24.8일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기 절정, 해양 활동 제한",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 261mm로 우기에 해당",
+      "월 24.8일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 8,
+    "rating": 2,
+    "summary": "우기 지속, 비와 흐린 날 많은 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 351mm로 우기에 해당",
+      "월 27.2일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 9,
+    "rating": 2,
+    "summary": "우기 끝자락, 아직 비 잦음",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 351mm로 우기에 해당",
+      "월 27일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 10,
+    "rating": 1,
+    "summary": "우기 마무리, 날씨 서서히 회복",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 374mm로 우기에 해당",
+      "월 28일 비가 와 야외 일정에 유의",
+      "습도 88%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 11,
+    "rating": 1,
+    "summary": "건기 시작, 맑아지는 안다만해",
+    "highlights": [
+      "건기 랑카위, 에메랄드빛 해변 절정기",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 338mm로 우기에 해당",
+      "월 28일 비가 와 야외 일정에 유의",
+      "습도 89%로 불쾌지수 높음"
+    ],
+    "events": [
+      "랑카위 국제 해양 항공쇼 (격년)",
+      "건기 해변 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "langkawi",
+    "month": 12,
+    "rating": 2,
+    "summary": "건기, 면세 쇼핑과 해변의 연말",
+    "highlights": [
+      "건기 랑카위, 에메랄드빛 해변 절정기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 194mm로 우기에 해당",
+      "월 17일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [
+      "랑카위 국제 해양 항공쇼 (격년)",
+      "건기 해변 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  }
+]

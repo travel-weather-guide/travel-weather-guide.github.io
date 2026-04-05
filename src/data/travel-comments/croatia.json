@@ -1,0 +1,512 @@
+[
+  {
+    "regionId": "dubrovnik",
+    "month": 1,
+    "rating": 1,
+    "summary": "비수기, 크루즈 없는 여유로운 성벽 투어",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 강수량 222mm로 우기에 해당",
+      "비 오는 날이 12.8일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 2,
+    "rating": 2,
+    "summary": "겨울, 관광객 거의 없어 숙소 저렴",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 137mm로 우산 필수",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 3,
+    "rating": 2,
+    "summary": "봄 시작, 아드리아해 산책 쾌적해지는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "월 강수량 152mm로 우기에 해당",
+      "비 오는 날이 11.8일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 4,
+    "rating": 3,
+    "summary": "봄, 성벽 위 아드리아해 파노라마 최적",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 138mm로 우산 필수",
+      "비 오는 날이 11.2일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 5,
+    "rating": 4,
+    "summary": "성수기 전, 완벽한 날씨와 한산한 성벽",
+    "highlights": [
+      "성수기 전후 여유로운 두브로브니크",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 133mm로 우산 필수",
+      "비 오는 날이 11.6일로 실내 대안 준비 권장",
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [
+      "두브로브니크 여름 페스티벌 (7~8월)",
+      "게임 오브 스론즈 투어"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 6,
+    "rating": 5,
+    "summary": "여름 시작, 크루즈 관광객 급증",
+    "highlights": [
+      "성수기 전후 여유로운 두브로브니크",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "두브로브니크 여름 페스티벌 (7~8월)",
+      "게임 오브 스론즈 투어"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 7,
+    "rating": 5,
+    "summary": "왕좌의게임 성지 순례, 폭염과 극심한 인파",
+    "highlights": [
+      "아드리아해 성수기 (매우 붐빔)",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "두브로브니크 여름 페스티벌 (7~8월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 8,
+    "rating": 5,
+    "summary": "절대 성수기, 성벽 투어 예약 필수",
+    "highlights": [
+      "아드리아해 성수기 (매우 붐빔)",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "두브로브니크 여름 페스티벌 (7~8월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 9,
+    "rating": 4,
+    "summary": "크루즈 줄고 날씨 쾌적, 두브로브니크 최적기",
+    "highlights": [
+      "성수기 전후 여유로운 두브로브니크",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 177mm로 우기에 해당"
+    ],
+    "events": [
+      "두브로브니크 여름 페스티벌 (7~8월)",
+      "게임 오브 스론즈 투어"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 10,
+    "rating": 3,
+    "summary": "가을, 바다 아직 따뜻하고 여유로운 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "월 강수량 204mm로 우기에 해당",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 11,
+    "rating": 1,
+    "summary": "비수기 시작, 한산한 성벽의 낭만",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 강수량 303mm로 우기에 해당",
+      "비 오는 날이 13.4일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "dubrovnik",
+    "month": 12,
+    "rating": 1,
+    "summary": "겨울, 보라 바람과 조용한 구시가지",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 강수량 283mm로 우기에 해당",
+      "비 오는 날이 14.8일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "split",
+    "month": 1,
+    "rating": 2,
+    "summary": "비수기, 디오클레티아누스 궁전 독차지",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 145mm로 우산 필수"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "split",
+    "month": 2,
+    "rating": 3,
+    "summary": "겨울, 관광객 없어 현지 식당 저렴",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "split",
+    "month": 3,
+    "rating": 3,
+    "summary": "봄 기운, 아드리아해 해변 산책 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "split",
+    "month": 4,
+    "rating": 3,
+    "summary": "봄, 궁전 내부 탐방과 노천 카페",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "split",
+    "month": 5,
+    "rating": 4,
+    "summary": "성수기 전 최적기, 완벽한 날씨와 한산함",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 10.4일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "split",
+    "month": 6,
+    "rating": 5,
+    "summary": "여름 시작, 해변과 페리로 섬 투어",
+    "highlights": [
+      "달마티아 해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "울트라 유럽 뮤직 페스티벌 (7월)",
+      "스플리트 여름 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "split",
+    "month": 7,
+    "rating": 5,
+    "summary": "피크 시즌, 브라체 섬·흐바르 섬 페리 붐빔",
+    "highlights": [
+      "달마티아 해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "울트라 유럽 뮤직 페스티벌 (7월)",
+      "스플리트 여름 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "split",
+    "month": 8,
+    "rating": 5,
+    "summary": "여름 절정, 해변과 파티 섬의 최고조",
+    "highlights": [
+      "달마티아 해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "울트라 유럽 뮤직 페스티벌 (7월)",
+      "스플리트 여름 축제"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "split",
+    "month": 9,
+    "rating": 4,
+    "summary": "바다 따뜻하고 인파 줄어든 황금기",
+    "highlights": [
+      "달마티아 해변 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 143mm로 우산 필수"
+    ],
+    "events": [
+      "울트라 유럽 뮤직 페스티벌 (7월)",
+      "스플리트 여름 축제"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "split",
+    "month": 10,
+    "rating": 3,
+    "summary": "가을 아드리아, 여유로운 섬 투어",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 123mm로 우산 필수",
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "split",
+    "month": 11,
+    "rating": 2,
+    "summary": "비수기 시작, 페리 감편 시작",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "월 강수량 216mm로 우기에 해당",
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "split",
+    "month": 12,
+    "rating": 1,
+    "summary": "겨울, 한산한 궁전 도시의 조용한 매력",
+    "highlights": [
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 226mm로 우기에 해당",
+      "비 오는 날이 14.2일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  }
+]

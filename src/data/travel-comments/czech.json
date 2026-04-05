@@ -1,0 +1,259 @@
+[
+  {
+    "regionId": "prague",
+    "month": 1,
+    "rating": 2,
+    "summary": "겨울, 카를교 위 눈과 뜨거운 맥주 한 잔",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -1°C로 방한 대비 필요",
+      "비 오는 날이 11.6일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "prague",
+    "month": 2,
+    "rating": 1,
+    "summary": "추운 겨울, 관광객 적어 여유로운 구시가지",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 13.8일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "prague",
+    "month": 3,
+    "rating": 3,
+    "summary": "봄 기운, 하벨 시장에 꽃이 나오는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "prague",
+    "month": 4,
+    "rating": 3,
+    "summary": "봄 절정, 카를교와 구시가지 광장 산책 최적",
+    "highlights": [
+      "봄 프라하, 꽃과 함께하는 구시가지 산책",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "비 오는 날이 10.2일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "프라하 이스터 마켓 (4월)",
+      "프라하 스프링 뮤직 페스티벌 (5~6월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "prague",
+    "month": 5,
+    "rating": 3,
+    "summary": "프라하 봄 축제, 따뜻하고 관광하기 가장 좋은 시기",
+    "highlights": [
+      "봄 프라하, 꽃과 함께하는 구시가지 산책",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 12.2일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "프라하 이스터 마켓 (4월)",
+      "프라하 스프링 뮤직 페스티벌 (5~6월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "prague",
+    "month": 6,
+    "rating": 4,
+    "summary": "초여름, 몰다우강 크루즈와 야외 카페",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 12.4일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "prague",
+    "month": 7,
+    "rating": 4,
+    "summary": "여름 성수기, 프라하 성 황금빛 전망",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 12.4일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "prague",
+    "month": 8,
+    "rating": 4,
+    "summary": "더운 여름, 관광객 가장 많은 피크 시즌",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 104mm로 우산 필수",
+      "비 오는 날이 13.2일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "prague",
+    "month": 9,
+    "rating": 3,
+    "summary": "가을 시작, 관광객 줄고 쾌적한 황금기",
+    "highlights": [
+      "황금빛 가을 프라하, 관광객 줄어 여유로운 시기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "프라하 재즈 페스티벌 (10월)",
+      "체코 와인 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "prague",
+    "month": 10,
+    "rating": 3,
+    "summary": "가을 단풍, 체코 와인과 맥주의 계절",
+    "highlights": [
+      "황금빛 가을 프라하, 관광객 줄어 여유로운 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 10.6일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "프라하 재즈 페스티벌 (10월)",
+      "체코 와인 시즌"
+    ],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "prague",
+    "month": 11,
+    "rating": 2,
+    "summary": "쌀쌀해지는 초겨울, 크리스마스 마켓 준비",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "prague",
+    "month": 12,
+    "rating": 1,
+    "summary": "구시가지 크리스마스 마켓, 유럽 최고의 연말",
+    "highlights": [
+      "유럽 최고 크리스마스 마켓 중 하나",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -0°C로 방한 대비 필요",
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도 85%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [
+      "프라하 크리스마스 마켓 (12월)",
+      "신년 불꽃놀이 (1월 1일)"
+    ],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  }
+]

@@ -2,8 +2,8 @@
   {
     "regionId": "athens",
     "month": 1,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "겨울 비, 파르테논은 한산하고 입장 편한 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -13,14 +13,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "athens",
     "month": 2,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "겨울 끝자락, 카니발 시즌",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -39,8 +39,8 @@
   {
     "regionId": "athens",
     "month": 3,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "봄 시작, 유적지 산책 쾌적해지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -57,8 +57,8 @@
   {
     "regionId": "athens",
     "month": 4,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "부활절 축제, 봄꽃과 쾌적한 유적지 관광",
     "highlights": [
       "봄 아테네, 유적지 관광 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -81,7 +81,7 @@
     "regionId": "athens",
     "month": 5,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "관광 시즌 시작, 폭염 전 쾌적한 25°C",
     "highlights": [
       "봄 아테네, 유적지 관광 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -98,14 +98,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "athens",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "더워지기 시작, 에게해 섬 투어 시즌",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -125,7 +125,7 @@
     "regionId": "athens",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "38°C+ 극심한 폭염, 아크로폴리스 정오 폐쇄",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -147,7 +147,7 @@
     "regionId": "athens",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "폭염 지속, 40°C 이상 빈번하고 산불 위험",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -169,7 +169,7 @@
     "regionId": "athens",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "더위 물러간 가을, 파르테논 쾌적 관광",
     "highlights": [
       "가을 아테네, 선선하고 쾌적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -185,14 +185,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "athens",
     "month": 10,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "완벽한 가을 날씨, 유적지 관광 최적기",
     "highlights": [
       "가을 아테네, 선선하고 쾌적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -207,14 +207,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "athens",
     "month": 11,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 4,
+    "summary": "쌀쌀해지지만 관광객 적어 여유로운 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -232,8 +232,8 @@
   {
     "regionId": "athens",
     "month": 12,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 2,
+    "summary": "겨울, 비 잦지만 크리스마스 분위기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -247,14 +247,14 @@
       "접이식 우산이나 우비 챙기기"
     ],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "santorini",
     "month": 1,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "비수기, 대부분 숙소·식당 폐업",
     "highlights": [
       "강수량이 적어 맑은 날이 많음"
     ],
@@ -269,7 +269,7 @@
     "regionId": "santorini",
     "month": 2,
     "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "겨울, 폐업 지속과 페리 감편",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -287,7 +287,7 @@
     "regionId": "santorini",
     "month": 3,
     "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "시설 서서히 오픈, 아직 불완전",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -305,7 +305,7 @@
     "regionId": "santorini",
     "month": 4,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "봄, 관광객 적고 석양이 아름다운 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -316,14 +316,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "santorini",
     "month": 5,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "성수기 전 여유, 완벽한 날씨와 석양",
     "highlights": [
       "일몰 + 에게해 황금기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -338,14 +338,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "santorini",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "여름 시작, 에게해 최고의 석양",
     "highlights": [
       "일몰 + 에게해 황금기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -367,7 +367,7 @@
     "regionId": "santorini",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "성수기, 오이아 석양 명소 극심한 인파",
     "highlights": [
       "성수기 (매우 붐빔)",
       "일조시간이 길어 야외 활동에 좋음",
@@ -390,7 +390,7 @@
     "regionId": "santorini",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "절대 피크, 300만 관광객의 극심한 혼잡",
     "highlights": [
       "성수기 (매우 붐빔)",
       "일조시간이 길어 야외 활동에 좋음",
@@ -412,7 +412,7 @@
     "regionId": "santorini",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "성수기 후 여유, 따뜻한 바다와 와인 수확",
     "highlights": [
       "일몰 + 에게해 황금기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -434,7 +434,7 @@
     "regionId": "santorini",
     "month": 10,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "가을, 관광객 줄고 아직 따뜻한 시기",
     "highlights": [
       "일몰 + 에게해 황금기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -449,14 +449,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "santorini",
     "month": 11,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 5,
+    "summary": "비수기 시작, 시설 폐업 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -468,14 +468,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "santorini",
     "month": 12,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "summary": "겨울, 대부분 폐업",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -493,8 +493,8 @@
   {
     "regionId": "mykonos",
     "month": 1,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "비수기, 대부분 숙소·식당 폐업",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -509,7 +509,7 @@
     "regionId": "mykonos",
     "month": 2,
     "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "겨울, 폐업 지속",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -527,7 +527,7 @@
     "regionId": "mykonos",
     "month": 3,
     "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "시설 서서히 오픈, 아직 불완전",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -544,8 +544,8 @@
   {
     "regionId": "mykonos",
     "month": 4,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 5,
+    "summary": "봄, 해변 산책과 여유로운 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -563,7 +563,7 @@
     "regionId": "mykonos",
     "month": 5,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "파티 시즌 시작, 완벽한 해변 날씨",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -582,7 +582,7 @@
     "regionId": "mykonos",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "여름 시작, 해변과 나이트라이프 최적",
     "highlights": [
       "파티·해변 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -597,14 +597,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "mykonos",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "파티 피크, 비치클럽 만석",
     "highlights": [
       "파티·해변 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -619,14 +619,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "mykonos",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "절대 피크, 나이트라이프 최고조",
     "highlights": [
       "파티·해변 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -641,14 +641,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "mykonos",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "성수기 후 여유, 따뜻한 바다와 파티",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -667,7 +667,7 @@
     "regionId": "mykonos",
     "month": 10,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "가을, 수영 가능한 바다(23°C)와 여유",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -686,7 +686,7 @@
     "regionId": "mykonos",
     "month": 11,
     "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "비수기 시작, 시설 폐업 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -705,8 +705,8 @@
   {
     "regionId": "mykonos",
     "month": 12,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "겨울, 대부분 폐업",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],

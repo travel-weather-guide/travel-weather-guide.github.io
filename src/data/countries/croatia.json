@@ -1,0 +1,306 @@
+{
+  "id": "croatia",
+  "name": {
+    "ko": "크로아티아",
+    "en": "Croatia"
+  },
+  "continent": "europe",
+  "capital": "Zagreb",
+  "currency": "euro (€)",
+  "language": "Croatian",
+  "timezone": "UTC+01:00",
+  "visaInfo": "무비자 90일 (쉥겐 지역)",
+  "regions": [
+    {
+      "id": "dubrovnik",
+      "name": {
+        "ko": "두브로브니크",
+        "en": "Dubrovnik"
+      },
+      "countryId": "croatia",
+      "latitude": 42.6507,
+      "longitude": 18.0944,
+      "climateType": "지중해성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 11.8,
+          "tempLow": 3.9,
+          "rainfall": 221.9,
+          "rainyDays": 12.8,
+          "humidity": 70,
+          "sunshineHours": 6.8,
+          "seaTemp": 15.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 2,
+          "tempHigh": 13.2,
+          "tempLow": 5.1,
+          "rainfall": 136.7,
+          "rainyDays": 8.8,
+          "humidity": 70.7,
+          "sunshineHours": 8.1,
+          "seaTemp": 14.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 3,
+          "tempHigh": 14.2,
+          "tempLow": 6.3,
+          "rainfall": 151.8,
+          "rainyDays": 11.8,
+          "humidity": 67.3,
+          "sunshineHours": 9.1,
+          "seaTemp": 15.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 17.1,
+          "tempLow": 9,
+          "rainfall": 138.4,
+          "rainyDays": 11.2,
+          "humidity": 67.5,
+          "sunshineHours": 10.4,
+          "seaTemp": 16.8,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 22.2,
+          "tempLow": 14.3,
+          "rainfall": 133.4,
+          "rainyDays": 11.6,
+          "humidity": 70.2,
+          "sunshineHours": 11.6,
+          "seaTemp": 19.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 26.8,
+          "tempLow": 18.7,
+          "rainfall": 67.9,
+          "rainyDays": 7.2,
+          "humidity": 70,
+          "sunshineHours": 13.1,
+          "seaTemp": 24.8,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 30.7,
+          "tempLow": 21.7,
+          "rainfall": 26.2,
+          "rainyDays": 3,
+          "humidity": 58.1,
+          "sunshineHours": 13.8,
+          "seaTemp": 27.5,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 30.4,
+          "tempLow": 21.6,
+          "rainfall": 75.1,
+          "rainyDays": 6.6,
+          "humidity": 61.1,
+          "sunshineHours": 12.9,
+          "seaTemp": 27.3,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 9,
+          "tempHigh": 25.9,
+          "tempLow": 17.8,
+          "rainfall": 176.6,
+          "rainyDays": 8.2,
+          "humidity": 67.1,
+          "sunshineHours": 10.5,
+          "seaTemp": 25.3,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 10,
+          "tempHigh": 21.6,
+          "tempLow": 13.4,
+          "rainfall": 203.5,
+          "rainyDays": 10,
+          "humidity": 74.2,
+          "sunshineHours": 9,
+          "seaTemp": 22.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 16.9,
+          "tempLow": 9.4,
+          "rainfall": 302.8,
+          "rainyDays": 13.4,
+          "humidity": 74.2,
+          "sunshineHours": 6.4,
+          "seaTemp": 19.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 13.4,
+          "tempLow": 6.7,
+          "rainfall": 282.7,
+          "rainyDays": 14.8,
+          "humidity": 76.8,
+          "sunshineHours": 5.5,
+          "seaTemp": 17.3,
+          "weatherSummary": "우기"
+        }
+      ]
+    },
+    {
+      "id": "split",
+      "name": {
+        "ko": "스플리트",
+        "en": "Split"
+      },
+      "countryId": "croatia",
+      "latitude": 43.5081,
+      "longitude": 16.4402,
+      "climateType": "지중해성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 11.6,
+          "tempLow": 4.1,
+          "rainfall": 144.9,
+          "rainyDays": 9.6,
+          "humidity": 68.2,
+          "sunshineHours": 6.6,
+          "seaTemp": 14.9,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 2,
+          "tempHigh": 13.4,
+          "tempLow": 5.4,
+          "rainfall": 62.1,
+          "rainyDays": 7.2,
+          "humidity": 69.1,
+          "sunshineHours": 8,
+          "seaTemp": 14.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 14.6,
+          "tempLow": 6.5,
+          "rainfall": 83.1,
+          "rainyDays": 8.2,
+          "humidity": 63.3,
+          "sunshineHours": 9.6,
+          "seaTemp": 14.3,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 17.6,
+          "tempLow": 9.4,
+          "rainfall": 93,
+          "rainyDays": 8.4,
+          "humidity": 62.4,
+          "sunshineHours": 10.8,
+          "seaTemp": 16.2,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 22.8,
+          "tempLow": 15,
+          "rainfall": 93.9,
+          "rainyDays": 10.4,
+          "humidity": 64.2,
+          "sunshineHours": 11.7,
+          "seaTemp": 19,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 6,
+          "tempHigh": 27.9,
+          "tempLow": 19.1,
+          "rainfall": 60.1,
+          "rainyDays": 6.8,
+          "humidity": 60.8,
+          "sunshineHours": 13.1,
+          "seaTemp": 23.7,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 32,
+          "tempLow": 22.4,
+          "rainfall": 9.5,
+          "rainyDays": 2,
+          "humidity": 47.7,
+          "sunshineHours": 13.7,
+          "seaTemp": 26.7,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 31.4,
+          "tempLow": 22.5,
+          "rainfall": 78.1,
+          "rainyDays": 5.6,
+          "humidity": 52.7,
+          "sunshineHours": 12.8,
+          "seaTemp": 26.8,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 9,
+          "tempHigh": 26.4,
+          "tempLow": 18.1,
+          "rainfall": 143.3,
+          "rainyDays": 8,
+          "humidity": 61.6,
+          "sunshineHours": 10.4,
+          "seaTemp": 24.6,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 10,
+          "tempHigh": 21.7,
+          "tempLow": 14,
+          "rainfall": 122.9,
+          "rainyDays": 9,
+          "humidity": 70.3,
+          "sunshineHours": 9,
+          "seaTemp": 22.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 16.6,
+          "tempLow": 9.6,
+          "rainfall": 215.9,
+          "rainyDays": 11,
+          "humidity": 71,
+          "sunshineHours": 6.5,
+          "seaTemp": 19.6,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 13,
+          "tempLow": 6.8,
+          "rainfall": 225.8,
+          "rainyDays": 14.2,
+          "humidity": 75.1,
+          "sunshineHours": 5.4,
+          "seaTemp": 16.6,
+          "weatherSummary": "우기"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1555990793-da11153b2473?auto=format&fit=crop&w=800&q=80"
+}

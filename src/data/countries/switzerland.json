@@ -1,0 +1,282 @@
+{
+  "id": "switzerland",
+  "name": {
+    "ko": "스위스",
+    "en": "Switzerland"
+  },
+  "continent": "europe",
+  "capital": "Bern",
+  "currency": "Swiss franc (Fr.)",
+  "language": "French, Swiss German, Italian, Romansh",
+  "timezone": "UTC+01:00",
+  "visaInfo": "무비자 90일 (쉥겐 지역)",
+  "regions": [
+    {
+      "id": "zurich",
+      "name": {
+        "ko": "취리히",
+        "en": "Zurich"
+      },
+      "countryId": "switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "climateType": "서안 해양성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 4.7,
+          "tempLow": -1.4,
+          "rainfall": 85,
+          "rainyDays": 12,
+          "humidity": 84.7,
+          "sunshineHours": 5,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 2,
+          "tempHigh": 8.7,
+          "tempLow": 0.4,
+          "rainfall": 60.2,
+          "rainyDays": 13,
+          "humidity": 78.6,
+          "sunshineHours": 6.4,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 3,
+          "tempHigh": 11.1,
+          "tempLow": 1.2,
+          "rainfall": 78.4,
+          "rainyDays": 11.8,
+          "humidity": 74.3,
+          "sunshineHours": 8.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 14.3,
+          "tempLow": 3.8,
+          "rainfall": 95.8,
+          "rainyDays": 12.2,
+          "humidity": 71,
+          "sunshineHours": 9.5,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 18.1,
+          "tempLow": 8.7,
+          "rainfall": 138.1,
+          "rainyDays": 18,
+          "humidity": 75.2,
+          "sunshineHours": 9.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 23.4,
+          "tempLow": 13.5,
+          "rainfall": 131.8,
+          "rainyDays": 15.8,
+          "humidity": 73.6,
+          "sunshineHours": 11.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 7,
+          "tempHigh": 24.6,
+          "tempLow": 15.2,
+          "rainfall": 151.9,
+          "rainyDays": 16,
+          "humidity": 73.7,
+          "sunshineHours": 12,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 24.6,
+          "tempLow": 15.3,
+          "rainfall": 126.8,
+          "rainyDays": 11.6,
+          "humidity": 75.6,
+          "sunshineHours": 10.4,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 20.5,
+          "tempLow": 11.9,
+          "rainfall": 94.6,
+          "rainyDays": 11.2,
+          "humidity": 81.1,
+          "sunshineHours": 9.3,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 10,
+          "tempHigh": 15.7,
+          "tempLow": 7.9,
+          "rainfall": 99.5,
+          "rainyDays": 12.2,
+          "humidity": 85.5,
+          "sunshineHours": 7,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 11,
+          "tempHigh": 8.6,
+          "tempLow": 2.8,
+          "rainfall": 106.4,
+          "rainyDays": 14.4,
+          "humidity": 88.1,
+          "sunshineHours": 4.9,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 4.9,
+          "tempLow": -0.4,
+          "rainfall": 126.6,
+          "rainyDays": 16,
+          "humidity": 89.1,
+          "sunshineHours": 3.7,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    },
+    {
+      "id": "interlaken",
+      "name": {
+        "ko": "인터라켄",
+        "en": "Interlaken"
+      },
+      "countryId": "switzerland",
+      "latitude": 46.6863,
+      "longitude": 7.8632,
+      "climateType": "산악 기후",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 6.9,
+          "tempLow": 1.5,
+          "rainfall": 130.7,
+          "rainyDays": 15.4,
+          "humidity": 76.2,
+          "sunshineHours": 5.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 2,
+          "tempHigh": 10.2,
+          "tempLow": 3.2,
+          "rainfall": 87.6,
+          "rainyDays": 13,
+          "humidity": 69.7,
+          "sunshineHours": 7,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 11.8,
+          "tempLow": 3.5,
+          "rainfall": 129.8,
+          "rainyDays": 13.6,
+          "humidity": 69.9,
+          "sunshineHours": 8.4,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 14.3,
+          "tempLow": 5.3,
+          "rainfall": 143.6,
+          "rainyDays": 15.2,
+          "humidity": 70.6,
+          "sunshineHours": 9.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 17.9,
+          "tempLow": 9.1,
+          "rainfall": 186.6,
+          "rainyDays": 20.2,
+          "humidity": 76.5,
+          "sunshineHours": 9.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 22.8,
+          "tempLow": 13.6,
+          "rainfall": 181.3,
+          "rainyDays": 17.8,
+          "humidity": 74.9,
+          "sunshineHours": 11.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 7,
+          "tempHigh": 24.5,
+          "tempLow": 15.9,
+          "rainfall": 176.7,
+          "rainyDays": 16.8,
+          "humidity": 73.9,
+          "sunshineHours": 12.2,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 24.6,
+          "tempLow": 16.2,
+          "rainfall": 171.2,
+          "rainyDays": 14.4,
+          "humidity": 73.7,
+          "sunshineHours": 10.9,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 20.8,
+          "tempLow": 13.7,
+          "rainfall": 143.6,
+          "rainyDays": 15,
+          "humidity": 77.4,
+          "sunshineHours": 9.6,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 17.8,
+          "tempLow": 10.3,
+          "rainfall": 133.4,
+          "rainyDays": 14,
+          "humidity": 76.3,
+          "sunshineHours": 7.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 11.4,
+          "tempLow": 5.7,
+          "rainfall": 149.6,
+          "rainyDays": 14,
+          "humidity": 78.2,
+          "sunshineHours": 5.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 8,
+          "tempLow": 2.4,
+          "rainfall": 179.1,
+          "rainyDays": 16.2,
+          "humidity": 78.3,
+          "sunshineHours": 4.7,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?auto=format&fit=crop&w=800&q=80"
+}

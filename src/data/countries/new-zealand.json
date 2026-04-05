@@ -1,0 +1,294 @@
+{
+  "id": "new-zealand",
+  "name": {
+    "ko": "뉴질랜드",
+    "en": "New Zealand"
+  },
+  "continent": "oceania",
+  "capital": "Wellington",
+  "currency": "New Zealand dollar ($)",
+  "language": "English, Māori, New Zealand Sign Language",
+  "timezone": "UTC-11:00",
+  "visaInfo": "NZeTA 필요 (90일)",
+  "regions": [
+    {
+      "id": "auckland",
+      "name": {
+        "ko": "오클랜드",
+        "en": "Auckland"
+      },
+      "countryId": "new-zealand",
+      "latitude": -36.8485,
+      "longitude": 174.7633,
+      "climateType": "온대 해양성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 22.7,
+          "tempLow": 17.4,
+          "rainfall": 107.5,
+          "rainyDays": 12.4,
+          "humidity": 75.1,
+          "sunshineHours": 11.6,
+          "seaTemp": 23.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 2,
+          "tempHigh": 23.1,
+          "tempLow": 17.6,
+          "rainfall": 93.9,
+          "rainyDays": 10.8,
+          "humidity": 75.5,
+          "sunshineHours": 10.8,
+          "seaTemp": 22.6,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 3,
+          "tempHigh": 21.3,
+          "tempLow": 15.8,
+          "rainfall": 82.5,
+          "rainyDays": 11.4,
+          "humidity": 75,
+          "sunshineHours": 10.1,
+          "seaTemp": 21,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 4,
+          "tempHigh": 19.6,
+          "tempLow": 14.8,
+          "rainfall": 89.4,
+          "rainyDays": 12.2,
+          "humidity": 79.1,
+          "sunshineHours": 9,
+          "seaTemp": 19,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 5,
+          "tempHigh": 17.2,
+          "tempLow": 12.4,
+          "rainfall": 102.4,
+          "rainyDays": 14.2,
+          "humidity": 80.9,
+          "sunshineHours": 7.7,
+          "seaTemp": 16.4,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 15.6,
+          "tempLow": 11.4,
+          "rainfall": 111.3,
+          "rainyDays": 12.8,
+          "humidity": 82.9,
+          "sunshineHours": 7,
+          "seaTemp": 14.6,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 7,
+          "tempHigh": 14.5,
+          "tempLow": 9.9,
+          "rainfall": 127.5,
+          "rainyDays": 12,
+          "humidity": 82,
+          "sunshineHours": 7.2,
+          "seaTemp": 13.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 14.7,
+          "tempLow": 9.4,
+          "rainfall": 122.6,
+          "rainyDays": 13.6,
+          "humidity": 82.1,
+          "sunshineHours": 8.3,
+          "seaTemp": 13,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 15.7,
+          "tempLow": 10.7,
+          "rainfall": 106.4,
+          "rainyDays": 14.6,
+          "humidity": 79.5,
+          "sunshineHours": 9.3,
+          "seaTemp": 15,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 17.1,
+          "tempLow": 12.3,
+          "rainfall": 124.7,
+          "rainyDays": 14.8,
+          "humidity": 80.1,
+          "sunshineHours": 9.8,
+          "seaTemp": 16.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 19.4,
+          "tempLow": 14,
+          "rainfall": 131.6,
+          "rainyDays": 17.4,
+          "humidity": 79.2,
+          "sunshineHours": 10.9,
+          "seaTemp": 18.9,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 21.5,
+          "tempLow": 16.4,
+          "rainfall": 111.8,
+          "rainyDays": 15.2,
+          "humidity": 77.8,
+          "sunshineHours": 11.4,
+          "seaTemp": 21.3,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    },
+    {
+      "id": "queenstown",
+      "name": {
+        "ko": "퀸스타운",
+        "en": "Queenstown"
+      },
+      "countryId": "new-zealand",
+      "latitude": -45.0312,
+      "longitude": 168.6626,
+      "climateType": "산악 해양성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 21.4,
+          "tempLow": 12.4,
+          "rainfall": 100,
+          "rainyDays": 10,
+          "humidity": 68.5,
+          "sunshineHours": 11.6,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 2,
+          "tempHigh": 20.8,
+          "tempLow": 12.2,
+          "rainfall": 96.7,
+          "rainyDays": 9.4,
+          "humidity": 70.9,
+          "sunshineHours": 10.8,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 3,
+          "tempHigh": 18.1,
+          "tempLow": 10.1,
+          "rainfall": 98.1,
+          "rainyDays": 10.4,
+          "humidity": 73.6,
+          "sunshineHours": 9.7,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 15.3,
+          "tempLow": 8,
+          "rainfall": 110.1,
+          "rainyDays": 12.8,
+          "humidity": 78.5,
+          "sunshineHours": 8.1,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 11.8,
+          "tempLow": 5.8,
+          "rainfall": 102.1,
+          "rainyDays": 11.6,
+          "humidity": 85.3,
+          "sunshineHours": 6.2,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 7.9,
+          "tempLow": 3.1,
+          "rainfall": 108.8,
+          "rainyDays": 11.8,
+          "humidity": 89.7,
+          "sunshineHours": 5.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 7,
+          "tempHigh": 6.8,
+          "tempLow": 1.7,
+          "rainfall": 123.8,
+          "rainyDays": 13,
+          "humidity": 89.4,
+          "sunshineHours": 4.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 8.8,
+          "tempLow": 2.5,
+          "rainfall": 117.8,
+          "rainyDays": 14.6,
+          "humidity": 86.4,
+          "sunshineHours": 6.9,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 11,
+          "tempLow": 3.5,
+          "rainfall": 239.8,
+          "rainyDays": 15.4,
+          "humidity": 79.9,
+          "sunshineHours": 8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 10,
+          "tempHigh": 14.2,
+          "tempLow": 5.4,
+          "rainfall": 150.2,
+          "rainyDays": 14,
+          "humidity": 75.6,
+          "sunshineHours": 9.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 17.4,
+          "tempLow": 8.2,
+          "rainfall": 98.4,
+          "rainyDays": 13.6,
+          "humidity": 71.2,
+          "sunshineHours": 10.8,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 12,
+          "tempHigh": 19.7,
+          "tempLow": 11,
+          "rainfall": 114,
+          "rainyDays": 16.2,
+          "humidity": 70.1,
+          "sunshineHours": 11.5,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1469521669194-babb45599def?auto=format&fit=crop&w=800&q=80"
+}

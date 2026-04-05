@@ -1,0 +1,161 @@
+{
+  "id": "hong-kong",
+  "name": {
+    "ko": "홍콩",
+    "en": "Hong Kong"
+  },
+  "continent": "asia",
+  "capital": "City of Victoria",
+  "currency": "Hong Kong dollar ($)",
+  "language": "English, Chinese",
+  "timezone": "UTC+08:00",
+  "visaInfo": "무비자 90일",
+  "regions": [
+    {
+      "id": "hong-kong",
+      "name": {
+        "ko": "홍콩",
+        "en": "Hong Kong"
+      },
+      "countryId": "hong-kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "climateType": "아열대 습윤",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 18.8,
+          "tempLow": 13,
+          "rainfall": 15.6,
+          "rainyDays": 4.2,
+          "humidity": 72.4,
+          "sunshineHours": 8.5,
+          "seaTemp": 18.7,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 2,
+          "tempHigh": 19.7,
+          "tempLow": 14.1,
+          "rainfall": 50.6,
+          "rainyDays": 7.8,
+          "humidity": 80.7,
+          "sunshineHours": 7.8,
+          "seaTemp": 19.2,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 3,
+          "tempHigh": 22.4,
+          "tempLow": 17.8,
+          "rainfall": 84.7,
+          "rainyDays": 14,
+          "humidity": 85.2,
+          "sunshineHours": 7.5,
+          "seaTemp": 20.8,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 4,
+          "tempHigh": 24.5,
+          "tempLow": 20.1,
+          "rainfall": 180.2,
+          "rainyDays": 16.8,
+          "humidity": 86.2,
+          "sunshineHours": 8.2,
+          "seaTemp": 24.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 26.9,
+          "tempLow": 23.4,
+          "rainfall": 313.1,
+          "rainyDays": 23.4,
+          "humidity": 89.3,
+          "sunshineHours": 8.2,
+          "seaTemp": 26.5,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 6,
+          "tempHigh": 28.6,
+          "tempLow": 25.5,
+          "rainfall": 344.2,
+          "rainyDays": 29.2,
+          "humidity": 89.9,
+          "sunshineHours": 8.4,
+          "seaTemp": 28.6,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 29.9,
+          "tempLow": 26.3,
+          "rainfall": 269.4,
+          "rainyDays": 26,
+          "humidity": 86.5,
+          "sunshineHours": 10.7,
+          "seaTemp": 29.5,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 29.3,
+          "tempLow": 25.6,
+          "rainfall": 379.4,
+          "rainyDays": 27.4,
+          "humidity": 88.8,
+          "sunshineHours": 8.9,
+          "seaTemp": 28.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 9,
+          "tempHigh": 29.2,
+          "tempLow": 25,
+          "rainfall": 338.4,
+          "rainyDays": 23.8,
+          "humidity": 86.8,
+          "sunshineHours": 8.9,
+          "seaTemp": 28.5,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 10,
+          "tempHigh": 26.9,
+          "tempLow": 21.8,
+          "rainfall": 211.5,
+          "rainyDays": 10.6,
+          "humidity": 75.8,
+          "sunshineHours": 8.6,
+          "seaTemp": 27.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 24.3,
+          "tempLow": 18.8,
+          "rainfall": 126.7,
+          "rainyDays": 7.6,
+          "humidity": 75.2,
+          "sunshineHours": 8,
+          "seaTemp": 24.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 19.7,
+          "tempLow": 12.8,
+          "rainfall": 22.7,
+          "rainyDays": 4.3,
+          "humidity": 66.2,
+          "sunshineHours": 8,
+          "seaTemp": 21,
+          "weatherSummary": "온화"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1536599018102-9f803c979b13?auto=format&fit=crop&w=800&q=80"
+}

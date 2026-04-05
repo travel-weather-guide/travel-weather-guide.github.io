@@ -2,8 +2,8 @@
   {
     "regionId": "hanoi",
     "month": 1,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "겨울 안개와 보슬비, 쌀쌀하고 흐린 날이 많은 시기",
     "highlights": [
       "설날(뗏) 축제 시즌"
     ],
@@ -23,8 +23,8 @@
   {
     "regionId": "hanoi",
     "month": 2,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "아직 쌀쌀하지만 봄기운이 시작되는 시기",
     "highlights": [
       "설날(뗏) 축제 시즌",
       "쾌적한 기온"
@@ -46,8 +46,8 @@
   {
     "regionId": "hanoi",
     "month": 3,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "봄꽃이 피고 기온이 올라가는 시기",
     "highlights": [
       "쾌적한 기온"
     ],
@@ -65,8 +65,8 @@
   {
     "regionId": "hanoi",
     "month": 4,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "따뜻한 봄, 하롱베이 크루즈 좋은 시기",
     "highlights": [
       "쾌적한 기온"
     ],
@@ -83,8 +83,8 @@
   {
     "regionId": "hanoi",
     "month": 5,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "폭염 시작, 35°C 이상 고온다습한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -101,13 +101,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "hanoi",
     "month": 6,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "우기와 극심한 더위가 겹치는 최악의 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합",
@@ -133,8 +133,8 @@
   {
     "regionId": "hanoi",
     "month": 7,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "우기 절정, 폭우와 폭염이 동시에",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합",
@@ -159,8 +159,8 @@
   {
     "regionId": "hanoi",
     "month": 8,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "우기 지속, 태풍 영향 가능",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합",
@@ -184,8 +184,8 @@
   {
     "regionId": "hanoi",
     "month": 9,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "우기 끝자락, 비가 줄어들기 시작",
     "highlights": [
       "쾌적한 기온",
       "비수기로 관광객이 적어 여유로움",
@@ -207,8 +207,8 @@
   {
     "regionId": "hanoi",
     "month": 10,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "건기 시작, 25°C의 가장 쾌적한 시기",
     "highlights": [
       "선선하고 건조한 최적 관광시즌",
       "쾌적한 기온"
@@ -231,8 +231,8 @@
   {
     "regionId": "hanoi",
     "month": 11,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "건기, 선선하고 맑은 하노이 여행 최적기",
     "highlights": [
       "선선하고 건조한 최적 관광시즌",
       "쾌적한 기온"
@@ -251,8 +251,8 @@
   {
     "regionId": "hanoi",
     "month": 12,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "건기 지속, 쌀쌀하지만 맑은 겨울",
     "highlights": [
       "강수량이 적어 맑은 날이 많음"
     ],
@@ -267,7 +267,7 @@
     "regionId": "ho-chi-minh",
     "month": 1,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "건기 한가운데, 맑고 쾌적한 여행 최적기",
     "highlights": [
       "건기, 야외 활동 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -282,14 +282,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 2,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "건기 절정, 가장 건조한 달",
     "highlights": [
       "건기, 야외 활동 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -306,14 +306,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 3,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 5,
+    "summary": "건기 지속, 더위가 올라오지만 아직 쾌적",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -327,14 +327,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 4,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "더위 본격화, 건기 막바지",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -357,8 +357,8 @@
   {
     "regionId": "ho-chi-minh",
     "month": 5,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 1,
+    "summary": "우기 시작, 매일 오후 스콜이 쏟아짐",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -376,13 +376,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 6,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기, 오후 집중 호우와 도로 침수",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -399,13 +399,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 7,
     "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "summary": "우기 지속, 높은 습도",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온",
@@ -429,8 +429,8 @@
   {
     "regionId": "ho-chi-minh",
     "month": 8,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기, 비와 습도가 극심한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온",
@@ -448,13 +448,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 9,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "우기 절정, 침수 빈번",
     "highlights": [
       "쾌적한 기온",
       "비수기로 관광객이 적어 여유로움",
@@ -476,8 +476,8 @@
   {
     "regionId": "ho-chi-minh",
     "month": 10,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "우기 끝자락, 비가 줄어들기 시작",
     "highlights": [
       "쾌적한 기온",
       "비수기로 관광객이 적어 여유로움",
@@ -499,8 +499,8 @@
   {
     "regionId": "ho-chi-minh",
     "month": 11,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기 마무리, 건기로 전환 중",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -517,13 +517,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "ho-chi-minh",
     "month": 12,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "건기 시작, 선선한 바람이 부는 여행 적기",
     "highlights": [
       "건기, 야외 활동 최적",
       "일조시간이 길어 야외 활동에 좋음",
@@ -545,8 +545,8 @@
   {
     "regionId": "da-nang",
     "month": 1,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 2,
+    "summary": "비가 줄지만 아직 흐린 날이 많은 시기",
     "highlights": [
       "쾌적한 기온"
     ],
@@ -560,14 +560,14 @@
       "접이식 우산이나 우비 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "da-nang",
     "month": 2,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "건기 시작, 날씨가 좋아지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -587,8 +587,8 @@
   {
     "regionId": "da-nang",
     "month": 3,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "건기, 해변 시즌 시작",
     "highlights": [
       "맑고 따뜻한 해변 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -611,8 +611,8 @@
   {
     "regionId": "da-nang",
     "month": 4,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "건기 절정, 완벽한 해변과 바나힐 관광",
     "highlights": [
       "맑고 따뜻한 해변 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -637,7 +637,7 @@
     "regionId": "da-nang",
     "month": 5,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "summary": "건기 지속, 해변과 마블마운틴 관광 최적기",
     "highlights": [
       "맑고 따뜻한 해변 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -660,8 +660,8 @@
   {
     "regionId": "da-nang",
     "month": 6,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "더워지지만 아직 해변 즐기기 좋은 시기",
     "highlights": [
       "해변 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -686,8 +686,8 @@
   {
     "regionId": "da-nang",
     "month": 7,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "고온이지만 해변 성수기",
     "highlights": [
       "해변 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -710,8 +710,8 @@
   {
     "regionId": "da-nang",
     "month": 8,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "태풍 시즌 시작, 비가 잦아지는 시기",
     "highlights": [
       "해변 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -736,8 +736,8 @@
   {
     "regionId": "da-nang",
     "month": 9,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 1,
+    "summary": "태풍 접근, 폭우가 빈번한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -754,13 +754,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "da-nang",
     "month": 10,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "태풍·폭우 절정, 홍수 위험 가장 높은 시기",
     "highlights": [
       "쾌적한 기온",
       "비수기로 관광객이 적어 여유로움",
@@ -782,8 +782,8 @@
   {
     "regionId": "da-nang",
     "month": 11,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 1,
+    "summary": "태풍 지속, 해수욕 불가능",
     "highlights": [
       "쾌적한 기온"
     ],
@@ -798,13 +798,13 @@
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "da-nang",
     "month": 12,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기 끝자락, 점차 날씨 회복 중",
     "highlights": [
       "쾌적한 기온"
     ],
@@ -819,6 +819,6 @@
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   }
 ]

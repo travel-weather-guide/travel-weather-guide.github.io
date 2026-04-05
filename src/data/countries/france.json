@@ -2,9 +2,7 @@
   "id": "france",
   "name": {
     "ko": "프랑스",
-    "en": "France",
-    "ja": "フランス",
-    "zh": "法国"
+    "en": "France"
   },
   "continent": "europe",
   "capital": "Paris",
@@ -12,25 +10,17 @@
   "language": "French",
   "timezone": "UTC-10:00",
   "visaInfo": "무비자 90일 (쉥겐 지역)",
-  "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80",
   "regions": [
     {
       "id": "paris",
       "name": {
         "ko": "파리",
-        "en": "Paris",
-        "ja": "パリ",
-        "zh": "巴黎"
+        "en": "Paris"
       },
       "countryId": "france",
       "latitude": 48.8566,
       "longitude": 2.3522,
-      "climateType": {
-        "ko": "서안 해양성",
-        "en": "Oceanic",
-        "ja": "西岸海洋性",
-        "zh": "温带海洋性"
-      },
+      "climateType": "서안 해양성",
       "monthlyData": [
         {
           "month": 1,
@@ -40,12 +30,7 @@
           "rainyDays": 11.6,
           "humidity": 85.9,
           "sunshineHours": 3.6,
-          "weatherSummary": {
-            "ko": "추움",
-            "en": "Cold",
-            "ja": "寒い",
-            "zh": "寒冷"
-          }
+          "weatherSummary": "추움"
         },
         {
           "month": 2,
@@ -55,12 +40,7 @@
           "rainyDays": 12,
           "humidity": 79.9,
           "sunshineHours": 4.9,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 3,
@@ -70,12 +50,7 @@
           "rainyDays": 13.8,
           "humidity": 75.4,
           "sunshineHours": 7.5,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 4,
@@ -85,12 +60,7 @@
           "rainyDays": 10,
           "humidity": 68.9,
           "sunshineHours": 9.9,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 5,
@@ -100,12 +70,7 @@
           "rainyDays": 13.4,
           "humidity": 69.8,
           "sunshineHours": 11,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 6,
@@ -115,12 +80,7 @@
           "rainyDays": 12.8,
           "humidity": 68.8,
           "sunshineHours": 11.8,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 7,
@@ -130,12 +90,7 @@
           "rainyDays": 8.6,
           "humidity": 64.6,
           "sunshineHours": 11.6,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 8,
@@ -145,12 +100,7 @@
           "rainyDays": 11,
           "humidity": 67.3,
           "sunshineHours": 10.7,
-          "weatherSummary": {
-            "ko": "쾌청",
-            "en": "Clear",
-            "ja": "快晴",
-            "zh": "晴朗"
-          }
+          "weatherSummary": "쾌청"
         },
         {
           "month": 9,
@@ -160,12 +110,7 @@
           "rainyDays": 10.2,
           "humidity": 73.5,
           "sunshineHours": 9.2,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 10,
@@ -175,12 +120,7 @@
           "rainyDays": 14.4,
           "humidity": 81.7,
           "sunshineHours": 6.4,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 11,
@@ -190,12 +130,7 @@
           "rainyDays": 11,
           "humidity": 85.9,
           "sunshineHours": 4.8,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 12,
@@ -205,12 +140,7 @@
           "rainyDays": 15,
           "humidity": 87.8,
           "sunshineHours": 2.9,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         }
       ]
     },
@@ -218,19 +148,12 @@
       "id": "nice",
       "name": {
         "ko": "니스",
-        "en": "Nice",
-        "ja": "ニース",
-        "zh": "尼斯"
+        "en": "Nice"
       },
       "countryId": "france",
       "latitude": 43.7102,
       "longitude": 7.262,
-      "climateType": {
-        "ko": "지중해성",
-        "en": "Mediterranean",
-        "ja": "地中海性",
-        "zh": "地中海型"
-      },
+      "climateType": "지중해성",
       "monthlyData": [
         {
           "month": 1,
@@ -241,12 +164,7 @@
           "humidity": 68.8,
           "sunshineHours": 7.2,
           "seaTemp": 14.9,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 2,
@@ -257,12 +175,7 @@
           "humidity": 70.5,
           "sunshineHours": 8.7,
           "seaTemp": 14.3,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 3,
@@ -273,12 +186,7 @@
           "humidity": 67.2,
           "sunshineHours": 9.5,
           "seaTemp": 14.4,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 4,
@@ -289,12 +197,7 @@
           "humidity": 66.8,
           "sunshineHours": 11.1,
           "seaTemp": 15.8,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 5,
@@ -305,12 +208,7 @@
           "humidity": 73.2,
           "sunshineHours": 11.8,
           "seaTemp": 18.9,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 6,
@@ -321,12 +219,7 @@
           "humidity": 73.4,
           "sunshineHours": 13.5,
           "seaTemp": 22.9,
-          "weatherSummary": {
-            "ko": "쾌청",
-            "en": "Clear",
-            "ja": "快晴",
-            "zh": "晴朗"
-          }
+          "weatherSummary": "쾌청"
         },
         {
           "month": 7,
@@ -337,12 +230,7 @@
           "humidity": 68.5,
           "sunshineHours": 14.3,
           "seaTemp": 26.5,
-          "weatherSummary": {
-            "ko": "쾌청",
-            "en": "Clear",
-            "ja": "快晴",
-            "zh": "晴朗"
-          }
+          "weatherSummary": "쾌청"
         },
         {
           "month": 8,
@@ -353,12 +241,7 @@
           "humidity": 63.3,
           "sunshineHours": 12.6,
           "seaTemp": 27.4,
-          "weatherSummary": {
-            "ko": "따뜻하고 쾌청",
-            "en": "Warm & Clear",
-            "ja": "暖かく快晴",
-            "zh": "温暖晴朗"
-          }
+          "weatherSummary": "따뜻하고 쾌청"
         },
         {
           "month": 9,
@@ -369,12 +252,7 @@
           "humidity": 64.4,
           "sunshineHours": 10.5,
           "seaTemp": 24.5,
-          "weatherSummary": {
-            "ko": "쾌청",
-            "en": "Clear",
-            "ja": "快晴",
-            "zh": "晴朗"
-          }
+          "weatherSummary": "쾌청"
         },
         {
           "month": 10,
@@ -385,12 +263,7 @@
           "humidity": 73.8,
           "sunshineHours": 8.6,
           "seaTemp": 21.3,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 11,
@@ -401,12 +274,7 @@
           "humidity": 68.4,
           "sunshineHours": 7.7,
           "seaTemp": 18.5,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 12,
@@ -417,14 +285,10 @@
           "humidity": 70.7,
           "sunshineHours": 7,
           "seaTemp": 16.3,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         }
       ]
     }
-  ]
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80"
 }

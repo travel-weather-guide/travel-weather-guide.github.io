@@ -1,0 +1,544 @@
+[
+  {
+    "regionId": "dubai",
+    "month": 1,
+    "rating": 4,
+    "summary": "겨울 최적기, 25°C의 완벽한 쇼핑·사막 투어",
+    "highlights": [
+      "두바이 관광 황금 시즌, 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "두바이 쇼핑 페스티벌 (1~2월)",
+      "두바이 엑스포·이벤트 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubai",
+    "month": 2,
+    "rating": 5,
+    "summary": "겨울, 실외 활동 가능한 최고의 날씨",
+    "highlights": [
+      "두바이 관광 황금 시즌, 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "두바이 쇼핑 페스티벌 (1~2월)",
+      "두바이 엑스포·이벤트 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubai",
+    "month": 3,
+    "rating": 5,
+    "summary": "봄 기운, 아직 쾌적하고 관광 좋은 시기",
+    "highlights": [
+      "두바이 관광 황금 시즌, 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "두바이 쇼핑 페스티벌 (1~2월)",
+      "두바이 엑스포·이벤트 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubai",
+    "month": 4,
+    "rating": 5,
+    "summary": "점점 더워지는 과도기, 아직 버틸 만한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubai",
+    "month": 5,
+    "rating": 5,
+    "summary": "더위 본격화, 야외 활동 오전으로 제한",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 36°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubai",
+    "month": 6,
+    "rating": 4,
+    "summary": "40°C대 폭염, 실내 몰에서 쇼핑만",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 39°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "dubai",
+    "month": 7,
+    "rating": 4,
+    "summary": "45°C+ 극한 더위, 야외는 위험 수준",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 41°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "dubai",
+    "month": 8,
+    "rating": 4,
+    "summary": "극심한 폭염, 실내 리조트 풀에서만 생존",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 41°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "dubai",
+    "month": 9,
+    "rating": 4,
+    "summary": "여전히 40°C+, 아직 바깥은 힘든 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 39°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "dubai",
+    "month": 10,
+    "rating": 5,
+    "summary": "더위 물러나기 시작, 야외 조금씩 가능",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 35°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubai",
+    "month": 11,
+    "rating": 5,
+    "summary": "겨울 시작, 두바이 마라톤과 쇼핑 시즌",
+    "highlights": [
+      "두바이 관광 황금 시즌, 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "두바이 쇼핑 페스티벌 (1~2월)",
+      "두바이 엑스포·이벤트 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "dubai",
+    "month": 12,
+    "rating": 5,
+    "summary": "겨울 완벽, 두바이 쇼핑 페스티벌의 성수기",
+    "highlights": [
+      "두바이 관광 황금 시즌, 야외 활동 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "두바이 쇼핑 페스티벌 (1~2월)",
+      "두바이 엑스포·이벤트 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 1,
+    "rating": 5,
+    "summary": "겨울 최적기, 셰이크 자이드 모스크 황금빛 대리석",
+    "highlights": [
+      "아부다비 쾌적한 겨울 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "아부다비 F1 그랑프리 (11월)",
+      "아부다비 아트 페어"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 2,
+    "rating": 5,
+    "summary": "겨울, 루브르 아부다비와 문화 투어",
+    "highlights": [
+      "아부다비 쾌적한 겨울 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "아부다비 F1 그랑프리 (11월)",
+      "아부다비 아트 페어"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 3,
+    "rating": 5,
+    "summary": "봄 기운, F1 전초전 분위기의 도시",
+    "highlights": [
+      "아부다비 쾌적한 겨울 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "아부다비 F1 그랑프리 (11월)",
+      "아부다비 아트 페어"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 4,
+    "rating": 5,
+    "summary": "더워지기 시작, 야외 관광 마지막 기회",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 5,
+    "rating": 5,
+    "summary": "초여름, 오전 관광 후 실내로",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 36°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 6,
+    "rating": 4,
+    "summary": "40°C 폭염, 모스크는 오전 이른 방문 필수",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 39°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 7,
+    "rating": 4,
+    "summary": "극한의 더위, 쇼핑몰과 워터파크 시즌",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 40°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 8,
+    "rating": 4,
+    "summary": "폭염 지속, 실내 리조트 휴가",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 41°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 9,
+    "rating": 4,
+    "summary": "더위 서서히 가라앉는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 39°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 10,
+    "rating": 5,
+    "summary": "야외 활동 재개, F1 시즌 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 35°C로 더위에 주의"
+    ],
+    "events": [],
+    "tips": [
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 11,
+    "rating": 5,
+    "summary": "쾌적한 가을, F1 아부다비 그랑프리",
+    "highlights": [
+      "아부다비 쾌적한 겨울 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "아부다비 F1 그랑프리 (11월)",
+      "아부다비 아트 페어"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "abu-dhabi",
+    "month": 12,
+    "rating": 5,
+    "summary": "겨울 완벽, 그랜드 모스크 야경과 선선한 사막",
+    "highlights": [
+      "아부다비 쾌적한 겨울 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "아부다비 F1 그랑프리 (11월)",
+      "아부다비 아트 페어"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "high"
+  }
+]

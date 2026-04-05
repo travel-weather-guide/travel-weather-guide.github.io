@@ -2,159 +2,196 @@
   "month": 1,
   "bestDestinations": [
     {
+      "regionId": "abu-dhabi",
+      "category": "culture",
+      "reason": "겨울 최적기, 셰이크 자이드 모스크 황금빛 대리석",
+      "rating": 5
+    },
+    {
       "regionId": "bangkok",
       "category": "culture",
-      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기 한가운데, 선선한 바람이 부는 여행 최적기",
       "rating": 5
     },
     {
       "regionId": "chiang-mai",
-      "category": "mountain",
-      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "category": "culture",
+      "reason": "건기의 서늘한 날씨, 트레킹과 사원 투어 최적기",
       "rating": 5
     },
     {
       "regionId": "ho-chi-minh",
       "category": "city",
-      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기 한가운데, 맑고 쾌적한 여행 최적기",
       "rating": 5
     },
     {
       "regionId": "kaohsiung",
       "category": "city",
-      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기, 따뜻한 남부 날씨로 여행 적기",
       "rating": 5
     },
     {
-      "regionId": "seville",
+      "regionId": "luang-prabang",
       "category": "culture",
-      "reason": "평균 11°C, 비가 거의 없는 맑은 날씨",
+      "reason": "건기, 새벽 탁발 행렬과 서늘한 메콩강변",
       "rating": 5
     },
     {
-      "regionId": "phuket",
+      "regionId": "phnom-penh",
+      "category": "city",
+      "reason": "건기, 왕궁과 메콩강변 산책 최적기",
+      "rating": 5
+    },
+    {
+      "regionId": "siem-reap",
+      "category": "culture",
+      "reason": "건기 절정, 앙코르와트 일출 최고의 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "vientiane",
+      "category": "culture",
+      "reason": "건기, 탓루앙 황금 탑과 선선한 날씨",
+      "rating": 5
+    }
+  ],
+  "hiddenGems": [
+    {
+      "regionId": "langkawi",
       "category": "beach",
-      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기, 맹그로브 보트 투어와 맑은 바다",
       "rating": 4
     },
     {
-      "regionId": "hawaii",
+      "regionId": "male",
       "category": "beach",
-      "reason": "평균 23°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "reason": "NE 몬순 건기, 파도 잔잔하고 시야 맑은 스노클링",
       "rating": 4
     },
     {
       "regionId": "melbourne",
       "category": "culture",
-      "reason": "평균 21°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "hanoi",
-      "category": "city",
-      "reason": "평균 18°C의 온화한 날씨, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "da-nang",
-      "category": "beach",
-      "reason": "평균 22°C의 쾌적한 기온",
-      "rating": 4
-    },
-    {
-      "regionId": "manila",
-      "category": "city",
-      "reason": "평균 26°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "lombok",
-      "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "taipei",
-      "category": "city",
-      "reason": "평균 16°C의 온화한 날씨, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "madrid",
-      "category": "city",
-      "reason": "평균 6°C, 비가 거의 없는 맑은 날씨",
-      "rating": 4
-    },
-    {
-      "regionId": "barcelona",
-      "category": "beach",
-      "reason": "평균 9°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "rome",
-      "category": "culture",
-      "reason": "평균 8°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "venice",
-      "category": "culture",
-      "reason": "평균 4°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "istanbul",
-      "category": "culture",
-      "reason": "평균 7°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "cappadocia",
-      "category": "adventure",
-      "reason": "평균 1°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "athens",
-      "category": "culture",
-      "reason": "평균 9°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "santorini",
-      "category": "beach",
-      "reason": "평균 13°C, 비가 거의 없는 맑은 날씨",
-      "rating": 4
-    },
-    {
-      "regionId": "mykonos",
-      "category": "beach",
-      "reason": "평균 13°C, 강수량 적음",
+      "reason": "한여름, 호주 오픈 테니스 시즌",
       "rating": 4
     }
   ],
-  "hiddenGems": [],
   "avoidList": [
     {
-      "regionId": "tokyo",
-      "reason": "평균 5°C의 혹한"
+      "regionId": "amalfi",
+      "reason": "겨울, 대부분의 호텔·식당 폐업"
+    },
+    {
+      "regionId": "antalya",
+      "reason": "겨울 비, 해변 부적합하지만 유적지 관광 가능"
+    },
+    {
+      "regionId": "athens",
+      "reason": "겨울 비, 파르테논은 한산하고 입장 편한 시기"
     },
     {
       "regionId": "bali",
-      "reason": "강수량 284mm의 우기"
+      "reason": "우기 한가운데, 매일 폭우와 높은 습도"
+    },
+    {
+      "regionId": "berlin",
+      "reason": "혹독한 베를린 겨울, 박물관섬 실내 관광"
+    },
+    {
+      "regionId": "cappadocia",
+      "reason": "폭설로 열기구 대부분 결항, 겨울왕국 풍경"
+    },
+    {
+      "regionId": "cebu",
+      "reason": "건기, 맑은 바다에서 고래상어 투어 최적기"
+    },
+    {
+      "regionId": "da-nang",
+      "reason": "비가 줄지만 아직 흐린 날이 많은 시기"
+    },
+    {
+      "regionId": "dubrovnik",
+      "reason": "비수기, 크루즈 없는 여유로운 성벽 투어"
+    },
+    {
+      "regionId": "edinburgh",
+      "reason": "혹한과 어둠, 일조시간 7시간의 깊은 겨울"
     },
     {
       "regionId": "hokkaido",
-      "reason": "평균 -6°C의 혹한"
+      "reason": "파우더 스노우 스키의 천국, 니세코·루스쓰 최적기"
     },
     {
-      "regionId": "paris",
-      "reason": "평균 5°C의 혹한, 일조량 부족"
+      "regionId": "interlaken",
+      "reason": "스키 시즌 절정, 융프라우 파우더 스노우"
+    },
+    {
+      "regionId": "istanbul",
+      "reason": "겨울 비, 보스포루스 강풍이 부는 시기"
+    },
+    {
+      "regionId": "jakarta",
+      "reason": "우기 절정, 심각한 도시 침수가 매년 반복"
+    },
+    {
+      "regionId": "kota-kinabalu",
+      "reason": "건기 절정, 키나발루산 트레킹 최적기"
+    },
+    {
+      "regionId": "kuala-lumpur",
+      "reason": "북동 몬순, 비 잦지만 페트로나스 타워는 언제나 장관"
+    },
+    {
+      "regionId": "london",
+      "reason": "어두운 겨울, 뮤지컬과 실내 관광 위주"
+    },
+    {
+      "regionId": "munich",
+      "reason": "겨울, 마리엔광장 야경과 근교 알프스 스키"
     },
     {
       "regionId": "new-york",
-      "reason": "잦은 비(102mm), 평균 2°C의 혹한"
+      "reason": "영하의 혹한과 폭설, 브로드웨이와 실내 관광 위주"
+    },
+    {
+      "regionId": "paris",
+      "reason": "겨울 한가운데, 관광객 적고 항공권 저렴한 비수기"
+    },
+    {
+      "regionId": "porto",
+      "reason": "겨울 비, 동루이스 다리 위 빗속 산책"
+    },
+    {
+      "regionId": "prague",
+      "reason": "겨울, 카를교 위 눈과 뜨거운 맥주 한 잔"
+    },
+    {
+      "regionId": "rome",
+      "reason": "겨울 비, 콜로세움 줄이 짧은 비수기"
+    },
+    {
+      "regionId": "shanghai",
+      "reason": "쌀쌀한 겨울, 와이탄 야경과 실내 쇼핑"
+    },
+    {
+      "regionId": "singapore",
+      "reason": "북동 몬순, 비가 가장 많은 시기"
+    },
+    {
+      "regionId": "split",
+      "reason": "비수기, 디오클레티아누스 궁전 독차지"
+    },
+    {
+      "regionId": "tokyo",
+      "reason": "겨울 일루미네이션과 맑은 후지산 전망이 매력인 시기"
+    },
+    {
+      "regionId": "venice",
+      "reason": "겨울 추위, 안개와 아쿠아 알타(침수) 위험"
+    },
+    {
+      "regionId": "zurich",
+      "reason": "겨울, 알프스 스키 근교 여행과 퐁뒤"
     }
   ]
 }

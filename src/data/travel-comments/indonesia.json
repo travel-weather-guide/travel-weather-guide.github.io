@@ -2,8 +2,8 @@
   {
     "regionId": "bali",
     "month": 1,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "우기 한가운데, 매일 폭우와 높은 습도",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "비수기로 관광객이 적어 여유로움",
@@ -26,8 +26,8 @@
   {
     "regionId": "bali",
     "month": 2,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기 절정, 도로 침수 빈번",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -43,13 +43,13 @@
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bali",
     "month": 3,
     "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "summary": "우기 끝자락, 비가 줄어들기 시작",
     "highlights": [
       "냐피(발리 새해) 전후",
       "일조시간이 길어 야외 활동에 좋음",
@@ -75,8 +75,8 @@
   {
     "regionId": "bali",
     "month": 4,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "건기 시작, 녹음 짙은 우붓과 맑은 하늘",
     "highlights": [
       "냐피(발리 새해) 전후",
       "일조시간이 길어 야외 활동에 좋음"
@@ -95,13 +95,13 @@
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bali",
     "month": 5,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 2,
+    "summary": "건기, 서핑과 사원 투어 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -117,13 +117,13 @@
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bali",
     "month": 6,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 2,
+    "summary": "건기 절정, 선선하고 맑은 발리 여행 최적기",
     "highlights": [
       "건기 성수기, 다이빙/서핑 최적",
       "일조시간이 길어 야외 활동에 좋음"
@@ -142,14 +142,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "bali",
     "month": 7,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 2,
+    "summary": "건기, 성수기라 관광객 많지만 날씨 최고",
     "highlights": [
       "건기 성수기, 다이빙/서핑 최적",
       "일조시간이 길어 야외 활동에 좋음"
@@ -166,14 +166,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "bali",
     "month": 8,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 2,
+    "summary": "건기, 우붓 예술축제와 해변 시즌",
     "highlights": [
       "건기 성수기, 다이빙/서핑 최적",
       "일조시간이 길어 야외 활동에 좋음"
@@ -190,14 +190,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "bali",
     "month": 9,
-    "rating": 3,
-    "summary": "보통의 날씨, 여행 가능",
+    "rating": 2,
+    "summary": "건기 막바지, 관광객 줄고 쾌적",
     "highlights": [
       "건기 성수기, 다이빙/서핑 최적",
       "일조시간이 길어 야외 활동에 좋음"
@@ -216,14 +216,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "bali",
     "month": 10,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "건기 끝자락, 간간이 소나기 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -239,13 +239,13 @@
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bali",
     "month": 11,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "우기 시작, 오후 스콜이 잦아지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "비수기로 관광객이 적어 여유로움",
@@ -268,8 +268,8 @@
   {
     "regionId": "bali",
     "month": 12,
-    "rating": 2,
-    "summary": "우기로 비가 많은 시기",
+    "rating": 1,
+    "summary": "우기, 연말 성수기라 비에도 관광객 많은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "비수기로 관광객이 적어 여유로움",
@@ -292,8 +292,8 @@
   {
     "regionId": "lombok",
     "month": 1,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "우기, 린자니산 트레킹 위험한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -315,8 +315,8 @@
   {
     "regionId": "lombok",
     "month": 2,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "우기 절정, 산사태 위험",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -338,8 +338,8 @@
   {
     "regionId": "lombok",
     "month": 3,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 2,
+    "summary": "우기 끝자락, 비 줄어들기 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -355,14 +355,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "lombok",
     "month": 4,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 2,
+    "summary": "건기 시작, 길리섬 다이빙 시야 회복",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -378,14 +378,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "lombok",
     "month": 5,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "건기, 린자니산 트레킹 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -407,8 +407,8 @@
   {
     "regionId": "lombok",
     "month": 6,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "건기 절정, 맑은 바다와 길리섬 다이빙",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -428,8 +428,8 @@
   {
     "regionId": "lombok",
     "month": 7,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "건기, 서핑과 스노클링 최적 컨디션",
     "highlights": [
       "맑은 건기, 린자니 화산 트레킹",
       "일조시간이 길어 야외 활동에 좋음",
@@ -453,7 +453,7 @@
     "regionId": "lombok",
     "month": 8,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "건기 지속, 해양 액티비티 최고",
     "highlights": [
       "맑은 건기, 린자니 화산 트레킹",
       "일조시간이 길어 야외 활동에 좋음",
@@ -476,8 +476,8 @@
   {
     "regionId": "lombok",
     "month": 9,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "건기 끝자락, 아직 좋은 컨디션",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -499,8 +499,8 @@
   {
     "regionId": "lombok",
     "month": 10,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 2,
+    "summary": "과도기, 비가 조금씩 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -516,14 +516,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "lombok",
     "month": 11,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기 시작, 야외 활동 제한",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -540,13 +540,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "lombok",
     "month": 12,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기, 해양 활동 어려운 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -563,13 +563,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "jakarta",
     "month": 1,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 1,
+    "summary": "우기 절정, 심각한 도시 침수가 매년 반복",
     "highlights": [
       "쾌적한 기온"
     ],
@@ -584,13 +584,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "jakarta",
     "month": 2,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 1,
+    "summary": "우기, 홍수와 교통 마비 빈번",
     "highlights": [
       "쾌적한 기온"
     ],
@@ -605,13 +605,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "jakarta",
     "month": 3,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 1,
+    "summary": "우기 끝자락, 비 줄어들지만 습도 높음",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -628,13 +628,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "jakarta",
     "month": 4,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "과도기, 비가 줄고 야외 관광 가능해지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -651,13 +651,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "jakarta",
     "month": 5,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "건기 시작, 도시 관광 쾌적해지는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -674,13 +674,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "jakarta",
     "month": 6,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "건기, 맑은 날씨의 도시 관광",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -696,14 +696,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "jakarta",
     "month": 7,
-    "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 3,
+    "summary": "건기 절정, 가장 쾌적한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -724,7 +724,7 @@
     "regionId": "jakarta",
     "month": 8,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "summary": "건기, 독립기념일(8/17) 행사 시즌",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -744,8 +744,8 @@
   {
     "regionId": "jakarta",
     "month": 9,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "건기 끝자락, 아직 쾌적",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -767,8 +767,8 @@
   {
     "regionId": "jakarta",
     "month": 10,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "과도기, 비가 조금씩 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "따뜻한 날씨로 해변 활동에 적합"
@@ -785,13 +785,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "jakarta",
     "month": 11,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기 시작, 도로 침수 주의",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -808,13 +808,13 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "jakarta",
     "month": 12,
-    "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
+    "rating": 2,
+    "summary": "우기, 침수 위험 증가하는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -831,6 +831,6 @@
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   }
 ]

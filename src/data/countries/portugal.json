@@ -1,0 +1,306 @@
+{
+  "id": "portugal",
+  "name": {
+    "ko": "포르투갈",
+    "en": "Portugal"
+  },
+  "continent": "europe",
+  "capital": "Lisbon",
+  "currency": "euro (€)",
+  "language": "Portuguese",
+  "timezone": "UTC-01:00",
+  "visaInfo": "무비자 90일 (쉥겐 지역)",
+  "regions": [
+    {
+      "id": "lisbon",
+      "name": {
+        "ko": "리스본",
+        "en": "Lisbon"
+      },
+      "countryId": "portugal",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "climateType": "지중해성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 14.9,
+          "tempLow": 8.9,
+          "rainfall": 56,
+          "rainyDays": 7,
+          "humidity": 81.1,
+          "sunshineHours": 7.7,
+          "seaTemp": 15.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 2,
+          "tempHigh": 16.9,
+          "tempLow": 9.9,
+          "rainfall": 49.2,
+          "rainyDays": 7.2,
+          "humidity": 78.9,
+          "sunshineHours": 8.2,
+          "seaTemp": 14.8,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 17.8,
+          "tempLow": 10.5,
+          "rainfall": 56.8,
+          "rainyDays": 8.6,
+          "humidity": 76.1,
+          "sunshineHours": 9.6,
+          "seaTemp": 15.2,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 20.1,
+          "tempLow": 12.2,
+          "rainfall": 60.7,
+          "rainyDays": 8.8,
+          "humidity": 74.6,
+          "sunshineHours": 11,
+          "seaTemp": 17,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 5,
+          "tempHigh": 23.4,
+          "tempLow": 14.6,
+          "rainfall": 23,
+          "rainyDays": 3.6,
+          "humidity": 68.9,
+          "sunshineHours": 12.4,
+          "seaTemp": 17.7,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 6,
+          "tempHigh": 24.9,
+          "tempLow": 16.3,
+          "rainfall": 22.9,
+          "rainyDays": 5.4,
+          "humidity": 71.5,
+          "sunshineHours": 13.2,
+          "seaTemp": 19.7,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 29,
+          "tempLow": 18,
+          "rainfall": 2.9,
+          "rainyDays": 2,
+          "humidity": 65.4,
+          "sunshineHours": 13.4,
+          "seaTemp": 19.7,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 28.5,
+          "tempLow": 18.4,
+          "rainfall": 1,
+          "rainyDays": 1,
+          "humidity": 68.9,
+          "sunshineHours": 12.3,
+          "seaTemp": 19.6,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 9,
+          "tempHigh": 25.7,
+          "tempLow": 17.4,
+          "rainfall": 51.5,
+          "rainyDays": 6.6,
+          "humidity": 72.5,
+          "sunshineHours": 10.7,
+          "seaTemp": 18.6,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 10,
+          "tempHigh": 23.2,
+          "tempLow": 15.7,
+          "rainfall": 98.7,
+          "rainyDays": 10.8,
+          "humidity": 76.4,
+          "sunshineHours": 8.7,
+          "seaTemp": 19.3,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 11,
+          "tempHigh": 18.6,
+          "tempLow": 12.4,
+          "rainfall": 59.6,
+          "rainyDays": 9.2,
+          "humidity": 81.6,
+          "sunshineHours": 7.6,
+          "seaTemp": 17.5,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 12,
+          "tempHigh": 16,
+          "tempLow": 10.4,
+          "rainfall": 97.6,
+          "rainyDays": 8.8,
+          "humidity": 83,
+          "sunshineHours": 7.2,
+          "seaTemp": 15.8,
+          "weatherSummary": "쌀쌀"
+        }
+      ]
+    },
+    {
+      "id": "porto",
+      "name": {
+        "ko": "포르투",
+        "en": "Porto"
+      },
+      "countryId": "portugal",
+      "latitude": 41.1579,
+      "longitude": -8.6291,
+      "climateType": "서안 해양성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 13.7,
+          "tempLow": 7.4,
+          "rainfall": 175.5,
+          "rainyDays": 11,
+          "humidity": 78.7,
+          "sunshineHours": 6.6,
+          "seaTemp": 14.2,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 2,
+          "tempHigh": 15.7,
+          "tempLow": 8.8,
+          "rainfall": 96.9,
+          "rainyDays": 10.4,
+          "humidity": 77.3,
+          "sunshineHours": 7.9,
+          "seaTemp": 14.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 16.2,
+          "tempLow": 9.2,
+          "rainfall": 139.3,
+          "rainyDays": 14.2,
+          "humidity": 77.9,
+          "sunshineHours": 8.8,
+          "seaTemp": 14.6,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 4,
+          "tempHigh": 18.1,
+          "tempLow": 10.8,
+          "rainfall": 108.7,
+          "rainyDays": 11.8,
+          "humidity": 78.1,
+          "sunshineHours": 10.6,
+          "seaTemp": 16,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 20.2,
+          "tempLow": 12.9,
+          "rainfall": 75.6,
+          "rainyDays": 10.6,
+          "humidity": 77.5,
+          "sunshineHours": 11.9,
+          "seaTemp": 15.8,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 6,
+          "tempHigh": 21.5,
+          "tempLow": 14.8,
+          "rainfall": 57.4,
+          "rainyDays": 9,
+          "humidity": 81.5,
+          "sunshineHours": 12.7,
+          "seaTemp": 18.2,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 7,
+          "tempHigh": 24.4,
+          "tempLow": 16.4,
+          "rainfall": 16.3,
+          "rainyDays": 4.8,
+          "humidity": 77.3,
+          "sunshineHours": 13.3,
+          "seaTemp": 17.5,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 24,
+          "tempLow": 16.3,
+          "rainfall": 10.6,
+          "rainyDays": 2.6,
+          "humidity": 79.8,
+          "sunshineHours": 12,
+          "seaTemp": 17,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 9,
+          "tempHigh": 23.2,
+          "tempLow": 15.8,
+          "rainfall": 98.7,
+          "rainyDays": 8.4,
+          "humidity": 77.2,
+          "sunshineHours": 10.5,
+          "seaTemp": 17.2,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 10,
+          "tempHigh": 20.5,
+          "tempLow": 14.2,
+          "rainfall": 236.7,
+          "rainyDays": 15.6,
+          "humidity": 81.9,
+          "sunshineHours": 7.5,
+          "seaTemp": 19.1,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 17.2,
+          "tempLow": 11.3,
+          "rainfall": 155.9,
+          "rainyDays": 13.8,
+          "humidity": 80.7,
+          "sunshineHours": 6.7,
+          "seaTemp": 16.9,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 14.5,
+          "tempLow": 9,
+          "rainfall": 209.1,
+          "rainyDays": 16.4,
+          "humidity": 81.3,
+          "sunshineHours": 6.1,
+          "seaTemp": 15.1,
+          "weatherSummary": "우기"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?auto=format&fit=crop&w=800&q=80"
+}

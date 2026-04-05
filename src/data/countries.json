@@ -3,9 +3,7 @@
     "id": "japan",
     "name": {
       "ko": "일본",
-      "en": "Japan",
-      "ja": "日本",
-      "zh": "日本"
+      "en": "Japan"
     },
     "continent": "asia",
     "regionCount": 4,
@@ -15,9 +13,7 @@
     "id": "thailand",
     "name": {
       "ko": "태국",
-      "en": "Thailand",
-      "ja": "タイ",
-      "zh": "泰国"
+      "en": "Thailand"
     },
     "continent": "asia",
     "regionCount": 3,
@@ -27,9 +23,7 @@
     "id": "france",
     "name": {
       "ko": "프랑스",
-      "en": "France",
-      "ja": "フランス",
-      "zh": "法国"
+      "en": "France"
     },
     "continent": "europe",
     "regionCount": 2,
@@ -39,9 +33,7 @@
     "id": "usa",
     "name": {
       "ko": "미국",
-      "en": "United States",
-      "ja": "アメリカ",
-      "zh": "美国"
+      "en": "United States"
     },
     "continent": "north-america",
     "regionCount": 3,
@@ -51,9 +43,7 @@
     "id": "australia",
     "name": {
       "ko": "호주",
-      "en": "Australia",
-      "ja": "オーストラリア",
-      "zh": "澳大利亚"
+      "en": "Australia"
     },
     "continent": "oceania",
     "regionCount": 2,
@@ -158,5 +148,155 @@
     "continent": "europe",
     "regionCount": 3,
     "isoNumeric": "300"
+  },
+  {
+    "id": "china",
+    "name": {
+      "ko": "중국",
+      "en": "China"
+    },
+    "continent": "asia",
+    "regionCount": 3,
+    "isoNumeric": "156"
+  },
+  {
+    "id": "hong-kong",
+    "name": {
+      "ko": "홍콩",
+      "en": "Hong Kong"
+    },
+    "continent": "asia",
+    "regionCount": 1,
+    "isoNumeric": "344"
+  },
+  {
+    "id": "guam",
+    "name": {
+      "ko": "괌",
+      "en": "Guam"
+    },
+    "continent": "oceania",
+    "regionCount": 1,
+    "isoNumeric": "316"
+  },
+  {
+    "id": "malaysia",
+    "name": {
+      "ko": "말레이시아",
+      "en": "Malaysia"
+    },
+    "continent": "asia",
+    "regionCount": 3,
+    "isoNumeric": "458"
+  },
+  {
+    "id": "cambodia",
+    "name": {
+      "ko": "캄보디아",
+      "en": "Cambodia"
+    },
+    "continent": "asia",
+    "regionCount": 2,
+    "isoNumeric": "116"
+  },
+  {
+    "id": "maldives",
+    "name": {
+      "ko": "몰디브",
+      "en": "Maldives"
+    },
+    "continent": "asia",
+    "regionCount": 1,
+    "isoNumeric": "462"
+  },
+  {
+    "id": "mongolia",
+    "name": {
+      "ko": "몽골",
+      "en": "Mongolia"
+    },
+    "continent": "asia",
+    "regionCount": 1,
+    "isoNumeric": "496"
+  },
+  {
+    "id": "laos",
+    "name": {
+      "ko": "라오스",
+      "en": "Laos"
+    },
+    "continent": "asia",
+    "regionCount": 2,
+    "isoNumeric": "418"
+  },
+  {
+    "id": "switzerland",
+    "name": {
+      "ko": "스위스",
+      "en": "Switzerland"
+    },
+    "continent": "europe",
+    "regionCount": 2,
+    "isoNumeric": "756"
+  },
+  {
+    "id": "czech",
+    "name": {
+      "ko": "체코",
+      "en": "Czech Republic"
+    },
+    "continent": "europe",
+    "regionCount": 1,
+    "isoNumeric": "203"
+  },
+  {
+    "id": "croatia",
+    "name": {
+      "ko": "크로아티아",
+      "en": "Croatia"
+    },
+    "continent": "europe",
+    "regionCount": 2,
+    "isoNumeric": "191"
+  },
+  {
+    "id": "uae",
+    "name": {
+      "ko": "UAE",
+      "en": "United Arab Emirates"
+    },
+    "continent": "asia",
+    "regionCount": 2,
+    "isoNumeric": "784"
+  },
+  {
+    "id": "new-zealand",
+    "name": {
+      "ko": "뉴질랜드",
+      "en": "New Zealand"
+    },
+    "continent": "oceania",
+    "regionCount": 2,
+    "isoNumeric": "554"
+  },
+  {
+    "id": "germany",
+    "name": {
+      "ko": "독일",
+      "en": "Germany"
+    },
+    "continent": "europe",
+    "regionCount": 2,
+    "isoNumeric": "276"
+  },
+  {
+    "id": "portugal",
+    "name": {
+      "ko": "포르투갈",
+      "en": "Portugal"
+    },
+    "continent": "europe",
+    "regionCount": 2,
+    "isoNumeric": "620"
   }
 ]

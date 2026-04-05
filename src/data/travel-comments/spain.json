@@ -2,8 +2,8 @@
   {
     "regionId": "madrid",
     "month": 1,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "추운 겨울, 프라도 미술관 등 실내 관광 위주",
     "highlights": [
       "강수량이 적어 맑은 날이 많음"
     ],
@@ -19,8 +19,8 @@
   {
     "regionId": "madrid",
     "month": 2,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "아직 추운 겨울, 카니발 축제",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -37,8 +37,8 @@
   {
     "regionId": "madrid",
     "month": 3,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 시작, 레티로 공원에 꽃이 피는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -54,8 +54,8 @@
   {
     "regionId": "madrid",
     "month": 4,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 한가운데, 야외 테라스 카페 시즌",
     "highlights": [
       "이사벨라 봄 축제 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -77,7 +77,7 @@
     "regionId": "madrid",
     "month": 5,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "봄꽃 만개, 산 이시드로 축제의 최적기",
     "highlights": [
       "이사벨라 봄 축제 시즌",
       "일조시간이 길어 야외 활동에 좋음",
@@ -94,14 +94,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "madrid",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "더워지기 시작, 밤 산책이 매력인 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -121,7 +121,7 @@
     "regionId": "madrid",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "40°C 넘는 극심한 폭염, 낮에는 야외 불가",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -143,7 +143,7 @@
     "regionId": "madrid",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "폭염 지속, 현지인도 도시를 떠나는 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -165,7 +165,7 @@
     "regionId": "madrid",
     "month": 9,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "폭염이 물러간 쾌적한 가을 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온",
@@ -177,14 +177,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "madrid",
     "month": 10,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "완벽한 가을 날씨, 미식 시즌",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -200,8 +200,8 @@
   {
     "regionId": "madrid",
     "month": 11,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "쌀쌀해지는 초겨울, 관광객 줄어드는 시기",
     "highlights": [
       "강수량이 적어 맑은 날이 많음"
     ],
@@ -217,8 +217,8 @@
   {
     "regionId": "madrid",
     "month": 12,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 2,
+    "summary": "추운 겨울, 크리스마스 마켓과 연말 분위기",
     "highlights": [
       "강수량이 적어 맑은 날이 많음"
     ],
@@ -228,14 +228,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "barcelona",
     "month": 1,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "겨울, 10°C 이하로 한산한 비수기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -252,7 +252,7 @@
     "regionId": "barcelona",
     "month": 2,
     "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "겨울이지만 온화, 관광객 적은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -271,8 +271,8 @@
   {
     "regionId": "barcelona",
     "month": 3,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 시작, 산책과 가우디 건축 투어 좋은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -290,8 +290,8 @@
   {
     "regionId": "barcelona",
     "month": 4,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "따뜻한 봄, 람블라스 거리 산책 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -310,7 +310,7 @@
     "regionId": "barcelona",
     "month": 5,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "summary": "지중해 봄, 해변 시즌 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -329,7 +329,7 @@
     "regionId": "barcelona",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "본격 해변 시즌, 따뜻한 바다(22°C)",
     "highlights": [
       "해변+도시 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -354,7 +354,7 @@
     "regionId": "barcelona",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "비치 피크 시즌, 바르셀로네타 해변 만석",
     "highlights": [
       "해변+도시 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -379,7 +379,7 @@
     "regionId": "barcelona",
     "month": 8,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "여름 성수기, 그라시아 축제",
     "highlights": [
       "해변+도시 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -403,7 +403,7 @@
     "regionId": "barcelona",
     "month": 9,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "summary": "관광객 줄고 바다 여전히 따뜻한 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -424,7 +424,7 @@
     "regionId": "barcelona",
     "month": 10,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "summary": "가을의 바르셀로나, 쾌적한 산책 날씨",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -443,8 +443,8 @@
   {
     "regionId": "barcelona",
     "month": 11,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "쌀쌀해지는 초겨울, 비수기 시작",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -460,8 +460,8 @@
   {
     "regionId": "barcelona",
     "month": 12,
-    "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "겨울, 크리스마스 마켓과 해산물 시즌",
     "highlights": [
       "강수량이 적어 맑은 날이 많음"
     ],
@@ -477,8 +477,8 @@
   {
     "regionId": "seville",
     "month": 1,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 3,
+    "summary": "겨울, 비 잦지만 오렌지 나무가 아름다운 시기",
     "highlights": [
       "강수량이 적어 맑은 날이 많음"
     ],
@@ -494,8 +494,8 @@
   {
     "regionId": "seville",
     "month": 2,
-    "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "rating": 4,
+    "summary": "겨울 끝자락, 봄 축제 준비 시즌",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -514,8 +514,8 @@
   {
     "regionId": "seville",
     "month": 3,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "봄 시작, 세마나 산타(성주간) 축제",
     "highlights": [
       "플라멩코 축제 시즌",
       "일조시간이 길어 야외 활동에 좋음"
@@ -535,7 +535,7 @@
     "regionId": "seville",
     "month": 4,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "페리아 축제, 오렌지 꽃 향기의 세비야 최적기",
     "highlights": [
       "세비야 4월 축제(페리아)",
       "일조시간이 길어 야외 활동에 좋음",
@@ -551,14 +551,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "seville",
     "month": 5,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "봄 끝자락, 아직 폭염 전의 쾌적한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -571,14 +571,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "seville",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "더위 시작, 35°C 넘기 시작",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -598,7 +598,7 @@
     "regionId": "seville",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "45°C까지 오르는 유럽 최악의 폭염",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -621,7 +621,7 @@
     "regionId": "seville",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "폭염 지속, 야외 활동 사실상 불가",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -643,7 +643,7 @@
     "regionId": "seville",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "summary": "폭염 물러가지만 아직 30°C대",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음",
@@ -662,8 +662,8 @@
   {
     "regionId": "seville",
     "month": 10,
-    "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "rating": 4,
+    "summary": "선선한 가을, 플라멩코와 타파스의 계절",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -683,8 +683,8 @@
   {
     "regionId": "seville",
     "month": 11,
-    "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 4,
+    "summary": "가을 끝자락, 관광하기 좋은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -702,8 +702,8 @@
   {
     "regionId": "seville",
     "month": 12,
-    "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "rating": 3,
+    "summary": "겨울, 크리스마스 마켓과 오렌지 수확",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],

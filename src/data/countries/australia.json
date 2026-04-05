@@ -2,9 +2,7 @@
   "id": "australia",
   "name": {
     "ko": "호주",
-    "en": "Australia",
-    "ja": "オーストラリア",
-    "zh": "澳大利亚"
+    "en": "Australia"
   },
   "continent": "oceania",
   "capital": "Canberra",
@@ -12,217 +10,149 @@
   "language": "English",
   "timezone": "UTC+05:00",
   "visaInfo": "ETA 필요 (전자여행허가, 90일)",
-  "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80",
   "regions": [
     {
       "id": "sydney",
       "name": {
         "ko": "시드니",
-        "en": "Sydney",
-        "ja": "シドニー",
-        "zh": "悉尼"
+        "en": "Sydney"
       },
       "countryId": "australia",
       "latitude": -33.8688,
       "longitude": 151.2093,
-      "climateType": {
-        "ko": "온대 습윤",
-        "en": "Humid Temperate",
-        "ja": "温帯湿潤",
-        "zh": "温带湿润"
-      },
+      "climateType": "온대 습윤",
       "monthlyData": [
         {
           "month": 1,
           "tempHigh": 26.1,
-          "tempLow": 19.1,
-          "rainfall": 114.9,
-          "rainyDays": 15.2,
+          "tempLow": 19,
+          "rainfall": 114.8,
+          "rainyDays": 14.8,
           "humidity": 77.8,
           "sunshineHours": 10.9,
           "seaTemp": 22.7,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 2,
           "tempHigh": 25.6,
-          "tempLow": 18.9,
-          "rainfall": 125.4,
-          "rainyDays": 16.2,
+          "tempLow": 18.8,
+          "rainfall": 125.5,
+          "rainyDays": 16.4,
           "humidity": 77.8,
           "sunshineHours": 9.9,
           "seaTemp": 23.6,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 3,
           "tempHigh": 24.5,
-          "tempLow": 17.4,
-          "rainfall": 185.5,
-          "rainyDays": 17,
-          "humidity": 78.6,
+          "tempLow": 17.3,
+          "rainfall": 185.6,
+          "rainyDays": 17.2,
+          "humidity": 78.5,
           "sunshineHours": 9.2,
           "seaTemp": 23.3,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 4,
           "tempHigh": 22.2,
-          "tempLow": 13.8,
-          "rainfall": 103.9,
-          "rainyDays": 11.4,
+          "tempLow": 13.7,
+          "rainfall": 103.7,
+          "rainyDays": 11.2,
           "humidity": 77,
           "sunshineHours": 9.1,
           "seaTemp": 21.9,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 5,
           "tempHigh": 19,
-          "tempLow": 10.8,
+          "tempLow": 10.7,
           "rainfall": 99.1,
           "rainyDays": 10.6,
           "humidity": 77.2,
           "sunshineHours": 8.5,
           "seaTemp": 21,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 6,
           "tempHigh": 16.8,
-          "tempLow": 8.2,
+          "tempLow": 8.1,
           "rainfall": 59.6,
           "rainyDays": 9,
-          "humidity": 75.3,
+          "humidity": 75.4,
           "sunshineHours": 8.3,
           "seaTemp": 19.7,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 7,
           "tempHigh": 16.7,
-          "tempLow": 8.3,
+          "tempLow": 8.2,
           "rainfall": 102.6,
-          "rainyDays": 9.8,
+          "rainyDays": 10,
           "humidity": 73.6,
           "sunshineHours": 8.4,
           "seaTemp": 17.8,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 8,
           "tempHigh": 18.7,
-          "tempLow": 8.9,
+          "tempLow": 8.8,
           "rainfall": 57.8,
           "rainyDays": 7,
-          "humidity": 71.1,
+          "humidity": 71.2,
           "sunshineHours": 9,
           "seaTemp": 17.8,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 9,
           "tempHigh": 21.1,
-          "tempLow": 10.7,
+          "tempLow": 10.6,
           "rainfall": 50.9,
-          "rainyDays": 8,
+          "rainyDays": 7.8,
           "humidity": 66.9,
           "sunshineHours": 10.1,
           "seaTemp": 18.5,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 10,
           "tempHigh": 22.3,
-          "tempLow": 12.9,
-          "rainfall": 94.2,
-          "rainyDays": 12.2,
+          "tempLow": 12.8,
+          "rainfall": 94.3,
+          "rainyDays": 12,
           "humidity": 71.5,
           "sunshineHours": 10.1,
           "seaTemp": 19.2,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 11,
           "tempHigh": 23.3,
-          "tempLow": 15.3,
+          "tempLow": 15.2,
           "rainfall": 100.7,
-          "rainyDays": 13.2,
+          "rainyDays": 12.8,
           "humidity": 75,
           "sunshineHours": 10.4,
           "seaTemp": 20.1,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 12,
           "tempHigh": 25,
-          "tempLow": 17.3,
+          "tempLow": 17.2,
           "rainfall": 83.1,
-          "rainyDays": 12.2,
-          "humidity": 74.7,
+          "rainyDays": 11.6,
+          "humidity": 74.6,
           "sunshineHours": 11.2,
           "seaTemp": 20.8,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         }
       ]
     },
@@ -230,213 +160,147 @@
       "id": "melbourne",
       "name": {
         "ko": "멜버른",
-        "en": "Melbourne",
-        "ja": "メルボルン",
-        "zh": "墨尔本"
+        "en": "Melbourne"
       },
       "countryId": "australia",
       "latitude": -37.8136,
       "longitude": 144.9631,
-      "climateType": {
-        "ko": "온대 해양성",
-        "en": "Temperate Maritime",
-        "ja": "温帯海洋性",
-        "zh": "温带海洋性"
-      },
+      "climateType": "온대 해양성",
       "monthlyData": [
         {
           "month": 1,
-          "tempHigh": 26.1,
-          "tempLow": 15,
+          "tempHigh": 26,
+          "tempLow": 14.9,
           "rainfall": 95.1,
-          "rainyDays": 8.8,
-          "humidity": 68.6,
+          "rainyDays": 8.6,
+          "humidity": 68.5,
           "sunshineHours": 10.8,
           "seaTemp": 22.5,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 2,
           "tempHigh": 25,
-          "tempLow": 14.3,
+          "tempLow": 14.2,
           "rainfall": 34,
           "rainyDays": 6.2,
           "humidity": 67.2,
           "sunshineHours": 10.9,
           "seaTemp": 21.9,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 3,
           "tempHigh": 23.2,
-          "tempLow": 13.4,
+          "tempLow": 13.3,
           "rainfall": 47.3,
           "rainyDays": 8.2,
           "humidity": 70.1,
           "sunshineHours": 9.5,
           "seaTemp": 20.7,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 4,
           "tempHigh": 19.4,
-          "tempLow": 10.5,
+          "tempLow": 10.4,
           "rainfall": 88.2,
           "rainyDays": 10.4,
-          "humidity": 75.3,
+          "humidity": 75.4,
           "sunshineHours": 8.2,
           "seaTemp": 17.5,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 5,
           "tempHigh": 15.9,
-          "tempLow": 8,
-          "rainfall": 60.6,
-          "rainyDays": 11,
+          "tempLow": 7.9,
+          "rainfall": 60.7,
+          "rainyDays": 10.6,
           "humidity": 79.6,
           "sunshineHours": 7.3,
           "seaTemp": 14.6,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 6,
           "tempHigh": 13.6,
           "tempLow": 6.7,
           "rainfall": 69.8,
-          "rainyDays": 11.8,
+          "rainyDays": 12,
           "humidity": 81.2,
           "sunshineHours": 6.6,
           "seaTemp": 12.2,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 7,
           "tempHigh": 13,
-          "tempLow": 6.3,
-          "rainfall": 57.9,
-          "rainyDays": 12.4,
-          "humidity": 81.5,
+          "tempLow": 6.2,
+          "rainfall": 58.5,
+          "rainyDays": 12.2,
+          "humidity": 81.6,
           "sunshineHours": 6.6,
           "seaTemp": 10.7,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 8,
           "tempHigh": 15,
-          "tempLow": 7.5,
-          "rainfall": 58.7,
-          "rainyDays": 12.6,
+          "tempLow": 7.4,
+          "rainfall": 58,
+          "rainyDays": 13,
           "humidity": 77.2,
           "sunshineHours": 8.1,
           "seaTemp": 11.9,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 9,
           "tempHigh": 17.1,
-          "tempLow": 8.2,
-          "rainfall": 68.3,
-          "rainyDays": 12.4,
-          "humidity": 72.4,
+          "tempLow": 8.1,
+          "rainfall": 68.6,
+          "rainyDays": 12,
+          "humidity": 72.5,
           "sunshineHours": 9.1,
           "seaTemp": 13.6,
-          "weatherSummary": {
-            "ko": "쌀쌀",
-            "en": "Chilly",
-            "ja": "肌寒い",
-            "zh": "微冷"
-          }
+          "weatherSummary": "쌀쌀"
         },
         {
           "month": 10,
-          "tempHigh": 18.7,
-          "tempLow": 9.2,
-          "rainfall": 118,
-          "rainyDays": 14.8,
-          "humidity": 73.4,
+          "tempHigh": 18.6,
+          "tempLow": 9.1,
+          "rainfall": 117.9,
+          "rainyDays": 14.2,
+          "humidity": 73.3,
           "sunshineHours": 9.4,
           "seaTemp": 16.2,
-          "weatherSummary": {
-            "ko": "습하고 비 잦음",
-            "en": "Humid & Rainy",
-            "ja": "蒸し暑く雨が多い",
-            "zh": "潮湿多雨"
-          }
+          "weatherSummary": "습하고 비 잦음"
         },
         {
           "month": 11,
-          "tempHigh": 21.4,
-          "tempLow": 11.6,
+          "tempHigh": 21.3,
+          "tempLow": 11.5,
           "rainfall": 91.1,
-          "rainyDays": 11.6,
-          "humidity": 69.8,
+          "rainyDays": 12,
+          "humidity": 69.7,
           "sunshineHours": 10.5,
           "seaTemp": 18.9,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         },
         {
           "month": 12,
-          "tempHigh": 23.7,
-          "tempLow": 12.8,
-          "rainfall": 74.5,
-          "rainyDays": 9.8,
+          "tempHigh": 23.6,
+          "tempLow": 12.6,
+          "rainfall": 74.4,
+          "rainyDays": 10,
           "humidity": 66.8,
           "sunshineHours": 11.5,
           "seaTemp": 20.9,
-          "weatherSummary": {
-            "ko": "온화",
-            "en": "Mild",
-            "ja": "温暖",
-            "zh": "温和"
-          }
+          "weatherSummary": "온화"
         }
       ]
     }
-  ]
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80"
 }

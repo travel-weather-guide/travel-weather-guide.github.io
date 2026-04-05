@@ -1,0 +1,289 @@
+[
+  {
+    "regionId": "male",
+    "month": 1,
+    "rating": 4,
+    "summary": "NE 몬순 건기, 파도 잔잔하고 시야 맑은 스노클링",
+    "highlights": [
+      "건기 몰디브, 맑은 바다와 완벽한 산호초",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "건기 스노클링·다이빙 시즌",
+      "몰디브 서핑 시즌 (3~10월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "male",
+    "month": 2,
+    "rating": 4,
+    "summary": "건기 절정, 몰디브 최고의 다이빙 시즌",
+    "highlights": [
+      "건기 몰디브, 맑은 바다와 완벽한 산호초",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "건기 스노클링·다이빙 시즌",
+      "몰디브 서핑 시즌 (3~10월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "male",
+    "month": 3,
+    "rating": 3,
+    "summary": "건기, 하얀 모래와 투명한 바다의 절정",
+    "highlights": [
+      "건기 몰디브, 맑은 바다와 완벽한 산호초",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 12.4일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "건기 스노클링·다이빙 시즌",
+      "몰디브 서핑 시즌 (3~10월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "male",
+    "month": 4,
+    "rating": 3,
+    "summary": "건기 막바지, 아직 쾌청한 환초 리조트",
+    "highlights": [
+      "건기 몰디브, 맑은 바다와 완벽한 산호초",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "강수량이 132mm로 우산 필수",
+      "월 18일 비가 와 야외 일정에 유의",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "건기 스노클링·다이빙 시즌",
+      "몰디브 서핑 시즌 (3~10월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "male",
+    "month": 5,
+    "rating": 2,
+    "summary": "SW 몬순 우기 시작, 파도 높아지는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 288mm로 우기에 해당",
+      "월 24.2일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "male",
+    "month": 6,
+    "rating": 3,
+    "summary": "우기 본격화, 비 잦지만 서핑 시즌 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "비 오는 날이 13.8일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "male",
+    "month": 7,
+    "rating": 2,
+    "summary": "우기, 파도 거칠고 시야 낮아지는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 178mm로 우기에 해당",
+      "월 18.8일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "male",
+    "month": 8,
+    "rating": 2,
+    "summary": "우기 지속, 비 많지만 수중 생물 풍부",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 198mm로 우기에 해당",
+      "월 17.2일 비가 와 야외 일정에 유의",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "male",
+    "month": 9,
+    "rating": 2,
+    "summary": "우기 끝자락, 만타가오리 시즌",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 215mm로 우기에 해당",
+      "월 19.6일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "male",
+    "month": 10,
+    "rating": 2,
+    "summary": "우기 마무리, 날씨 서서히 회복",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 197mm로 우기에 해당",
+      "월 20.4일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "male",
+    "month": 11,
+    "rating": 2,
+    "summary": "건기 시작, 잔잔한 라군과 석양",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 254mm로 우기에 해당",
+      "월 20.4일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "male",
+    "month": 12,
+    "rating": 2,
+    "summary": "건기, 크리스마스 시즌의 몰디브 리조트",
+    "highlights": [
+      "크리스마스·신년 시즌 리조트 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 247mm로 우기에 해당",
+      "월 19.6일 비가 와 야외 일정에 유의",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "신년 카운트다운 리조트 파티"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  }
+]

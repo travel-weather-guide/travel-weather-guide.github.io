@@ -13,6 +13,9 @@ const ISO_CODES: Record<string, string> = {
   japan: 'JP', thailand: 'TH', france: 'FR', usa: 'US', australia: 'AU',
   vietnam: 'VN', philippines: 'PH', singapore: 'SG', indonesia: 'ID',
   taiwan: 'TW', spain: 'ES', italy: 'IT', uk: 'GB', turkey: 'TR', greece: 'GR',
+  china: 'CN', 'hong-kong': 'HK', guam: 'GU', malaysia: 'MY', cambodia: 'KH',
+  maldives: 'MV', mongolia: 'MN', laos: 'LA', switzerland: 'CH', czech: 'CZ',
+  croatia: 'HR', uae: 'AE', 'new-zealand': 'NZ', germany: 'DE', portugal: 'PT',
 };
 
 function toFlagEmoji(iso: string): string {
@@ -66,7 +69,7 @@ export default function CountryExplorer({ allCountries }: CountryExplorerProps) 
 
       {/* 지도 + 국가 리스트 */}
       <div className="flex flex-col gap-6 lg:flex-row">
-        <div className="h-[280px] overflow-hidden rounded-xl border border-gray-200 lg:h-[400px] lg:w-1/2">
+        <div className="hidden md:block h-[280px] overflow-hidden rounded-xl border border-gray-200 lg:h-[400px] lg:w-1/2">
           <MapView countries={countryMarkers} countryNames={countryNames} focusFilter={filter} boundPoints={boundPoints} />
         </div>
         <div className="lg:w-1/2">

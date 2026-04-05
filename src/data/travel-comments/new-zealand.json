@@ -1,0 +1,550 @@
+[
+  {
+    "regionId": "auckland",
+    "month": 1,
+    "rating": 3,
+    "summary": "남반구 한여름, 와이테마타 항구와 야외 페스티벌",
+    "highlights": [
+      "뉴질랜드 여름, 해변과 하이킹 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 108mm로 우산 필수",
+      "비 오는 날이 12.4일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "오클랜드 하버브리지 클라임 (연중)",
+      "뉴질랜드 오픈 (1월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "auckland",
+    "month": 2,
+    "rating": 4,
+    "summary": "여름 피크, 해변과 와이헤케 섬 와인 투어",
+    "highlights": [
+      "뉴질랜드 여름, 해변과 하이킹 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 10.8일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "오클랜드 하버브리지 클라임 (연중)",
+      "뉴질랜드 오픈 (1월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "auckland",
+    "month": 3,
+    "rating": 4,
+    "summary": "가을 시작, 아직 따뜻한 해변과 줄어드는 인파",
+    "highlights": [
+      "뉴질랜드 여름, 해변과 하이킹 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "오클랜드 하버브리지 클라임 (연중)",
+      "뉴질랜드 오픈 (1월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "auckland",
+    "month": 4,
+    "rating": 3,
+    "summary": "가을, 단풍 물드는 공원과 선선한 날씨",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "auckland",
+    "month": 5,
+    "rating": 2,
+    "summary": "초겨울, 비 잦아지는 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 102mm로 우산 필수",
+      "비 오는 날이 14.2일로 실내 대안 준비 권장",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "auckland",
+    "month": 6,
+    "rating": 2,
+    "summary": "겨울, 스카이타워 야경과 실내 문화 시즌",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 111mm로 우산 필수",
+      "비 오는 날이 12.8일로 실내 대안 준비 권장",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "auckland",
+    "month": 7,
+    "rating": 2,
+    "summary": "겨울 한가운데, 고래 관찰 시즌 시작",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 128mm로 우산 필수",
+      "비 오는 날이 12일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "auckland",
+    "month": 8,
+    "rating": 2,
+    "summary": "겨울 끝자락, 봄이 오기 전 야생화 준비",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 123mm로 우산 필수",
+      "비 오는 날이 13.6일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "auckland",
+    "month": 9,
+    "rating": 2,
+    "summary": "봄 시작, 야생화와 쾌적한 도시 산책",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 106mm로 우산 필수",
+      "비 오는 날이 14.6일로 실내 대안 준비 권장",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "auckland",
+    "month": 10,
+    "rating": 2,
+    "summary": "봄 절정, 리저널 파크 하이킹 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 125mm로 우산 필수",
+      "비 오는 날이 14.8일로 실내 대안 준비 권장",
+      "습도 80%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "auckland",
+    "month": 11,
+    "rating": 2,
+    "summary": "봄 끝자락, 여름 직전 쾌적한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 132mm로 우산 필수",
+      "월 17.4일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "auckland",
+    "month": 12,
+    "rating": 3,
+    "summary": "여름 시작, 크리스마스 해변 바베큐",
+    "highlights": [
+      "뉴질랜드 여름, 해변과 하이킹 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 112mm로 우산 필수",
+      "월 15.2일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [
+      "오클랜드 하버브리지 클라임 (연중)",
+      "뉴질랜드 오픈 (1월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 1,
+    "rating": 3,
+    "summary": "남반구 한여름, 밀포드사운드 하이킹 절정",
+    "highlights": [
+      "남반구 여름, 번지점프·래프팅 성수기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [],
+    "events": [
+      "퀸스타운 와인 앤 푸드 페스티벌 (1월)",
+      "서머 어드벤처 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 2,
+    "rating": 3,
+    "summary": "여름 피크, 번지점프와 와카티푸 호수",
+    "highlights": [
+      "남반구 여름, 번지점프·래프팅 성수기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [
+      "퀸스타운 와인 앤 푸드 페스티벌 (1월)",
+      "서머 어드벤처 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 3,
+    "rating": 3,
+    "summary": "가을 시작, 뉴질랜드 단풍과 포도 수확",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 10.4일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 4,
+    "rating": 2,
+    "summary": "가을 황금빛, 남섬 단풍 드라이브",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 110mm로 우산 필수",
+      "비 오는 날이 12.8일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 5,
+    "rating": 1,
+    "summary": "초겨울, 스키 시즌 준비 시작",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 102mm로 우산 필수",
+      "비 오는 날이 11.6일로 실내 대안 준비 권장",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 6,
+    "rating": 1,
+    "summary": "겨울 스키 시즌 오픈, 코로넷 피크 개장",
+    "highlights": [
+      "남반구 겨울, 스키 리조트 성수기"
+    ],
+    "cautions": [
+      "강수량이 109mm로 우산 필수",
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도 90%로 불쾌지수 높음"
+    ],
+    "events": [
+      "코로넷피크·리마커블스 스키 시즌",
+      "퀸스타운 윈터 페스티벌 (6월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 7,
+    "rating": 1,
+    "summary": "스키 절정, 남반구 최고의 스키 리조트",
+    "highlights": [
+      "남반구 겨울, 스키 리조트 성수기",
+      "겨울 스포츠에 적합한 시기",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "강수량이 124mm로 우산 필수",
+      "비 오는 날이 13일로 실내 대안 준비 권장",
+      "습도 89%로 불쾌지수 높음"
+    ],
+    "events": [
+      "코로넷피크·리마커블스 스키 시즌",
+      "퀸스타운 윈터 페스티벌 (6월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 8,
+    "rating": 1,
+    "summary": "스키 피크 시즌, 설원 액티비티 총집합",
+    "highlights": [
+      "남반구 겨울, 스키 리조트 성수기"
+    ],
+    "cautions": [
+      "강수량이 118mm로 우산 필수",
+      "비 오는 날이 14.6일로 실내 대안 준비 권장",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [
+      "코로넷피크·리마커블스 스키 시즌",
+      "퀸스타운 윈터 페스티벌 (6월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 9,
+    "rating": 1,
+    "summary": "스키 시즌 마무리, 봄 하이킹 시작",
+    "highlights": [
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 240mm로 우기에 해당",
+      "월 15.4일 비가 와 야외 일정에 유의",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 10,
+    "rating": 1,
+    "summary": "봄, 루트번 트랙 하이킹 시즌 재개",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "월 강수량 150mm로 우기에 해당",
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 11,
+    "rating": 3,
+    "summary": "봄 절정, 밀포드사운드 크루즈 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 13.6일로 실내 대안 준비 권장",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "queenstown",
+    "month": 12,
+    "rating": 3,
+    "summary": "여름 시작, 극지의 햇빛으로 와카티푸 빛나는 시기",
+    "highlights": [
+      "남반구 여름, 번지점프·래프팅 성수기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 114mm로 우산 필수",
+      "월 16.2일 비가 와 야외 일정에 유의",
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [
+      "퀸스타운 와인 앤 푸드 페스티벌 (1월)",
+      "서머 어드벤처 시즌"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  }
+]

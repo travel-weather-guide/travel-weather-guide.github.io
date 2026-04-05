@@ -206,6 +206,183 @@ export const countries: CountryDef[] = [
       { id: 'mykonos', name: { ko: '미코노스', en: 'Mykonos' }, latitude: 37.4467, longitude: 25.3289, climateType: '지중해성', isCoastal: true, category: 'beach', peakTourismMonths: [6, 7, 8] },
     ],
   },
+  // 중국
+  {
+    id: 'china',
+    name: { ko: '중국', en: 'China' },
+    continent: 'asia',
+    countryCode: 'CN',
+    isoNumeric: '156',
+    regions: [
+      { id: 'beijing', name: { ko: '베이징', en: 'Beijing' }, latitude: 39.9042, longitude: 116.4074, climateType: '온대 대륙성', isCoastal: false, category: 'culture', peakTourismMonths: [4, 5, 9, 10] },
+      { id: 'shanghai', name: { ko: '상하이', en: 'Shanghai' }, latitude: 31.2304, longitude: 121.4737, climateType: '아열대 습윤', isCoastal: true, category: 'city', peakTourismMonths: [4, 5, 10, 11] },
+      { id: 'qingdao', name: { ko: '칭다오', en: 'Qingdao' }, latitude: 36.0671, longitude: 120.3826, climateType: '온대 습윤', isCoastal: true, category: 'city', peakTourismMonths: [7, 8, 9] },
+    ],
+  },
+  // 홍콩
+  {
+    id: 'hong-kong',
+    name: { ko: '홍콩', en: 'Hong Kong' },
+    continent: 'asia',
+    countryCode: 'HK',
+    isoNumeric: '344',
+    regions: [
+      { id: 'hong-kong', name: { ko: '홍콩', en: 'Hong Kong' }, latitude: 22.3193, longitude: 114.1694, climateType: '아열대 습윤', isCoastal: true, category: 'city', peakTourismMonths: [10, 11, 12, 3, 4] },
+    ],
+  },
+  // 괌
+  {
+    id: 'guam',
+    name: { ko: '괌', en: 'Guam' },
+    continent: 'oceania',
+    countryCode: 'GU',
+    isoNumeric: '316',
+    regions: [
+      { id: 'guam', name: { ko: '괌', en: 'Guam' }, latitude: 13.4443, longitude: 144.7937, climateType: '열대 해양성', isCoastal: true, category: 'beach', peakTourismMonths: [1, 2, 3, 12] },
+    ],
+  },
+  // 말레이시아
+  {
+    id: 'malaysia',
+    name: { ko: '말레이시아', en: 'Malaysia' },
+    continent: 'asia',
+    countryCode: 'MY',
+    isoNumeric: '458',
+    regions: [
+      { id: 'kuala-lumpur', name: { ko: '쿠알라룸푸르', en: 'Kuala Lumpur' }, latitude: 3.1390, longitude: 101.6869, climateType: '열대 우림', isCoastal: false, category: 'city', peakTourismMonths: [6, 7, 8, 12] },
+      { id: 'kota-kinabalu', name: { ko: '코타키나발루', en: 'Kota Kinabalu' }, latitude: 5.9804, longitude: 116.0735, climateType: '열대 우림', isCoastal: true, category: 'beach', peakTourismMonths: [1, 2, 3, 4, 5] },
+      { id: 'langkawi', name: { ko: '랑카위', en: 'Langkawi' }, latitude: 6.3500, longitude: 99.8000, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [11, 12, 1, 2, 3] },
+    ],
+  },
+  // 캄보디아
+  {
+    id: 'cambodia',
+    name: { ko: '캄보디아', en: 'Cambodia' },
+    continent: 'asia',
+    countryCode: 'KH',
+    isoNumeric: '116',
+    regions: [
+      { id: 'siem-reap', name: { ko: '시엠립', en: 'Siem Reap' }, latitude: 13.3671, longitude: 103.8448, climateType: '열대 몬순', isCoastal: false, category: 'culture', peakTourismMonths: [11, 12, 1, 2, 3] },
+      { id: 'phnom-penh', name: { ko: '프놈펜', en: 'Phnom Penh' }, latitude: 11.5564, longitude: 104.9282, climateType: '열대 몬순', isCoastal: false, category: 'city', peakTourismMonths: [11, 12, 1, 2] },
+    ],
+  },
+  // 몰디브
+  {
+    id: 'maldives',
+    name: { ko: '몰디브', en: 'Maldives' },
+    continent: 'asia',
+    countryCode: 'MV',
+    isoNumeric: '462',
+    regions: [
+      { id: 'male', name: { ko: '말레', en: 'Malé' }, latitude: 4.1755, longitude: 73.5093, climateType: '열대 해양성', isCoastal: true, category: 'beach', peakTourismMonths: [1, 2, 3, 4, 12] },
+    ],
+  },
+  // 몽골
+  {
+    id: 'mongolia',
+    name: { ko: '몽골', en: 'Mongolia' },
+    continent: 'asia',
+    countryCode: 'MN',
+    isoNumeric: '496',
+    regions: [
+      { id: 'ulaanbaatar', name: { ko: '울란바토르', en: 'Ulaanbaatar' }, latitude: 47.8864, longitude: 106.9057, climateType: '냉대 대륙성', isCoastal: false, category: 'adventure', peakTourismMonths: [7, 8] },
+    ],
+  },
+  // 라오스
+  {
+    id: 'laos',
+    name: { ko: '라오스', en: 'Laos' },
+    continent: 'asia',
+    countryCode: 'LA',
+    isoNumeric: '418',
+    regions: [
+      { id: 'luang-prabang', name: { ko: '루앙프라방', en: 'Luang Prabang' }, latitude: 19.8853, longitude: 102.1347, climateType: '열대 사바나', isCoastal: false, category: 'culture', peakTourismMonths: [11, 12, 1, 2, 3] },
+      { id: 'vientiane', name: { ko: '비엔티안', en: 'Vientiane' }, latitude: 17.9757, longitude: 102.6331, climateType: '열대 사바나', isCoastal: false, category: 'culture', peakTourismMonths: [11, 12, 1, 2] },
+    ],
+  },
+  // 스위스
+  {
+    id: 'switzerland',
+    name: { ko: '스위스', en: 'Switzerland' },
+    continent: 'europe',
+    countryCode: 'CH',
+    isoNumeric: '756',
+    regions: [
+      { id: 'zurich', name: { ko: '취리히', en: 'Zurich' }, latitude: 47.3769, longitude: 8.5417, climateType: '서안 해양성', isCoastal: false, category: 'city', peakTourismMonths: [6, 7, 8, 12] },
+      { id: 'interlaken', name: { ko: '인터라켄', en: 'Interlaken' }, latitude: 46.6863, longitude: 7.8632, climateType: '산악 기후', isCoastal: false, category: 'adventure', peakTourismMonths: [6, 7, 8, 12, 1, 2] },
+    ],
+  },
+  // 체코
+  {
+    id: 'czech',
+    name: { ko: '체코', en: 'Czech Republic' },
+    continent: 'europe',
+    countryCode: 'CZ',
+    isoNumeric: '203',
+    regions: [
+      { id: 'prague', name: { ko: '프라하', en: 'Prague' }, latitude: 50.0755, longitude: 14.4378, climateType: '온대 대륙성', isCoastal: false, category: 'culture', peakTourismMonths: [4, 5, 6, 9, 10, 12] },
+    ],
+  },
+  // 크로아티아
+  {
+    id: 'croatia',
+    name: { ko: '크로아티아', en: 'Croatia' },
+    continent: 'europe',
+    countryCode: 'HR',
+    isoNumeric: '191',
+    regions: [
+      { id: 'dubrovnik', name: { ko: '두브로브니크', en: 'Dubrovnik' }, latitude: 42.6507, longitude: 18.0944, climateType: '지중해성', isCoastal: true, category: 'culture', peakTourismMonths: [5, 6, 7, 8, 9] },
+      { id: 'split', name: { ko: '스플리트', en: 'Split' }, latitude: 43.5081, longitude: 16.4402, climateType: '지중해성', isCoastal: true, category: 'beach', peakTourismMonths: [6, 7, 8, 9] },
+    ],
+  },
+  // UAE
+  {
+    id: 'uae',
+    name: { ko: 'UAE', en: 'United Arab Emirates' },
+    continent: 'asia',
+    countryCode: 'AE',
+    isoNumeric: '784',
+    regions: [
+      { id: 'dubai', name: { ko: '두바이', en: 'Dubai' }, latitude: 25.2048, longitude: 55.2708, climateType: '사막 건조', isCoastal: true, category: 'city', peakTourismMonths: [11, 12, 1, 2, 3] },
+      { id: 'abu-dhabi', name: { ko: '아부다비', en: 'Abu Dhabi' }, latitude: 24.4539, longitude: 54.3773, climateType: '사막 건조', isCoastal: true, category: 'culture', peakTourismMonths: [11, 12, 1, 2, 3] },
+    ],
+  },
+  // 뉴질랜드
+  {
+    id: 'new-zealand',
+    name: { ko: '뉴질랜드', en: 'New Zealand' },
+    continent: 'oceania',
+    countryCode: 'NZ',
+    isoNumeric: '554',
+    regions: [
+      { id: 'auckland', name: { ko: '오클랜드', en: 'Auckland' }, latitude: -36.8485, longitude: 174.7633, climateType: '온대 해양성', isCoastal: true, category: 'city', peakTourismMonths: [12, 1, 2, 3] },
+      { id: 'queenstown', name: { ko: '퀸스타운', en: 'Queenstown' }, latitude: -45.0312, longitude: 168.6626, climateType: '산악 해양성', isCoastal: false, category: 'adventure', peakTourismMonths: [12, 1, 2, 6, 7, 8] },
+    ],
+  },
+  // 독일
+  {
+    id: 'germany',
+    name: { ko: '독일', en: 'Germany' },
+    continent: 'europe',
+    countryCode: 'DE',
+    isoNumeric: '276',
+    regions: [
+      { id: 'berlin', name: { ko: '베를린', en: 'Berlin' }, latitude: 52.5200, longitude: 13.4050, climateType: '온대 대륙성', isCoastal: false, category: 'city', peakTourismMonths: [5, 6, 7, 8, 9, 12] },
+      { id: 'munich', name: { ko: '뮌헨', en: 'Munich' }, latitude: 48.1351, longitude: 11.5820, climateType: '온대 대륙성', isCoastal: false, category: 'culture', peakTourismMonths: [6, 7, 8, 9, 10, 12] },
+    ],
+  },
+  // 포르투갈
+  {
+    id: 'portugal',
+    name: { ko: '포르투갈', en: 'Portugal' },
+    continent: 'europe',
+    countryCode: 'PT',
+    isoNumeric: '620',
+    regions: [
+      { id: 'lisbon', name: { ko: '리스본', en: 'Lisbon' }, latitude: 38.7223, longitude: -9.1393, climateType: '지중해성', isCoastal: true, category: 'city', peakTourismMonths: [4, 5, 6, 9, 10] },
+      { id: 'porto', name: { ko: '포르투', en: 'Porto' }, latitude: 41.1579, longitude: -8.6291, climateType: '서안 해양성', isCoastal: true, category: 'culture', peakTourismMonths: [6, 7, 8, 9] },
+    ],
+  },
 ];
 
 export interface SeasonOverride {
@@ -324,6 +501,86 @@ export const seasonOverrides: SeasonOverride[] = [
   { regionId: 'santorini', months: [5, 6, 9, 10], ratingBonus: 1, highlight: '일몰 + 에게해 황금기', events: ['산토리니 재즈 페스티벌 (7월)'] },
   { regionId: 'santorini', months: [7, 8], ratingBonus: 0, highlight: '성수기 (매우 붐빔)', events: ['산토리니 성수기 — 예약 필수'] },
   { regionId: 'mykonos', months: [6, 7, 8], ratingBonus: 1, highlight: '파티·해변 성수기', events: ['미코노스 여름 성수기 (6~8월)'] },
+
+  // 중국
+  { regionId: 'beijing', months: [4, 5], ratingBonus: 1, highlight: '봄 베이징, 황사 지나고 쾌적한 관광 적기', events: ['천안문 광장 봄 여행 시즌', '베이징 국제 마라톤 (4월)'] },
+  { regionId: 'beijing', months: [9, 10], ratingBonus: 1, highlight: '가을 단풍과 맑은 하늘의 베이징', events: ['국경절 황금연휴 (10월 1~7일)', '만리장성 단풍 트레킹'] },
+  { regionId: 'shanghai', months: [4, 5], ratingBonus: 1, highlight: '봄 상하이, 꽃과 함께하는 와이탄 산책', events: ['상하이 국제 영화제 (6월)', '봄 꽃 시즌'] },
+  { regionId: 'shanghai', months: [10, 11], ratingBonus: 1, highlight: '쾌적한 가을, 외탄 야경이 가장 아름다운 시기', events: ['국경절 황금연휴 (10월)', '상하이 재즈 페스티벌'] },
+  { regionId: 'qingdao', months: [7, 8], ratingBonus: 1, highlight: '칭다오 맥주 축제 시즌, 해변 성수기', events: ['칭다오 국제 맥주 축제 (8월)', '해수욕 성수기'] },
+  { regionId: 'qingdao', months: [9], ratingBonus: 1, highlight: '맑고 선선한 가을 해변', events: ['칭다오 국제 범선 페스티벌 (9월)'] },
+
+  // 홍콩
+  { regionId: 'hong-kong', months: [10, 11], ratingBonus: 1, highlight: '가을 선선한 날씨, 홍콩 최고 여행 시기', events: ['홍콩 와인 앤 다인 페스티벌 (10~11월)', '홍콩 럭비 세번스 (11월)'] },
+  { regionId: 'hong-kong', months: [1, 2], ratingBonus: 1, highlight: '홍콩 구정 연휴, 빅토리아 항구 불꽃놀이', events: ['중국 설날 퍼레이드 (1~2월)', '빅토리아 항구 불꽃놀이'] },
+  { regionId: 'hong-kong', months: [6], ratingBonus: 0, highlight: '드래곤보트 레이스 시즌', events: ['드래곤 보트 페스티벌 (6월)'] },
+
+  // 괌
+  { regionId: 'guam', months: [1, 2, 3], ratingBonus: 1, highlight: '건기 해변 최성수기, 맑고 파도 잔잔', events: ['괌 리베라타 (7월)', '건기 다이빙 시즌'] },
+  { regionId: 'guam', months: [12], ratingBonus: 1, highlight: '크리스마스 시즌, 쾌적한 해변', events: ['크리스마스·신년 연휴'] },
+
+  // 말레이시아
+  { regionId: 'kota-kinabalu', months: [1, 2, 3, 4, 5], ratingBonus: 1, highlight: '건기 코타키나발루, 스노클링·다이빙 최적', events: ['말레이시아 국경일 (8월 31일)', '건기 다이빙 시즌'] },
+  { regionId: 'langkawi', months: [11, 12, 1, 2, 3], ratingBonus: 1, highlight: '건기 랑카위, 에메랄드빛 해변 절정기', events: ['랑카위 국제 해양 항공쇼 (격년)', '건기 해변 시즌'] },
+  { regionId: 'kuala-lumpur', months: [6, 7, 8], ratingBonus: 0, highlight: '쇼핑몰 투어와 야경의 도시', events: ['말레이시아 그랑프리 (10월)', 'KL 타워 국제 점프'] },
+  { regionId: 'kuala-lumpur', months: [12], ratingBonus: 1, highlight: '크리스마스·신년 일루미네이션', events: ['부킷 빈탕 크리스마스 장식', '신년 카운트다운'] },
+
+  // 캄보디아
+  { regionId: 'siem-reap', months: [11, 12, 1, 2], ratingBonus: 1, highlight: '앙코르와트 건기 최적 시즌, 아침 안개가 아름다운 시기', events: ['캄보디아 물 축제 (11월)', '앙코르 와트 마라톤 (12월)'] },
+  { regionId: 'siem-reap', months: [3], ratingBonus: 0, highlight: '더워지기 전 마지막 건기 여행', events: ['크메르 설날 (4월 중순)'] },
+  { regionId: 'phnom-penh', months: [11, 12, 1, 2], ratingBonus: 1, highlight: '건기 프놈펜, 역사 유적 관광 적기', events: ['캄보디아 물 축제 (11월)', '독립기념일 (11월 9일)'] },
+
+  // 몰디브
+  { regionId: 'male', months: [1, 2, 3, 4], ratingBonus: 1, highlight: '건기 몰디브, 맑은 바다와 완벽한 산호초', events: ['건기 스노클링·다이빙 시즌', '몰디브 서핑 시즌 (3~10월)'] },
+  { regionId: 'male', months: [12], ratingBonus: 1, highlight: '크리스마스·신년 시즌 리조트 성수기', events: ['신년 카운트다운 리조트 파티'] },
+
+  // 몽골
+  { regionId: 'ulaanbaatar', months: [7], ratingBonus: 2, highlight: '나담 축제 — 몽골 전통 유목민 경기 대축제', events: ['나담 축제 (7월 11~13일)', '전통 씨름·활쏘기·경마'] },
+  { regionId: 'ulaanbaatar', months: [8], ratingBonus: 1, highlight: '초원 트레킹과 게르 캠프 최적 시즌', events: ['초원 게르 캠프 시즌', '테를지 국립공원 트레킹'] },
+
+  // 라오스
+  { regionId: 'luang-prabang', months: [11, 12, 1, 2], ratingBonus: 1, highlight: '건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기', events: ['라오스 국경일 (12월 2일)', '탁발 공양 시즌'] },
+  { regionId: 'luang-prabang', months: [4], ratingBonus: 1, highlight: '라오스 설날 분피마이 물 축제', events: ['분피마이 — 라오스 새해 (4월 13~15일)'] },
+  { regionId: 'vientiane', months: [11, 12, 1, 2], ratingBonus: 1, highlight: '건기 비엔티안, 탓루앙 축제 전후 여행 적기', events: ['탓루앙 축제 (11월 보름)', '라오스 국경일 (12월 2일)'] },
+  { regionId: 'vientiane', months: [4], ratingBonus: 1, highlight: '라오스 새해 물 축제', events: ['분피마이 — 라오스 새해 (4월)'] },
+
+  // 스위스
+  { regionId: 'zurich', months: [6, 7, 8], ratingBonus: 1, highlight: '알프스 하이킹과 호수 수영의 계절', events: ['취리히 스트리트 퍼레이드 (8월)', '취리히 오픈에어 영화제 (7~8월)'] },
+  { regionId: 'zurich', months: [12], ratingBonus: 1, highlight: '크리스마스 마켓, 유럽 최고 수준', events: ['취리히 크리스마스 마켓 (12월)', '실베스터 신년 행사'] },
+  { regionId: 'interlaken', months: [6, 7, 8], ratingBonus: 1, highlight: '융프라우 하이킹과 패러글라이딩 성수기', events: ['인터라켄 하이킹 시즌', '융프라우 마라톤 (9월)'] },
+  { regionId: 'interlaken', months: [12, 1, 2], ratingBonus: 1, highlight: '알프스 스키 시즌, 눈 덮인 동화 같은 풍경', events: ['스위스 스키 시즌 (12~3월)', '인터라켄 크리스마스 마켓'] },
+
+  // 체코
+  { regionId: 'prague', months: [4, 5], ratingBonus: 1, highlight: '봄 프라하, 꽃과 함께하는 구시가지 산책', events: ['프라하 이스터 마켓 (4월)', '프라하 스프링 뮤직 페스티벌 (5~6월)'] },
+  { regionId: 'prague', months: [9, 10], ratingBonus: 1, highlight: '황금빛 가을 프라하, 관광객 줄어 여유로운 시기', events: ['프라하 재즈 페스티벌 (10월)', '체코 와인 시즌'] },
+  { regionId: 'prague', months: [12], ratingBonus: 1, highlight: '유럽 최고 크리스마스 마켓 중 하나', events: ['프라하 크리스마스 마켓 (12월)', '신년 불꽃놀이 (1월 1일)'] },
+
+  // 크로아티아
+  { regionId: 'dubrovnik', months: [5, 6, 9], ratingBonus: 1, highlight: '성수기 전후 여유로운 두브로브니크', events: ['두브로브니크 여름 페스티벌 (7~8월)', '게임 오브 스론즈 투어'] },
+  { regionId: 'dubrovnik', months: [7, 8], ratingBonus: 0, highlight: '아드리아해 성수기 (매우 붐빔)', events: ['두브로브니크 여름 페스티벌 (7~8월)'] },
+  { regionId: 'split', months: [6, 7, 8, 9], ratingBonus: 1, highlight: '달마티아 해변 성수기', events: ['울트라 유럽 뮤직 페스티벌 (7월)', '스플리트 여름 축제'] },
+
+  // UAE
+  { regionId: 'dubai', months: [11, 12, 1, 2, 3], ratingBonus: 1, highlight: '두바이 관광 황금 시즌, 야외 활동 최적', events: ['두바이 쇼핑 페스티벌 (1~2월)', '두바이 엑스포·이벤트 시즌'] },
+  { regionId: 'dubai', months: [1], ratingBonus: 1, highlight: '두바이 쇼핑 페스티벌 최성수기', events: ['두바이 쇼핑 페스티벌 (1월)', '두바이 마라톤 (1월)'] },
+  { regionId: 'abu-dhabi', months: [11, 12, 1, 2, 3], ratingBonus: 1, highlight: '아부다비 쾌적한 겨울 시즌', events: ['아부다비 F1 그랑프리 (11월)', '아부다비 아트 페어'] },
+
+  // 뉴질랜드 (남반구 — 계절 역전)
+  { regionId: 'auckland', months: [12, 1, 2, 3], ratingBonus: 1, highlight: '뉴질랜드 여름, 해변과 하이킹 최적기', events: ['오클랜드 하버브리지 클라임 (연중)', '뉴질랜드 오픈 (1월)'] },
+  { regionId: 'queenstown', months: [12, 1, 2], ratingBonus: 1, highlight: '남반구 여름, 번지점프·래프팅 성수기', events: ['퀸스타운 와인 앤 푸드 페스티벌 (1월)', '서머 어드벤처 시즌'] },
+  { regionId: 'queenstown', months: [6, 7, 8], ratingBonus: 1, highlight: '남반구 겨울, 스키 리조트 성수기', events: ['코로넷피크·리마커블스 스키 시즌', '퀸스타운 윈터 페스티벌 (6월)'] },
+
+  // 독일
+  { regionId: 'berlin', months: [5, 6, 7, 8], ratingBonus: 1, highlight: '베를린 여름 축제와 야외 문화의 계절', events: ['베를린 국제 영화제 (2월)', '베를린 마라톤 (9월)', '크리스토퍼 스트리트 데이 (7월)'] },
+  { regionId: 'berlin', months: [12], ratingBonus: 1, highlight: '베를린 크리스마스 마켓, 브란덴부르크 문 일루미네이션', events: ['베를린 크리스마스 마켓 (12월)', '실베스터 신년 파티'] },
+  { regionId: 'munich', months: [9, 10], ratingBonus: 2, highlight: '옥토버페스트 — 세계 최대 맥주 축제', events: ['옥토버페스트 (9월 말~10월 초)', '바이에른 전통 복장 퍼레이드'] },
+  { regionId: 'munich', months: [12], ratingBonus: 1, highlight: '마리엔 광장 크리스마스 마켓, 유럽 최고 수준', events: ['뮌헨 크리스마스 마켓 (12월)', '레지덴츠 앞 시장'] },
+
+  // 포르투갈
+  { regionId: 'lisbon', months: [4, 5, 6], ratingBonus: 1, highlight: '봄 리스본, 산투 안토니우 축제와 파두의 계절', events: ['산투 안토니우 축제 (6월 13일)', '리스본 서머 파티 시즌'] },
+  { regionId: 'lisbon', months: [9, 10], ratingBonus: 1, highlight: '가을 리스본, 황금빛 빛과 와인 수확철', events: ['리스본 국제 영화제 (11월)', '포르투갈 와인 수확 시즌 (9월)'] },
+  { regionId: 'porto', months: [6], ratingBonus: 1, highlight: '상 주앙 축제 — 포르투 최대 여름 축제', events: ['상 주앙 축제 (6월 23~24일)', '도우루 강변 파티'] },
+  { regionId: 'porto', months: [7, 8, 9], ratingBonus: 1, highlight: '도우루 강변 와이너리와 해변 성수기', events: ['포르투 와인 투어 성수기', '도우루 와인 수확 (9월)'] },
 ];
 
 export const visaInfo: Record<string, string> = {
@@ -342,4 +599,19 @@ export const visaInfo: Record<string, string> = {
   uk: '무비자 6개월 (ETA 필요)',
   turkey: '무비자 90일',
   greece: '무비자 90일 (쉥겐 지역)',
+  china: '무비자 15일',
+  'hong-kong': '무비자 90일',
+  guam: '무비자 45일 (괌-CNMI VWP)',
+  malaysia: '무비자 90일',
+  cambodia: 'e-비자 또는 도착비자 (30일)',
+  maldives: '도착비자 30일 (무료)',
+  mongolia: '무비자 30일',
+  laos: '도착비자 30일',
+  switzerland: '무비자 90일 (쉥겐 지역)',
+  czech: '무비자 90일 (쉥겐 지역)',
+  croatia: '무비자 90일 (쉥겐 지역)',
+  uae: '무비자 30일',
+  'new-zealand': 'NZeTA 필요 (90일)',
+  germany: '무비자 90일 (쉥겐 지역)',
+  portugal: '무비자 90일 (쉥겐 지역)',
 };

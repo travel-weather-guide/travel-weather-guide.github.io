@@ -1,0 +1,161 @@
+{
+  "id": "guam",
+  "name": {
+    "ko": "괌",
+    "en": "Guam"
+  },
+  "continent": "oceania",
+  "capital": "Hagåtña",
+  "currency": "United States dollar ($)",
+  "language": "Chamorro, English, Spanish",
+  "timezone": "UTC+10:00",
+  "visaInfo": "무비자 45일 (괌-CNMI VWP)",
+  "regions": [
+    {
+      "id": "guam",
+      "name": {
+        "ko": "괌",
+        "en": "Guam"
+      },
+      "countryId": "guam",
+      "latitude": 13.4443,
+      "longitude": 144.7937,
+      "climateType": "열대 해양성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 28.9,
+          "tempLow": 24.5,
+          "rainfall": 98.9,
+          "rainyDays": 16.8,
+          "humidity": 79.2,
+          "sunshineHours": 10.2,
+          "seaTemp": 28.7,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 2,
+          "tempHigh": 29.2,
+          "tempLow": 24.5,
+          "rainfall": 57.7,
+          "rainyDays": 12.8,
+          "humidity": 75.8,
+          "sunshineHours": 10.6,
+          "seaTemp": 28.1,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 29.8,
+          "tempLow": 24.4,
+          "rainfall": 87.3,
+          "rainyDays": 18.6,
+          "humidity": 77.5,
+          "sunshineHours": 11,
+          "seaTemp": 28.3,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 4,
+          "tempHigh": 30,
+          "tempLow": 24.9,
+          "rainfall": 119,
+          "rainyDays": 22.4,
+          "humidity": 79.3,
+          "sunshineHours": 11.2,
+          "seaTemp": 28.6,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 30.5,
+          "tempLow": 25.4,
+          "rainfall": 195.4,
+          "rainyDays": 24,
+          "humidity": 79.4,
+          "sunshineHours": 11.6,
+          "seaTemp": 29.1,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 30.4,
+          "tempLow": 25.1,
+          "rainfall": 181.7,
+          "rainyDays": 26.2,
+          "humidity": 81.8,
+          "sunshineHours": 11.3,
+          "seaTemp": 29.4,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 7,
+          "tempHigh": 29.9,
+          "tempLow": 24.7,
+          "rainfall": 356,
+          "rainyDays": 29.2,
+          "humidity": 86,
+          "sunshineHours": 9.8,
+          "seaTemp": 29.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 29.6,
+          "tempLow": 24.5,
+          "rainfall": 489.6,
+          "rainyDays": 30.2,
+          "humidity": 88,
+          "sunshineHours": 8.7,
+          "seaTemp": 30.3,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 9,
+          "tempHigh": 29.8,
+          "tempLow": 24.7,
+          "rainfall": 463.5,
+          "rainyDays": 28.4,
+          "humidity": 87.6,
+          "sunshineHours": 8.9,
+          "seaTemp": 30.1,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 10,
+          "tempHigh": 29.3,
+          "tempLow": 24.5,
+          "rainfall": 528.2,
+          "rainyDays": 30.6,
+          "humidity": 88.5,
+          "sunshineHours": 8,
+          "seaTemp": 29.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 30.1,
+          "tempLow": 25.2,
+          "rainfall": 187.7,
+          "rainyDays": 24.6,
+          "humidity": 82.1,
+          "sunshineHours": 10.1,
+          "seaTemp": 29.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 29.9,
+          "tempLow": 25.2,
+          "rainfall": 132.9,
+          "rainyDays": 20.8,
+          "humidity": 78.7,
+          "sunshineHours": 10.4,
+          "seaTemp": 29.2,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1597702982238-5765a38ddd50?auto=format&fit=crop&w=800&q=80"
+}

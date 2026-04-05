@@ -1,0 +1,259 @@
+[
+  {
+    "regionId": "ulaanbaatar",
+    "month": 1,
+    "rating": 3,
+    "summary": "영하 30°C 혹한, 여행 부적합한 시기",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -23°C로 방한 대비 필요",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 2,
+    "rating": 3,
+    "summary": "극한의 추위 지속, 초원은 눈으로 덮임",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -20°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 3,
+    "rating": 4,
+    "summary": "아직 혹한, 초봄 바람이 차가운 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -10°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 4,
+    "rating": 4,
+    "summary": "봄 기운, 눈 녹기 시작하는 초원",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -3°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 5,
+    "rating": 4,
+    "summary": "봄 본격화, 초원이 녹색으로 물드는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 6,
+    "rating": 4,
+    "summary": "여름 시작, 광활한 초원 게르 투어 시즌",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [
+      "비 오는 날이 10.8일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 7,
+    "rating": 4,
+    "summary": "나담 축제, 몽골의 전통 격투·승마·활쏘기",
+    "highlights": [
+      "나담 축제 — 몽골 전통 유목민 경기 대축제",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 13.4일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "나담 축제 (7월 11~13일)",
+      "전통 씨름·활쏘기·경마"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 8,
+    "rating": 3,
+    "summary": "초원 여름 최성수기, 게르 캠프 황금 시기",
+    "highlights": [
+      "초원 트레킹과 게르 캠프 최적 시즌",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [
+      "초원 게르 캠프 시즌",
+      "테를지 국립공원 트레킹"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 9,
+    "rating": 3,
+    "summary": "가을 초원, 단풍과 함께 쌀쌀해지는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 10,
+    "rating": 3,
+    "summary": "겨울 시작, 초원 여행 마무리",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -4°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 11,
+    "rating": 3,
+    "summary": "혹한 시작, 여행 비추천 시기",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -12°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "ulaanbaatar",
+    "month": 12,
+    "rating": 3,
+    "summary": "영하 25°C 이하, 겨울왕국 혹한기",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -21°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  }
+]

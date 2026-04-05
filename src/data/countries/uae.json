@@ -1,0 +1,306 @@
+{
+  "id": "uae",
+  "name": {
+    "ko": "UAE",
+    "en": "United Arab Emirates"
+  },
+  "continent": "asia",
+  "capital": "Abu Dhabi",
+  "currency": "United Arab Emirates dirham (د.إ)",
+  "language": "Arabic",
+  "timezone": "UTC+04:00",
+  "visaInfo": "무비자 30일",
+  "regions": [
+    {
+      "id": "dubai",
+      "name": {
+        "ko": "두바이",
+        "en": "Dubai"
+      },
+      "countryId": "uae",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "climateType": "사막 건조",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 23.8,
+          "tempLow": 15.4,
+          "rainfall": 42,
+          "rainyDays": 6,
+          "humidity": 65.7,
+          "sunshineHours": 9.6,
+          "seaTemp": 22.6,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 2,
+          "tempHigh": 25,
+          "tempLow": 16.7,
+          "rainfall": 13.3,
+          "rainyDays": 4,
+          "humidity": 67.2,
+          "sunshineHours": 10.4,
+          "seaTemp": 21.9,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 28.6,
+          "tempLow": 19,
+          "rainfall": 13.4,
+          "rainyDays": 2.3,
+          "humidity": 61.9,
+          "sunshineHours": 10.4,
+          "seaTemp": 24,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 4,
+          "tempHigh": 32,
+          "tempLow": 21.6,
+          "rainfall": 25.5,
+          "rainyDays": 2.3,
+          "humidity": 56.7,
+          "sunshineHours": 10.9,
+          "seaTemp": 25.9,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 5,
+          "tempHigh": 36.1,
+          "tempLow": 25.2,
+          "rainfall": 2.9,
+          "rainyDays": 1,
+          "humidity": 55.5,
+          "sunshineHours": 12,
+          "seaTemp": 29.9,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 6,
+          "tempHigh": 39.4,
+          "tempLow": 28.5,
+          "rainfall": 0,
+          "rainyDays": 0,
+          "humidity": 57.1,
+          "sunshineHours": 12.2,
+          "seaTemp": 33.3,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 7,
+          "tempHigh": 40.6,
+          "tempLow": 31.2,
+          "rainfall": 5.3,
+          "rainyDays": 3,
+          "humidity": 55.6,
+          "sunshineHours": 11.2,
+          "seaTemp": 34.8,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 8,
+          "tempHigh": 40.7,
+          "tempLow": 30.6,
+          "rainfall": 0,
+          "rainyDays": 0,
+          "humidity": 56,
+          "sunshineHours": 11.1,
+          "seaTemp": 34.6,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 9,
+          "tempHigh": 39,
+          "tempLow": 27.9,
+          "rainfall": 0.1,
+          "rainyDays": 0,
+          "humidity": 60.3,
+          "sunshineHours": 11.3,
+          "seaTemp": 33.8,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 10,
+          "tempHigh": 35.2,
+          "tempLow": 24.8,
+          "rainfall": 1.8,
+          "rainyDays": 1,
+          "humidity": 60.4,
+          "sunshineHours": 10.6,
+          "seaTemp": 32,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 11,
+          "tempHigh": 30.9,
+          "tempLow": 21.7,
+          "rainfall": 5.8,
+          "rainyDays": 1.5,
+          "humidity": 61.6,
+          "sunshineHours": 9.9,
+          "seaTemp": 28.5,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 12,
+          "tempHigh": 26.6,
+          "tempLow": 17.7,
+          "rainfall": 7.9,
+          "rainyDays": 3,
+          "humidity": 60.9,
+          "sunshineHours": 9.7,
+          "seaTemp": 24.8,
+          "weatherSummary": "쾌청"
+        }
+      ]
+    },
+    {
+      "id": "abu-dhabi",
+      "name": {
+        "ko": "아부다비",
+        "en": "Abu Dhabi"
+      },
+      "countryId": "uae",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "climateType": "사막 건조",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 23.7,
+          "tempLow": 17.5,
+          "rainfall": 26.8,
+          "rainyDays": 3.7,
+          "humidity": 64.4,
+          "sunshineHours": 9.8,
+          "seaTemp": 22.3,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 2,
+          "tempHigh": 24.9,
+          "tempLow": 18.2,
+          "rainfall": 7.7,
+          "rainyDays": 2,
+          "humidity": 66,
+          "sunshineHours": 10.5,
+          "seaTemp": 21.6,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 28.6,
+          "tempLow": 20.6,
+          "rainfall": 15.8,
+          "rainyDays": 2,
+          "humidity": 59.5,
+          "sunshineHours": 10.3,
+          "seaTemp": 23.9,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 4,
+          "tempHigh": 32.4,
+          "tempLow": 23.4,
+          "rainfall": 14.7,
+          "rainyDays": 1.5,
+          "humidity": 54.8,
+          "sunshineHours": 10.8,
+          "seaTemp": 26.1,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 5,
+          "tempHigh": 36.2,
+          "tempLow": 27.1,
+          "rainfall": 7,
+          "rainyDays": 1,
+          "humidity": 53.9,
+          "sunshineHours": 12,
+          "seaTemp": 29.9,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 6,
+          "tempHigh": 38.9,
+          "tempLow": 30.2,
+          "rainfall": 0,
+          "rainyDays": 0,
+          "humidity": 57.3,
+          "sunshineHours": 12.3,
+          "seaTemp": 33.2,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 7,
+          "tempHigh": 40.3,
+          "tempLow": 32,
+          "rainfall": 0.6,
+          "rainyDays": 1,
+          "humidity": 57.9,
+          "sunshineHours": 11.1,
+          "seaTemp": 34.8,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 8,
+          "tempHigh": 40.5,
+          "tempLow": 32,
+          "rainfall": 1.1,
+          "rainyDays": 1,
+          "humidity": 58.4,
+          "sunshineHours": 11,
+          "seaTemp": 35,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 9,
+          "tempHigh": 38.7,
+          "tempLow": 29.9,
+          "rainfall": 0,
+          "rainyDays": 0,
+          "humidity": 60.5,
+          "sunshineHours": 11.2,
+          "seaTemp": 34.3,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 10,
+          "tempHigh": 34.8,
+          "tempLow": 27.4,
+          "rainfall": 1.5,
+          "rainyDays": 1,
+          "humidity": 60.3,
+          "sunshineHours": 10.7,
+          "seaTemp": 32.2,
+          "weatherSummary": "맑고 더움"
+        },
+        {
+          "month": 11,
+          "tempHigh": 30.6,
+          "tempLow": 24,
+          "rainfall": 1.1,
+          "rainyDays": 1,
+          "humidity": 61.2,
+          "sunshineHours": 10,
+          "seaTemp": 28.7,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 12,
+          "tempHigh": 26.1,
+          "tempLow": 19.9,
+          "rainfall": 3.2,
+          "rainyDays": 1.7,
+          "humidity": 62.8,
+          "sunshineHours": 9.7,
+          "seaTemp": 24.9,
+          "weatherSummary": "쾌청"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80"
+}

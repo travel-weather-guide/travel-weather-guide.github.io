@@ -2,203 +2,166 @@
   "month": 2,
   "bestDestinations": [
     {
+      "regionId": "abu-dhabi",
+      "category": "culture",
+      "reason": "겨울, 루브르 아부다비와 문화 투어",
+      "rating": 5
+    },
+    {
       "regionId": "chiang-mai",
-      "category": "mountain",
-      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "category": "culture",
+      "reason": "건기 지속, 쾌적하지만 연무 시작될 수 있는 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "dubai",
+      "category": "city",
+      "reason": "겨울, 실외 활동 가능한 최고의 날씨",
       "rating": 5
     },
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "고래 관찰 피크, 서핑 빅웨이브 시즌",
       "rating": 5
     },
     {
       "regionId": "ho-chi-minh",
       "category": "city",
-      "reason": "평균 29°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "manila",
-      "category": "city",
-      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기 절정, 가장 건조한 달",
       "rating": 5
     },
     {
       "regionId": "kaohsiung",
       "category": "city",
-      "reason": "평균 21°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기, 봄 축제와 꽃시장",
       "rating": 5
     },
     {
-      "regionId": "seville",
+      "regionId": "luang-prabang",
       "category": "culture",
-      "reason": "평균 14°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기 절정, 황금빛 사원과 쾌청한 하늘",
       "rating": 5
     },
     {
-      "regionId": "rome",
-      "category": "culture",
-      "reason": "평균 10°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "athens",
-      "category": "culture",
-      "reason": "평균 10°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "bangkok",
-      "category": "culture",
-      "reason": "평균 28°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "phuket",
-      "category": "beach",
-      "reason": "평균 28°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "nice",
-      "category": "beach",
-      "reason": "평균 10°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "los-angeles",
+      "regionId": "phnom-penh",
       "category": "city",
-      "reason": "평균 14°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
+      "reason": "건기 절정, 쾌적한 역사 투어",
+      "rating": 5
     },
     {
-      "regionId": "melbourne",
+      "regionId": "siem-reap",
       "category": "culture",
-      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 4
+      "reason": "건기, 맑은 하늘의 앙코르 사원 투어",
+      "rating": 5
     },
     {
-      "regionId": "hanoi",
+      "regionId": "vientiane",
+      "category": "culture",
+      "reason": "건기 지속, 메콩강변 선셋 산책",
+      "rating": 5
+    }
+  ],
+  "hiddenGems": [
+    {
+      "regionId": "auckland",
       "category": "city",
-      "reason": "평균 19°C의 온화한 날씨, 강수량 적음",
+      "reason": "여름 피크, 해변과 와이헤케 섬 와인 투어",
       "rating": 4
     },
     {
       "regionId": "da-nang",
       "category": "beach",
-      "reason": "평균 23°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "reason": "건기 시작, 날씨가 좋아지는 시기",
       "rating": 4
     },
     {
-      "regionId": "boracay",
+      "regionId": "langkawi",
       "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
+      "reason": "건기 절정, 안다만해 스노클링 최적기",
       "rating": 4
     },
     {
-      "regionId": "cebu",
-      "category": "beach",
-      "reason": "평균 27°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "singapore",
+      "regionId": "los-angeles",
       "category": "city",
-      "reason": "평균 27°C의 쾌적한 기온, 풍부한 일조량",
+      "reason": "겨울비가 가끔 오지만 대체로 맑은 날씨",
       "rating": 4
     },
     {
-      "regionId": "lombok",
+      "regionId": "male",
       "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "taipei",
-      "category": "city",
-      "reason": "평균 18°C의 온화한 날씨, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "madrid",
-      "category": "city",
-      "reason": "평균 9°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "barcelona",
-      "category": "beach",
-      "reason": "평균 11°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "venice",
-      "category": "culture",
-      "reason": "평균 7°C, 비가 거의 없는 맑은 날씨",
-      "rating": 4
-    },
-    {
-      "regionId": "amalfi",
-      "category": "beach",
-      "reason": "평균 11°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "edinburgh",
-      "category": "culture",
-      "reason": "평균 6°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "istanbul",
-      "category": "culture",
-      "reason": "평균 8°C, 강수량 적음",
-      "rating": 4
-    },
-    {
-      "regionId": "cappadocia",
-      "category": "adventure",
-      "reason": "평균 2°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "antalya",
-      "category": "beach",
-      "reason": "평균 11°C, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "santorini",
-      "category": "beach",
-      "reason": "평균 14°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "mykonos",
-      "category": "beach",
-      "reason": "평균 13°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "건기 절정, 몰디브 최고의 다이빙 시즌",
       "rating": 4
     }
   ],
-  "hiddenGems": [],
   "avoidList": [
     {
-      "regionId": "osaka",
-      "reason": "평균 6°C의 추위"
+      "regionId": "bali",
+      "reason": "우기 절정, 도로 침수 빈번"
     },
     {
-      "regionId": "paris",
-      "reason": "평균 7°C의 추위"
+      "regionId": "berlin",
+      "reason": "겨울 끝자락, 베를린 영화제(베를리날레)"
     },
     {
-      "regionId": "new-york",
-      "reason": "평균 2°C의 혹한"
+      "regionId": "dubrovnik",
+      "reason": "겨울, 관광객 거의 없어 숙소 저렴"
+    },
+    {
+      "regionId": "edinburgh",
+      "reason": "아직 추운 겨울, 위스키 투어에 적합"
     },
     {
       "regionId": "hokkaido",
-      "reason": "평균 -5°C의 혹한"
+      "reason": "삿포로 눈축제와 최고의 스키 시즌"
+    },
+    {
+      "regionId": "interlaken",
+      "reason": "겨울 스포츠 피크, 그린델발트 스키"
+    },
+    {
+      "regionId": "istanbul",
+      "reason": "겨울 끝자락, 터키식 차 한잔의 여유"
+    },
+    {
+      "regionId": "jakarta",
+      "reason": "우기, 홍수와 교통 마비 빈번"
+    },
+    {
+      "regionId": "london",
+      "reason": "겨울 끝자락, 아직 춥고 비 잦은 시기"
+    },
+    {
+      "regionId": "munich",
+      "reason": "파싱(카니발) 시즌, 의상 축제의 뮌헨"
+    },
+    {
+      "regionId": "new-york",
+      "reason": "가장 추운 시기, 밸런타인 분위기의 도시"
+    },
+    {
+      "regionId": "osaka",
+      "reason": "추운 겨울, 실내 먹거리 투어에 좋은 시기"
+    },
+    {
+      "regionId": "paris",
+      "reason": "아직 쌀쌀한 겨울, 미술관 투어에 좋은 시기"
+    },
+    {
+      "regionId": "porto",
+      "reason": "겨울, 셀라 노바 와이너리 방문과 포트와인"
+    },
+    {
+      "regionId": "prague",
+      "reason": "추운 겨울, 관광객 적어 여유로운 구시가지"
+    },
+    {
+      "regionId": "shanghai",
+      "reason": "춘절 연휴, 예원의 등불 축제"
+    },
+    {
+      "regionId": "zurich",
+      "reason": "설경의 취리히, 파스나흐트 카니발"
     }
   ]
 }

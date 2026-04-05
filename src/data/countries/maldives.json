@@ -1,0 +1,161 @@
+{
+  "id": "maldives",
+  "name": {
+    "ko": "몰디브",
+    "en": "Maldives"
+  },
+  "continent": "asia",
+  "capital": "Malé",
+  "currency": "Maldivian rufiyaa (.ރ)",
+  "language": "Maldivian",
+  "timezone": "UTC+05:00",
+  "visaInfo": "도착비자 30일 (무료)",
+  "regions": [
+    {
+      "id": "male",
+      "name": {
+        "ko": "말레",
+        "en": "Malé"
+      },
+      "countryId": "maldives",
+      "latitude": 4.1755,
+      "longitude": 73.5093,
+      "climateType": "열대 해양성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 28,
+          "tempLow": 26.6,
+          "rainfall": 92,
+          "rainyDays": 11.4,
+          "humidity": 75.6,
+          "sunshineHours": 10.7,
+          "seaTemp": 28.5,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 2,
+          "tempHigh": 28.3,
+          "tempLow": 26.9,
+          "rainfall": 31.7,
+          "rainyDays": 5.8,
+          "humidity": 75.6,
+          "sunshineHours": 11.1,
+          "seaTemp": 28.7,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 28.6,
+          "tempLow": 27,
+          "rainfall": 74.4,
+          "rainyDays": 12.4,
+          "humidity": 75.8,
+          "sunshineHours": 11.2,
+          "seaTemp": 29.9,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 4,
+          "tempHigh": 29.3,
+          "tempLow": 27.2,
+          "rainfall": 131.6,
+          "rainyDays": 18,
+          "humidity": 76.2,
+          "sunshineHours": 11.3,
+          "seaTemp": 31.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 29.2,
+          "tempLow": 27.1,
+          "rainfall": 287.5,
+          "rainyDays": 24.2,
+          "humidity": 79.4,
+          "sunshineHours": 9.5,
+          "seaTemp": 30.4,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 6,
+          "tempHigh": 29,
+          "tempLow": 27.3,
+          "rainfall": 92.2,
+          "rainyDays": 13.8,
+          "humidity": 76.9,
+          "sunshineHours": 10.8,
+          "seaTemp": 29.9,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 28.7,
+          "tempLow": 26.8,
+          "rainfall": 177.9,
+          "rainyDays": 18.8,
+          "humidity": 77.5,
+          "sunshineHours": 9.6,
+          "seaTemp": 30.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 28.5,
+          "tempLow": 26.8,
+          "rainfall": 198.2,
+          "rainyDays": 17.2,
+          "humidity": 76.8,
+          "sunshineHours": 9.8,
+          "seaTemp": 30,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 28.3,
+          "tempLow": 26.4,
+          "rainfall": 214.8,
+          "rainyDays": 19.6,
+          "humidity": 78.5,
+          "sunshineHours": 9.9,
+          "seaTemp": 29.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 10,
+          "tempHigh": 28.4,
+          "tempLow": 26.5,
+          "rainfall": 197,
+          "rainyDays": 20.4,
+          "humidity": 77.6,
+          "sunshineHours": 10.1,
+          "seaTemp": 29.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 28.1,
+          "tempLow": 26.2,
+          "rainfall": 253.5,
+          "rainyDays": 20.4,
+          "humidity": 78.2,
+          "sunshineHours": 9.8,
+          "seaTemp": 29.8,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 28.2,
+          "tempLow": 26.3,
+          "rainfall": 247.3,
+          "rainyDays": 19.6,
+          "humidity": 77.2,
+          "sunshineHours": 10,
+          "seaTemp": 29.3,
+          "weatherSummary": "우기"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80"
+}

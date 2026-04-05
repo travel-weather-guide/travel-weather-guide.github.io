@@ -1,0 +1,271 @@
+[
+  {
+    "regionId": "hong-kong",
+    "month": 1,
+    "rating": 4,
+    "summary": "건기, 맑고 선선한 홍콩 여행 최적기",
+    "highlights": [
+      "홍콩 구정 연휴, 빅토리아 항구 불꽃놀이",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "중국 설날 퍼레이드 (1~2월)",
+      "빅토리아 항구 불꽃놀이"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 2,
+    "rating": 3,
+    "summary": "춘절 불꽃놀이, 겨울의 화려한 빅토리아항",
+    "highlights": [
+      "홍콩 구정 연휴, 빅토리아 항구 불꽃놀이"
+    ],
+    "cautions": [
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [
+      "중국 설날 퍼레이드 (1~2월)",
+      "빅토리아 항구 불꽃놀이"
+    ],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 3,
+    "rating": 3,
+    "summary": "봄 시작, 쾌청한 날씨와 딤섬 브런치",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 4,
+    "rating": 2,
+    "summary": "따뜻한 봄, 란타우섬 하이킹과 야경",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 180mm로 우기에 해당",
+      "월 16.8일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 5,
+    "rating": 2,
+    "summary": "점점 덥고 습해지는 과도기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 313mm로 우기에 해당",
+      "월 23.4일 비가 와 야외 일정에 유의",
+      "습도 89%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 6,
+    "rating": 1,
+    "summary": "태풍 시즌 시작, 무더위와 집중 호우",
+    "highlights": [
+      "드래곤보트 레이스 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 344mm로 우기에 해당",
+      "월 29.2일 비가 와 야외 일정에 유의",
+      "습도 90%로 불쾌지수 높음"
+    ],
+    "events": [
+      "드래곤 보트 페스티벌 (6월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 7,
+    "rating": 1,
+    "summary": "태풍 빈발, 폭염과 폭우의 복합 위협",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 269mm로 우기에 해당",
+      "월 26일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 8,
+    "rating": 1,
+    "summary": "태풍 절정기, 호텔에 갇히는 날도 있는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 379mm로 우기에 해당",
+      "월 27.4일 비가 와 야외 일정에 유의",
+      "습도 89%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 9,
+    "rating": 1,
+    "summary": "태풍 리스크 지속, 장마처럼 비 잦음",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 338mm로 우기에 해당",
+      "월 23.8일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 10,
+    "rating": 2,
+    "summary": "태풍 마무리, 가을 맑은 하늘 시작",
+    "highlights": [
+      "가을 선선한 날씨, 홍콩 최고 여행 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 212mm로 우기에 해당",
+      "비 오는 날이 10.6일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "홍콩 와인 앤 다인 페스티벌 (10~11월)",
+      "홍콩 럭비 세번스 (11월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 11,
+    "rating": 4,
+    "summary": "가을 절정, 빅토리아 피크 야경 최적기",
+    "highlights": [
+      "가을 선선한 날씨, 홍콩 최고 여행 시기",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 127mm로 우산 필수",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "홍콩 와인 앤 다인 페스티벌 (10~11월)",
+      "홍콩 럭비 세번스 (11월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hong-kong",
+    "month": 12,
+    "rating": 4,
+    "summary": "크리스마스 일루미네이션, 홍콩 연말의 화려함",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  }
+]

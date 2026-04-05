@@ -10,7 +10,6 @@
   "language": "Vietnamese",
   "timezone": "UTC+07:00",
   "visaInfo": "무비자 45일",
-  "imageUrl": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?auto=format&fit=crop&w=800&q=80",
   "regions": [
     {
       "id": "hanoi",
@@ -423,5 +422,6 @@
         }
       ]
     }
-  ]
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?auto=format&fit=crop&w=800&q=80"
 }

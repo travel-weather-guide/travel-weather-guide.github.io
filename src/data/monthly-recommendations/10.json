@@ -2,171 +2,228 @@
   "month": 10,
   "bestDestinations": [
     {
-      "regionId": "los-angeles",
-      "category": "city",
-      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "hawaii",
-      "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "madrid",
-      "category": "city",
-      "reason": "평균 16°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "seville",
+      "regionId": "abu-dhabi",
       "category": "culture",
-      "reason": "평균 21°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "istanbul",
-      "category": "culture",
-      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
-      "rating": 5
-    },
-    {
-      "regionId": "cappadocia",
-      "category": "adventure",
-      "reason": "평균 14°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "야외 활동 재개, F1 시즌 시작",
       "rating": 5
     },
     {
       "regionId": "antalya",
       "category": "beach",
-      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "지중해 가을, 수온 23°C로 아직 해수욕 가능",
       "rating": 5
     },
     {
       "regionId": "athens",
       "category": "culture",
-      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "완벽한 가을 날씨, 유적지 관광 최적기",
       "rating": 5
     },
     {
-      "regionId": "santorini",
+      "regionId": "cappadocia",
+      "category": "adventure",
+      "reason": "가을 단풍과 열기구, 카파도키아 최고의 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "dubai",
+      "category": "city",
+      "reason": "더위 물러나기 시작, 야외 조금씩 가능",
+      "rating": 5
+    },
+    {
+      "regionId": "hawaii",
       "category": "beach",
-      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "날씨 좋고 관광객 적은 황금 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "los-angeles",
+      "category": "city",
+      "reason": "인디언 서머, 맑고 따뜻한 최적기",
       "rating": 5
     },
     {
       "regionId": "mykonos",
       "category": "beach",
-      "reason": "평균 21°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "reason": "가을, 수영 가능한 바다(23°C)와 여유",
       "rating": 5
+    },
+    {
+      "regionId": "santorini",
+      "category": "beach",
+      "reason": "가을, 관광객 줄고 아직 따뜻한 시기",
+      "rating": 5
+    }
+  ],
+  "hiddenGems": [
+    {
+      "regionId": "qingdao",
+      "category": "city",
+      "reason": "황금빛 가을, 붉은 지붕 구시가지 단풍",
+      "rating": 4
+    },
+    {
+      "regionId": "seville",
+      "category": "culture",
+      "reason": "선선한 가을, 플라멩코와 타파스의 계절",
+      "rating": 4
     },
     {
       "regionId": "sydney",
       "category": "city",
-      "reason": "평균 18°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "hanoi",
-      "category": "city",
-      "reason": "평균 25°C의 쾌적한 기온",
-      "rating": 4
-    },
-    {
-      "regionId": "lombok",
-      "category": "beach",
-      "reason": "평균 26°C의 쾌적한 기온, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "taipei",
-      "category": "city",
-      "reason": "평균 25°C의 쾌적한 기온",
-      "rating": 4
-    },
-    {
-      "regionId": "barcelona",
-      "category": "beach",
-      "reason": "평균 19°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "rome",
-      "category": "culture",
-      "reason": "평균 18°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "venice",
-      "category": "culture",
-      "reason": "평균 16°C의 온화한 날씨",
-      "rating": 4
-    },
-    {
-      "regionId": "amalfi",
-      "category": "beach",
-      "reason": "평균 19°C의 온화한 날씨, 풍부한 일조량",
-      "rating": 4
-    },
-    {
-      "regionId": "london",
-      "category": "city",
-      "reason": "평균 13°C",
-      "rating": 4
-    },
-    {
-      "regionId": "edinburgh",
-      "category": "culture",
-      "reason": "평균 11°C",
+      "reason": "봄 한가운데, 야외 활동 최적기",
       "rating": 4
     }
   ],
-  "hiddenGems": [],
   "avoidList": [
     {
-      "regionId": "tokyo",
-      "reason": "잦은 비(158mm)"
+      "regionId": "auckland",
+      "reason": "봄 절정, 리저널 파크 하이킹 최적기"
     },
     {
-      "regionId": "osaka",
-      "reason": "잦은 비(163mm)"
-    },
-    {
-      "regionId": "okinawa",
-      "reason": "잦은 비(127mm)"
-    },
-    {
-      "regionId": "hokkaido",
-      "reason": "잦은 비(116mm)"
-    },
-    {
-      "regionId": "phuket",
-      "reason": "강수량 306mm의 우기"
-    },
-    {
-      "regionId": "paris",
-      "reason": "여행에 적합하지 않은 날씨"
-    },
-    {
-      "regionId": "melbourne",
-      "reason": "잦은 비(118mm)"
-    },
-    {
-      "regionId": "ho-chi-minh",
-      "reason": "강수량 367mm의 우기"
-    },
-    {
-      "regionId": "da-nang",
-      "reason": "강수량 628mm의 우기"
-    },
-    {
-      "regionId": "boracay",
-      "reason": "강수량 417mm의 우기"
+      "regionId": "bali",
+      "reason": "건기 끝자락, 간간이 소나기 시작"
     },
     {
       "regionId": "bangkok",
-      "reason": "강수량 290mm의 우기"
+      "reason": "우기 막바지, 비가 줄어들기 시작"
+    },
+    {
+      "regionId": "boracay",
+      "reason": "우기 끝자락, 아직 바다가 거친 시기"
+    },
+    {
+      "regionId": "cebu",
+      "reason": "우기 끝자락, 비 줄어들기 시작"
+    },
+    {
+      "regionId": "da-nang",
+      "reason": "태풍·폭우 절정, 홍수 위험 가장 높은 시기"
+    },
+    {
+      "regionId": "edinburgh",
+      "reason": "가을 단풍, 쌀쌀해지는 시기"
+    },
+    {
+      "regionId": "guam",
+      "reason": "태풍 끝자락, 비 여전히 잦은 시기"
+    },
+    {
+      "regionId": "ho-chi-minh",
+      "reason": "우기 끝자락, 비가 줄어들기 시작"
+    },
+    {
+      "regionId": "hokkaido",
+      "reason": "단풍 절정이지만 급격히 추워지는 시기"
+    },
+    {
+      "regionId": "hong-kong",
+      "reason": "태풍 마무리, 가을 맑은 하늘 시작"
+    },
+    {
+      "regionId": "interlaken",
+      "reason": "쌀쌀해지는 가을, 첫 눈 내리는 융프라우"
+    },
+    {
+      "regionId": "jakarta",
+      "reason": "과도기, 비가 조금씩 시작"
+    },
+    {
+      "regionId": "kaohsiung",
+      "reason": "건기 시작, 쾌적한 가을 남부"
+    },
+    {
+      "regionId": "kota-kinabalu",
+      "reason": "우기 끝자락, 비 서서히 줄어듦"
+    },
+    {
+      "regionId": "kuala-lumpur",
+      "reason": "북동 몬순 전환기, 비 늘어나는 시기"
+    },
+    {
+      "regionId": "langkawi",
+      "reason": "우기 마무리, 날씨 서서히 회복"
+    },
+    {
+      "regionId": "lombok",
+      "reason": "과도기, 비가 조금씩 시작"
+    },
+    {
+      "regionId": "london",
+      "reason": "가을 단풍, 쌀쌀해지는 시기"
+    },
+    {
+      "regionId": "male",
+      "reason": "우기 마무리, 날씨 서서히 회복"
+    },
+    {
+      "regionId": "manila",
+      "reason": "태풍 시즌 끝자락, 비 여전히 많음"
+    },
+    {
+      "regionId": "melbourne",
+      "reason": "봄, 정원과 공원이 아름다운 시기"
+    },
+    {
+      "regionId": "munich",
+      "reason": "옥토버페스트 후반과 마무리, 가을 낙엽"
+    },
+    {
+      "regionId": "okinawa",
+      "reason": "태풍 시즌 마무리, 따뜻한 바다가 돌아오는 시기"
+    },
+    {
+      "regionId": "osaka",
+      "reason": "단풍 시즌 시작, 미노오 폭포와 교토 근교 단풍"
+    },
+    {
+      "regionId": "paris",
+      "reason": "가을빛 파리, 뤽상부르 공원 단풍"
+    },
+    {
+      "regionId": "phnom-penh",
+      "reason": "홍수 끝자락, 우기 마무리"
+    },
+    {
+      "regionId": "phuket",
+      "reason": "우기 끝자락, 비가 줄어들기 시작"
+    },
+    {
+      "regionId": "porto",
+      "reason": "포도주 수확 축제, 두로강 크루즈 단풍"
+    },
+    {
+      "regionId": "queenstown",
+      "reason": "봄, 루트번 트랙 하이킹 시즌 재개"
+    },
+    {
+      "regionId": "siem-reap",
+      "reason": "홍수 마무리, 우기 끝자락의 앙코르"
+    },
+    {
+      "regionId": "singapore",
+      "reason": "과도기, 비가 늘어나기 시작"
+    },
+    {
+      "regionId": "taipei",
+      "reason": "건기 시작, 가을 단풍과 쾌적한 날씨"
+    },
+    {
+      "regionId": "tokyo",
+      "reason": "단풍이 물드는 가을, 맑고 쾌적한 날씨"
+    },
+    {
+      "regionId": "venice",
+      "reason": "가을, 아쿠아 알타 시작될 수 있는 시기"
+    },
+    {
+      "regionId": "vientiane",
+      "reason": "우기 마무리, 탓루앙 축제(뻔탓루앙)"
+    },
+    {
+      "regionId": "zurich",
+      "reason": "가을 단풍, 알프스 설경이 내려오는 시기"
     }
   ]
 }

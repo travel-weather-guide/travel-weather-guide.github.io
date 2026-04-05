@@ -1,0 +1,149 @@
+{
+  "id": "mongolia",
+  "name": {
+    "ko": "몽골",
+    "en": "Mongolia"
+  },
+  "continent": "asia",
+  "capital": "Ulan Bator",
+  "currency": "Mongolian tögrög (₮)",
+  "language": "Mongolian",
+  "timezone": "UTC+07:00",
+  "visaInfo": "무비자 30일",
+  "regions": [
+    {
+      "id": "ulaanbaatar",
+      "name": {
+        "ko": "울란바토르",
+        "en": "Ulaanbaatar"
+      },
+      "countryId": "mongolia",
+      "latitude": 47.8864,
+      "longitude": 106.9057,
+      "climateType": "냉대 대륙성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": -11.7,
+          "tempLow": -22.9,
+          "rainfall": 2.1,
+          "rainyDays": 1.3,
+          "humidity": 71,
+          "sunshineHours": 8,
+          "weatherSummary": "혹한"
+        },
+        {
+          "month": 2,
+          "tempHigh": -7.5,
+          "tempLow": -20.1,
+          "rainfall": 3.4,
+          "rainyDays": 2,
+          "humidity": 68.3,
+          "sunshineHours": 9.3,
+          "weatherSummary": "혹한"
+        },
+        {
+          "month": 3,
+          "tempHigh": 1.9,
+          "tempLow": -10.3,
+          "rainfall": 8.7,
+          "rainyDays": 2.4,
+          "humidity": 45.5,
+          "sunshineHours": 10.5,
+          "weatherSummary": "혹한"
+        },
+        {
+          "month": 4,
+          "tempHigh": 9.4,
+          "tempLow": -3.3,
+          "rainfall": 20.9,
+          "rainyDays": 5.6,
+          "humidity": 41.6,
+          "sunshineHours": 11.3,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 5,
+          "tempHigh": 16.1,
+          "tempLow": 2.4,
+          "rainfall": 33.4,
+          "rainyDays": 7.8,
+          "humidity": 47.7,
+          "sunshineHours": 11.6,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 6,
+          "tempHigh": 22,
+          "tempLow": 9,
+          "rainfall": 66.3,
+          "rainyDays": 10.8,
+          "humidity": 57.9,
+          "sunshineHours": 11.8,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 7,
+          "tempHigh": 23.9,
+          "tempLow": 12.5,
+          "rainfall": 95.6,
+          "rainyDays": 13.4,
+          "humidity": 66.7,
+          "sunshineHours": 11.3,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 8,
+          "tempHigh": 21,
+          "tempLow": 10.4,
+          "rainfall": 95.9,
+          "rainyDays": 12.2,
+          "humidity": 71.2,
+          "sunshineHours": 11,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 9,
+          "tempHigh": 16.4,
+          "tempLow": 4.5,
+          "rainfall": 41.9,
+          "rainyDays": 8.4,
+          "humidity": 64.1,
+          "sunshineHours": 9.8,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 10,
+          "tempHigh": 6.7,
+          "tempLow": -3.6,
+          "rainfall": 14,
+          "rainyDays": 3.6,
+          "humidity": 56,
+          "sunshineHours": 8.8,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 11,
+          "tempHigh": -3.2,
+          "tempLow": -12.2,
+          "rainfall": 10.4,
+          "rainyDays": 4,
+          "humidity": 60.5,
+          "sunshineHours": 7.6,
+          "weatherSummary": "혹한"
+        },
+        {
+          "month": 12,
+          "tempHigh": -12.7,
+          "tempLow": -21.4,
+          "rainfall": 5,
+          "rainyDays": 2,
+          "humidity": 67.3,
+          "sunshineHours": 7.4,
+          "weatherSummary": "혹한"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1551711009-d40b85a4b7ef?auto=format&fit=crop&w=800&q=80"
+}

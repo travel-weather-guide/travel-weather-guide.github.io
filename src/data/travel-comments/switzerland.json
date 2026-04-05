@@ -1,0 +1,557 @@
+[
+  {
+    "regionId": "zurich",
+    "month": 1,
+    "rating": 1,
+    "summary": "겨울, 알프스 스키 근교 여행과 퐁뒤",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -1°C로 방한 대비 필요",
+      "비 오는 날이 12일로 실내 대안 준비 권장",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "zurich",
+    "month": 2,
+    "rating": 1,
+    "summary": "설경의 취리히, 파스나흐트 카니발",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 13일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "zurich",
+    "month": 3,
+    "rating": 2,
+    "summary": "봄 시작, 취리히 호수변 꽃이 피는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 11.8일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "zurich",
+    "month": 4,
+    "rating": 2,
+    "summary": "봄, 구시가지 산책과 호수 보트 타기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "zurich",
+    "month": 5,
+    "rating": 2,
+    "summary": "봄 절정, 야외 테라스와 호수 수영 시즌 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 138mm로 우산 필수",
+      "월 18일 비가 와 야외 일정에 유의",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "zurich",
+    "month": 6,
+    "rating": 3,
+    "summary": "취리히 여름, 호수에서 수영하는 현지인들",
+    "highlights": [
+      "알프스 하이킹과 호수 수영의 계절",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 132mm로 우산 필수",
+      "월 15.8일 비가 와 야외 일정에 유의",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "취리히 스트리트 퍼레이드 (8월)",
+      "취리히 오픈에어 영화제 (7~8월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "zurich",
+    "month": 7,
+    "rating": 3,
+    "summary": "스트리트 퍼레이드(유럽 최대 테크노 축제)",
+    "highlights": [
+      "알프스 하이킹과 호수 수영의 계절",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 152mm로 우기에 해당",
+      "월 16일 비가 와 야외 일정에 유의",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "취리히 스트리트 퍼레이드 (8월)",
+      "취리히 오픈에어 영화제 (7~8월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "zurich",
+    "month": 8,
+    "rating": 3,
+    "summary": "여름 피크, 알프스 하이킹과 호수 최고의 계절",
+    "highlights": [
+      "알프스 하이킹과 호수 수영의 계절",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 127mm로 우산 필수",
+      "비 오는 날이 11.6일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "취리히 스트리트 퍼레이드 (8월)",
+      "취리히 오픈에어 영화제 (7~8월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "zurich",
+    "month": 9,
+    "rating": 3,
+    "summary": "가을 시작, 포도 수확과 와인 축제",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 11.2일로 실내 대안 준비 권장",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "zurich",
+    "month": 10,
+    "rating": 2,
+    "summary": "가을 단풍, 알프스 설경이 내려오는 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "zurich",
+    "month": 11,
+    "rating": 1,
+    "summary": "초겨울, 세계 최고 수준의 크리스마스 마켓 시작",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 106mm로 우산 필수",
+      "비 오는 날이 14.4일로 실내 대안 준비 권장",
+      "습도 88%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "zurich",
+    "month": 12,
+    "rating": 1,
+    "summary": "크리스마스 마켓 절정, 눈 덮인 구시가지",
+    "highlights": [
+      "크리스마스 마켓, 유럽 최고 수준",
+      "겨울 스포츠에 적합한 시기",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -0°C로 방한 대비 필요",
+      "강수량이 127mm로 우산 필수",
+      "월 16일 비가 와 야외 일정에 유의",
+      "습도 89%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [
+      "취리히 크리스마스 마켓 (12월)",
+      "실베스터 신년 행사"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 1,
+    "rating": 1,
+    "summary": "스키 시즌 절정, 융프라우 파우더 스노우",
+    "highlights": [
+      "알프스 스키 시즌, 눈 덮인 동화 같은 풍경",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "강수량이 131mm로 우산 필수",
+      "월 15.4일 비가 와 야외 일정에 유의",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "스위스 스키 시즌 (12~3월)",
+      "인터라켄 크리스마스 마켓"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 2,
+    "rating": 2,
+    "summary": "겨울 스포츠 피크, 그린델발트 스키",
+    "highlights": [
+      "알프스 스키 시즌, 눈 덮인 동화 같은 풍경"
+    ],
+    "cautions": [
+      "비 오는 날이 13일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "스위스 스키 시즌 (12~3월)",
+      "인터라켄 크리스마스 마켓"
+    ],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 3,
+    "rating": 2,
+    "summary": "스키 시즌 막바지, 봄 눈녹이 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 130mm로 우산 필수",
+      "비 오는 날이 13.6일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 4,
+    "rating": 2,
+    "summary": "봄, 알프스 야생화 피기 시작하는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 144mm로 우산 필수",
+      "월 15.2일 비가 와 야외 일정에 유의",
+      "습도가 71%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 5,
+    "rating": 1,
+    "summary": "봄 녹음, 융프라우 하이킹 시즌 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "월 강수량 187mm로 우기에 해당",
+      "월 20.2일 비가 와 야외 일정에 유의",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 6,
+    "rating": 3,
+    "summary": "패러글라이딩 최적, 알프스 전망 쾌청",
+    "highlights": [
+      "융프라우 하이킹과 패러글라이딩 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 181mm로 우기에 해당",
+      "월 17.8일 비가 와 야외 일정에 유의",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "인터라켄 하이킹 시즌",
+      "융프라우 마라톤 (9월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 7,
+    "rating": 3,
+    "summary": "하이킹 피크, 툰 호수와 브리엔츠 호수 눈부심",
+    "highlights": [
+      "융프라우 하이킹과 패러글라이딩 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 177mm로 우기에 해당",
+      "월 16.8일 비가 와 야외 일정에 유의",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "인터라켄 하이킹 시즌",
+      "융프라우 마라톤 (9월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 8,
+    "rating": 3,
+    "summary": "여름 성수기, 야외 액티비티 총집합",
+    "highlights": [
+      "융프라우 하이킹과 패러글라이딩 성수기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 171mm로 우기에 해당",
+      "비 오는 날이 14.4일로 실내 대안 준비 권장",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "인터라켄 하이킹 시즌",
+      "융프라우 마라톤 (9월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 9,
+    "rating": 3,
+    "summary": "가을 알프스, 단풍 든 산과 호수",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 144mm로 우산 필수",
+      "비 오는 날이 15일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 10,
+    "rating": 2,
+    "summary": "쌀쌀해지는 가을, 첫 눈 내리는 융프라우",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 133mm로 우산 필수",
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 11,
+    "rating": 1,
+    "summary": "스키 시즌 준비, 알프스에 눈 쌓이는 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 150mm로 우산 필수",
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "interlaken",
+    "month": 12,
+    "rating": 1,
+    "summary": "스키 시즌 시작, 설원의 크리스마스",
+    "highlights": [
+      "알프스 스키 시즌, 눈 덮인 동화 같은 풍경",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 179mm로 우기에 해당",
+      "월 16.2일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [
+      "스위스 스키 시즌 (12~3월)",
+      "인터라켄 크리스마스 마켓"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  }
+]
