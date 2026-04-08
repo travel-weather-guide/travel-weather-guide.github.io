@@ -5,7 +5,7 @@ import { useLocale } from '@/contexts/LocaleContext';
 import { messages, t } from '@/i18n/messages';
 
 const CONTINENT_VALUES: (Continent | 'all')[] = [
-  'all', 'asia', 'europe', 'north-america', 'south-america', 'oceania', 'africa',
+  'all', 'asia', 'europe', 'north-america', 'oceania', 'africa',
 ];
 
 interface ContinentFilterProps {
