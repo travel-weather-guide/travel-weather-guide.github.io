@@ -80,9 +80,9 @@ export default async function CountryDetailPage({
               '@context': 'https://schema.org',
               '@type': 'BreadcrumbList',
               itemListElement: [
-                { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather.pages.dev' },
-                { '@type': 'ListItem', position: 2, name: '국가', item: 'https://travel-weather.pages.dev/country' },
-                { '@type': 'ListItem', position: 3, name: country.name.ko, item: `https://travel-weather.pages.dev/country/${countryId}` },
+                { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather-guide.github.io' },
+                { '@type': 'ListItem', position: 2, name: '국가', item: 'https://travel-weather-guide.github.io/country' },
+                { '@type': 'ListItem', position: 3, name: country.name.ko, item: `https://travel-weather-guide.github.io/country/${countryId}` },
               ],
             },
             {
@@ -90,7 +90,7 @@ export default async function CountryDetailPage({
               '@type': 'Country',
               name: country.name.ko,
               alternateName: [country.name.en, country.name.ja, country.name.zh].filter(Boolean),
-              url: `https://travel-weather.pages.dev/country/${countryId}`,
+              url: `https://travel-weather-guide.github.io/country/${countryId}`,
             },
           ]),
         }}

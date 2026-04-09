@@ -90,7 +90,7 @@ export default function Home() {
             '@context': 'https://schema.org',
             '@type': 'WebSite',
             name: 'Travel Weather',
-            url: 'https://travel-weather.pages.dev',
+            url: 'https://travel-weather-guide.github.io',
             description: '전세계 여행지의 월별 날씨와 여행 적합도를 한눈에 확인하세요.',
             inLanguage: 'ko',
           }),

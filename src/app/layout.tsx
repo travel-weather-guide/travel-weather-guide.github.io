@@ -40,6 +40,9 @@ export const metadata: Metadata = {
     ],
     apple: { url: '/apple-touch-icon.png', sizes: '180x180' },
   },
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
     siteName: 'Travel Weather',
     locale: 'ko_KR',
