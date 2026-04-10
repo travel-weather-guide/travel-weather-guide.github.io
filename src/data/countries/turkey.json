@@ -2,7 +2,9 @@
   "id": "turkey",
   "name": {
     "ko": "터키",
-    "en": "Turkey"
+    "en": "Turkey",
+    "ja": "トルコ",
+    "zh": "土耳其"
   },
   "continent": "europe",
   "capital": "Ankara",
@@ -15,7 +17,9 @@
       "id": "istanbul",
       "name": {
         "ko": "이스탄불",
-        "en": "Istanbul"
+        "en": "Istanbul",
+        "ja": "イスタンブール",
+        "zh": "伊斯坦布尔"
       },
       "countryId": "turkey",
       "latitude": 41.0082,
@@ -160,7 +164,9 @@
       "id": "cappadocia",
       "name": {
         "ko": "카파도키아",
-        "en": "Cappadocia"
+        "en": "Cappadocia",
+        "ja": "カッパドキア",
+        "zh": "卡帕多奇亚"
       },
       "countryId": "turkey",
       "latitude": 38.6431,
@@ -293,7 +299,9 @@
       "id": "antalya",
       "name": {
         "ko": "안탈리아",
-        "en": "Antalya"
+        "en": "Antalya",
+        "ja": "アンタルヤ",
+        "zh": "安塔利亚"
       },
       "countryId": "turkey",
       "latitude": 36.8969,

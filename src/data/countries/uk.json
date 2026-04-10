@@ -2,7 +2,9 @@
   "id": "uk",
   "name": {
     "ko": "영국",
-    "en": "United Kingdom"
+    "en": "United Kingdom",
+    "ja": "イギリス",
+    "zh": "英国"
   },
   "continent": "europe",
   "capital": "London",
@@ -15,7 +17,9 @@
       "id": "london",
       "name": {
         "ko": "런던",
-        "en": "London"
+        "en": "London",
+        "ja": "ロンドン",
+        "zh": "伦敦"
       },
       "countryId": "uk",
       "latitude": 51.5074,
@@ -148,7 +152,9 @@
       "id": "edinburgh",
       "name": {
         "ko": "에든버러",
-        "en": "Edinburgh"
+        "en": "Edinburgh",
+        "ja": "エディンバラ",
+        "zh": "爱丁堡"
       },
       "countryId": "uk",
       "latitude": 55.9533,

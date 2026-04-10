@@ -2,7 +2,9 @@
   "id": "cambodia",
   "name": {
     "ko": "캄보디아",
-    "en": "Cambodia"
+    "en": "Cambodia",
+    "ja": "カンボジア",
+    "zh": "柬埔寨"
   },
   "continent": "asia",
   "capital": "Phnom Penh",
@@ -15,7 +17,9 @@
       "id": "siem-reap",
       "name": {
         "ko": "시엠립",
-        "en": "Siem Reap"
+        "en": "Siem Reap",
+        "ja": "シェムリアップ",
+        "zh": "暹粒"
       },
       "countryId": "cambodia",
       "latitude": 13.3671,
@@ -148,7 +152,9 @@
       "id": "phnom-penh",
       "name": {
         "ko": "프놈펜",
-        "en": "Phnom Penh"
+        "en": "Phnom Penh",
+        "ja": "プノンペン",
+        "zh": "金边"
       },
       "countryId": "cambodia",
       "latitude": 11.5564,

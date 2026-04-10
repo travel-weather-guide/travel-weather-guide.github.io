@@ -2,7 +2,9 @@
   "id": "czech",
   "name": {
     "ko": "체코",
-    "en": "Czech Republic"
+    "en": "Czech Republic",
+    "ja": "チェコ",
+    "zh": "捷克"
   },
   "continent": "europe",
   "capital": "Prague",
@@ -15,7 +17,9 @@
       "id": "prague",
       "name": {
         "ko": "프라하",
-        "en": "Prague"
+        "en": "Prague",
+        "ja": "プラハ",
+        "zh": "布拉格"
       },
       "countryId": "czech",
       "latitude": 50.0755,

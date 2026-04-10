@@ -2,7 +2,9 @@
   "id": "vietnam",
   "name": {
     "ko": "베트남",
-    "en": "Vietnam"
+    "en": "Vietnam",
+    "ja": "ベトナム",
+    "zh": "越南"
   },
   "continent": "asia",
   "capital": "Hanoi",
@@ -15,7 +17,9 @@
       "id": "hanoi",
       "name": {
         "ko": "하노이",
-        "en": "Hanoi"
+        "en": "Hanoi",
+        "ja": "ハノイ",
+        "zh": "河内"
       },
       "countryId": "vietnam",
       "latitude": 21.0285,
@@ -148,7 +152,9 @@
       "id": "ho-chi-minh",
       "name": {
         "ko": "호치민",
-        "en": "Ho Chi Minh"
+        "en": "Ho Chi Minh",
+        "ja": "ホーチミン",
+        "zh": "胡志明市"
       },
       "countryId": "vietnam",
       "latitude": 10.8231,
@@ -281,7 +287,9 @@
       "id": "da-nang",
       "name": {
         "ko": "다낭",
-        "en": "Da Nang"
+        "en": "Da Nang",
+        "ja": "ダナン",
+        "zh": "岘港"
       },
       "countryId": "vietnam",
       "latitude": 16.0544,
@@ -426,7 +434,9 @@
       "id": "nha-trang",
       "name": {
         "ko": "나트랑",
-        "en": "Nha Trang"
+        "en": "Nha Trang",
+        "ja": "ニャチャン",
+        "zh": "芽庄"
       },
       "countryId": "vietnam",
       "latitude": 12.2388,
@@ -571,7 +581,9 @@
       "id": "hoi-an",
       "name": {
         "ko": "호이안",
-        "en": "Hoi An"
+        "en": "Hoi An",
+        "ja": "ホイアン",
+        "zh": "会安"
       },
       "countryId": "vietnam",
       "latitude": 15.8801,

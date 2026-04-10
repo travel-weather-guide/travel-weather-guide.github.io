@@ -2,7 +2,9 @@
   "id": "portugal",
   "name": {
     "ko": "포르투갈",
-    "en": "Portugal"
+    "en": "Portugal",
+    "ja": "ポルトガル",
+    "zh": "葡萄牙"
   },
   "continent": "europe",
   "capital": "Lisbon",
@@ -15,7 +17,9 @@
       "id": "lisbon",
       "name": {
         "ko": "리스본",
-        "en": "Lisbon"
+        "en": "Lisbon",
+        "ja": "リスボン",
+        "zh": "里斯本"
       },
       "countryId": "portugal",
       "latitude": 38.7223,
@@ -160,7 +164,9 @@
       "id": "porto",
       "name": {
         "ko": "포르투",
-        "en": "Porto"
+        "en": "Porto",
+        "ja": "ポルト",
+        "zh": "波尔图"
       },
       "countryId": "portugal",
       "latitude": 41.1579,

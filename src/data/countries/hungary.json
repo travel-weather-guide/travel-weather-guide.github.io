@@ -2,7 +2,9 @@
   "id": "hungary",
   "name": {
     "ko": "헝가리",
-    "en": "Hungary"
+    "en": "Hungary",
+    "ja": "ハンガリー",
+    "zh": "匈牙利"
   },
   "continent": "europe",
   "capital": "Budapest",
@@ -15,7 +17,9 @@
       "id": "budapest",
       "name": {
         "ko": "부다페스트",
-        "en": "Budapest"
+        "en": "Budapest",
+        "ja": "ブダペスト",
+        "zh": "布达佩斯"
       },
       "countryId": "hungary",
       "latitude": 47.4979,

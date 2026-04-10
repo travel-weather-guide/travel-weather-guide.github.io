@@ -2,7 +2,9 @@
   "id": "morocco",
   "name": {
     "ko": "모로코",
-    "en": "Morocco"
+    "en": "Morocco",
+    "ja": "モロッコ",
+    "zh": "摩洛哥"
   },
   "continent": "africa",
   "capital": "Rabat",
@@ -15,7 +17,9 @@
       "id": "marrakech",
       "name": {
         "ko": "마라케시",
-        "en": "Marrakech"
+        "en": "Marrakech",
+        "ja": "マラケシュ",
+        "zh": "马拉喀什"
       },
       "countryId": "morocco",
       "latitude": 31.6295,

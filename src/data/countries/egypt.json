@@ -2,7 +2,9 @@
   "id": "egypt",
   "name": {
     "ko": "이집트",
-    "en": "Egypt"
+    "en": "Egypt",
+    "ja": "エジプト",
+    "zh": "埃及"
   },
   "continent": "africa",
   "capital": "Cairo",
@@ -15,7 +17,9 @@
       "id": "cairo",
       "name": {
         "ko": "카이로",
-        "en": "Cairo"
+        "en": "Cairo",
+        "ja": "カイロ",
+        "zh": "开罗"
       },
       "countryId": "egypt",
       "latitude": 30.0444,
@@ -148,7 +152,9 @@
       "id": "luxor",
       "name": {
         "ko": "룩소르",
-        "en": "Luxor"
+        "en": "Luxor",
+        "ja": "ルクソール",
+        "zh": "卢克索"
       },
       "countryId": "egypt",
       "latitude": 25.6872,

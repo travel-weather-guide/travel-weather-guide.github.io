@@ -2,7 +2,9 @@
   "id": "laos",
   "name": {
     "ko": "라오스",
-    "en": "Laos"
+    "en": "Laos",
+    "ja": "ラオス",
+    "zh": "老挝"
   },
   "continent": "asia",
   "capital": "Vientiane",
@@ -15,7 +17,9 @@
       "id": "luang-prabang",
       "name": {
         "ko": "루앙프라방",
-        "en": "Luang Prabang"
+        "en": "Luang Prabang",
+        "ja": "ルアンパバーン",
+        "zh": "琅勃拉邦"
       },
       "countryId": "laos",
       "latitude": 19.8853,
@@ -148,7 +152,9 @@
       "id": "vientiane",
       "name": {
         "ko": "비엔티안",
-        "en": "Vientiane"
+        "en": "Vientiane",
+        "ja": "ビエンチャン",
+        "zh": "万象"
       },
       "countryId": "laos",
       "latitude": 17.9757,

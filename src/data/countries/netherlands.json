@@ -2,7 +2,9 @@
   "id": "netherlands",
   "name": {
     "ko": "네덜란드",
-    "en": "Netherlands"
+    "en": "Netherlands",
+    "ja": "オランダ",
+    "zh": "荷兰"
   },
   "continent": "europe",
   "capital": "Amsterdam",
@@ -15,7 +17,9 @@
       "id": "amsterdam",
       "name": {
         "ko": "암스테르담",
-        "en": "Amsterdam"
+        "en": "Amsterdam",
+        "ja": "アムステルダム",
+        "zh": "阿姆斯特丹"
       },
       "countryId": "netherlands",
       "latitude": 52.3676,

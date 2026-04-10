@@ -2,7 +2,9 @@
   "id": "guam",
   "name": {
     "ko": "괌",
-    "en": "Guam"
+    "en": "Guam",
+    "ja": "グアム",
+    "zh": "关岛"
   },
   "continent": "oceania",
   "capital": "Hagåtña",
@@ -15,7 +17,9 @@
       "id": "guam",
       "name": {
         "ko": "괌",
-        "en": "Guam"
+        "en": "Guam",
+        "ja": "グアム",
+        "zh": "关岛"
       },
       "countryId": "guam",
       "latitude": 13.4443,

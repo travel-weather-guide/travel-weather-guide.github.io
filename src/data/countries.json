@@ -3,7 +3,9 @@
     "id": "japan",
     "name": {
       "ko": "일본",
-      "en": "Japan"
+      "en": "Japan",
+      "ja": "日本",
+      "zh": "日本"
     },
     "continent": "asia",
     "regionCount": 11,
@@ -14,7 +16,9 @@
     "id": "thailand",
     "name": {
       "ko": "태국",
-      "en": "Thailand"
+      "en": "Thailand",
+      "ja": "タイ",
+      "zh": "泰国"
     },
     "continent": "asia",
     "regionCount": 6,
@@ -25,7 +29,9 @@
     "id": "france",
     "name": {
       "ko": "프랑스",
-      "en": "France"
+      "en": "France",
+      "ja": "フランス",
+      "zh": "法国"
     },
     "continent": "europe",
     "regionCount": 3,
@@ -36,7 +42,9 @@
     "id": "usa",
     "name": {
       "ko": "미국",
-      "en": "United States"
+      "en": "United States",
+      "ja": "アメリカ",
+      "zh": "美国"
     },
     "continent": "north-america",
     "regionCount": 5,
@@ -47,7 +55,9 @@
     "id": "australia",
     "name": {
       "ko": "호주",
-      "en": "Australia"
+      "en": "Australia",
+      "ja": "オーストラリア",
+      "zh": "澳大利亚"
     },
     "continent": "oceania",
     "regionCount": 3,
@@ -58,7 +68,9 @@
     "id": "vietnam",
     "name": {
       "ko": "베트남",
-      "en": "Vietnam"
+      "en": "Vietnam",
+      "ja": "ベトナム",
+      "zh": "越南"
     },
     "continent": "asia",
     "regionCount": 5,
@@ -69,7 +81,9 @@
     "id": "philippines",
     "name": {
       "ko": "필리핀",
-      "en": "Philippines"
+      "en": "Philippines",
+      "ja": "フィリピン",
+      "zh": "菲律宾"
     },
     "continent": "asia",
     "regionCount": 4,
@@ -80,7 +94,9 @@
     "id": "singapore",
     "name": {
       "ko": "싱가포르",
-      "en": "Singapore"
+      "en": "Singapore",
+      "ja": "シンガポール",
+      "zh": "新加坡"
     },
     "continent": "asia",
     "regionCount": 1,
@@ -91,7 +107,9 @@
     "id": "indonesia",
     "name": {
       "ko": "인도네시아",
-      "en": "Indonesia"
+      "en": "Indonesia",
+      "ja": "インドネシア",
+      "zh": "印度尼西亚"
     },
     "continent": "asia",
     "regionCount": 4,
@@ -102,7 +120,9 @@
     "id": "taiwan",
     "name": {
       "ko": "대만",
-      "en": "Taiwan"
+      "en": "Taiwan",
+      "ja": "台湾",
+      "zh": "台湾"
     },
     "continent": "asia",
     "regionCount": 2,
@@ -113,7 +133,9 @@
     "id": "spain",
     "name": {
       "ko": "스페인",
-      "en": "Spain"
+      "en": "Spain",
+      "ja": "スペイン",
+      "zh": "西班牙"
     },
     "continent": "europe",
     "regionCount": 4,
@@ -124,7 +146,9 @@
     "id": "italy",
     "name": {
       "ko": "이탈리아",
-      "en": "Italy"
+      "en": "Italy",
+      "ja": "イタリア",
+      "zh": "意大利"
     },
     "continent": "europe",
     "regionCount": 4,
@@ -135,7 +159,9 @@
     "id": "uk",
     "name": {
       "ko": "영국",
-      "en": "United Kingdom"
+      "en": "United Kingdom",
+      "ja": "イギリス",
+      "zh": "英国"
     },
     "continent": "europe",
     "regionCount": 2,
@@ -146,7 +172,9 @@
     "id": "turkey",
     "name": {
       "ko": "터키",
-      "en": "Turkey"
+      "en": "Turkey",
+      "ja": "トルコ",
+      "zh": "土耳其"
     },
     "continent": "europe",
     "regionCount": 3,
@@ -157,7 +185,9 @@
     "id": "greece",
     "name": {
       "ko": "그리스",
-      "en": "Greece"
+      "en": "Greece",
+      "ja": "ギリシャ",
+      "zh": "希腊"
     },
     "continent": "europe",
     "regionCount": 3,
@@ -168,7 +198,9 @@
     "id": "china",
     "name": {
       "ko": "중국",
-      "en": "China"
+      "en": "China",
+      "ja": "中国",
+      "zh": "中国"
     },
     "continent": "asia",
     "regionCount": 10,
@@ -179,7 +211,9 @@
     "id": "hong-kong",
     "name": {
       "ko": "홍콩",
-      "en": "Hong Kong"
+      "en": "Hong Kong",
+      "ja": "香港",
+      "zh": "香港"
     },
     "continent": "asia",
     "regionCount": 1,
@@ -190,7 +224,9 @@
     "id": "guam",
     "name": {
       "ko": "괌",
-      "en": "Guam"
+      "en": "Guam",
+      "ja": "グアム",
+      "zh": "关岛"
     },
     "continent": "oceania",
     "regionCount": 1,
@@ -201,7 +237,9 @@
     "id": "malaysia",
     "name": {
       "ko": "말레이시아",
-      "en": "Malaysia"
+      "en": "Malaysia",
+      "ja": "マレーシア",
+      "zh": "马来西亚"
     },
     "continent": "asia",
     "regionCount": 4,
@@ -212,7 +250,9 @@
     "id": "cambodia",
     "name": {
       "ko": "캄보디아",
-      "en": "Cambodia"
+      "en": "Cambodia",
+      "ja": "カンボジア",
+      "zh": "柬埔寨"
     },
     "continent": "asia",
     "regionCount": 2,
@@ -223,7 +263,9 @@
     "id": "maldives",
     "name": {
       "ko": "몰디브",
-      "en": "Maldives"
+      "en": "Maldives",
+      "ja": "モルディブ",
+      "zh": "马尔代夫"
     },
     "continent": "asia",
     "regionCount": 1,
@@ -234,7 +276,9 @@
     "id": "mongolia",
     "name": {
       "ko": "몽골",
-      "en": "Mongolia"
+      "en": "Mongolia",
+      "ja": "モンゴル",
+      "zh": "蒙古"
     },
     "continent": "asia",
     "regionCount": 1,
@@ -245,7 +289,9 @@
     "id": "laos",
     "name": {
       "ko": "라오스",
-      "en": "Laos"
+      "en": "Laos",
+      "ja": "ラオス",
+      "zh": "老挝"
     },
     "continent": "asia",
     "regionCount": 2,
@@ -256,7 +302,9 @@
     "id": "switzerland",
     "name": {
       "ko": "스위스",
-      "en": "Switzerland"
+      "en": "Switzerland",
+      "ja": "スイス",
+      "zh": "瑞士"
     },
     "continent": "europe",
     "regionCount": 2,
@@ -267,7 +315,9 @@
     "id": "czech",
     "name": {
       "ko": "체코",
-      "en": "Czech Republic"
+      "en": "Czech Republic",
+      "ja": "チェコ",
+      "zh": "捷克"
     },
     "continent": "europe",
     "regionCount": 1,
@@ -278,7 +328,9 @@
     "id": "croatia",
     "name": {
       "ko": "크로아티아",
-      "en": "Croatia"
+      "en": "Croatia",
+      "ja": "クロアチア",
+      "zh": "克罗地亚"
     },
     "continent": "europe",
     "regionCount": 2,
@@ -289,7 +341,9 @@
     "id": "uae",
     "name": {
       "ko": "UAE",
-      "en": "United Arab Emirates"
+      "en": "United Arab Emirates",
+      "ja": "UAE",
+      "zh": "阿联酋"
     },
     "continent": "asia",
     "regionCount": 2,
@@ -300,7 +354,9 @@
     "id": "new-zealand",
     "name": {
       "ko": "뉴질랜드",
-      "en": "New Zealand"
+      "en": "New Zealand",
+      "ja": "ニュージーランド",
+      "zh": "新西兰"
     },
     "continent": "oceania",
     "regionCount": 2,
@@ -311,7 +367,9 @@
     "id": "germany",
     "name": {
       "ko": "독일",
-      "en": "Germany"
+      "en": "Germany",
+      "ja": "ドイツ",
+      "zh": "德国"
     },
     "continent": "europe",
     "regionCount": 2,
@@ -322,7 +380,9 @@
     "id": "portugal",
     "name": {
       "ko": "포르투갈",
-      "en": "Portugal"
+      "en": "Portugal",
+      "ja": "ポルトガル",
+      "zh": "葡萄牙"
     },
     "continent": "europe",
     "regionCount": 2,
@@ -333,7 +393,9 @@
     "id": "india",
     "name": {
       "ko": "인도",
-      "en": "India"
+      "en": "India",
+      "ja": "インド",
+      "zh": "印度"
     },
     "continent": "asia",
     "regionCount": 2,
@@ -344,7 +406,9 @@
     "id": "egypt",
     "name": {
       "ko": "이집트",
-      "en": "Egypt"
+      "en": "Egypt",
+      "ja": "エジプト",
+      "zh": "埃及"
     },
     "continent": "africa",
     "regionCount": 2,
@@ -355,7 +419,9 @@
     "id": "canada",
     "name": {
       "ko": "캐나다",
-      "en": "Canada"
+      "en": "Canada",
+      "ja": "カナダ",
+      "zh": "加拿大"
     },
     "continent": "north-america",
     "regionCount": 2,
@@ -366,7 +432,9 @@
     "id": "austria",
     "name": {
       "ko": "오스트리아",
-      "en": "Austria"
+      "en": "Austria",
+      "ja": "オーストリア",
+      "zh": "奥地利"
     },
     "continent": "europe",
     "regionCount": 2,
@@ -377,7 +445,9 @@
     "id": "netherlands",
     "name": {
       "ko": "네덜란드",
-      "en": "Netherlands"
+      "en": "Netherlands",
+      "ja": "オランダ",
+      "zh": "荷兰"
     },
     "continent": "europe",
     "regionCount": 1,
@@ -388,7 +458,9 @@
     "id": "morocco",
     "name": {
       "ko": "모로코",
-      "en": "Morocco"
+      "en": "Morocco",
+      "ja": "モロッコ",
+      "zh": "摩洛哥"
     },
     "continent": "africa",
     "regionCount": 1,
@@ -399,7 +471,9 @@
     "id": "sri-lanka",
     "name": {
       "ko": "스리랑카",
-      "en": "Sri Lanka"
+      "en": "Sri Lanka",
+      "ja": "スリランカ",
+      "zh": "斯里兰卡"
     },
     "continent": "asia",
     "regionCount": 1,
@@ -410,7 +484,9 @@
     "id": "hungary",
     "name": {
       "ko": "헝가리",
-      "en": "Hungary"
+      "en": "Hungary",
+      "ja": "ハンガリー",
+      "zh": "匈牙利"
     },
     "continent": "europe",
     "regionCount": 1,
@@ -421,7 +497,9 @@
     "id": "mexico",
     "name": {
       "ko": "멕시코",
-      "en": "Mexico"
+      "en": "Mexico",
+      "ja": "メキシコ",
+      "zh": "墨西哥"
     },
     "continent": "north-america",
     "regionCount": 1,
@@ -432,7 +510,9 @@
     "id": "finland",
     "name": {
       "ko": "핀란드",
-      "en": "Finland"
+      "en": "Finland",
+      "ja": "フィンランド",
+      "zh": "芬兰"
     },
     "continent": "europe",
     "regionCount": 1,
@@ -443,7 +523,9 @@
     "id": "denmark",
     "name": {
       "ko": "덴마크",
-      "en": "Denmark"
+      "en": "Denmark",
+      "ja": "デンマーク",
+      "zh": "丹麦"
     },
     "continent": "europe",
     "regionCount": 1,
@@ -454,7 +536,9 @@
     "id": "iceland",
     "name": {
       "ko": "아이슬란드",
-      "en": "Iceland"
+      "en": "Iceland",
+      "ja": "アイスランド",
+      "zh": "冰岛"
     },
     "continent": "europe",
     "regionCount": 1,
@@ -465,7 +549,9 @@
     "id": "macau",
     "name": {
       "ko": "마카오",
-      "en": "Macau"
+      "en": "Macau",
+      "ja": "マカオ",
+      "zh": "澳门"
     },
     "continent": "asia",
     "regionCount": 1,

@@ -2,7 +2,9 @@
   "id": "singapore",
   "name": {
     "ko": "싱가포르",
-    "en": "Singapore"
+    "en": "Singapore",
+    "ja": "シンガポール",
+    "zh": "新加坡"
   },
   "continent": "asia",
   "capital": "Singapore",
@@ -15,7 +17,9 @@
       "id": "singapore",
       "name": {
         "ko": "싱가포르",
-        "en": "Singapore"
+        "en": "Singapore",
+        "ja": "シンガポール",
+        "zh": "新加坡"
       },
       "countryId": "singapore",
       "latitude": 1.3521,

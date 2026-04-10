@@ -2,7 +2,9 @@
   "id": "usa",
   "name": {
     "ko": "미국",
-    "en": "United States"
+    "en": "United States",
+    "ja": "アメリカ",
+    "zh": "美国"
   },
   "continent": "north-america",
   "capital": "Washington, D.C.",
@@ -15,7 +17,9 @@
       "id": "new-york",
       "name": {
         "ko": "뉴욕",
-        "en": "New York"
+        "en": "New York",
+        "ja": "ニューヨーク",
+        "zh": "纽约"
       },
       "countryId": "usa",
       "latitude": 40.7128,
@@ -160,7 +164,9 @@
       "id": "los-angeles",
       "name": {
         "ko": "로스앤젤레스",
-        "en": "Los Angeles"
+        "en": "Los Angeles",
+        "ja": "ロサンゼルス",
+        "zh": "洛杉矶"
       },
       "countryId": "usa",
       "latitude": 34.0522,
@@ -305,7 +311,9 @@
       "id": "hawaii",
       "name": {
         "ko": "하와이",
-        "en": "Hawaii"
+        "en": "Hawaii",
+        "ja": "ハワイ",
+        "zh": "夏威夷"
       },
       "countryId": "usa",
       "latitude": 21.3069,
@@ -450,7 +458,9 @@
       "id": "san-francisco",
       "name": {
         "ko": "샌프란시스코",
-        "en": "San Francisco"
+        "en": "San Francisco",
+        "ja": "サンフランシスコ",
+        "zh": "旧金山"
       },
       "countryId": "usa",
       "latitude": 37.7749,
@@ -595,7 +605,9 @@
       "id": "las-vegas",
       "name": {
         "ko": "라스베이거스",
-        "en": "Las Vegas"
+        "en": "Las Vegas",
+        "ja": "ラスベガス",
+        "zh": "拉斯维加斯"
       },
       "countryId": "usa",
       "latitude": 36.1699,

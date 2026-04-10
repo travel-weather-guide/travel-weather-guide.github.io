@@ -2,7 +2,9 @@
   "id": "spain",
   "name": {
     "ko": "스페인",
-    "en": "Spain"
+    "en": "Spain",
+    "ja": "スペイン",
+    "zh": "西班牙"
   },
   "continent": "europe",
   "capital": "Madrid",
@@ -15,7 +17,9 @@
       "id": "madrid",
       "name": {
         "ko": "마드리드",
-        "en": "Madrid"
+        "en": "Madrid",
+        "ja": "マドリード",
+        "zh": "马德里"
       },
       "countryId": "spain",
       "latitude": 40.4168,
@@ -148,7 +152,9 @@
       "id": "barcelona",
       "name": {
         "ko": "바르셀로나",
-        "en": "Barcelona"
+        "en": "Barcelona",
+        "ja": "バルセロナ",
+        "zh": "巴塞罗那"
       },
       "countryId": "spain",
       "latitude": 41.3851,
@@ -293,7 +299,9 @@
       "id": "seville",
       "name": {
         "ko": "세비야",
-        "en": "Seville"
+        "en": "Seville",
+        "ja": "セビリア",
+        "zh": "塞维利亚"
       },
       "countryId": "spain",
       "latitude": 37.3891,
@@ -426,7 +434,9 @@
       "id": "granada",
       "name": {
         "ko": "그라나다",
-        "en": "Granada"
+        "en": "Granada",
+        "ja": "グラナダ",
+        "zh": "格拉纳达"
       },
       "countryId": "spain",
       "latitude": 37.1773,

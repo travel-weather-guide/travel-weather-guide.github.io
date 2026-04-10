@@ -2,7 +2,9 @@
   "id": "mongolia",
   "name": {
     "ko": "몽골",
-    "en": "Mongolia"
+    "en": "Mongolia",
+    "ja": "モンゴル",
+    "zh": "蒙古"
   },
   "continent": "asia",
   "capital": "Ulan Bator",
@@ -15,7 +17,9 @@
       "id": "ulaanbaatar",
       "name": {
         "ko": "울란바토르",
-        "en": "Ulaanbaatar"
+        "en": "Ulaanbaatar",
+        "ja": "ウランバートル",
+        "zh": "乌兰巴托"
       },
       "countryId": "mongolia",
       "latitude": 47.8864,

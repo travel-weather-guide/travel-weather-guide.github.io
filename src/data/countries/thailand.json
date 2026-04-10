@@ -2,7 +2,9 @@
   "id": "thailand",
   "name": {
     "ko": "태국",
-    "en": "Thailand"
+    "en": "Thailand",
+    "ja": "タイ",
+    "zh": "泰国"
   },
   "continent": "asia",
   "capital": "Bangkok",
@@ -15,7 +17,9 @@
       "id": "bangkok",
       "name": {
         "ko": "방콕",
-        "en": "Bangkok"
+        "en": "Bangkok",
+        "ja": "バンコク",
+        "zh": "曼谷"
       },
       "countryId": "thailand",
       "latitude": 13.7563,
@@ -148,7 +152,9 @@
       "id": "chiang-mai",
       "name": {
         "ko": "치앙마이",
-        "en": "Chiang Mai"
+        "en": "Chiang Mai",
+        "ja": "チェンマイ",
+        "zh": "清迈"
       },
       "countryId": "thailand",
       "latitude": 18.7883,
@@ -281,7 +287,9 @@
       "id": "phuket",
       "name": {
         "ko": "푸켓",
-        "en": "Phuket"
+        "en": "Phuket",
+        "ja": "プーケット",
+        "zh": "普吉岛"
       },
       "countryId": "thailand",
       "latitude": 7.8804,
@@ -426,7 +434,9 @@
       "id": "pattaya",
       "name": {
         "ko": "파타야",
-        "en": "Pattaya"
+        "en": "Pattaya",
+        "ja": "パタヤ",
+        "zh": "芭提雅"
       },
       "countryId": "thailand",
       "latitude": 12.9236,
@@ -571,7 +581,9 @@
       "id": "krabi",
       "name": {
         "ko": "크라비",
-        "en": "Krabi"
+        "en": "Krabi",
+        "ja": "クラビ",
+        "zh": "甲米"
       },
       "countryId": "thailand",
       "latitude": 8.0863,
@@ -716,7 +728,9 @@
       "id": "koh-samui",
       "name": {
         "ko": "코사무이",
-        "en": "Koh Samui"
+        "en": "Koh Samui",
+        "ja": "サムイ島",
+        "zh": "苏梅岛"
       },
       "countryId": "thailand",
       "latitude": 9.512,

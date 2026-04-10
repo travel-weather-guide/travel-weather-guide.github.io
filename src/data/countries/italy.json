@@ -2,7 +2,9 @@
   "id": "italy",
   "name": {
     "ko": "이탈리아",
-    "en": "Italy"
+    "en": "Italy",
+    "ja": "イタリア",
+    "zh": "意大利"
   },
   "continent": "europe",
   "capital": "Rome",
@@ -15,7 +17,9 @@
       "id": "rome",
       "name": {
         "ko": "로마",
-        "en": "Rome"
+        "en": "Rome",
+        "ja": "ローマ",
+        "zh": "罗马"
       },
       "countryId": "italy",
       "latitude": 41.9028,
@@ -148,7 +152,9 @@
       "id": "venice",
       "name": {
         "ko": "베네치아",
-        "en": "Venice"
+        "en": "Venice",
+        "ja": "ベネチア",
+        "zh": "威尼斯"
       },
       "countryId": "italy",
       "latitude": 45.4408,
@@ -293,7 +299,9 @@
       "id": "amalfi",
       "name": {
         "ko": "아말피",
-        "en": "Amalfi"
+        "en": "Amalfi",
+        "ja": "アマルフィ",
+        "zh": "阿马尔菲"
       },
       "countryId": "italy",
       "latitude": 40.634,
@@ -438,7 +446,9 @@
       "id": "florence",
       "name": {
         "ko": "피렌체",
-        "en": "Florence"
+        "en": "Florence",
+        "ja": "フィレンツェ",
+        "zh": "佛罗伦萨"
       },
       "countryId": "italy",
       "latitude": 43.7696,

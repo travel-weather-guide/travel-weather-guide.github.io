@@ -2,7 +2,9 @@
   "id": "mexico",
   "name": {
     "ko": "멕시코",
-    "en": "Mexico"
+    "en": "Mexico",
+    "ja": "メキシコ",
+    "zh": "墨西哥"
   },
   "continent": "north-america",
   "capital": "Mexico City",
@@ -15,7 +17,9 @@
       "id": "cancun",
       "name": {
         "ko": "칸쿤",
-        "en": "Cancún"
+        "en": "Cancún",
+        "ja": "カンクン",
+        "zh": "坎昆"
       },
       "countryId": "mexico",
       "latitude": 21.1619,

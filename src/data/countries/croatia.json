@@ -2,7 +2,9 @@
   "id": "croatia",
   "name": {
     "ko": "크로아티아",
-    "en": "Croatia"
+    "en": "Croatia",
+    "ja": "クロアチア",
+    "zh": "克罗地亚"
   },
   "continent": "europe",
   "capital": "Zagreb",
@@ -15,7 +17,9 @@
       "id": "dubrovnik",
       "name": {
         "ko": "두브로브니크",
-        "en": "Dubrovnik"
+        "en": "Dubrovnik",
+        "ja": "ドゥブロヴニク",
+        "zh": "杜布罗夫尼克"
       },
       "countryId": "croatia",
       "latitude": 42.6507,
@@ -160,7 +164,9 @@
       "id": "split",
       "name": {
         "ko": "스플리트",
-        "en": "Split"
+        "en": "Split",
+        "ja": "スプリト",
+        "zh": "斯普利特"
       },
       "countryId": "croatia",
       "latitude": 43.5081,

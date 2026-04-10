@@ -2,7 +2,9 @@
   "id": "denmark",
   "name": {
     "ko": "덴마크",
-    "en": "Denmark"
+    "en": "Denmark",
+    "ja": "デンマーク",
+    "zh": "丹麦"
   },
   "continent": "europe",
   "capital": "Copenhagen",
@@ -15,7 +17,9 @@
       "id": "copenhagen",
       "name": {
         "ko": "코펜하겐",
-        "en": "Copenhagen"
+        "en": "Copenhagen",
+        "ja": "コペンハーゲン",
+        "zh": "哥本哈根"
       },
       "countryId": "denmark",
       "latitude": 55.6761,

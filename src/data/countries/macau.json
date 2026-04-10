@@ -2,7 +2,9 @@
   "id": "macau",
   "name": {
     "ko": "마카오",
-    "en": "Macau"
+    "en": "Macau",
+    "ja": "マカオ",
+    "zh": "澳门"
   },
   "continent": "asia",
   "capital": "",
@@ -15,7 +17,9 @@
       "id": "macau",
       "name": {
         "ko": "마카오",
-        "en": "Macau"
+        "en": "Macau",
+        "ja": "マカオ",
+        "zh": "澳门"
       },
       "countryId": "macau",
       "latitude": 22.1987,

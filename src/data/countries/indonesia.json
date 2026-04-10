@@ -2,7 +2,9 @@
   "id": "indonesia",
   "name": {
     "ko": "인도네시아",
-    "en": "Indonesia"
+    "en": "Indonesia",
+    "ja": "インドネシア",
+    "zh": "印度尼西亚"
   },
   "continent": "asia",
   "capital": "Jakarta",
@@ -15,7 +17,9 @@
       "id": "bali",
       "name": {
         "ko": "발리",
-        "en": "Bali"
+        "en": "Bali",
+        "ja": "バリ",
+        "zh": "巴厘岛"
       },
       "countryId": "indonesia",
       "latitude": -8.3405,
@@ -160,7 +164,9 @@
       "id": "lombok",
       "name": {
         "ko": "롬복",
-        "en": "Lombok"
+        "en": "Lombok",
+        "ja": "ロンボク",
+        "zh": "龙目岛"
       },
       "countryId": "indonesia",
       "latitude": -8.65,
@@ -305,7 +311,9 @@
       "id": "jakarta",
       "name": {
         "ko": "자카르타",
-        "en": "Jakarta"
+        "en": "Jakarta",
+        "ja": "ジャカルタ",
+        "zh": "雅加达"
       },
       "countryId": "indonesia",
       "latitude": -6.2088,
@@ -450,7 +458,9 @@
       "id": "yogyakarta",
       "name": {
         "ko": "족자카르타",
-        "en": "Yogyakarta"
+        "en": "Yogyakarta",
+        "ja": "ジョグジャカルタ",
+        "zh": "日惹"
       },
       "countryId": "indonesia",
       "latitude": -7.7956,

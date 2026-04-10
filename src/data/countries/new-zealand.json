@@ -2,7 +2,9 @@
   "id": "new-zealand",
   "name": {
     "ko": "뉴질랜드",
-    "en": "New Zealand"
+    "en": "New Zealand",
+    "ja": "ニュージーランド",
+    "zh": "新西兰"
   },
   "continent": "oceania",
   "capital": "Wellington",
@@ -15,7 +17,9 @@
       "id": "auckland",
       "name": {
         "ko": "오클랜드",
-        "en": "Auckland"
+        "en": "Auckland",
+        "ja": "オークランド",
+        "zh": "奥克兰"
       },
       "countryId": "new-zealand",
       "latitude": -36.8485,
@@ -160,7 +164,9 @@
       "id": "queenstown",
       "name": {
         "ko": "퀸스타운",
-        "en": "Queenstown"
+        "en": "Queenstown",
+        "ja": "クイーンズタウン",
+        "zh": "皇后镇"
       },
       "countryId": "new-zealand",
       "latitude": -45.0312,

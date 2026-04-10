@@ -2,7 +2,9 @@
   "id": "finland",
   "name": {
     "ko": "핀란드",
-    "en": "Finland"
+    "en": "Finland",
+    "ja": "フィンランド",
+    "zh": "芬兰"
   },
   "continent": "europe",
   "capital": "Helsinki",
@@ -15,7 +17,9 @@
       "id": "helsinki",
       "name": {
         "ko": "헬싱키",
-        "en": "Helsinki"
+        "en": "Helsinki",
+        "ja": "ヘルシンキ",
+        "zh": "赫尔辛基"
       },
       "countryId": "finland",
       "latitude": 60.1699,

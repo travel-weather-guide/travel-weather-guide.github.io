@@ -2,7 +2,9 @@
   "id": "philippines",
   "name": {
     "ko": "필리핀",
-    "en": "Philippines"
+    "en": "Philippines",
+    "ja": "フィリピン",
+    "zh": "菲律宾"
   },
   "continent": "asia",
   "capital": "Manila",
@@ -15,7 +17,9 @@
       "id": "manila",
       "name": {
         "ko": "마닐라",
-        "en": "Manila"
+        "en": "Manila",
+        "ja": "マニラ",
+        "zh": "马尼拉"
       },
       "countryId": "philippines",
       "latitude": 14.5995,
@@ -160,7 +164,9 @@
       "id": "boracay",
       "name": {
         "ko": "보라카이",
-        "en": "Boracay"
+        "en": "Boracay",
+        "ja": "ボラカイ",
+        "zh": "长滩岛"
       },
       "countryId": "philippines",
       "latitude": 11.9674,
@@ -305,7 +311,9 @@
       "id": "cebu",
       "name": {
         "ko": "세부",
-        "en": "Cebu"
+        "en": "Cebu",
+        "ja": "セブ",
+        "zh": "宿务"
       },
       "countryId": "philippines",
       "latitude": 10.3157,
@@ -450,7 +458,9 @@
       "id": "palawan",
       "name": {
         "ko": "팔라완",
-        "en": "Palawan"
+        "en": "Palawan",
+        "ja": "パラワン",
+        "zh": "巴拉望"
       },
       "countryId": "philippines",
       "latitude": 9.8349,

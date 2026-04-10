@@ -2,7 +2,9 @@
   "id": "austria",
   "name": {
     "ko": "오스트리아",
-    "en": "Austria"
+    "en": "Austria",
+    "ja": "オーストリア",
+    "zh": "奥地利"
   },
   "continent": "europe",
   "capital": "Vienna",
@@ -15,7 +17,9 @@
       "id": "vienna",
       "name": {
         "ko": "빈",
-        "en": "Vienna"
+        "en": "Vienna",
+        "ja": "ウィーン",
+        "zh": "维也纳"
       },
       "countryId": "austria",
       "latitude": 48.2082,
@@ -148,7 +152,9 @@
       "id": "salzburg",
       "name": {
         "ko": "잘츠부르크",
-        "en": "Salzburg"
+        "en": "Salzburg",
+        "ja": "ザルツブルク",
+        "zh": "萨尔茨堡"
       },
       "countryId": "austria",
       "latitude": 47.8095,

@@ -2,7 +2,9 @@
   "id": "maldives",
   "name": {
     "ko": "몰디브",
-    "en": "Maldives"
+    "en": "Maldives",
+    "ja": "モルディブ",
+    "zh": "马尔代夫"
   },
   "continent": "asia",
   "capital": "Malé",
@@ -15,7 +17,9 @@
       "id": "male",
       "name": {
         "ko": "말레",
-        "en": "Malé"
+        "en": "Malé",
+        "ja": "マレ",
+        "zh": "马累"
       },
       "countryId": "maldives",
       "latitude": 4.1755,

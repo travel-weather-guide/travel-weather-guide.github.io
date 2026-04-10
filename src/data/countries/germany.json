@@ -2,7 +2,9 @@
   "id": "germany",
   "name": {
     "ko": "독일",
-    "en": "Germany"
+    "en": "Germany",
+    "ja": "ドイツ",
+    "zh": "德国"
   },
   "continent": "europe",
   "capital": "Berlin",
@@ -15,7 +17,9 @@
       "id": "berlin",
       "name": {
         "ko": "베를린",
-        "en": "Berlin"
+        "en": "Berlin",
+        "ja": "ベルリン",
+        "zh": "柏林"
       },
       "countryId": "germany",
       "latitude": 52.52,
@@ -148,7 +152,9 @@
       "id": "munich",
       "name": {
         "ko": "뮌헨",
-        "en": "Munich"
+        "en": "Munich",
+        "ja": "ミュンヘン",
+        "zh": "慕尼黑"
       },
       "countryId": "germany",
       "latitude": 48.1351,

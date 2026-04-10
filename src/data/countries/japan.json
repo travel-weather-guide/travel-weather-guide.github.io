@@ -2,7 +2,9 @@
   "id": "japan",
   "name": {
     "ko": "일본",
-    "en": "Japan"
+    "en": "Japan",
+    "ja": "日本",
+    "zh": "日本"
   },
   "continent": "asia",
   "capital": "Tokyo",
@@ -15,7 +17,9 @@
       "id": "tokyo",
       "name": {
         "ko": "도쿄",
-        "en": "Tokyo"
+        "en": "Tokyo",
+        "ja": "東京",
+        "zh": "东京"
       },
       "countryId": "japan",
       "latitude": 35.6762,
@@ -160,7 +164,9 @@
       "id": "osaka",
       "name": {
         "ko": "오사카",
-        "en": "Osaka"
+        "en": "Osaka",
+        "ja": "大阪",
+        "zh": "大阪"
       },
       "countryId": "japan",
       "latitude": 34.6937,
@@ -305,7 +311,9 @@
       "id": "okinawa",
       "name": {
         "ko": "오키나와",
-        "en": "Okinawa"
+        "en": "Okinawa",
+        "ja": "沖縄",
+        "zh": "冲绳"
       },
       "countryId": "japan",
       "latitude": 26.3344,
@@ -450,7 +458,9 @@
       "id": "hokkaido",
       "name": {
         "ko": "홋카이도",
-        "en": "Hokkaido"
+        "en": "Hokkaido",
+        "ja": "北海道",
+        "zh": "北海道"
       },
       "countryId": "japan",
       "latitude": 43.0642,
@@ -595,7 +605,9 @@
       "id": "kyoto",
       "name": {
         "ko": "교토",
-        "en": "Kyoto"
+        "en": "Kyoto",
+        "ja": "京都",
+        "zh": "京都"
       },
       "countryId": "japan",
       "latitude": 35.0116,
@@ -728,7 +740,9 @@
       "id": "fukuoka",
       "name": {
         "ko": "후쿠오카",
-        "en": "Fukuoka"
+        "en": "Fukuoka",
+        "ja": "福岡",
+        "zh": "福冈"
       },
       "countryId": "japan",
       "latitude": 33.5904,
@@ -873,7 +887,9 @@
       "id": "nagoya",
       "name": {
         "ko": "나고야",
-        "en": "Nagoya"
+        "en": "Nagoya",
+        "ja": "名古屋",
+        "zh": "名古屋"
       },
       "countryId": "japan",
       "latitude": 35.1815,
@@ -1018,7 +1034,9 @@
       "id": "hiroshima",
       "name": {
         "ko": "히로시마",
-        "en": "Hiroshima"
+        "en": "Hiroshima",
+        "ja": "広島",
+        "zh": "广岛"
       },
       "countryId": "japan",
       "latitude": 34.3853,
@@ -1163,7 +1181,9 @@
       "id": "nara",
       "name": {
         "ko": "나라",
-        "en": "Nara"
+        "en": "Nara",
+        "ja": "奈良",
+        "zh": "奈良"
       },
       "countryId": "japan",
       "latitude": 34.6851,
@@ -1296,7 +1316,9 @@
       "id": "nagasaki",
       "name": {
         "ko": "나가사키",
-        "en": "Nagasaki"
+        "en": "Nagasaki",
+        "ja": "長崎",
+        "zh": "长崎"
       },
       "countryId": "japan",
       "latitude": 32.7503,
@@ -1441,7 +1463,9 @@
       "id": "kobe",
       "name": {
         "ko": "고베",
-        "en": "Kobe"
+        "en": "Kobe",
+        "ja": "神戸",
+        "zh": "神户"
       },
       "countryId": "japan",
       "latitude": 34.6901,

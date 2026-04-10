@@ -2,7 +2,9 @@
   "id": "australia",
   "name": {
     "ko": "호주",
-    "en": "Australia"
+    "en": "Australia",
+    "ja": "オーストラリア",
+    "zh": "澳大利亚"
   },
   "continent": "oceania",
   "capital": "Canberra",
@@ -15,7 +17,9 @@
       "id": "sydney",
       "name": {
         "ko": "시드니",
-        "en": "Sydney"
+        "en": "Sydney",
+        "ja": "シドニー",
+        "zh": "悉尼"
       },
       "countryId": "australia",
       "latitude": -33.8688,
@@ -160,7 +164,9 @@
       "id": "melbourne",
       "name": {
         "ko": "멜버른",
-        "en": "Melbourne"
+        "en": "Melbourne",
+        "ja": "メルボルン",
+        "zh": "墨尔本"
       },
       "countryId": "australia",
       "latitude": -37.8136,
@@ -305,7 +311,9 @@
       "id": "cairns",
       "name": {
         "ko": "케언즈",
-        "en": "Cairns"
+        "en": "Cairns",
+        "ja": "ケアンズ",
+        "zh": "凯恩斯"
       },
       "countryId": "australia",
       "latitude": -16.9186,

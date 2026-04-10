@@ -2,7 +2,9 @@
   "id": "taiwan",
   "name": {
     "ko": "대만",
-    "en": "Taiwan"
+    "en": "Taiwan",
+    "ja": "台湾",
+    "zh": "台湾"
   },
   "continent": "asia",
   "capital": "Taipei",
@@ -15,7 +17,9 @@
       "id": "taipei",
       "name": {
         "ko": "타이베이",
-        "en": "Taipei"
+        "en": "Taipei",
+        "ja": "台北",
+        "zh": "台北"
       },
       "countryId": "taiwan",
       "latitude": 25.033,
@@ -148,7 +152,9 @@
       "id": "kaohsiung",
       "name": {
         "ko": "가오슝",
-        "en": "Kaohsiung"
+        "en": "Kaohsiung",
+        "ja": "高雄",
+        "zh": "高雄"
       },
       "countryId": "taiwan",
       "latitude": 22.6273,

@@ -2,7 +2,9 @@
   "id": "canada",
   "name": {
     "ko": "캐나다",
-    "en": "Canada"
+    "en": "Canada",
+    "ja": "カナダ",
+    "zh": "加拿大"
   },
   "continent": "north-america",
   "capital": "Ottawa",
@@ -15,7 +17,9 @@
       "id": "vancouver",
       "name": {
         "ko": "밴쿠버",
-        "en": "Vancouver"
+        "en": "Vancouver",
+        "ja": "バンクーバー",
+        "zh": "温哥华"
       },
       "countryId": "canada",
       "latitude": 49.2827,
@@ -160,7 +164,9 @@
       "id": "toronto",
       "name": {
         "ko": "토론토",
-        "en": "Toronto"
+        "en": "Toronto",
+        "ja": "トロント",
+        "zh": "多伦多"
       },
       "countryId": "canada",
       "latitude": 43.6532,

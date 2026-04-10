@@ -2,7 +2,9 @@
   "id": "greece",
   "name": {
     "ko": "그리스",
-    "en": "Greece"
+    "en": "Greece",
+    "ja": "ギリシャ",
+    "zh": "希腊"
   },
   "continent": "europe",
   "capital": "Athens",
@@ -15,7 +17,9 @@
       "id": "athens",
       "name": {
         "ko": "아테네",
-        "en": "Athens"
+        "en": "Athens",
+        "ja": "アテネ",
+        "zh": "雅典"
       },
       "countryId": "greece",
       "latitude": 37.9838,
@@ -148,7 +152,9 @@
       "id": "santorini",
       "name": {
         "ko": "산토리니",
-        "en": "Santorini"
+        "en": "Santorini",
+        "ja": "サントリーニ",
+        "zh": "圣托里尼"
       },
       "countryId": "greece",
       "latitude": 36.3932,
@@ -293,7 +299,9 @@
       "id": "mykonos",
       "name": {
         "ko": "미코노스",
-        "en": "Mykonos"
+        "en": "Mykonos",
+        "ja": "ミコノス",
+        "zh": "米科诺斯"
       },
       "countryId": "greece",
       "latitude": 37.4467,

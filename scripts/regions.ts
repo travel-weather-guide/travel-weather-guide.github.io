@@ -2,7 +2,7 @@ import type { Continent } from '../src/types';
 
 export interface RegionDef {
   id: string;
-  name: { ko: string; en: string };
+  name: { ko: string; en: string; ja?: string; zh?: string };
   latitude: number;
   longitude: number;
   climateType: string;
@@ -13,7 +13,7 @@ export interface RegionDef {
 
 export interface CountryDef {
   id: string;
-  name: { ko: string; en: string };
+  name: { ko: string; en: string; ja?: string; zh?: string };
   continent: Continent;
   countryCode: string; // ISO 3166-1 alpha-2
   isoNumeric: string;  // ISO 3166-1 numeric

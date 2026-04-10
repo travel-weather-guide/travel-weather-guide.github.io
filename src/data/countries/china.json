@@ -2,7 +2,9 @@
   "id": "china",
   "name": {
     "ko": "중국",
-    "en": "China"
+    "en": "China",
+    "ja": "中国",
+    "zh": "中国"
   },
   "continent": "asia",
   "capital": "Beijing",
@@ -15,7 +17,9 @@
       "id": "beijing",
       "name": {
         "ko": "베이징",
-        "en": "Beijing"
+        "en": "Beijing",
+        "ja": "北京",
+        "zh": "北京"
       },
       "countryId": "china",
       "latitude": 39.9042,
@@ -148,7 +152,9 @@
       "id": "shanghai",
       "name": {
         "ko": "상하이",
-        "en": "Shanghai"
+        "en": "Shanghai",
+        "ja": "上海",
+        "zh": "上海"
       },
       "countryId": "china",
       "latitude": 31.2304,
@@ -293,7 +299,9 @@
       "id": "qingdao",
       "name": {
         "ko": "칭다오",
-        "en": "Qingdao"
+        "en": "Qingdao",
+        "ja": "青島",
+        "zh": "青岛"
       },
       "countryId": "china",
       "latitude": 36.0671,
@@ -438,7 +446,9 @@
       "id": "zhangjiajie",
       "name": {
         "ko": "장가계",
-        "en": "Zhangjiajie"
+        "en": "Zhangjiajie",
+        "ja": "張家界",
+        "zh": "张家界"
       },
       "countryId": "china",
       "latitude": 29.1166,
@@ -571,7 +581,9 @@
       "id": "guilin",
       "name": {
         "ko": "구이린",
-        "en": "Guilin"
+        "en": "Guilin",
+        "ja": "桂林",
+        "zh": "桂林"
       },
       "countryId": "china",
       "latitude": 25.2735,
@@ -704,7 +716,9 @@
       "id": "chengdu",
       "name": {
         "ko": "청두",
-        "en": "Chengdu"
+        "en": "Chengdu",
+        "ja": "成都",
+        "zh": "成都"
       },
       "countryId": "china",
       "latitude": 30.5728,
@@ -837,7 +851,9 @@
       "id": "xian",
       "name": {
         "ko": "시안",
-        "en": "Xi'an"
+        "en": "Xi'an",
+        "ja": "西安",
+        "zh": "西安"
       },
       "countryId": "china",
       "latitude": 34.3416,
@@ -970,7 +986,9 @@
       "id": "hangzhou",
       "name": {
         "ko": "항저우",
-        "en": "Hangzhou"
+        "en": "Hangzhou",
+        "ja": "杭州",
+        "zh": "杭州"
       },
       "countryId": "china",
       "latitude": 30.2741,
@@ -1103,7 +1121,9 @@
       "id": "shenzhen",
       "name": {
         "ko": "선전",
-        "en": "Shenzhen"
+        "en": "Shenzhen",
+        "ja": "深圳",
+        "zh": "深圳"
       },
       "countryId": "china",
       "latitude": 22.5431,
@@ -1248,7 +1268,9 @@
       "id": "harbin",
       "name": {
         "ko": "하얼빈",
-        "en": "Harbin"
+        "en": "Harbin",
+        "ja": "ハルビン",
+        "zh": "哈尔滨"
       },
       "countryId": "china",
       "latitude": 45.8038,

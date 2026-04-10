@@ -2,7 +2,9 @@
   "id": "malaysia",
   "name": {
     "ko": "말레이시아",
-    "en": "Malaysia"
+    "en": "Malaysia",
+    "ja": "マレーシア",
+    "zh": "马来西亚"
   },
   "continent": "asia",
   "capital": "Kuala Lumpur",
@@ -15,7 +17,9 @@
       "id": "kuala-lumpur",
       "name": {
         "ko": "쿠알라룸푸르",
-        "en": "Kuala Lumpur"
+        "en": "Kuala Lumpur",
+        "ja": "クアラルンプール",
+        "zh": "吉隆坡"
       },
       "countryId": "malaysia",
       "latitude": 3.139,
@@ -148,7 +152,9 @@
       "id": "kota-kinabalu",
       "name": {
         "ko": "코타키나발루",
-        "en": "Kota Kinabalu"
+        "en": "Kota Kinabalu",
+        "ja": "コタキナバル",
+        "zh": "哥打京那巴鲁"
       },
       "countryId": "malaysia",
       "latitude": 5.9804,
@@ -293,7 +299,9 @@
       "id": "langkawi",
       "name": {
         "ko": "랑카위",
-        "en": "Langkawi"
+        "en": "Langkawi",
+        "ja": "ランカウイ",
+        "zh": "兰卡威"
       },
       "countryId": "malaysia",
       "latitude": 6.35,
@@ -438,7 +446,9 @@
       "id": "penang",
       "name": {
         "ko": "페낭",
-        "en": "Penang"
+        "en": "Penang",
+        "ja": "ペナン",
+        "zh": "槟城"
       },
       "countryId": "malaysia",
       "latitude": 5.4141,

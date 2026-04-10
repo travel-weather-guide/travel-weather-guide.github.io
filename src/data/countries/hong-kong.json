@@ -2,7 +2,9 @@
   "id": "hong-kong",
   "name": {
     "ko": "홍콩",
-    "en": "Hong Kong"
+    "en": "Hong Kong",
+    "ja": "香港",
+    "zh": "香港"
   },
   "continent": "asia",
   "capital": "City of Victoria",
@@ -15,7 +17,9 @@
       "id": "hong-kong",
       "name": {
         "ko": "홍콩",
-        "en": "Hong Kong"
+        "en": "Hong Kong",
+        "ja": "香港",
+        "zh": "香港"
       },
       "countryId": "hong-kong",
       "latitude": 22.3193,

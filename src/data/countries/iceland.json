@@ -2,7 +2,9 @@
   "id": "iceland",
   "name": {
     "ko": "아이슬란드",
-    "en": "Iceland"
+    "en": "Iceland",
+    "ja": "アイスランド",
+    "zh": "冰岛"
   },
   "continent": "europe",
   "capital": "Reykjavik",
@@ -15,7 +17,9 @@
       "id": "reykjavik",
       "name": {
         "ko": "레이캬비크",
-        "en": "Reykjavík"
+        "en": "Reykjavík",
+        "ja": "レイキャビク",
+        "zh": "雷克雅未克"
       },
       "countryId": "iceland",
       "latitude": 64.1466,

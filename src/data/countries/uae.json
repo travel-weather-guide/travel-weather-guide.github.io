@@ -2,7 +2,9 @@
   "id": "uae",
   "name": {
     "ko": "UAE",
-    "en": "United Arab Emirates"
+    "en": "United Arab Emirates",
+    "ja": "UAE",
+    "zh": "阿联酋"
   },
   "continent": "asia",
   "capital": "Abu Dhabi",
@@ -15,7 +17,9 @@
       "id": "dubai",
       "name": {
         "ko": "두바이",
-        "en": "Dubai"
+        "en": "Dubai",
+        "ja": "ドバイ",
+        "zh": "迪拜"
       },
       "countryId": "uae",
       "latitude": 25.2048,
@@ -160,7 +164,9 @@
       "id": "abu-dhabi",
       "name": {
         "ko": "아부다비",
-        "en": "Abu Dhabi"
+        "en": "Abu Dhabi",
+        "ja": "アブダビ",
+        "zh": "阿布扎比"
       },
       "countryId": "uae",
       "latitude": 24.4539,

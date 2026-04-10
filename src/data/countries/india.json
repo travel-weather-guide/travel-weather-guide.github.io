@@ -2,7 +2,9 @@
   "id": "india",
   "name": {
     "ko": "인도",
-    "en": "India"
+    "en": "India",
+    "ja": "インド",
+    "zh": "印度"
   },
   "continent": "asia",
   "capital": "New Delhi",
@@ -15,7 +17,9 @@
       "id": "new-delhi",
       "name": {
         "ko": "뉴델리",
-        "en": "New Delhi"
+        "en": "New Delhi",
+        "ja": "ニューデリー",
+        "zh": "新德里"
       },
       "countryId": "india",
       "latitude": 28.6139,
@@ -148,7 +152,9 @@
       "id": "mumbai",
       "name": {
         "ko": "뭄바이",
-        "en": "Mumbai"
+        "en": "Mumbai",
+        "ja": "ムンバイ",
+        "zh": "孟买"
       },
       "countryId": "india",
       "latitude": 19.076,

@@ -2,7 +2,9 @@
   "id": "sri-lanka",
   "name": {
     "ko": "스리랑카",
-    "en": "Sri Lanka"
+    "en": "Sri Lanka",
+    "ja": "スリランカ",
+    "zh": "斯里兰卡"
   },
   "continent": "asia",
   "capital": "Sri Jayawardenepura Kotte",
@@ -15,7 +17,9 @@
       "id": "colombo",
       "name": {
         "ko": "콜롬보",
-        "en": "Colombo"
+        "en": "Colombo",
+        "ja": "コロンボ",
+        "zh": "科伦坡"
       },
       "countryId": "sri-lanka",
       "latitude": 6.9271,

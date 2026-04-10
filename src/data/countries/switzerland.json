@@ -2,7 +2,9 @@
   "id": "switzerland",
   "name": {
     "ko": "스위스",
-    "en": "Switzerland"
+    "en": "Switzerland",
+    "ja": "スイス",
+    "zh": "瑞士"
   },
   "continent": "europe",
   "capital": "Bern",
@@ -15,7 +17,9 @@
       "id": "zurich",
       "name": {
         "ko": "취리히",
-        "en": "Zurich"
+        "en": "Zurich",
+        "ja": "チューリッヒ",
+        "zh": "苏黎世"
       },
       "countryId": "switzerland",
       "latitude": 47.3769,
@@ -148,7 +152,9 @@
       "id": "interlaken",
       "name": {
         "ko": "인터라켄",
-        "en": "Interlaken"
+        "en": "Interlaken",
+        "ja": "インターラーケン",
+        "zh": "因特拉肯"
       },
       "countryId": "switzerland",
       "latitude": 46.6863,
