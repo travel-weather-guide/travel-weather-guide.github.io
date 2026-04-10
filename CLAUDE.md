@@ -55,12 +55,6 @@
 | 국가 기본정보 (통화·언어·시차·좌표) | **REST Countries API v3.1** | API키 불필요 |
 | 한국 여권 비자 정보 | **Passport Index 데이터셋 CSV** | MIT, 정적 파일로 보관 |
 
-### 지도
-- **라이브러리**: Leaflet.js + react-leaflet (BSD 2-clause, 100% 무료)
-- **타일**: OpenFreeMap (사용량 제한 없음, API키 불필요)
-- **국가 경계 GeoJSON**: Natural Earth 110m (56KB, 퍼블릭 도메인)
-- **Next.js 주의**: `dynamic()` 으로 SSR 비활성화 필수 (`window` 객체 필요)
-
 ### 아이콘
 - **날씨 아이콘**: Meteocons by Bas Milius (MIT, 애니메이션 SVG)
 
@@ -89,8 +83,7 @@
 4. **초기 데이터 입력** - 주요 여행국 20~30개국 데이터
 
 ### Phase 2: 핵심 기능 완성
-5. **인터랙티브 세계지도** - 클릭하면 해당 국가 페이지로 이동
-6. **월 선택 필터** - 특정 월 선택 시 추천 목적지 하이라이트
+5. **월 선택 필터** - 특정 월 선택 시 추천 목적지 하이라이트
 7. **여행 코멘트 시스템** - 월별 특이사항, 팁, 주의사항
 8. **검색 기능** - 국가/지역명 검색
 9. **비교 기능** - 2~3개 목적지 날씨 나란히 비교
@@ -146,12 +139,7 @@
 - 주요 도시/지역 하위 페이지
 - 기본 국가 정보 (비자, 시차, 통화, 언어 등)
 
-### 5. 인터랙티브 세계지도
-- 세계지도에서 국가 클릭 → 상세 페이지
-- 월 선택 시 지도에 색상으로 추천도 표시 (초록=최적, 빨강=비추천)
-- 호버 시 해당 월 기온/강수량 미리보기
-
-### 6. 목적지 비교 기능
+### 5. 목적지 비교 기능
 - 최대 3개 목적지 선택
 - 나란히 월별 데이터 비교 테이블
 - 차트 오버레이 비교
@@ -267,11 +255,10 @@ interface RecommendedDestination {
 
 ```
 /                          → 홈 (이번 달 추천 + 월 선택)
-/country                   → 국가 탐색 (좌: 세계지도 + 우: 대륙필터·카드리스트 + 상단: 검색바)
+/country                   → 국가 탐색 (대륙필터 + 검색바 + 카드리스트)
 /country/[countryId]       → 국가 소개 + 지역 선택 허브
 /country/[countryId]/[regionId]  → 날씨 정보 단일 소스 (탭: 월별 개요 / 일별 캘린더 / 여행 가이드)
 /country/[countryId]/[regionId]/[month]  → 월별 전용 날씨 페이지 (SEO 타겟: "도쿄 3월 날씨" 등)
-/map                       → /country로 리다이렉트
 /compare                   → 목적지 비교 (미구현, 네비에서 제거)
 /theme/[theme]             → 테마별 추천 (미구현)
 ```
@@ -301,8 +288,6 @@ interface RecommendedDestination {
 | 캘린더 배경 (온화 15~25°) | 흰색 | `bg-white` |
 | 캘린더 배경 (선선 5~15°) | 연초록 | `bg-[#eef8f5]` |
 | 캘린더 배경 (추움 5°↓) | 연파랑 | `bg-[#edf3fb]` |
-| 지도 데이터 국가 | 하늘색 | `#0ea5e9` (25% opacity) |
-| 지도 마커 | 주황 | `#f97316` |
 
 ### Rating 뱃지 색상
 | Rating | 라벨 | 색상 |
@@ -316,13 +301,6 @@ interface RecommendedDestination {
 ### 헤더
 - 로고만 표시 (`Travel Weather`), 네비게이션 탭 없음
 - sticky top, 배경 `bg-white/90 backdrop-blur-sm`
-
-### 지도
-- 높이 고정: 모바일 `280px`, 데스크톱 `400px`
-- 마커: 국가 단위 (주황 원 + 이름 라벨)
-- 전체 보기: 줌 레벨 2, 국가 이름 라벨 숨김
-- 대륙 필터: 지역 좌표 기반 `flyToBounds(pad 0.3, maxZoom 5)`, 이름 라벨 표시
-- 타일: OpenFreeMap positron
 
 ### 캘린더 (일별)
 - 기본 탭 (월별 개요보다 우선)
@@ -348,7 +326,6 @@ interface RecommendedDestination {
 - 유틸: `src/utils/`
 - 타입: `src/types/`
 - 한국어 기본, 추후 i18n 확장 고려
-- Leaflet 컴포넌트는 반드시 `dynamic(() => import(...), { ssr: false })` 사용
 
 ### 국가 추가 방법
 
@@ -365,8 +342,6 @@ interface RecommendedDestination {
 6. `python3 scripts/generate-recommendations.py` — 추천 데이터 재생성
 7. `npx tsx scripts/add-2025-data.ts --only <regionId>` — 2025 daily 데이터 추가
 8. `npm run build` — 빌드 성공 확인
-
-`isoNumeric`은 ISO 3166-1 숫자 코드 (예: japan=`"392"`). 세계지도 국가 클릭 연동에 사용됨.
 
 ### 플랜 작성 원칙
 
@@ -417,7 +392,7 @@ interface RecommendedDestination {
 | 날짜 | 항목 | 변경 내용 |
 |---|---|---|
 | 2026-04-01 | 배포 플랫폼 | Vercel → Cloudflare Pages (대역폭 무제한, 상업화 제한 없음) |
-| 2026-04-01 | 지도 라이브러리 | Leaflet 또는 Mapbox → Leaflet + react-leaflet 확정 |
+| 2026-04-10 | 지도 기능 | 전면 제거 (Leaflet, react-leaflet, world-atlas 포함) |
 | 2026-04-01 | 데이터 전략 | 런타임 API → 빌드 타임 정적 JSON 확정 |
 | 2026-04-01 | 날씨 아이콘 | 미정 → Meteocons (Bas Milius, MIT) 확정 |
 | 2026-04-01 | 날씨 데이터 소스 | 미정 → Open-Meteo + Visual Crossing 확정 |

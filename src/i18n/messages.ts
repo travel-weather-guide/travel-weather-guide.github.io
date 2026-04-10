@@ -18,7 +18,6 @@
  *   home        — home page hero text
  *   countryList — country list page heading/subheading
  *   notFound    — 404 page strings
- *   map         — WorldMap loading indicator
  *   search      — SearchBar result-type labels and messages
  */
 
@@ -271,11 +270,6 @@ export const messages = {
     },
     goHome: { ko: '홈으로', en: 'Go Home', ja: 'ホームへ', zh: '返回首页' },
     exploreCountries: { ko: '국가 탐색', en: 'Explore Countries', ja: '国を探す', zh: '探索国家' },
-  },
-
-  // ─── Map ─────────────────────────────────────────────────────────────────────
-  map: {
-    loading: { ko: '지도를 불러오는 중...', en: 'Loading map…', ja: '地図を読み込み中…', zh: '正在加载地图…' },
   },
 
   // ─── Search Bar ──────────────────────────────────────────────────────────────
