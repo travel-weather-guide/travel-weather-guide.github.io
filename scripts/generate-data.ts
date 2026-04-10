@@ -9,7 +9,7 @@
 
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'fs';
 import { join } from 'path';
-import { countries, visaInfo } from './regions';
+import { countries, visaInfo, countryImageUrls } from './regions';
 import { fetchClimateAndDailyData } from './fetch-climate-data';
 import { fetchCountryInfo } from './fetch-country-info';
 import { generateTravelComments } from './generate-travel-comments';
@@ -73,6 +73,7 @@ function rebuildIndexAndRecommendations() {
     continent: string;
     regionCount: number;
     isoNumeric: string;
+    imageUrl?: string;
   }> = [];
 
   const monthlyScores: Record<
@@ -97,13 +98,17 @@ function rebuildIndexAndRecommendations() {
     if (!existsSync(countryPath)) continue;
 
     const country: Country = JSON.parse(readFileSync(countryPath, 'utf-8'));
-    countrySummaries.push({
+    const summary: typeof countrySummaries[number] = {
       id: country.id,
       name: country.name,
       continent: country.continent,
       regionCount: country.regions.length,
       isoNumeric: countryDef.isoNumeric,
-    });
+    };
+    if (countryImageUrls[country.id]) {
+      summary.imageUrl = countryImageUrls[country.id];
+    }
+    countrySummaries.push(summary);
 
     if (existsSync(commentsPath)) {
       const comments: TravelComment[] = JSON.parse(readFileSync(commentsPath, 'utf-8'));
@@ -216,7 +221,7 @@ async function main() {
     }
 
     // 국가 JSON 저장
-    const country: Country = {
+    const country: Country & { imageUrl?: string } = {
       id: countryDef.id,
       name: countryDef.name,
       continent: countryDef.continent,
@@ -227,6 +232,9 @@ async function main() {
       visaInfo: visaInfo[countryDef.id] || '',
       regions,
     };
+    if (countryImageUrls[countryDef.id]) {
+      country.imageUrl = countryImageUrls[countryDef.id];
+    }
 
     writeJSON(join(COUNTRIES_DIR, `${countryDef.id}.json`), country);
     writeJSON(join(COMMENTS_DIR, `${countryDef.id}.json`), allComments);

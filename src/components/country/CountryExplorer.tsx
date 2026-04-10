@@ -8,7 +8,7 @@ import type { CountryMarker } from '@/components/map/MapView';
 import type { Country, Continent } from '@/types';
 import { useLocale } from '@/contexts/LocaleContext';
 import { getLocalizedName } from '@/i18n/utils';
-import { resolveLocalizedString } from '@/utils/data';
+
 
 const ISO_CODES: Record<string, string> = {
   japan: 'JP', thailand: 'TH', france: 'FR', usa: 'US', australia: 'AU',
@@ -63,7 +63,6 @@ export default function CountryExplorer({ allCountries }: CountryExplorerProps) 
     );
   }, [filteredCountries]);
 
-  const currentMonth = new Date().getMonth() + 1;
 
   return (
     <div className="flex flex-col gap-6">
@@ -78,8 +77,6 @@ export default function CountryExplorer({ allCountries }: CountryExplorerProps) 
         <div className="lg:w-1/2">
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
             {filteredCountries.map((c) => {
-              const firstRegion = c.regions[0];
-              const monthData = firstRegion?.monthlyData[currentMonth - 1];
               return (
                 <CountryCard
                   key={c.id}
@@ -88,9 +85,6 @@ export default function CountryExplorer({ allCountries }: CountryExplorerProps) 
                   continent={c.continent}
                   regionCount={c.regions.length}
                   imageUrl={c.imageUrl}
-                  tempHigh={monthData?.tempHigh}
-                  tempLow={monthData?.tempLow}
-                  weatherSummary={resolveLocalizedString(monthData?.weatherSummary ?? '', locale)}
                 />
               );
             })}

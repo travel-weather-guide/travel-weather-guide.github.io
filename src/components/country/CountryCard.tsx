@@ -13,12 +13,9 @@ interface CountryCardProps {
   continent: string;
   regionCount: number;
   imageUrl?: string;
-  tempHigh?: number;
-  tempLow?: number;
-  weatherSummary?: string;
 }
 
-export default function CountryCard({ id, name, regionCount, imageUrl, tempHigh, tempLow, weatherSummary }: CountryCardProps) {
+export default function CountryCard({ id, name, regionCount, imageUrl }: CountryCardProps) {
   const { locale } = useLocale();
   const flag = flagUrl(id);
   const localName = getLocalizedName(name, locale);
@@ -45,13 +42,6 @@ export default function CountryCard({ id, name, regionCount, imageUrl, tempHigh,
             <p className="text-sm text-gray-500">
               {name.en} &middot; {regionCount}{t(messages.countryCard.regionCount, locale)}
             </p>
-            {tempHigh != null && (
-              <p className="mt-1 text-sm text-gray-500">
-                <span className="font-semibold text-gray-700">{tempHigh}°</span>
-                <span className="text-gray-400"> / {tempLow}°</span>
-                {weatherSummary && <span className="ml-1.5 text-gray-400">· {weatherSummary}</span>}
-              </p>
-            )}
           </div>
         </div>
       </Link>
@@ -69,13 +59,6 @@ export default function CountryCard({ id, name, regionCount, imageUrl, tempHigh,
         <p className="text-sm text-gray-500">
           {name.en} &middot; {regionCount}{t(messages.countryCard.regionCount, locale)}
         </p>
-        {tempHigh != null && (
-          <p className="mt-1 text-sm text-gray-500">
-            <span className="font-semibold text-gray-700">{tempHigh}°</span>
-            <span className="text-gray-400"> / {tempLow}°</span>
-            {weatherSummary && <span className="ml-1.5 text-gray-400">· {weatherSummary}</span>}
-          </p>
-        )}
       </div>
     </Link>
   );
