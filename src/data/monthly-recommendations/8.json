@@ -26,6 +26,12 @@
       "rating": 5
     },
     {
+      "regionId": "budapest",
+      "category": "culture",
+      "reason": "시게트 페스티벌, 유럽 최대 음악 축제",
+      "rating": 5
+    },
+    {
       "regionId": "cairo",
       "category": "culture",
       "reason": "폭염 지속, 해질 무렵 나일강 유람선 추천",
@@ -41,6 +47,12 @@
       "regionId": "dubrovnik",
       "category": "culture",
       "reason": "절대 성수기, 성벽 투어 예약 필수",
+      "rating": 5
+    },
+    {
+      "regionId": "granada",
+      "category": "culture",
+      "reason": "폭염 지속, 시에라네바다 산악 피서",
       "rating": 5
     },
     {
@@ -80,6 +92,12 @@
       "rating": 5
     },
     {
+      "regionId": "marseille",
+      "category": "city",
+      "reason": "여름 피크, 뜨거운 지중해 해변 휴양",
+      "rating": 5
+    },
+    {
       "regionId": "mykonos",
       "category": "beach",
       "reason": "절대 피크, 나이트라이프 최고조",
@@ -101,6 +119,12 @@
       "regionId": "rome",
       "category": "culture",
       "reason": "폭염 지속, 현지인은 떠나고 관광객이 채우는 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "san-francisco",
+      "category": "city",
+      "reason": "여전히 서늘하고 안개, 겉옷 필수",
       "rating": 5
     },
     {
@@ -178,8 +202,16 @@
       "reason": "우기 지속, 해변 활동 어려운 시기"
     },
     {
+      "regionId": "cancun",
+      "reason": "허리케인 시즌 시작, 여행자보험 필수"
+    },
+    {
       "regionId": "cebu",
       "reason": "우기, 해양 활동 제한되는 시기"
+    },
+    {
+      "regionId": "chengdu",
+      "reason": "한여름 더위, 러산 대불·어메이산 피서"
     },
     {
       "regionId": "chiang-mai",
@@ -202,8 +234,16 @@
       "reason": "고온다습, 녹색 물든 카르스트 산수"
     },
     {
+      "regionId": "hangzhou",
+      "reason": "한여름 폭염, 서호 야경 유람 추천"
+    },
+    {
       "regionId": "hanoi",
       "reason": "우기 지속, 태풍 영향 가능"
+    },
+    {
+      "regionId": "hiroshima",
+      "reason": "평화기념식, 8월 6일 히로시마 원폭 추모"
     },
     {
       "regionId": "ho-chi-minh",
@@ -216,6 +256,10 @@
     {
       "regionId": "kaohsiung",
       "reason": "태풍 시즌 절정, 폭염과 폭우"
+    },
+    {
+      "regionId": "kobe",
+      "reason": "한여름 더위, 롯코산 피서와 야경 투어"
     },
     {
       "regionId": "kota-kinabalu",
@@ -238,6 +282,10 @@
       "reason": "우기, 홍수 주의와 폭우"
     },
     {
+      "regionId": "macau",
+      "reason": "태풍 절정기, 실내 카지노·호텔 위주"
+    },
+    {
       "regionId": "male",
       "reason": "우기 지속, 비 많지만 수중 생물 풍부"
     },
@@ -250,12 +298,24 @@
       "reason": "몬순 지속, 가네샤 차투르티 축제 (8~9월)"
     },
     {
+      "regionId": "nagasaki",
+      "reason": "평화기념일(8/9), 정령유 축제의 감동적 밤"
+    },
+    {
+      "regionId": "nagoya",
+      "reason": "한여름 폭염, 나가시마 스파랜드 워터파크 피서"
+    },
+    {
       "regionId": "new-delhi",
       "reason": "우기 지속, 독립기념일(15일) 분위기"
     },
     {
       "regionId": "okinawa",
       "reason": "태풍 절정기, 여행 일정이 틀어질 위험 큼"
+    },
+    {
+      "regionId": "palawan",
+      "reason": "우기 지속, 해양 액티비티 제한적"
     },
     {
       "regionId": "pattaya",
@@ -282,8 +342,20 @@
       "reason": "스키 피크 시즌, 설원 액티비티 총집합"
     },
     {
+      "regionId": "reykjavik",
+      "reason": "여름 끝자락, 아이슬란드 문화의 밤 축제"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "잘츠부르크 페스티벌 절정, 세계적 공연"
+    },
+    {
       "regionId": "shanghai",
       "reason": "무더위 절정, 도시 쇼핑몰 탈출 시즌"
+    },
+    {
+      "regionId": "shenzhen",
+      "reason": "태풍·폭우 주의, 실내 쇼핑몰 위주"
     },
     {
       "regionId": "siem-reap",

@@ -38,9 +38,21 @@
       "rating": 5
     },
     {
+      "regionId": "granada",
+      "category": "culture",
+      "reason": "봄 절정, 알함브라·헤네랄리페 정원 최적기",
+      "rating": 5
+    },
+    {
       "regionId": "hawaii",
       "category": "beach",
       "reason": "건기, 스노클링과 하이킹 최적기",
+      "rating": 5
+    },
+    {
+      "regionId": "las-vegas",
+      "category": "city",
+      "reason": "더워지기 시작, EDC 뮤직 페스티벌",
       "rating": 5
     },
     {
@@ -95,6 +107,12 @@
       "regionId": "seville",
       "category": "culture",
       "reason": "봄 끝자락, 아직 폭염 전의 쾌적한 시기",
+      "rating": 5
+    },
+    {
+      "regionId": "xian",
+      "category": "culture",
+      "reason": "쾌적한 봄, 화산(화산) 트레킹 적기",
       "rating": 5
     }
   ],
@@ -192,6 +210,10 @@
       "reason": "우기 시작, 비가 늘어나는 시기"
     },
     {
+      "regionId": "kobe",
+      "reason": "쾌적한 봄, 기타노 이진칸 이국풍 거리 산책"
+    },
+    {
       "regionId": "kota-kinabalu",
       "reason": "우기 시작, 비 잦아지는 과도기"
     },
@@ -212,6 +234,10 @@
       "reason": "우기 시작, 폭포 수량 늘어나는 시기"
     },
     {
+      "regionId": "macau",
+      "reason": "우기 전환기, 더워지기 시작"
+    },
+    {
       "regionId": "male",
       "reason": "SW 몬순 우기 시작, 파도 높아지는 시기"
     },
@@ -226,6 +252,14 @@
     {
       "regionId": "munich",
       "reason": "봄 절정, 비어가든 본격 오픈과 쾌적한 날씨"
+    },
+    {
+      "regionId": "nagasaki",
+      "reason": "쾌적한 봄, 군칸지마(하시마) 상륙 투어 적기"
+    },
+    {
+      "regionId": "nara",
+      "reason": "신록 후지와 사슴, 쾌적한 산책 일화"
     },
     {
       "regionId": "okinawa",
@@ -250,6 +284,18 @@
     {
       "regionId": "queenstown",
       "reason": "초겨울, 스키 시즌 준비 시작"
+    },
+    {
+      "regionId": "reykjavik",
+      "reason": "봄 새들이 돌아오는 시기, 퍼핀 관찰 시작"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "쾌적한 봄, 호엔잘츠부르크 성 산책 최적기"
+    },
+    {
+      "regionId": "shenzhen",
+      "reason": "더워지기 시작, 우기 직전 마지막 쾌적기"
     },
     {
       "regionId": "siem-reap",

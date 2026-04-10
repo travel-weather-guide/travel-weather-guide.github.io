@@ -288,6 +288,151 @@
           "weatherSummary": "쌀쌀"
         }
       ]
+    },
+    {
+      "id": "marseille",
+      "name": {
+        "ko": "마르세유",
+        "en": "Marseille"
+      },
+      "countryId": "france",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "climateType": "지중해성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 11.5,
+          "tempLow": 5.4,
+          "rainfall": 30.9,
+          "rainyDays": 6.8,
+          "humidity": 75.1,
+          "sunshineHours": 7.4,
+          "seaTemp": 14.5,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 2,
+          "tempHigh": 13.4,
+          "tempLow": 6.8,
+          "rainfall": 33.6,
+          "rainyDays": 6.2,
+          "humidity": 73.6,
+          "sunshineHours": 8.4,
+          "seaTemp": 13.7,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 14.5,
+          "tempLow": 7.6,
+          "rainfall": 43.2,
+          "rainyDays": 4.4,
+          "humidity": 70.1,
+          "sunshineHours": 9.7,
+          "seaTemp": 14,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 16.9,
+          "tempLow": 9.5,
+          "rainfall": 44.7,
+          "rainyDays": 6,
+          "humidity": 66.8,
+          "sunshineHours": 11.1,
+          "seaTemp": 14.8,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 20.6,
+          "tempLow": 13.6,
+          "rainfall": 58.3,
+          "rainyDays": 6.4,
+          "humidity": 71.8,
+          "sunshineHours": 11.8,
+          "seaTemp": 17.6,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 6,
+          "tempHigh": 25.2,
+          "tempLow": 18.2,
+          "rainfall": 29.9,
+          "rainyDays": 4.6,
+          "humidity": 68,
+          "sunshineHours": 13.6,
+          "seaTemp": 21.6,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 28.5,
+          "tempLow": 20.4,
+          "rainfall": 4.6,
+          "rainyDays": 1.7,
+          "humidity": 62.1,
+          "sunshineHours": 14,
+          "seaTemp": 23,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 28.3,
+          "tempLow": 20.1,
+          "rainfall": 26.3,
+          "rainyDays": 2.2,
+          "humidity": 62.4,
+          "sunshineHours": 12.7,
+          "seaTemp": 23.9,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 9,
+          "tempHigh": 24.4,
+          "tempLow": 17.3,
+          "rainfall": 68.2,
+          "rainyDays": 7.2,
+          "humidity": 69,
+          "sunshineHours": 10.7,
+          "seaTemp": 22.6,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 10,
+          "tempHigh": 20.6,
+          "tempLow": 14.1,
+          "rainfall": 61.1,
+          "rainyDays": 8.4,
+          "humidity": 75.7,
+          "sunshineHours": 9.1,
+          "seaTemp": 20.4,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 11,
+          "tempHigh": 15.9,
+          "tempLow": 9.8,
+          "rainfall": 63.2,
+          "rainyDays": 8.8,
+          "humidity": 74.8,
+          "sunshineHours": 7.5,
+          "seaTemp": 17.4,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 12,
+          "tempHigh": 12.4,
+          "tempLow": 6.5,
+          "rainfall": 57.7,
+          "rainyDays": 9.2,
+          "humidity": 76,
+          "sunshineHours": 6.9,
+          "seaTemp": 15.2,
+          "weatherSummary": "쌀쌀"
+        }
+      ]
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80"

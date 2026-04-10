@@ -247,5 +247,274 @@
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 1,
+    "rating": 1,
+    "summary": "겨울 스키 시즌, 근교 알프스 스키 리조트",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -3°C로 방한 대비 필요",
+      "비 오는 날이 14.6일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 2,
+    "rating": 2,
+    "summary": "겨울 막바지 스키, 모차르트 주간 축제",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -0°C로 방한 대비 필요",
+      "비 오는 날이 13.2일로 실내 대안 준비 권장",
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 3,
+    "rating": 2,
+    "summary": "봄 시작, 미라벨 정원 꽃 피기 시작",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 12.2일로 실내 대안 준비 권장",
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 4,
+    "rating": 2,
+    "summary": "봄 이스터 축제, 사운드 오브 뮤직 투어",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 103mm로 우산 필수",
+      "비 오는 날이 14.2일로 실내 대안 준비 권장",
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 5,
+    "rating": 1,
+    "summary": "쾌적한 봄, 호엔잘츠부르크 성 산책 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "월 강수량 162mm로 우기에 해당",
+      "월 18.6일 비가 와 야외 일정에 유의",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 6,
+    "rating": 3,
+    "summary": "초여름, 잘츠캄머구트 호수 지대 드라이브",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 137mm로 우산 필수",
+      "월 15.8일 비가 와 야외 일정에 유의",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 7,
+    "rating": 3,
+    "summary": "잘츠부르크 페스티벌 시작, 클래식 음악 축제",
+    "highlights": [
+      "잘츠부르크 페스티벌, 세계 최고 클래식 축제",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 145mm로 우산 필수",
+      "월 17.6일 비가 와 야외 일정에 유의",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "잘츠부르크 페스티벌 (7~8월)",
+      "사운드 오브 뮤직 투어"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 8,
+    "rating": 2,
+    "summary": "잘츠부르크 페스티벌 절정, 세계적 공연",
+    "highlights": [
+      "잘츠부르크 페스티벌, 세계 최고 클래식 축제",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 194mm로 우기에 해당",
+      "월 16.8일 비가 와 야외 일정에 유의",
+      "습도 80%로 불쾌지수 높음"
+    ],
+    "events": [
+      "잘츠부르크 페스티벌 (7~8월)",
+      "사운드 오브 뮤직 투어"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 9,
+    "rating": 2,
+    "summary": "가을 시작, 관광객 줄어 여유로운 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "월 강수량 159mm로 우기에 해당",
+      "비 오는 날이 12.8일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 10,
+    "rating": 2,
+    "summary": "가을 단풍, 알프스 산맥 황금빛 풍경",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 12일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 11,
+    "rating": 1,
+    "summary": "초겨울, 쌀쌀하지만 성탄 준비 분위기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 104mm로 우산 필수",
+      "비 오는 날이 12.6일로 실내 대안 준비 권장",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "salzburg",
+    "month": 12,
+    "rating": 1,
+    "summary": "크리스마스 마켓과 크람푸스 퍼레이드",
+    "highlights": [
+      "크리스마스 마켓과 크람푸스 퍼레이드",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -2°C로 방한 대비 필요",
+      "강수량이 110mm로 우산 필수",
+      "월 16.2일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [
+      "잘츠부르크 크리스마스 마켓",
+      "크람푸스 퍼레이드 (12월 5일)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

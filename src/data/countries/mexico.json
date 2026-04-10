@@ -1,0 +1,161 @@
+{
+  "id": "mexico",
+  "name": {
+    "ko": "멕시코",
+    "en": "Mexico"
+  },
+  "continent": "north-america",
+  "capital": "Mexico City",
+  "currency": "Mexican peso ($)",
+  "language": "Spanish",
+  "timezone": "UTC-08:00",
+  "visaInfo": "무비자 180일",
+  "regions": [
+    {
+      "id": "cancun",
+      "name": {
+        "ko": "칸쿤",
+        "en": "Cancún"
+      },
+      "countryId": "mexico",
+      "latitude": 21.1619,
+      "longitude": -86.8515,
+      "climateType": "열대",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 26.5,
+          "tempLow": 21.8,
+          "rainfall": 73.2,
+          "rainyDays": 15,
+          "humidity": 76.9,
+          "sunshineHours": 9.5,
+          "seaTemp": 27,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 2,
+          "tempHigh": 27,
+          "tempLow": 22.1,
+          "rainfall": 45.1,
+          "rainyDays": 12.2,
+          "humidity": 75.4,
+          "sunshineHours": 10.6,
+          "seaTemp": 26.7,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 28.4,
+          "tempLow": 23.4,
+          "rainfall": 35.9,
+          "rainyDays": 9.8,
+          "humidity": 73.7,
+          "sunshineHours": 11.5,
+          "seaTemp": 26.9,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 4,
+          "tempHigh": 29.7,
+          "tempLow": 24.3,
+          "rainfall": 32,
+          "rainyDays": 6.6,
+          "humidity": 73.7,
+          "sunshineHours": 11.8,
+          "seaTemp": 27.2,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 5,
+          "tempHigh": 30.6,
+          "tempLow": 25,
+          "rainfall": 78.9,
+          "rainyDays": 13,
+          "humidity": 75.7,
+          "sunshineHours": 11.8,
+          "seaTemp": 27.6,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 6,
+          "tempHigh": 30.1,
+          "tempLow": 25.2,
+          "rainfall": 227.1,
+          "rainyDays": 19.8,
+          "humidity": 82.4,
+          "sunshineHours": 10.3,
+          "seaTemp": 28.6,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 7,
+          "tempHigh": 31.2,
+          "tempLow": 25.8,
+          "rainfall": 105.8,
+          "rainyDays": 17.2,
+          "humidity": 79.7,
+          "sunshineHours": 11.6,
+          "seaTemp": 29.2,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 31.4,
+          "tempLow": 25.6,
+          "rainfall": 142.4,
+          "rainyDays": 19.8,
+          "humidity": 80.9,
+          "sunshineHours": 11.2,
+          "seaTemp": 29.2,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 30.8,
+          "tempLow": 25.2,
+          "rainfall": 174.1,
+          "rainyDays": 20,
+          "humidity": 82.7,
+          "sunshineHours": 10.6,
+          "seaTemp": 29.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 29.7,
+          "tempLow": 24.2,
+          "rainfall": 171.2,
+          "rainyDays": 21.8,
+          "humidity": 80.5,
+          "sunshineHours": 10,
+          "seaTemp": 29.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 28.2,
+          "tempLow": 23.1,
+          "rainfall": 134.6,
+          "rainyDays": 18,
+          "humidity": 80.5,
+          "sunshineHours": 10.1,
+          "seaTemp": 28.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 26.9,
+          "tempLow": 22.2,
+          "rainfall": 102.9,
+          "rainyDays": 15.6,
+          "humidity": 76.9,
+          "sunshineHours": 9.5,
+          "seaTemp": 27.5,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1501952476817-d7ae22e8ee4e?auto=format&fit=crop&w=800&q=80"
+}

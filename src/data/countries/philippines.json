@@ -445,6 +445,151 @@
           "weatherSummary": "우기"
         }
       ]
+    },
+    {
+      "id": "palawan",
+      "name": {
+        "ko": "팔라완",
+        "en": "Palawan"
+      },
+      "countryId": "philippines",
+      "latitude": 9.8349,
+      "longitude": 118.7384,
+      "climateType": "열대",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 28.8,
+          "tempLow": 24.2,
+          "rainfall": 127.3,
+          "rainyDays": 18.6,
+          "humidity": 83.8,
+          "sunshineHours": 9.8,
+          "seaTemp": 28.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 2,
+          "tempHigh": 29,
+          "tempLow": 23.9,
+          "rainfall": 44.2,
+          "rainyDays": 14.4,
+          "humidity": 82,
+          "sunshineHours": 10.7,
+          "seaTemp": 28.3,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 29.7,
+          "tempLow": 24.3,
+          "rainfall": 89.9,
+          "rainyDays": 17,
+          "humidity": 82.4,
+          "sunshineHours": 10.8,
+          "seaTemp": 29.1,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 4,
+          "tempHigh": 30.6,
+          "tempLow": 25.3,
+          "rainfall": 92.4,
+          "rainyDays": 19.2,
+          "humidity": 81.7,
+          "sunshineHours": 11.1,
+          "seaTemp": 30.8,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 5,
+          "tempHigh": 30.9,
+          "tempLow": 26,
+          "rainfall": 133.3,
+          "rainyDays": 23.2,
+          "humidity": 82.7,
+          "sunshineHours": 10.7,
+          "seaTemp": 31.6,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 30,
+          "tempLow": 25.5,
+          "rainfall": 172.4,
+          "rainyDays": 26.8,
+          "humidity": 85,
+          "sunshineHours": 9,
+          "seaTemp": 30.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 7,
+          "tempHigh": 29.7,
+          "tempLow": 25.3,
+          "rainfall": 210.4,
+          "rainyDays": 27.6,
+          "humidity": 85.6,
+          "sunshineHours": 8.5,
+          "seaTemp": 30.1,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 8,
+          "tempHigh": 30,
+          "tempLow": 25.2,
+          "rainfall": 149.9,
+          "rainyDays": 25.4,
+          "humidity": 84.8,
+          "sunshineHours": 9.7,
+          "seaTemp": 30.6,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 29.6,
+          "tempLow": 25.2,
+          "rainfall": 254.8,
+          "rainyDays": 26.4,
+          "humidity": 86.4,
+          "sunshineHours": 9,
+          "seaTemp": 30.4,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 10,
+          "tempHigh": 29.4,
+          "tempLow": 25.1,
+          "rainfall": 250.5,
+          "rainyDays": 28.6,
+          "humidity": 87.2,
+          "sunshineHours": 8.1,
+          "seaTemp": 30.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 29.4,
+          "tempLow": 25.1,
+          "rainfall": 192.5,
+          "rainyDays": 26.2,
+          "humidity": 86.6,
+          "sunshineHours": 9.5,
+          "seaTemp": 30.4,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 29,
+          "tempLow": 24.8,
+          "rainfall": 261.6,
+          "rainyDays": 25.4,
+          "humidity": 86.8,
+          "sunshineHours": 9.1,
+          "seaTemp": 29.6,
+          "weatherSummary": "우기"
+        }
+      ]
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?auto=format&fit=crop&w=800&q=80"

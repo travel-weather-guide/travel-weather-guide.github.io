@@ -14,6 +14,12 @@
       "rating": 5
     },
     {
+      "regionId": "cancun",
+      "category": "beach",
+      "reason": "스프링 브레이크, 파티 분위기 절정",
+      "rating": 5
+    },
+    {
       "regionId": "chiang-mai",
       "category": "culture",
       "reason": "산불 연무(스모그) 시작, 대기질 급격히 악화",
@@ -35,6 +41,12 @@
       "regionId": "kaohsiung",
       "category": "city",
       "reason": "건기 지속, 쾌적한 남부 관광",
+      "rating": 5
+    },
+    {
+      "regionId": "las-vegas",
+      "category": "city",
+      "reason": "봄 시작, 야외 풀파티 시즌 오픈",
       "rating": 5
     },
     {
@@ -112,8 +124,16 @@
       "reason": "봄 기운, 브란덴부르크문 주변 꽃이 피는 시기"
     },
     {
+      "regionId": "cairns",
+      "reason": "우기 막바지, 데인트리 열대우림 녹음 짙음"
+    },
+    {
       "regionId": "cappadocia",
       "reason": "봄 시작, 열기구 비행 재개되는 시기"
+    },
+    {
+      "regionId": "copenhagen",
+      "reason": "봄 시작, 티볼리 공원 시즌 오픈(4월)"
     },
     {
       "regionId": "dubrovnik",
@@ -130,6 +150,18 @@
     {
       "regionId": "guilin",
       "reason": "봄 시작, 유채꽃 밭과 논길 자전거 여행"
+    },
+    {
+      "regionId": "hangzhou",
+      "reason": "봄 시작, 서호 벚꽃과 용정차 수확 시작"
+    },
+    {
+      "regionId": "helsinki",
+      "reason": "아직 추운 겨울, 봄 해빙 시작"
+    },
+    {
+      "regionId": "hiroshima",
+      "reason": "벚꽃 시작, 평화기념공원 벚꽃이 피는 시기"
     },
     {
       "regionId": "hokkaido",
@@ -164,6 +196,18 @@
       "reason": "봄 시작, 공원에 꽃이 피기 시작"
     },
     {
+      "regionId": "nagasaki",
+      "reason": "벚꽃 시작, 이국적인 항구도시의 봄"
+    },
+    {
+      "regionId": "nagoya",
+      "reason": "벚꽃 시작, 쓰루마이 공원·나고야성 벚꽃 명소"
+    },
+    {
+      "regionId": "nara",
+      "reason": "벚꽃 시작, 도다이지 오미즈토리 행사"
+    },
+    {
       "regionId": "new-york",
       "reason": "아직 쌀쌀하지만 봄기운이 느껴지는 시기"
     },
@@ -182,6 +226,14 @@
     {
       "regionId": "porto",
       "reason": "봄 기운, 두로강변 라벨루 보트 투어"
+    },
+    {
+      "regionId": "reykjavik",
+      "reason": "봄 시작, 오로라 시즌 막바지·해 길어짐"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "봄 시작, 미라벨 정원 꽃 피기 시작"
     },
     {
       "regionId": "shanghai",

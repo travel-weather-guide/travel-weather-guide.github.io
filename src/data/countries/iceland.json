@@ -1,0 +1,161 @@
+{
+  "id": "iceland",
+  "name": {
+    "ko": "아이슬란드",
+    "en": "Iceland"
+  },
+  "continent": "europe",
+  "capital": "Reykjavik",
+  "currency": "Icelandic króna (kr)",
+  "language": "Icelandic",
+  "timezone": "UTC",
+  "visaInfo": "무비자 90일 (쉥겐 지역)",
+  "regions": [
+    {
+      "id": "reykjavik",
+      "name": {
+        "ko": "레이캬비크",
+        "en": "Reykjavík"
+      },
+      "countryId": "iceland",
+      "latitude": 64.1466,
+      "longitude": -21.9426,
+      "climateType": "한대 해양성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 1.6,
+          "tempLow": -2.9,
+          "rainfall": 156.7,
+          "rainyDays": 18.2,
+          "humidity": 76.6,
+          "sunshineHours": 1.4,
+          "seaTemp": 2,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 2,
+          "tempHigh": 2,
+          "tempLow": -2.4,
+          "rainfall": 121.2,
+          "rainyDays": 16.6,
+          "humidity": 78.2,
+          "sunshineHours": 3.1,
+          "seaTemp": 2.2,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 3,
+          "tempHigh": 2.9,
+          "tempLow": -1.6,
+          "rainfall": 134.4,
+          "rainyDays": 15,
+          "humidity": 74.1,
+          "sunshineHours": 5.8,
+          "seaTemp": 3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 4,
+          "tempHigh": 6,
+          "tempLow": 1,
+          "rainfall": 129.7,
+          "rainyDays": 15.4,
+          "humidity": 78.6,
+          "sunshineHours": 6.9,
+          "seaTemp": 4.4,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 5,
+          "tempHigh": 8.5,
+          "tempLow": 3.8,
+          "rainfall": 136,
+          "rainyDays": 19.6,
+          "humidity": 77.9,
+          "sunshineHours": 8.8,
+          "seaTemp": 7.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 10.9,
+          "tempLow": 6.6,
+          "rainfall": 110.2,
+          "rainyDays": 17.2,
+          "humidity": 81,
+          "sunshineHours": 8.2,
+          "seaTemp": 9.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 7,
+          "tempHigh": 12.8,
+          "tempLow": 8.5,
+          "rainfall": 84.6,
+          "rainyDays": 14.4,
+          "humidity": 83.3,
+          "sunshineHours": 8.8,
+          "seaTemp": 11.6,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 8,
+          "tempHigh": 13,
+          "tempLow": 8.5,
+          "rainfall": 128.4,
+          "rainyDays": 15.8,
+          "humidity": 83.9,
+          "sunshineHours": 7.6,
+          "seaTemp": 12.5,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 9.9,
+          "tempLow": 5.5,
+          "rainfall": 140.1,
+          "rainyDays": 17.4,
+          "humidity": 82.8,
+          "sunshineHours": 5.9,
+          "seaTemp": 10.3,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 6.4,
+          "tempLow": 2.2,
+          "rainfall": 134.3,
+          "rainyDays": 16,
+          "humidity": 83,
+          "sunshineHours": 4.5,
+          "seaTemp": 7.9,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 4.2,
+          "tempLow": 0.2,
+          "rainfall": 135.1,
+          "rainyDays": 15.8,
+          "humidity": 79.9,
+          "sunshineHours": 2.2,
+          "seaTemp": 6,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 1.1,
+          "tempLow": -3.3,
+          "rainfall": 131,
+          "rainyDays": 16.2,
+          "humidity": 76.8,
+          "sunshineHours": 0.7,
+          "seaTemp": 3.8,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1529260830199-42c24126f198?auto=format&fit=crop&w=800&q=80"
+}

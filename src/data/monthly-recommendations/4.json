@@ -38,6 +38,12 @@
       "rating": 5
     },
     {
+      "regionId": "las-vegas",
+      "category": "city",
+      "reason": "쾌적한 봄, 스트립 산책과 쇼 관람 최적기",
+      "rating": 5
+    },
+    {
       "regionId": "los-angeles",
       "category": "city",
       "reason": "봄 야생화와 쾌적한 기온, 하이킹 최적기",
@@ -124,6 +130,10 @@
       "reason": "건기 시작, 녹음 짙은 우붓과 맑은 하늘"
     },
     {
+      "regionId": "cairns",
+      "reason": "우기 끝, 그레이트배리어리프 시야 개선 시작"
+    },
+    {
       "regionId": "cebu",
       "reason": "건기 끝자락, 아직 해변 좋은 시기"
     },
@@ -138,6 +148,10 @@
     {
       "regionId": "guilin",
       "reason": "봄 절정, 안개 낀 이강 수묵화 풍경 피크"
+    },
+    {
+      "regionId": "hiroshima",
+      "reason": "벚꽃 만개, 평화기념공원·미야지마 벚꽃 절경"
     },
     {
       "regionId": "hokkaido",
@@ -184,6 +198,10 @@
       "reason": "봄, 님펜부르크 궁전 꽃밭 산책"
     },
     {
+      "regionId": "nara",
+      "reason": "벚꽃 만개, 나라공원 사슴과 벚꽃의 환상 조합"
+    },
+    {
       "regionId": "new-york",
       "reason": "센트럴파크에 봄꽃이 피는 시기"
     },
@@ -194,6 +212,14 @@
     {
       "regionId": "queenstown",
       "reason": "가을 황금빛, 남섬 단풍 드라이브"
+    },
+    {
+      "regionId": "reykjavik",
+      "reason": "봄 해빙, 골든서클 투어 재개 시기"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "봄 이스터 축제, 사운드 오브 뮤직 투어"
     },
     {
       "regionId": "shanghai",

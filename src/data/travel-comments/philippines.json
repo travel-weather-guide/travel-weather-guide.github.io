@@ -852,5 +852,295 @@
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
+  },
+  {
+    "regionId": "palawan",
+    "month": 1,
+    "rating": 3,
+    "summary": "건기 절정, 엘니도 맑은 바다와 석회암 절벽",
+    "highlights": [
+      "건기 엘니도, 맑은 바다와 석회암 절경",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 127mm로 우산 필수",
+      "월 18.6일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [
+      "건기 아일랜드 호핑 최적기"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "palawan",
+    "month": 2,
+    "rating": 4,
+    "summary": "건기 지속, 아일랜드 호핑 최적기",
+    "highlights": [
+      "건기 엘니도, 맑은 바다와 석회암 절경",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 14.4일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "건기 아일랜드 호핑 최적기"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "palawan",
+    "month": 3,
+    "rating": 3,
+    "summary": "건기, 코론·엘니도 스노클링 시야 최고",
+    "highlights": [
+      "건기 엘니도, 맑은 바다와 석회암 절경",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 17일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [
+      "건기 아일랜드 호핑 최적기"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "palawan",
+    "month": 4,
+    "rating": 3,
+    "summary": "건기 막바지, 푸에르토프린세사 지하강 투어",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 19.2일 비가 와 야외 일정에 유의",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "palawan",
+    "month": 5,
+    "rating": 3,
+    "summary": "우기 전환기, 간헐적 소나기 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "강수량이 133mm로 우산 필수",
+      "월 23.2일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "palawan",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기 시작, 거친 파도로 보트 투어 제한",
+    "highlights": [
+      "우기, 거친 파도로 아일랜드 투어 어려움",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 172mm로 우기에 해당",
+      "월 26.8일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "palawan",
+    "month": 7,
+    "rating": 1,
+    "summary": "우기, 아일랜드 호핑 투어 어려움",
+    "highlights": [
+      "우기, 거친 파도로 아일랜드 투어 어려움",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 210mm로 우기에 해당",
+      "월 27.6일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "palawan",
+    "month": 8,
+    "rating": 2,
+    "summary": "우기 지속, 해양 액티비티 제한적",
+    "highlights": [
+      "우기, 거친 파도로 아일랜드 투어 어려움",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 150mm로 우산 필수",
+      "월 25.4일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "palawan",
+    "month": 9,
+    "rating": 1,
+    "summary": "우기 절정, 태풍 가능성 높은 시기",
+    "highlights": [
+      "우기, 거친 파도로 아일랜드 투어 어려움",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 255mm로 우기에 해당",
+      "월 26.4일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "palawan",
+    "month": 10,
+    "rating": 1,
+    "summary": "우기 마무리, 날씨 서서히 회복",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 251mm로 우기에 해당",
+      "월 28.6일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "palawan",
+    "month": 11,
+    "rating": 2,
+    "summary": "건기 시작, 바다가 잔잔해지는 시기",
+    "highlights": [
+      "건기 엘니도, 맑은 바다와 석회암 절경",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 193mm로 우기에 해당",
+      "월 26.2일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [
+      "건기 아일랜드 호핑 최적기"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "palawan",
+    "month": 12,
+    "rating": 2,
+    "summary": "건기 피크, 크리스마스 시즌 해변 휴양",
+    "highlights": [
+      "건기 엘니도, 맑은 바다와 석회암 절경",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 262mm로 우기에 해당",
+      "월 25.4일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [
+      "건기 아일랜드 호핑 최적기"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

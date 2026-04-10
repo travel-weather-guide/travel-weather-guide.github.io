@@ -2,8 +2,8 @@
   {
     "regionId": "paris",
     "month": 1,
-    "rating": 1,
-    "summary": "겨울 한가운데, 관광객 적고 항공권 저렴한 비수기",
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
     "highlights": [
       "겨울 스포츠에 적합한 시기"
     ],
@@ -18,13 +18,13 @@
     ],
     "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "paris",
     "month": 2,
-    "rating": 2,
-    "summary": "아직 쌀쌀한 겨울, 미술관 투어에 좋은 시기",
+    "rating": 4,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
       "강수량이 적어 맑은 날이 많음"
     ],
@@ -35,14 +35,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "paris",
     "month": 3,
-    "rating": 2,
-    "summary": "봄기운이 시작, 카페 테라스가 열리기 시작",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -53,14 +53,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "paris",
     "month": 4,
-    "rating": 3,
-    "summary": "봄 한가운데, 튈르리 정원 꽃과 야외 마르셰",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "봄꽃과 야외 카페의 계절",
       "일조시간이 길어 야외 활동에 좋음"
@@ -80,8 +80,8 @@
   {
     "regionId": "paris",
     "month": 5,
-    "rating": 3,
-    "summary": "장미 만개, 파리 여행의 가장 완벽한 시기",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "봄꽃과 야외 카페의 계절",
       "일조시간이 길어 야외 활동에 좋음"
@@ -103,8 +103,8 @@
   {
     "regionId": "paris",
     "month": 6,
-    "rating": 4,
-    "summary": "긴 일조시간, 센강 산책과 야외 카페의 매력",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "봄꽃과 야외 카페의 계절",
       "일조시간이 길어 야외 활동에 좋음",
@@ -127,8 +127,8 @@
   {
     "regionId": "paris",
     "month": 7,
-    "rating": 4,
-    "summary": "여름 성수기, 바스티유 데이(7/14) 축제",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -145,8 +145,8 @@
   {
     "regionId": "paris",
     "month": 8,
-    "rating": 4,
-    "summary": "여름 피크, 파리지앵은 떠나고 관광객이 채우는 시기",
+    "rating": 5,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -165,8 +165,8 @@
   {
     "regionId": "paris",
     "month": 9,
-    "rating": 4,
-    "summary": "관광객 줄고 날씨 쾌적, 가을 파리의 진수",
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "가을 파리의 정취, 관광객 감소기",
       "일조시간이 길어 야외 활동에 좋음"
@@ -189,8 +189,8 @@
   {
     "regionId": "paris",
     "month": 10,
-    "rating": 2,
-    "summary": "가을빛 파리, 뤽상부르 공원 단풍",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "가을 파리의 정취, 관광객 감소기"
     ],
@@ -204,14 +204,14 @@
     ],
     "tips": [],
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "paris",
     "month": 11,
-    "rating": 2,
-    "summary": "쌀쌀해지고 해가 짧아지는 초겨울",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -222,14 +222,14 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   },
   {
     "regionId": "paris",
     "month": 12,
-    "rating": 1,
-    "summary": "크리스마스 마켓과 일루미네이션의 연말 분위기",
+    "rating": 3,
+    "summary": "쌀쌀한 날씨, 방한 준비 필요",
     "highlights": [
       "크리스마스 마켓과 일루미네이션"
     ],
@@ -245,13 +245,13 @@
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
     "crowdLevel": "low",
-    "priceLevel": "low"
+    "priceLevel": "medium"
   },
   {
     "regionId": "nice",
     "month": 1,
-    "rating": 3,
-    "summary": "겨울이지만 온화한 지중해, 해변은 부적합",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -266,7 +266,7 @@
     "regionId": "nice",
     "month": 2,
     "rating": 4,
-    "summary": "니스 카니발 시즌, 축제 분위기의 겨울",
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "니스 카니발 시즌",
       "일조시간이 길어 야외 활동에 좋음"
@@ -288,8 +288,8 @@
   {
     "regionId": "nice",
     "month": 3,
-    "rating": 3,
-    "summary": "봄 시작, 지중해 해안 산책이 쾌적해지는 시기",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -305,8 +305,8 @@
   {
     "regionId": "nice",
     "month": 4,
-    "rating": 3,
-    "summary": "따뜻해지는 봄, 해변 시즌 직전의 여유",
+    "rating": 4,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "강수량이 적어 맑은 날이 많음"
@@ -324,7 +324,7 @@
     "regionId": "nice",
     "month": 5,
     "rating": 4,
-    "summary": "지중해 해변 시즌 시작, 쾌적한 기온",
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -343,7 +343,7 @@
     "regionId": "nice",
     "month": 6,
     "rating": 5,
-    "summary": "본격 해변 시즌, 따뜻한 바다와 긴 해",
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
       "코트다쥐르 해변 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -360,14 +360,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "nice",
     "month": 7,
     "rating": 5,
-    "summary": "여름 성수기, 코트다쥐르 해변 만석",
+    "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
       "코트다쥐르 해변 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -383,14 +383,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
-    "crowdLevel": "medium",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "nice",
     "month": 8,
     "rating": 5,
-    "summary": "여름 피크, 해변 혼잡하지만 바다 최고",
+    "summary": "맑고 건조한 날씨, 여행 최적기",
     "highlights": [
       "코트다쥐르 해변 성수기",
       "일조시간이 길어 야외 활동에 좋음",
@@ -406,14 +406,14 @@
       "선글라스와 모자 챙기기"
     ],
     "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
-    "crowdLevel": "medium",
+    "crowdLevel": "high",
     "priceLevel": "high"
   },
   {
     "regionId": "nice",
     "month": 9,
     "rating": 5,
-    "summary": "바다 여전히 따뜻(23~25°C), 관광객 줄어든 최적기",
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음",
       "쾌적한 기온"
@@ -430,8 +430,8 @@
   {
     "regionId": "nice",
     "month": 10,
-    "rating": 3,
-    "summary": "지중해 황금빛 가을, 온화한 바다",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "일조시간이 길어 야외 활동에 좋음"
     ],
@@ -451,8 +451,8 @@
   {
     "regionId": "nice",
     "month": 11,
-    "rating": 3,
-    "summary": "가을 끝자락, 해변 시즌 마무리",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -466,8 +466,8 @@
   {
     "regionId": "nice",
     "month": 12,
-    "rating": 2,
-    "summary": "겨울이지만 온화, 크리스마스 마켓",
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
     "highlights": [
       "현지 일상을 경험하기 좋은 시기"
     ],
@@ -477,7 +477,244 @@
     "events": [],
     "tips": [],
     "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
-    "crowdLevel": "low",
-    "priceLevel": "low"
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "marseille",
+    "month": 1,
+    "rating": 4,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "marseille",
+    "month": 2,
+    "rating": 4,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "marseille",
+    "month": 3,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "marseille",
+    "month": 4,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "marseille",
+    "month": 5,
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "성수기 전후 쾌적, 깔랑크 트레킹 적기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "깔랑크 트레킹 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marseille",
+    "month": 6,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "지중해 여름 성수기, 깔랑크 해변 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "마르세유 재즈 페스티벌 (7월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marseille",
+    "month": 7,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "지중해 여름 성수기, 깔랑크 해변 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "마르세유 재즈 페스티벌 (7월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marseille",
+    "month": 8,
+    "rating": 5,
+    "summary": "맑고 건조한 날씨, 여행 최적기",
+    "highlights": [
+      "지중해 여름 성수기, 깔랑크 해변 최적",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "마르세유 재즈 페스티벌 (7월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marseille",
+    "month": 9,
+    "rating": 5,
+    "summary": "쾌적한 기온, 여행하기 좋은 시기",
+    "highlights": [
+      "성수기 전후 쾌적, 깔랑크 트레킹 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "깔랑크 트레킹 시즌"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "marseille",
+    "month": 10,
+    "rating": 5,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "marseille",
+    "month": 11,
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "marseille",
+    "month": 12,
+    "rating": 4,
+    "summary": "날씨가 좋아 여행하기 적합한 시기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   }
 ]

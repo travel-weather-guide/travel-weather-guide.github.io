@@ -65,6 +65,12 @@ export const FLAG_ALPHA2: Record<string, string> = {
   netherlands: 'nl',
   morocco: 'ma',
   'sri-lanka': 'lk',
+  hungary: 'hu',
+  mexico: 'mx',
+  finland: 'fi',
+  denmark: 'dk',
+  iceland: 'is',
+  macau: 'mo',
 };
 
 export function flagUrl(countryId: string): string {

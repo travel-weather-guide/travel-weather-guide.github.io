@@ -50,9 +50,21 @@
       "rating": 5
     },
     {
+      "regionId": "granada",
+      "category": "culture",
+      "reason": "더워지기 시작, 알바이신 지구 석양 감상",
+      "rating": 5
+    },
+    {
       "regionId": "hawaii",
       "category": "beach",
       "reason": "건기 절정, 완벽한 해변과 맑은 바다",
+      "rating": 5
+    },
+    {
+      "regionId": "las-vegas",
+      "category": "city",
+      "reason": "40°C 폭염, 호텔 풀사이드 위주 여행",
       "rating": 5
     },
     {
@@ -83,6 +95,12 @@
       "regionId": "marrakech",
       "category": "culture",
       "reason": "기온 상승, 리야드 수영장 중심 리조트 여행",
+      "rating": 5
+    },
+    {
+      "regionId": "marseille",
+      "category": "city",
+      "reason": "지중해 해변 시즌 시작, 깔랑크 해수욕",
       "rating": 5
     },
     {
@@ -172,6 +190,10 @@
       "reason": "우기(하바갓), 거친 바다와 해수욕 제한"
     },
     {
+      "regionId": "cancun",
+      "reason": "우기 시작, 짧은 스콜 후 맑은 하늘"
+    },
+    {
       "regionId": "cebu",
       "reason": "우기 본격화, 다이빙 시야 저하"
     },
@@ -190,6 +212,10 @@
     {
       "regionId": "guilin",
       "reason": "우기 시작, 강물 불어 이강 유람선 더 운치 있음"
+    },
+    {
+      "regionId": "hangzhou",
+      "reason": "매우(장마) 시작, 비 오는 서호의 운치"
     },
     {
       "regionId": "hanoi",
@@ -232,6 +258,10 @@
       "reason": "우기, 쾅시 폭포 최대 수량으로 장관"
     },
     {
+      "regionId": "macau",
+      "reason": "우기 시작, 태풍 시즌 전 마지막 관광기"
+    },
+    {
       "regionId": "manila",
       "reason": "몬순 시작, 폭우와 침수 빈번"
     },
@@ -244,8 +274,20 @@
       "reason": "몬순 시작, 아라비아해 거대 파도와 침수"
     },
     {
+      "regionId": "nagasaki",
+      "reason": "장마 시작, 하우스텐보스 수국 시즌"
+    },
+    {
+      "regionId": "nagoya",
+      "reason": "장마(쯔유) 시즌 시작, 실내 도요타 박물관 추천"
+    },
+    {
       "regionId": "okinawa",
       "reason": "장마(쯔유) 시즌, 폭우가 잦은 시기"
+    },
+    {
+      "regionId": "palawan",
+      "reason": "우기 시작, 거친 파도로 보트 투어 제한"
     },
     {
       "regionId": "pattaya",
@@ -268,8 +310,16 @@
       "reason": "겨울 스키 시즌 오픈, 코로넷 피크 개장"
     },
     {
+      "regionId": "reykjavik",
+      "reason": "백야 시작, 골든서클·빙하 트레킹 최적기"
+    },
+    {
       "regionId": "shanghai",
       "reason": "매우(梅雨) 장마 시작, 눅눅하고 비 잦음"
+    },
+    {
+      "regionId": "shenzhen",
+      "reason": "우기 시작, 오후 스콜 빈번"
     },
     {
       "regionId": "siem-reap",

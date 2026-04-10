@@ -132,12 +132,20 @@
       "reason": "건기 시작, 바다가 잔잔해지는 시기"
     },
     {
+      "regionId": "budapest",
+      "reason": "쌀쌀해지는 초겨울, 온천 시즌 시작"
+    },
+    {
       "regionId": "cebu",
       "reason": "건기 시작, 다이빙 시야 회복"
     },
     {
       "regionId": "colombo",
       "reason": "북동 몬순 시작, 콜롬보는 쾌청해지는 시기"
+    },
+    {
+      "regionId": "copenhagen",
+      "reason": "초겨울, 티볼리 크리스마스 시즌 시작"
     },
     {
       "regionId": "da-nang",
@@ -152,8 +160,20 @@
       "reason": "초겨울, 어둡고 비 잦은 시기"
     },
     {
+      "regionId": "florence",
+      "reason": "올리브 수확 시즌, 맑은 날 주말 산책"
+    },
+    {
       "regionId": "guam",
       "reason": "우기 마무리, 날씨 서서히 회복"
+    },
+    {
+      "regionId": "harbin",
+      "reason": "초겨울, 빙설제 준비 시작되는 시기"
+    },
+    {
+      "regionId": "helsinki",
+      "reason": "초겨울 어둠, 크리스마스 준비 분위기"
     },
     {
       "regionId": "ho-chi-minh",
@@ -178,6 +198,10 @@
     {
       "regionId": "jakarta",
       "reason": "우기 시작, 도로 침수 주의"
+    },
+    {
+      "regionId": "koh-samui",
+      "reason": "몬순 절정, 해수욕 위험하고 페리 결항"
     },
     {
       "regionId": "kota-kinabalu",
@@ -216,12 +240,20 @@
       "reason": "쌀쌀한 초겨울, 크리스마스 마켓 시작"
     },
     {
+      "regionId": "nara",
+      "reason": "단풍 절정, 사슴과 단풍의 인생샷 포인트"
+    },
+    {
       "regionId": "new-york",
       "reason": "추워지지만 추수감사절·홀리데이 시즌 시작"
     },
     {
       "regionId": "nha-trang",
       "reason": "태풍 시즌 막바지, 날씨 회복 시작"
+    },
+    {
+      "regionId": "palawan",
+      "reason": "건기 시작, 바다가 잔잔해지는 시기"
     },
     {
       "regionId": "paris",
@@ -248,8 +280,16 @@
       "reason": "쌀쌀해지는 초겨울, 크리스마스 마켓 준비"
     },
     {
+      "regionId": "reykjavik",
+      "reason": "겨울 시작, 얼음동굴 투어 시즌 오픈"
+    },
+    {
       "regionId": "rome",
       "reason": "쌀쌀해지지만 관광객 적어 여유로운 시기"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "초겨울, 쌀쌀하지만 성탄 준비 분위기"
     },
     {
       "regionId": "singapore",

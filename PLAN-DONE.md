@@ -656,3 +656,36 @@
 | 2026-04-05 | generate-recommendations.py 실행 → 87개 지역 추천 + 코멘트 재생성 |
 | 2026-04-05 | npm run build → 37개국 87개 지역 정적 페이지 빌드 성공 |
 | 2026-04-05 | FLAG_ALPHA2 + imageUrl 수정, CLAUDE.md 국가 추가 체크리스트 문서화 |
+
+---
+
+## 여행 많이 가는 도시 25곳 데이터 추가 (2026-04-10 완료)
+
+- [x] 추가할 25개 도시 확정
+- [x] `scripts/regions.ts`에 국가/지역 정의 추가 (regions + seasonOverrides + visaInfo)
+- [x] `src/utils/data.ts` FLAG_ALPHA2 코드 추가 (신규 6개국)
+- [x] `npx tsx scripts/generate-data.ts --only <countryId>` 실행 (기후 데이터 생성)
+- [x] `npx tsx scripts/add-2025-data.ts --only <regionId>` 실행 (일별 데이터)
+- [x] `scripts/generate-recommendations.py` 업데이트 + 실행 (CATEGORIES, POPULAR, COMMENTS 300개, TYPHOON/FLOOD)
+- [x] `npx tsx scripts/generate-images.ts` 실행 (OG + 썸네일)
+- [x] `npm run build` 성공 확인 (43개국 112개 지역)
+- [x] imageUrl 영구 관리 체계 구축 (regions.ts → generate-data.ts 연동)
+- [x] 국가 카드 기온 표시 제거
+
+### 추가 도시 목록
+- 일본: 나고야, 히로시마, 나라, 나가사키, 고베
+- 중국: 청두, 시안, 항저우, 선전, 하얼빈
+- 기타: 코사무이, 마르세유, 샌프란시스코, 라스베이거스, 케언즈, 팔라완, 그라나다, 피렌체, 잘츠부르크, 부다페스트, 칸쿤, 헬싱키, 코펜하겐, 레이캬비크, 마카오
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 2026-04-10 | Phase 시작, 25개 도시 확정 |
+| 2026-04-10 | regions.ts 편집 완료 (regions + seasonOverrides + visaInfo) |
+| 2026-04-10 | FLAG_ALPHA2 6개국 추가 |
+| 2026-04-10 | generate-recommendations.py 업데이트 (CATEGORIES, POPULAR, COMMENTS 300개, TYPHOON/FLOOD) |
+| 2026-04-10 | 데이터 생성 완료 (generate-data + add-2025-data + generate-recommendations) |
+| 2026-04-10 | OG 이미지 + 썸네일 생성 완료 |
+| 2026-04-10 | npm run build 성공 (43개국 112개 지역) |
+| 2026-04-10 | imageUrl 영구 관리 체계 (countryImageUrls in regions.ts) |
+| 2026-04-10 | 국가 카드 기온/날씨 요약 제거 |

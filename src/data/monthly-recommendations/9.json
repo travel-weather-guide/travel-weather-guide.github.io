@@ -26,6 +26,12 @@
       "rating": 5
     },
     {
+      "regionId": "granada",
+      "category": "culture",
+      "reason": "더위 가시기 시작, 가을 여행 재개",
+      "rating": 5
+    },
+    {
       "regionId": "hawaii",
       "category": "beach",
       "reason": "건기 막바지, 관광객 적고 가성비 최고",
@@ -35,6 +41,12 @@
       "regionId": "istanbul",
       "category": "culture",
       "reason": "더위 물러간 쾌적한 가을 시작",
+      "rating": 5
+    },
+    {
+      "regionId": "las-vegas",
+      "category": "city",
+      "reason": "더위 가시기 시작, 가을 시즌 준비",
       "rating": 5
     },
     {
@@ -68,6 +80,12 @@
       "rating": 5
     },
     {
+      "regionId": "marseille",
+      "category": "city",
+      "reason": "바다 따뜻(23°C), 관광객 줄어든 최적기",
+      "rating": 5
+    },
+    {
       "regionId": "mykonos",
       "category": "beach",
       "reason": "성수기 후 여유, 따뜻한 바다와 파티",
@@ -77,6 +95,12 @@
       "regionId": "nice",
       "category": "beach",
       "reason": "바다 여전히 따뜻(23~25°C), 관광객 줄어든 최적기",
+      "rating": 5
+    },
+    {
+      "regionId": "san-francisco",
+      "category": "city",
+      "reason": "인디안 서머, 1년 중 가장 따뜻하고 맑은 시기",
       "rating": 5
     },
     {
@@ -142,6 +166,10 @@
       "reason": "우기 절정, 페리 결항도 잦은 시기"
     },
     {
+      "regionId": "cancun",
+      "reason": "허리케인 시즌 절정, 여행 일정 유동적"
+    },
+    {
       "regionId": "cebu",
       "reason": "태풍 시즌, 비가 가장 많은 시기"
     },
@@ -174,6 +202,10 @@
       "reason": "우기 끝자락, 비가 줄어들기 시작"
     },
     {
+      "regionId": "hiroshima",
+      "reason": "태풍 가능성 있지만 관광객 적어 여유로운 시기"
+    },
+    {
       "regionId": "ho-chi-minh",
       "reason": "우기 절정, 침수 빈번"
     },
@@ -188,6 +220,10 @@
     {
       "regionId": "kaohsiung",
       "reason": "태풍 끝자락, 비 줄어들기 시작"
+    },
+    {
+      "regionId": "kobe",
+      "reason": "잔여 더위, 고베 재즈 페스티벌 시즌"
     },
     {
       "regionId": "kota-kinabalu",
@@ -214,6 +250,10 @@
       "reason": "우기 끝자락, 홍수 리스크 남아있음"
     },
     {
+      "regionId": "macau",
+      "reason": "태풍 막바지, 여전히 덥고 습한 시기"
+    },
+    {
       "regionId": "male",
       "reason": "우기 끝자락, 만타가오리 시즌"
     },
@@ -230,6 +270,14 @@
       "reason": "옥토버페스트 개막, 세계 최대 맥주 축제"
     },
     {
+      "regionId": "nagasaki",
+      "reason": "태풍 시즌, 야외 관광 일정 유동적"
+    },
+    {
+      "regionId": "nagoya",
+      "reason": "태풍 가능성, 잔여 더위가 남은 초가을"
+    },
+    {
       "regionId": "new-delhi",
       "reason": "우기 마무리, 더위 가시기 시작"
     },
@@ -240,6 +288,10 @@
     {
       "regionId": "osaka",
       "reason": "태풍 리스크와 잔여 더위가 남은 시기"
+    },
+    {
+      "regionId": "palawan",
+      "reason": "우기 절정, 태풍 가능성 높은 시기"
     },
     {
       "regionId": "pattaya",
@@ -262,8 +314,20 @@
       "reason": "스키 시즌 마무리, 봄 하이킹 시작"
     },
     {
+      "regionId": "reykjavik",
+      "reason": "가을 시작, 오로라 시즌 재개·단풍"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "가을 시작, 관광객 줄어 여유로운 시기"
+    },
+    {
       "regionId": "shanghai",
       "reason": "태풍 리스크 남아있지만 가을로 전환 중"
+    },
+    {
+      "regionId": "shenzhen",
+      "reason": "태풍 시즌 막바지, 아직 덥고 습한 시기"
     },
     {
       "regionId": "siem-reap",

@@ -138,6 +138,14 @@
       "reason": "겨울 끝자락, 베를린 영화제(베를리날레)"
     },
     {
+      "regionId": "cairns",
+      "reason": "우기 절정, 열대 폭우와 사이클론 가능"
+    },
+    {
+      "regionId": "copenhagen",
+      "reason": "아직 추운 겨울, 실내 미술관·디자인 투어"
+    },
+    {
       "regionId": "dubrovnik",
       "reason": "겨울, 관광객 거의 없어 숙소 저렴"
     },
@@ -146,12 +154,28 @@
       "reason": "아직 추운 겨울, 위스키 투어에 적합"
     },
     {
+      "regionId": "florence",
+      "reason": "카니발 시즌, 이탈리아 전통 축제 분위기"
+    },
+    {
       "regionId": "fukuoka",
       "reason": "규슈 겨울 끝자락, 우메(매화) 공원 산책 시작"
     },
     {
       "regionId": "guilin",
       "reason": "쌀쌀하지만 안개 낀 카르스트 산수 절경"
+    },
+    {
+      "regionId": "hangzhou",
+      "reason": "매화 시즌, 서호 고산매화원 산책"
+    },
+    {
+      "regionId": "helsinki",
+      "reason": "겨울 막바지, 눈 덮인 수오멘린나 요새"
+    },
+    {
+      "regionId": "hiroshima",
+      "reason": "매화 피기 시작, 슈쿠게이엔 정원 관람"
     },
     {
       "regionId": "hokkaido",
@@ -182,6 +206,14 @@
       "reason": "파싱(카니발) 시즌, 의상 축제의 뮌헨"
     },
     {
+      "regionId": "nagasaki",
+      "reason": "나가사키 랜턴 페스티벌, 1만 5천 등불의 장관"
+    },
+    {
+      "regionId": "nara",
+      "reason": "매화 시즌, 나라공원 사슴과 매화 풍경"
+    },
+    {
       "regionId": "new-york",
       "reason": "가장 추운 시기, 밸런타인 분위기의 도시"
     },
@@ -200,6 +232,14 @@
     {
       "regionId": "prague",
       "reason": "추운 겨울, 관광객 적어 여유로운 구시가지"
+    },
+    {
+      "regionId": "reykjavik",
+      "reason": "겨울 아이슬란드, 얼음동굴 투어 막바지"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "겨울 막바지 스키, 모차르트 주간 축제"
     },
     {
       "regionId": "shanghai",

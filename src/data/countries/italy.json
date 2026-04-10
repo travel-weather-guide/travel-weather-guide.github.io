@@ -433,7 +433,140 @@
           "weatherSummary": "습하고 비 잦음"
         }
       ]
+    },
+    {
+      "id": "florence",
+      "name": {
+        "ko": "피렌체",
+        "en": "Florence"
+      },
+      "countryId": "italy",
+      "latitude": 43.7696,
+      "longitude": 11.2558,
+      "climateType": "지중해성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 11,
+          "tempLow": 2.7,
+          "rainfall": 80.6,
+          "rainyDays": 9.8,
+          "humidity": 81.6,
+          "sunshineHours": 6.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 2,
+          "tempHigh": 13.7,
+          "tempLow": 4,
+          "rainfall": 57.1,
+          "rainyDays": 8.8,
+          "humidity": 78.1,
+          "sunshineHours": 7.2,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 15.5,
+          "tempLow": 4.7,
+          "rainfall": 68.6,
+          "rainyDays": 9.2,
+          "humidity": 72.5,
+          "sunshineHours": 9,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 18.6,
+          "tempLow": 7,
+          "rainfall": 80.4,
+          "rainyDays": 10.6,
+          "humidity": 68.9,
+          "sunshineHours": 10.7,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 23.1,
+          "tempLow": 12.2,
+          "rainfall": 99.1,
+          "rainyDays": 13.4,
+          "humidity": 72,
+          "sunshineHours": 11.4,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 6,
+          "tempHigh": 28.5,
+          "tempLow": 16.2,
+          "rainfall": 75.4,
+          "rainyDays": 8.4,
+          "humidity": 68.6,
+          "sunshineHours": 12.9,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 32.8,
+          "tempLow": 19.1,
+          "rainfall": 20.6,
+          "rainyDays": 5.3,
+          "humidity": 59.6,
+          "sunshineHours": 13.9,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 32.6,
+          "tempLow": 19.5,
+          "rainfall": 62.1,
+          "rainyDays": 6.6,
+          "humidity": 59.9,
+          "sunshineHours": 12.4,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 9,
+          "tempHigh": 27,
+          "tempLow": 15.5,
+          "rainfall": 136.3,
+          "rainyDays": 9.2,
+          "humidity": 69.3,
+          "sunshineHours": 10.4,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 10,
+          "tempHigh": 21.8,
+          "tempLow": 12.1,
+          "rainfall": 130.4,
+          "rainyDays": 11.4,
+          "humidity": 79.4,
+          "sunshineHours": 8.1,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 11,
+          "tempHigh": 15.8,
+          "tempLow": 7.3,
+          "rainfall": 113,
+          "rainyDays": 11.4,
+          "humidity": 81.6,
+          "sunshineHours": 6.7,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 12,
+          "tempHigh": 12,
+          "tempLow": 4,
+          "rainfall": 144.7,
+          "rainyDays": 16,
+          "humidity": 85.4,
+          "sunshineHours": 5,
+          "weatherSummary": "습하고 비 잦음"
+        }
+      ]
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=800&q=80"
+  "imageUrl": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=800&q=80"
 }

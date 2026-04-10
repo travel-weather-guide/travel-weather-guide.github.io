@@ -26,6 +26,12 @@
       "rating": 5
     },
     {
+      "regionId": "budapest",
+      "category": "culture",
+      "reason": "여름 성수기, 시게트 페스티벌(8월) 대비",
+      "rating": 5
+    },
+    {
       "regionId": "cairo",
       "category": "culture",
       "reason": "극한 더위, 유럽인 관광객 감소로 한산",
@@ -41,6 +47,18 @@
       "regionId": "dubrovnik",
       "category": "culture",
       "reason": "왕좌의게임 성지 순례, 폭염과 극심한 인파",
+      "rating": 5
+    },
+    {
+      "regionId": "florence",
+      "category": "culture",
+      "reason": "여름 성수기, 35°C 이상 더위 주의",
+      "rating": 5
+    },
+    {
+      "regionId": "granada",
+      "category": "culture",
+      "reason": "40°C 폭염, 오전 관광·오후 시에스타",
       "rating": 5
     },
     {
@@ -83,6 +101,12 @@
       "regionId": "marrakech",
       "category": "culture",
       "reason": "40°C 극한 더위, 실내 전통 궁전 관람 위주",
+      "rating": 5
+    },
+    {
+      "regionId": "marseille",
+      "category": "city",
+      "reason": "여름 성수기, 재즈 페스티벌과 해변 만석",
       "rating": 5
     },
     {
@@ -200,6 +224,10 @@
       "reason": "우기 지속, 태풍 영향 가능"
     },
     {
+      "regionId": "chengdu",
+      "reason": "무더위, 칭청산 피서와 찻집 문화 체험"
+    },
+    {
       "regionId": "chiang-mai",
       "reason": "우기 지속, 짧은 오후 소나기 후 맑은 하늘"
     },
@@ -220,8 +248,16 @@
       "reason": "우기 성수기, 더운 여름이지만 경치는 절경"
     },
     {
+      "regionId": "hangzhou",
+      "reason": "폭염 시작, 서호 연꽃이 만개하는 시기"
+    },
+    {
       "regionId": "hanoi",
       "reason": "우기 절정, 폭우와 폭염이 동시에"
+    },
+    {
+      "regionId": "hiroshima",
+      "reason": "여름 더위, 세토내해 섬 투어 시즌"
     },
     {
       "regionId": "ho-chi-minh",
@@ -234,6 +270,10 @@
     {
       "regionId": "kaohsiung",
       "reason": "태풍+우기, 극심한 더위"
+    },
+    {
+      "regionId": "kobe",
+      "reason": "여름 고베 항구 축제, 해상 불꽃놀이"
     },
     {
       "regionId": "kota-kinabalu",
@@ -260,6 +300,10 @@
       "reason": "우기 지속, 메콩강 수위 오르는 시기"
     },
     {
+      "regionId": "macau",
+      "reason": "태풍 시즌, 고온다습하고 비 잦음"
+    },
+    {
       "regionId": "male",
       "reason": "우기, 파도 거칠고 시야 낮아지는 시기"
     },
@@ -276,6 +320,18 @@
       "reason": "몬순 절정, 도시 곳곳 침수 — 여행 비추"
     },
     {
+      "regionId": "nagasaki",
+      "reason": "여름 더위, 하우스텐보스 여름 축제"
+    },
+    {
+      "regionId": "nagoya",
+      "reason": "무더위와 높은 습도, 나고야 마쓰리 시즌"
+    },
+    {
+      "regionId": "nara",
+      "reason": "무더위, 나라 등화회(만등제) 환상적인 밤"
+    },
+    {
       "regionId": "new-delhi",
       "reason": "몬순 우기, 도시 침수 주의"
     },
@@ -286,6 +342,10 @@
     {
       "regionId": "osaka",
       "reason": "35°C 이상 폭염, 무더위가 기승을 부리는 시기"
+    },
+    {
+      "regionId": "palawan",
+      "reason": "우기, 아일랜드 호핑 투어 어려움"
     },
     {
       "regionId": "pattaya",
@@ -312,8 +372,16 @@
       "reason": "스키 절정, 남반구 최고의 스키 리조트"
     },
     {
+      "regionId": "reykjavik",
+      "reason": "백야 절정, 가장 따뜻하고(12°C) 활동적 시기"
+    },
+    {
       "regionId": "shanghai",
       "reason": "폭염과 장마, 태풍 영향 가능성"
+    },
+    {
+      "regionId": "shenzhen",
+      "reason": "태풍 시즌, 고온다습한 여름"
     },
     {
       "regionId": "siem-reap",

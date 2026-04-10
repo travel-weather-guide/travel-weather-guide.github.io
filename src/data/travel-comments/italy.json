@@ -756,5 +756,256 @@
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "low",
     "priceLevel": "low"
+  },
+  {
+    "regionId": "florence",
+    "month": 1,
+    "rating": 2,
+    "summary": "겨울 비수기, 우피치 미술관 한적한 관람",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "florence",
+    "month": 2,
+    "rating": 2,
+    "summary": "카니발 시즌, 이탈리아 전통 축제 분위기",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "florence",
+    "month": 3,
+    "rating": 3,
+    "summary": "봄 시작, 보볼리 정원 꽃 피기 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "florence",
+    "month": 4,
+    "rating": 3,
+    "summary": "봄 피렌체, 아이리스 가든과 두오모 산책",
+    "highlights": [
+      "봄 피렌체, 두오모와 아르노 강변 산책 최적기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 10.6일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "피렌체 아이리스 가든 (4~5월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "florence",
+    "month": 5,
+    "rating": 4,
+    "summary": "봄 절정, 아르노 강변 산책과 젤라토",
+    "highlights": [
+      "봄 피렌체, 두오모와 아르노 강변 산책 최적기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 13.4일로 실내 대안 준비 권장",
+      "습도가 72%로 다소 높음"
+    ],
+    "events": [
+      "피렌체 아이리스 가든 (4~5월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "florence",
+    "month": 6,
+    "rating": 4,
+    "summary": "초여름, 토스카나 해바라기밭 시작",
+    "highlights": [
+      "봄 피렌체, 두오모와 아르노 강변 산책 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [],
+    "events": [
+      "피렌체 아이리스 가든 (4~5월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "florence",
+    "month": 7,
+    "rating": 5,
+    "summary": "여름 성수기, 35°C 이상 더위 주의",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "florence",
+    "month": 8,
+    "rating": 4,
+    "summary": "폭염, 관광객 많지만 이탈리안 휴가 분위기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "florence",
+    "month": 9,
+    "rating": 4,
+    "summary": "가을 시작, 포도 수확 축제와 와인 투어",
+    "highlights": [
+      "가을 피렌체, 토스카나 와인 수확 시즌",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 136mm로 우산 필수"
+    ],
+    "events": [
+      "포도 수확 축제",
+      "피렌체 마라톤 (11월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "florence",
+    "month": 10,
+    "rating": 3,
+    "summary": "황금빛 가을, 토스카나 와인 수확 시즌",
+    "highlights": [
+      "가을 피렌체, 토스카나 와인 수확 시즌",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "강수량이 130mm로 우산 필수",
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "포도 수확 축제",
+      "피렌체 마라톤 (11월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "florence",
+    "month": 11,
+    "rating": 2,
+    "summary": "올리브 수확 시즌, 맑은 날 주말 산책",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 113mm로 우산 필수",
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "florence",
+    "month": 12,
+    "rating": 1,
+    "summary": "크리스마스 마켓, 산타 크로체 광장 축제",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "강수량이 145mm로 우산 필수",
+      "월 16일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

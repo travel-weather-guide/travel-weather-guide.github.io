@@ -50,6 +50,12 @@
       "rating": 5
     },
     {
+      "regionId": "macau",
+      "category": "city",
+      "reason": "라이트 페스티벌, 세계유산 야경 조명",
+      "rating": 5
+    },
+    {
       "regionId": "marrakech",
       "category": "culture",
       "reason": "겨울 성수기, 사막 별빛 캠핑과 메디나 야경",
@@ -65,6 +71,12 @@
       "regionId": "pattaya",
       "category": "beach",
       "reason": "성수기 재개, 카운트다운 파티로 붐비는 해변",
+      "rating": 5
+    },
+    {
+      "regionId": "shenzhen",
+      "category": "city",
+      "reason": "쾌적한 겨울, 홍콩 연계 여행 최적기",
       "rating": 5
     },
     {
@@ -142,6 +154,14 @@
       "reason": "건기, 화이트비치가 빛나는 크리스마스 시즌"
     },
     {
+      "regionId": "budapest",
+      "reason": "보로슈마르티 크리스마스 마켓, 유럽 최고"
+    },
+    {
+      "regionId": "cairns",
+      "reason": "우기 시작, 해파리 등장·바다 주의"
+    },
+    {
       "regionId": "cappadocia",
       "reason": "폭설과 혹한, 열기구 결항 빈번"
     },
@@ -152,6 +172,10 @@
     {
       "regionId": "colombo",
       "reason": "건기 재개, 갈레 문학 축제 시즌"
+    },
+    {
+      "regionId": "copenhagen",
+      "reason": "티볼리 크리스마스 마켓, 휘게의 절정"
     },
     {
       "regionId": "da-nang",
@@ -166,8 +190,16 @@
       "reason": "호그마니(새해 축제), 추위 속 연말 분위기"
     },
     {
+      "regionId": "florence",
+      "reason": "크리스마스 마켓, 산타 크로체 광장 축제"
+    },
+    {
       "regionId": "fukuoka",
       "reason": "연말 일루미네이션과 캐널 시티 크리스마스"
+    },
+    {
+      "regionId": "helsinki",
+      "reason": "크리스마스 마켓, 산타클로스의 나라 분위기"
     },
     {
       "regionId": "hoi-an",
@@ -188,6 +220,10 @@
     {
       "regionId": "jakarta",
       "reason": "우기, 침수 위험 증가하는 시기"
+    },
+    {
+      "regionId": "koh-samui",
+      "reason": "몬순 끝자락, 날씨 회복 시작"
     },
     {
       "regionId": "kota-kinabalu",
@@ -226,6 +262,10 @@
       "reason": "건기, 크리스마스 시즌의 몰디브 리조트"
     },
     {
+      "regionId": "marseille",
+      "reason": "겨울이지만 온화, 크리스마스 마르셰"
+    },
+    {
       "regionId": "munich",
       "reason": "마리엔광장 크리스마스 마켓, 독일 연말의 정수"
     },
@@ -246,6 +286,10 @@
       "reason": "겨울이지만 온화, 관광객 적어 여유로운 시기"
     },
     {
+      "regionId": "palawan",
+      "reason": "건기 피크, 크리스마스 시즌 해변 휴양"
+    },
+    {
       "regionId": "paris",
       "reason": "크리스마스 마켓과 일루미네이션의 연말 분위기"
     },
@@ -262,8 +306,20 @@
       "reason": "구시가지 크리스마스 마켓, 유럽 최고의 연말"
     },
     {
+      "regionId": "reykjavik",
+      "reason": "극야, 크리스마스 13명의 유르 산타"
+    },
+    {
       "regionId": "rome",
       "reason": "겨울 비, 크리스마스의 바티칸"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "크리스마스 마켓과 크람푸스 퍼레이드"
+    },
+    {
+      "regionId": "san-francisco",
+      "reason": "겨울 비, 유니언스퀘어 크리스마스 트리"
     },
     {
       "regionId": "singapore",

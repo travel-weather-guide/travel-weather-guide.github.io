@@ -1,0 +1,284 @@
+[
+  {
+    "regionId": "macau",
+    "month": 1,
+    "rating": 4,
+    "summary": "쾌적한 겨울, 세나도 광장과 카지노 투어",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "macau",
+    "month": 2,
+    "rating": 4,
+    "summary": "춘절 분위기, 관음당·마조묘 축제",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "macau",
+    "month": 3,
+    "rating": 3,
+    "summary": "봄 시작, 세계유산 성바울 성당 산책",
+    "highlights": [
+      "봄 마카오, 세나도 광장 산책 좋은 시기",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 12일로 실내 대안 준비 권장",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [
+      "마카오 예술 페스티벌 (5월)"
+    ],
+    "tips": [],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "macau",
+    "month": 4,
+    "rating": 3,
+    "summary": "온화한 봄, 콜로안 해변과 에그타르트",
+    "highlights": [
+      "봄 마카오, 세나도 광장 산책 좋은 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 131mm로 우산 필수",
+      "월 15.4일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [
+      "마카오 예술 페스티벌 (5월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "macau",
+    "month": 5,
+    "rating": 2,
+    "summary": "우기 전환기, 더워지기 시작",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 258mm로 우기에 해당",
+      "월 20.8일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "macau",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기 시작, 태풍 시즌 전 마지막 관광기",
+    "highlights": [
+      "태풍·고온다습, 야외 관광 힘든 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 299mm로 우기에 해당",
+      "월 25.6일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "macau",
+    "month": 7,
+    "rating": 1,
+    "summary": "태풍 시즌, 고온다습하고 비 잦음",
+    "highlights": [
+      "태풍·고온다습, 야외 관광 힘든 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 238mm로 우기에 해당",
+      "월 21.4일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "macau",
+    "month": 8,
+    "rating": 1,
+    "summary": "태풍 절정기, 실내 카지노·호텔 위주",
+    "highlights": [
+      "태풍·고온다습, 야외 관광 힘든 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 385mm로 우기에 해당",
+      "월 27.6일 비가 와 야외 일정에 유의",
+      "습도 86%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "macau",
+    "month": 9,
+    "rating": 1,
+    "summary": "태풍 막바지, 여전히 덥고 습한 시기",
+    "highlights": [
+      "태풍·고온다습, 야외 관광 힘든 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 351mm로 우기에 해당",
+      "월 25일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "macau",
+    "month": 10,
+    "rating": 3,
+    "summary": "쾌적한 가을 시작, 마카오 여행 최적기",
+    "highlights": [
+      "쾌적한 가을~초겨울, 카지노와 세계유산 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 224mm로 우기에 해당",
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "마카오 그랑프리 (11월)",
+      "마카오 라이트 페스티벌 (12월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "macau",
+    "month": 11,
+    "rating": 4,
+    "summary": "마카오 그랑프리, 시가지 레이싱 축제",
+    "highlights": [
+      "쾌적한 가을~초겨울, 카지노와 세계유산 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "마카오 그랑프리 (11월)",
+      "마카오 라이트 페스티벌 (12월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "macau",
+    "month": 12,
+    "rating": 5,
+    "summary": "라이트 페스티벌, 세계유산 야경 조명",
+    "highlights": [
+      "쾌적한 가을~초겨울, 카지노와 세계유산 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [
+      "마카오 그랑프리 (11월)",
+      "마카오 라이트 페스티벌 (12월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  }
+]

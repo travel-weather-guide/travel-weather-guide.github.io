@@ -1261,5 +1261,1261 @@
     "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
     "crowdLevel": "medium",
     "priceLevel": "medium"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 1,
+    "rating": 3,
+    "summary": "겨울 안개 잦지만 사천 훠궈로 몸 녹이기",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 2,
+    "rating": 3,
+    "summary": "춘절 분위기, 진리 거리 등불 축제",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 3,
+    "rating": 3,
+    "summary": "봄 시작, 팬더 기지 아기 팬더 관찰 시기",
+    "highlights": [
+      "봄 팬더 기지 방문 최적기, 신록의 계절",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "비 오는 날이 11.2일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "쓰촨 꽃 시즌",
+      "청두 마라톤 (4월)"
+    ],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 4,
+    "rating": 3,
+    "summary": "팬더 기지 최적기, 신록 속 팬더와 봄꽃",
+    "highlights": [
+      "봄 팬더 기지 방문 최적기, 신록의 계절",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 12.8일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "쓰촨 꽃 시즌",
+      "청두 마라톤 (4월)"
+    ],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 5,
+    "rating": 3,
+    "summary": "쾌적한 봄, 두장옌·칭청산 당일치기 추천",
+    "highlights": [
+      "봄 팬더 기지 방문 최적기, 신록의 계절",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 100mm로 우산 필수",
+      "비 오는 날이 13.6일로 실내 대안 준비 권장"
+    ],
+    "events": [
+      "쓰촨 꽃 시즌",
+      "청두 마라톤 (4월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 6,
+    "rating": 4,
+    "summary": "더워지기 시작, 쓰촨 마파두부·회귀육 미식",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 12.4일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 7,
+    "rating": 2,
+    "summary": "무더위, 칭청산 피서와 찻집 문화 체험",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 248mm로 우기에 해당",
+      "월 17.6일 비가 와 야외 일정에 유의",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 8,
+    "rating": 2,
+    "summary": "한여름 더위, 러산 대불·어메이산 피서",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 295mm로 우기에 해당",
+      "월 16.4일 비가 와 야외 일정에 유의",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 9,
+    "rating": 3,
+    "summary": "가을 시작, 구채구·황룡 단풍 연계 여행",
+    "highlights": [
+      "쾌적한 가을, 쓰촨 미식과 청두 차 문화",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 121mm로 우산 필수",
+      "월 15.4일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "국경절 황금연휴 (10월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 10,
+    "rating": 3,
+    "summary": "국경절 연휴, 구채구 단풍 절정기",
+    "highlights": [
+      "쾌적한 가을, 쓰촨 미식과 청두 차 문화"
+    ],
+    "cautions": [
+      "비 오는 날이 15일로 실내 대안 준비 권장",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "국경절 황금연휴 (10월)"
+    ],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 11,
+    "rating": 3,
+    "summary": "쌀쌀해지는 가을, 진리 거리 야시장 탐방",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "chengdu",
+    "month": 12,
+    "rating": 3,
+    "summary": "겨울 안개, 실내 찻집·훠궈 미식 투어",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "xian",
+    "month": 1,
+    "rating": 3,
+    "summary": "혹한이지만 관광객 적어 병마용 여유 관람",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -3°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "xian",
+    "month": 2,
+    "rating": 4,
+    "summary": "춘절 성벽 등불축제, 환상적인 야경",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "평균 최저기온 -0°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "xian",
+    "month": 3,
+    "rating": 4,
+    "summary": "봄 시작, 대안탑 광장 벚꽃과 화청지",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "xian",
+    "month": 4,
+    "rating": 4,
+    "summary": "봄 최적기, 병마용·성벽 자전거 최고 시기",
+    "highlights": [
+      "봄 시안, 병마용·대안탑 관광 최적기",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "봄 시즌",
+      "시안 성벽 마라톤"
+    ],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "xian",
+    "month": 5,
+    "rating": 5,
+    "summary": "쾌적한 봄, 화산(화산) 트레킹 적기",
+    "highlights": [
+      "봄 시안, 병마용·대안탑 관광 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [
+      "봄 시즌",
+      "시안 성벽 마라톤"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "xian",
+    "month": 6,
+    "rating": 4,
+    "summary": "더워지기 시작, 회민가 야시장 미식 투어",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "xian",
+    "month": 7,
+    "rating": 3,
+    "summary": "35°C 이상 폭염, 야외 유적 관광 힘든 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 154mm로 우기에 해당",
+      "비 오는 날이 12일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "xian",
+    "month": 8,
+    "rating": 3,
+    "summary": "폭염 지속, 이른 아침·저녁 성벽 산책 추천",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 124mm로 우산 필수",
+      "비 오는 날이 11.4일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "xian",
+    "month": 9,
+    "rating": 3,
+    "summary": "가을 시작, 맑은 하늘 아래 병마용 관광",
+    "highlights": [
+      "가을 시안, 맑은 하늘 아래 실크로드 출발지",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 106mm로 우산 필수"
+    ],
+    "events": [
+      "국경절 황금연휴 (10월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "xian",
+    "month": 10,
+    "rating": 3,
+    "summary": "국경절 연휴, 실크로드 출발지의 황금 가을",
+    "highlights": [
+      "가을 시안, 맑은 하늘 아래 실크로드 출발지"
+    ],
+    "cautions": [
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "국경절 황금연휴 (10월)"
+    ],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "xian",
+    "month": 11,
+    "rating": 3,
+    "summary": "늦가을, 화청지 은행나무 단풍 절경",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "xian",
+    "month": 12,
+    "rating": 3,
+    "summary": "겨울 시안, 눈 덮인 성벽의 장엄한 풍경",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -3°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 1,
+    "rating": 2,
+    "summary": "겨울 서호, 단교잔설(끊어진 다리 위 잔설) 절경",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 2,
+    "rating": 1,
+    "summary": "매화 시즌, 서호 고산매화원 산책",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 12.8일로 실내 대안 준비 권장",
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 3,
+    "rating": 2,
+    "summary": "봄 시작, 서호 벚꽃과 용정차 수확 시작",
+    "highlights": [
+      "서호(시후) 벚꽃과 봄꽃의 절정"
+    ],
+    "cautions": [
+      "강수량이 129mm로 우산 필수",
+      "비 오는 날이 14.2일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "서호 벚꽃 시즌 (3~4월)",
+      "용정차 수확 시즌 (3월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 4,
+    "rating": 3,
+    "summary": "봄 절정, 서호 수양버들과 연꽃 신록",
+    "highlights": [
+      "서호(시후) 벚꽃과 봄꽃의 절정"
+    ],
+    "cautions": [
+      "강수량이 121mm로 우산 필수",
+      "비 오는 날이 12.4일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "서호 벚꽃 시즌 (3~4월)",
+      "용정차 수확 시즌 (3월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 5,
+    "rating": 3,
+    "summary": "초여름, 용정차밭 트레킹과 서호 유람",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 168mm로 우기에 해당",
+      "비 오는 날이 13.4일로 실내 대안 준비 권장",
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 6,
+    "rating": 2,
+    "summary": "매우(장마) 시작, 비 오는 서호의 운치",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 392mm로 우기에 해당",
+      "월 19.8일 비가 와 야외 일정에 유의",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 7,
+    "rating": 2,
+    "summary": "폭염 시작, 서호 연꽃이 만개하는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 33°C로 더위에 주의",
+      "월 강수량 208mm로 우기에 해당",
+      "월 17.4일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 8,
+    "rating": 2,
+    "summary": "한여름 폭염, 서호 야경 유람 추천",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "평균 최고기온 34°C로 더위에 주의",
+      "월 강수량 181mm로 우기에 해당",
+      "월 16.2일 비가 와 야외 일정에 유의",
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "냉방이 잘 되는 숙소 선택 권장",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 9,
+    "rating": 3,
+    "summary": "가을 시작, 서호 단풍이 물드는 시기",
+    "highlights": [
+      "가을 서호, 단풍 반영이 가장 아름다운 시기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 130mm로 우산 필수",
+      "비 오는 날이 13.4일로 실내 대안 준비 권장",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [
+      "국경절 황금연휴 (10월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 10,
+    "rating": 3,
+    "summary": "국경절 연휴, 서호·영은사 단풍 절정",
+    "highlights": [
+      "가을 서호, 단풍 반영이 가장 아름다운 시기",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [
+      "국경절 황금연휴 (10월)"
+    ],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 11,
+    "rating": 3,
+    "summary": "늦가을, 구시가 거리 은행나무 노란 단풍",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 10.4일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "hangzhou",
+    "month": 12,
+    "rating": 3,
+    "summary": "겨울 서호, 관광객 적어 고즈넉한 운치",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 1,
+    "rating": 4,
+    "summary": "쾌적한 겨울, 세계의 창·해변 산책 적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 2,
+    "rating": 4,
+    "summary": "춘절 연휴, 금수중화 민속촌 축제",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 76%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 3,
+    "rating": 4,
+    "summary": "봄 시작, 화교성 테마파크 방문 적기",
+    "highlights": [
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "비 오는 날이 11.2일로 실내 대안 준비 권장",
+      "습도가 80%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 4,
+    "rating": 3,
+    "summary": "온난한 봄, 렌화산 공원 산책",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 174mm로 우기에 해당",
+      "월 15.4일 비가 와 야외 일정에 유의",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 5,
+    "rating": 2,
+    "summary": "더워지기 시작, 우기 직전 마지막 쾌적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 287mm로 우기에 해당",
+      "월 21.4일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 6,
+    "rating": 2,
+    "summary": "우기 시작, 오후 스콜 빈번",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 285mm로 우기에 해당",
+      "월 26.4일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 7,
+    "rating": 2,
+    "summary": "태풍 시즌, 고온다습한 여름",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "따뜻한 날씨로 해변 활동에 적합"
+    ],
+    "cautions": [
+      "월 강수량 188mm로 우기에 해당",
+      "월 22.8일 비가 와 야외 일정에 유의",
+      "습도 83%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 8,
+    "rating": 1,
+    "summary": "태풍·폭우 주의, 실내 쇼핑몰 위주",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "월 강수량 330mm로 우기에 해당",
+      "월 27.2일 비가 와 야외 일정에 유의",
+      "습도 87%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 9,
+    "rating": 1,
+    "summary": "태풍 시즌 막바지, 아직 덥고 습한 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 270mm로 우기에 해당",
+      "월 23일 비가 와 야외 일정에 유의",
+      "습도 85%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 10,
+    "rating": 4,
+    "summary": "국경절 연휴, 쾌적한 가을 여행 시작",
+    "highlights": [
+      "쾌적한 가을~초겨울, 테마파크와 쇼핑 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 145mm로 우산 필수",
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [
+      "심천 하이테크 페어 (11월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 11,
+    "rating": 4,
+    "summary": "맑고 선선, 다메이사 해변·OCT 창의단지 적기",
+    "highlights": [
+      "쾌적한 가을~초겨울, 테마파크와 쇼핑 적기",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [
+      "심천 하이테크 페어 (11월)"
+    ],
+    "tips": [],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "shenzhen",
+    "month": 12,
+    "rating": 5,
+    "summary": "쾌적한 겨울, 홍콩 연계 여행 최적기",
+    "highlights": [
+      "쾌적한 가을~초겨울, 테마파크와 쇼핑 적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [
+      "심천 하이테크 페어 (11월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "harbin",
+    "month": 1,
+    "rating": 3,
+    "summary": "빙설제 절정, -20°C 속 얼음 궁전의 환상",
+    "highlights": [
+      "하얼빈 빙설제, 세계 최대 얼음 조각 축제",
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -21°C로 방한 대비 필요",
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [
+      "하얼빈 국제 빙설제 (1~2월)",
+      "빙등 대세계"
+    ],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "harbin",
+    "month": 2,
+    "rating": 3,
+    "summary": "빙설제 막바지, 여전히 볼거리 풍성",
+    "highlights": [
+      "하얼빈 빙설제, 세계 최대 얼음 조각 축제",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -17°C로 방한 대비 필요"
+    ],
+    "events": [
+      "하얼빈 국제 빙설제 (1~2월)",
+      "빙등 대세계"
+    ],
+    "tips": [
+      "보온 용품과 핫팩 준비",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "harbin",
+    "month": 3,
+    "rating": 4,
+    "summary": "봄 시작이지만 아직 영하, 눈 녹는 과도기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -6°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "harbin",
+    "month": 4,
+    "rating": 4,
+    "summary": "해빙기, 쑹화강 얼음 녹는 장관",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "harbin",
+    "month": 5,
+    "rating": 4,
+    "summary": "봄꽃 시작, 라일락 만개하는 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "습도가 낮아 쾌적함"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "harbin",
+    "month": 6,
+    "rating": 4,
+    "summary": "여름 시작, 서늘한 피서지로 변신",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "강수량이 125mm로 우산 필수",
+      "비 오는 날이 14.8일로 실내 대안 준비 권장"
+    ],
+    "events": [],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "harbin",
+    "month": 7,
+    "rating": 3,
+    "summary": "맥주 축제, 25°C 시원한 여름 피서",
+    "highlights": [
+      "서늘한 여름 피서지, 태양도 공원 맥주 축제",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 167mm로 우기에 해당",
+      "월 16.2일 비가 와 야외 일정에 유의",
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [
+      "하얼빈 맥주 축제 (7월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "harbin",
+    "month": 8,
+    "rating": 3,
+    "summary": "서늘한 여름, 태양도 공원 산책 적기",
+    "highlights": [
+      "서늘한 여름 피서지, 태양도 공원 맥주 축제",
+      "일조시간이 길어 야외 활동에 좋음",
+      "쾌적한 기온"
+    ],
+    "cautions": [
+      "월 강수량 153mm로 우기에 해당",
+      "비 오는 날이 14.4일로 실내 대안 준비 권장",
+      "습도 81%로 불쾌지수 높음"
+    ],
+    "events": [
+      "하얼빈 맥주 축제 (7월)"
+    ],
+    "tips": [
+      "접이식 우산이나 우비 챙기기",
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "harbin",
+    "month": 9,
+    "rating": 3,
+    "summary": "가을 시작, 단풍이 물드는 쑹화강변",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "harbin",
+    "month": 10,
+    "rating": 4,
+    "summary": "급격히 추워지는 초겨울, 첫 눈 가능",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "harbin",
+    "month": 11,
+    "rating": 2,
+    "summary": "초겨울, 빙설제 준비 시작되는 시기",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -7°C로 방한 대비 필요",
+      "습도가 70%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "harbin",
+    "month": 12,
+    "rating": 3,
+    "summary": "빙설제 개막, 빙등 대세계 오픈",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "평균 최저기온 -18°C로 방한 대비 필요"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
   }
 ]

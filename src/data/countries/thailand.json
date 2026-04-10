@@ -711,7 +711,152 @@
           "weatherSummary": "습하고 비 잦음"
         }
       ]
+    },
+    {
+      "id": "koh-samui",
+      "name": {
+        "ko": "코사무이",
+        "en": "Koh Samui"
+      },
+      "countryId": "thailand",
+      "latitude": 9.512,
+      "longitude": 100.0627,
+      "climateType": "열대 몬순",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 28.2,
+          "tempLow": 24.4,
+          "rainfall": 52.3,
+          "rainyDays": 17.2,
+          "humidity": 78.3,
+          "sunshineHours": 10.6,
+          "seaTemp": 28.8,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 2,
+          "tempHigh": 28.8,
+          "tempLow": 24.6,
+          "rainfall": 56.3,
+          "rainyDays": 15.6,
+          "humidity": 78,
+          "sunshineHours": 10.6,
+          "seaTemp": 29.1,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 3,
+          "tempHigh": 30.3,
+          "tempLow": 25.5,
+          "rainfall": 37.2,
+          "rainyDays": 10.8,
+          "humidity": 76.1,
+          "sunshineHours": 11,
+          "seaTemp": 29.6,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 4,
+          "tempHigh": 31.4,
+          "tempLow": 26.4,
+          "rainfall": 94.8,
+          "rainyDays": 15.4,
+          "humidity": 76.4,
+          "sunshineHours": 10.9,
+          "seaTemp": 31.5,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 5,
+          "tempHigh": 31.3,
+          "tempLow": 26.6,
+          "rainfall": 118.4,
+          "rainyDays": 18.4,
+          "humidity": 78.4,
+          "sunshineHours": 10.4,
+          "seaTemp": 32.1,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 6,
+          "tempHigh": 31.4,
+          "tempLow": 26.3,
+          "rainfall": 79.2,
+          "rainyDays": 16.6,
+          "humidity": 75.4,
+          "sunshineHours": 10.1,
+          "seaTemp": 31.2,
+          "weatherSummary": "따뜻하고 쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 30.5,
+          "tempLow": 25.8,
+          "rainfall": 124.6,
+          "rainyDays": 22.2,
+          "humidity": 79.3,
+          "sunshineHours": 8.6,
+          "seaTemp": 30.8,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 8,
+          "tempHigh": 30.9,
+          "tempLow": 25.8,
+          "rainfall": 100.3,
+          "rainyDays": 20,
+          "humidity": 77,
+          "sunshineHours": 9.6,
+          "seaTemp": 30.9,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 9,
+          "tempHigh": 29.8,
+          "tempLow": 25.4,
+          "rainfall": 143.5,
+          "rainyDays": 21.4,
+          "humidity": 81,
+          "sunshineHours": 8.8,
+          "seaTemp": 30.4,
+          "weatherSummary": "습하고 비 잦음"
+        },
+        {
+          "month": 10,
+          "tempHigh": 28.8,
+          "tempLow": 24.8,
+          "rainfall": 223.8,
+          "rainyDays": 27,
+          "humidity": 84.7,
+          "sunshineHours": 8.8,
+          "seaTemp": 30.7,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 11,
+          "tempHigh": 28,
+          "tempLow": 24.6,
+          "rainfall": 321.4,
+          "rainyDays": 26,
+          "humidity": 85.3,
+          "sunshineHours": 8.1,
+          "seaTemp": 29.9,
+          "weatherSummary": "우기"
+        },
+        {
+          "month": 12,
+          "tempHigh": 27.7,
+          "tempLow": 24.5,
+          "rainfall": 209,
+          "rainyDays": 19.6,
+          "humidity": 80.9,
+          "sunshineHours": 9.5,
+          "seaTemp": 28.8,
+          "weatherSummary": "우기"
+        }
+      ]
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?auto=format&fit=crop&w=800&q=80"
+  "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=800&q=80"
 }

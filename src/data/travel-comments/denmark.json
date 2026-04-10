@@ -1,0 +1,260 @@
+[
+  {
+    "regionId": "copenhagen",
+    "month": 1,
+    "rating": 1,
+    "summary": "겨울 한가운데, 휘게(hygge) 카페 투어",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 13.6일로 실내 대안 준비 권장",
+      "습도 86%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 2,
+    "rating": 1,
+    "summary": "아직 추운 겨울, 실내 미술관·디자인 투어",
+    "highlights": [
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 13.2일로 실내 대안 준비 권장",
+      "습도 84%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 3,
+    "rating": 2,
+    "summary": "봄 시작, 티볼리 공원 시즌 오픈(4월)",
+    "highlights": [
+      "강수량이 적어 맑은 날이 많음",
+      "겨울 스포츠에 적합한 시기"
+    ],
+    "cautions": [
+      "습도가 79%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 4,
+    "rating": 3,
+    "summary": "봄 꽃 시즌, 티볼리 공원 개장 축제",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 73%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 5,
+    "rating": 3,
+    "summary": "쾌적한 봄, 뉘하운 운하 산책 최적기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "비 오는 날이 10.8일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 6,
+    "rating": 4,
+    "summary": "여름 시작, 긴 해와 야외 테라스",
+    "highlights": [
+      "덴마크의 짧고 화창한 여름, 뉘하운 운하 최적기",
+      "일조시간이 길어 야외 활동에 좋음",
+      "강수량이 적어 맑은 날이 많음"
+    ],
+    "cautions": [
+      "습도가 74%로 다소 높음"
+    ],
+    "events": [
+      "로스킬레 페스티벌 (7월)",
+      "코펜하겐 재즈 페스티벌 (7월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 7,
+    "rating": 4,
+    "summary": "덴마크 여름 절정, 로스킬레 페스티벌",
+    "highlights": [
+      "덴마크의 짧고 화창한 여름, 뉘하운 운하 최적기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 13.6일로 실내 대안 준비 권장",
+      "습도가 75%로 다소 높음"
+    ],
+    "events": [
+      "로스킬레 페스티벌 (7월)",
+      "코펜하겐 재즈 페스티벌 (7월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 8,
+    "rating": 4,
+    "summary": "여름 끝자락, 코펜하겐 요리 페스티벌",
+    "highlights": [
+      "덴마크의 짧고 화창한 여름, 뉘하운 운하 최적기",
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "비 오는 날이 11.4일로 실내 대안 준비 권장",
+      "습도가 77%로 다소 높음"
+    ],
+    "events": [
+      "로스킬레 페스티벌 (7월)",
+      "코펜하겐 재즈 페스티벌 (7월)"
+    ],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "high",
+    "priceLevel": "high"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 9,
+    "rating": 3,
+    "summary": "가을 시작, 관광객 줄어 여유로운 시기",
+    "highlights": [
+      "일조시간이 길어 야외 활동에 좋음"
+    ],
+    "cautions": [
+      "습도가 78%로 다소 높음"
+    ],
+    "events": [],
+    "tips": [
+      "선글라스와 모자 챙기기"
+    ],
+    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "crowdLevel": "medium",
+    "priceLevel": "medium"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 10,
+    "rating": 2,
+    "summary": "가을 깊어지는 시기, 해 짧아짐",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 12.6일로 실내 대안 준비 권장",
+      "습도 82%로 불쾌지수 높음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 11,
+    "rating": 2,
+    "summary": "초겨울, 티볼리 크리스마스 시즌 시작",
+    "highlights": [
+      "현지 일상을 경험하기 좋은 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 11일로 실내 대안 준비 권장",
+      "습도 84%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [],
+    "tips": [],
+    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  },
+  {
+    "regionId": "copenhagen",
+    "month": 12,
+    "rating": 1,
+    "summary": "티볼리 크리스마스 마켓, 휘게의 절정",
+    "highlights": [
+      "티볼리 크리스마스 마켓과 휘게의 계절",
+      "겨울 스포츠에 적합한 시기",
+      "비수기로 관광객이 적어 여유로움",
+      "비수기 할인을 활용할 수 있는 시기"
+    ],
+    "cautions": [
+      "비 오는 날이 14일로 실내 대안 준비 권장",
+      "습도 87%로 불쾌지수 높음",
+      "일조시간이 짧아 흐린 날이 많음"
+    ],
+    "events": [
+      "티볼리 크리스마스 (11~12월)"
+    ],
+    "tips": [
+      "보온 용품과 핫팩 준비"
+    ],
+    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "crowdLevel": "low",
+    "priceLevel": "low"
+  }
+]

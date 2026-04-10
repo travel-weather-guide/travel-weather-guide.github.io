@@ -1,0 +1,149 @@
+{
+  "id": "hungary",
+  "name": {
+    "ko": "헝가리",
+    "en": "Hungary"
+  },
+  "continent": "europe",
+  "capital": "Budapest",
+  "currency": "Hungarian forint (Ft)",
+  "language": "Hungarian",
+  "timezone": "UTC+01:00",
+  "visaInfo": "무비자 90일 (쉥겐 지역)",
+  "regions": [
+    {
+      "id": "budapest",
+      "name": {
+        "ko": "부다페스트",
+        "en": "Budapest"
+      },
+      "countryId": "hungary",
+      "latitude": 47.4979,
+      "longitude": 19.0402,
+      "climateType": "온대 대륙성",
+      "monthlyData": [
+        {
+          "month": 1,
+          "tempHigh": 5,
+          "tempLow": -1.5,
+          "rainfall": 37.9,
+          "rainyDays": 8.6,
+          "humidity": 81.5,
+          "sunshineHours": 5.1,
+          "weatherSummary": "추움"
+        },
+        {
+          "month": 2,
+          "tempHigh": 9.3,
+          "tempLow": 0.9,
+          "rainfall": 25.9,
+          "rainyDays": 8.6,
+          "humidity": 73.3,
+          "sunshineHours": 7.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 3,
+          "tempHigh": 12.2,
+          "tempLow": 2,
+          "rainfall": 33.1,
+          "rainyDays": 7,
+          "humidity": 64.8,
+          "sunshineHours": 8.8,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 4,
+          "tempHigh": 16,
+          "tempLow": 5.4,
+          "rainfall": 52,
+          "rainyDays": 9.4,
+          "humidity": 62.7,
+          "sunshineHours": 10.1,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 5,
+          "tempHigh": 21.1,
+          "tempLow": 11.1,
+          "rainfall": 76.5,
+          "rainyDays": 11.2,
+          "humidity": 65,
+          "sunshineHours": 11,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 6,
+          "tempHigh": 26.2,
+          "tempLow": 16.1,
+          "rainfall": 79.2,
+          "rainyDays": 9.8,
+          "humidity": 65.7,
+          "sunshineHours": 12.8,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 7,
+          "tempHigh": 29.1,
+          "tempLow": 18.3,
+          "rainfall": 63.5,
+          "rainyDays": 9,
+          "humidity": 58.7,
+          "sunshineHours": 12.9,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 8,
+          "tempHigh": 28.6,
+          "tempLow": 17.9,
+          "rainfall": 59.6,
+          "rainyDays": 9.2,
+          "humidity": 63.1,
+          "sunshineHours": 11.8,
+          "weatherSummary": "쾌청"
+        },
+        {
+          "month": 9,
+          "tempHigh": 23.2,
+          "tempLow": 13.3,
+          "rainfall": 68.6,
+          "rainyDays": 9,
+          "humidity": 68.5,
+          "sunshineHours": 9.6,
+          "weatherSummary": "온화"
+        },
+        {
+          "month": 10,
+          "tempHigh": 17,
+          "tempLow": 8,
+          "rainfall": 59,
+          "rainyDays": 7.8,
+          "humidity": 78.4,
+          "sunshineHours": 7.6,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 11,
+          "tempHigh": 9,
+          "tempLow": 2.6,
+          "rainfall": 48.8,
+          "rainyDays": 8.4,
+          "humidity": 86.2,
+          "sunshineHours": 4.7,
+          "weatherSummary": "쌀쌀"
+        },
+        {
+          "month": 12,
+          "tempHigh": 4.9,
+          "tempLow": -0.3,
+          "rainfall": 63,
+          "rainyDays": 10.2,
+          "humidity": 87.3,
+          "sunshineHours": 3.5,
+          "weatherSummary": "추움"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1541417904950-b855846fe074?auto=format&fit=crop&w=800&q=80"
+}

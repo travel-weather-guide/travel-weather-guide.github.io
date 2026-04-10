@@ -126,12 +126,24 @@
       "reason": "혹독한 베를린 겨울, 박물관섬 실내 관광"
     },
     {
+      "regionId": "budapest",
+      "reason": "혹한이지만 세체니 온천 노천탕의 매력"
+    },
+    {
+      "regionId": "cairns",
+      "reason": "우기 한가운데, 해파리 시즌·폭우 주의"
+    },
+    {
       "regionId": "cappadocia",
       "reason": "폭설로 열기구 대부분 결항, 겨울왕국 풍경"
     },
     {
       "regionId": "cebu",
       "reason": "건기, 맑은 바다에서 고래상어 투어 최적기"
+    },
+    {
+      "regionId": "copenhagen",
+      "reason": "겨울 한가운데, 휘게(hygge) 카페 투어"
     },
     {
       "regionId": "da-nang",
@@ -146,12 +158,28 @@
       "reason": "혹한과 어둠, 일조시간 7시간의 깊은 겨울"
     },
     {
+      "regionId": "florence",
+      "reason": "겨울 비수기, 우피치 미술관 한적한 관람"
+    },
+    {
       "regionId": "fukuoka",
       "reason": "추운 겨울이지만 야타이 포장마차에서 라멘 한 그릇"
     },
     {
       "regionId": "guilin",
       "reason": "한겨울이지만 이강 유람선 운항, 수묵화 속 여행"
+    },
+    {
+      "regionId": "hangzhou",
+      "reason": "겨울 서호, 단교잔설(끊어진 다리 위 잔설) 절경"
+    },
+    {
+      "regionId": "helsinki",
+      "reason": "혹한(-10°C), 사우나 문화와 오로라 가능"
+    },
+    {
+      "regionId": "hiroshima",
+      "reason": "겨울이지만 미야지마 섬 한적한 참배 시기"
     },
     {
       "regionId": "hoi-an",
@@ -194,6 +222,18 @@
       "reason": "겨울, 마리엔광장 야경과 근교 알프스 스키"
     },
     {
+      "regionId": "nagasaki",
+      "reason": "겨울 항구도시, 짬뽕·카스테라 미식 여행"
+    },
+    {
+      "regionId": "nagoya",
+      "reason": "겨울이지만 아쓰타 신궁 첫 참배와 미소니코미 우동"
+    },
+    {
+      "regionId": "nara",
+      "reason": "겨울 나라, 한적한 와카쿠사야마 불태우기(1월)"
+    },
+    {
       "regionId": "new-york",
       "reason": "영하의 혹한과 폭설, 브로드웨이와 실내 관광 위주"
     },
@@ -210,8 +250,20 @@
       "reason": "겨울, 카를교 위 눈과 뜨거운 맥주 한 잔"
     },
     {
+      "regionId": "reykjavik",
+      "reason": "극야 시즌, 오로라와 블루라군 온천"
+    },
+    {
       "regionId": "rome",
       "reason": "겨울 비, 콜로세움 줄이 짧은 비수기"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "겨울 스키 시즌, 근교 알프스 스키 리조트"
+    },
+    {
+      "regionId": "san-francisco",
+      "reason": "겨울 비 시즌, 피셔맨스워프 클램차우더"
     },
     {
       "regionId": "shanghai",
