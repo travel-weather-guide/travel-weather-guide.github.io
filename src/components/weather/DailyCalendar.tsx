@@ -43,6 +43,9 @@ function cellBg(tempHigh: number, tempLow: number): string {
 export default function DailyCalendar({ days, month, year, commentBadge }: DailyCalendarProps) {
   const { locale } = useLocale();
   const [hoveredDay, setHoveredDay] = useState<DayData | null>(null);
+  const [tappedDay, setTappedDay] = useState<DayData | null>(null);
+
+  const selectedDay = tappedDay ?? hoveredDay;
 
   const DAY_HEADERS = [
     t(messages.weekdays.sun, locale),
@@ -65,15 +68,15 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
 
   return (
     <div>
-      {/* Hover info bar */}
-      <div className="flex h-10 items-center">
-        {hoveredDay ? (
+      {/* Info bar */}
+      <div className="flex min-h-10 items-center">
+        {selectedDay ? (
           <div className="flex flex-wrap items-center gap-x-4 gap-y-1 rounded-xl bg-slate-50 px-4 py-2 text-sm">
-            <span className="font-semibold text-gray-800">{month}/{hoveredDay.day}</span>
-            <span>{t(messages.calendar.infoTempHigh, locale)} <b className="text-rose-400">{hoveredDay.tempHigh}°</b></span>
-            <span>{t(messages.calendar.infoTempLow, locale)} <b className="text-gray-500">{hoveredDay.tempLow}°</b></span>
-            <span>{t(messages.calendar.infoRainfall, locale)} <b className="text-sky-500">{hoveredDay.rainfall}mm</b></span>
-            <span>{t(messages.calendar.infoHumidity, locale)} <b className="text-teal-500">{hoveredDay.humidity}%</b></span>
+            <span className="font-semibold text-gray-800">{month}/{selectedDay.day}</span>
+            <span>{t(messages.calendar.infoTempHigh, locale)} <b className="text-rose-400">{selectedDay.tempHigh}°</b></span>
+            <span>{t(messages.calendar.infoTempLow, locale)} <b className="text-gray-500">{selectedDay.tempLow}°</b></span>
+            <span>{t(messages.calendar.infoRainfall, locale)} <b className="text-sky-500">{selectedDay.rainfall}mm</b></span>
+            <span>{t(messages.calendar.infoHumidity, locale)} <b className="text-teal-500">{selectedDay.humidity}%</b></span>
           </div>
         ) : (
           <p className="text-xs text-gray-300">{t(messages.calendar.hoverHint, locale)}</p>
@@ -135,7 +138,8 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
               key={cell.day}
               onMouseEnter={() => setHoveredDay(cell)}
               onMouseLeave={() => setHoveredDay(null)}
-              className={`relative min-h-16 p-1.5 transition-colors hover:bg-white md:min-h-20 md:p-2 ${cellBg(cell.tempHigh, cell.tempLow)}`}
+              onClick={() => setTappedDay(prev => prev?.day === cell.day ? null : cell)}
+              className={`relative min-h-16 cursor-pointer p-1.5 transition-colors hover:bg-white md:min-h-20 md:p-2 ${cellBg(cell.tempHigh, cell.tempLow)} ${tappedDay?.day === cell.day ? 'ring-2 ring-sky-400 ring-inset' : ''}`}
             >
               <div className={`text-xs leading-none ${
                 dow === 0 ? 'text-rose-400' : dow === 6 ? 'text-blue-400' : 'text-gray-400'
