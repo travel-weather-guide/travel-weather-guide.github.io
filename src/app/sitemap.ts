@@ -5,6 +5,7 @@ import { getAllCountryIds, getCountry } from '@/utils/data';
 export const dynamic = 'force-static';
 
 const BASE_URL = 'https://travel-weather-guide.github.io';
+const LOCALES = ['en', 'ja', 'zh'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
@@ -22,6 +23,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: now,
     });
 
+    for (const locale of LOCALES) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/country/${country.id}/`,
+        changeFrequency: 'monthly',
+        priority: 0.5,
+        lastModified: now,
+      });
+    }
+
     for (const region of country.regions) {
       entries.push({
         url: `${BASE_URL}/country/${country.id}/${region.id}/`,
@@ -29,6 +39,33 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.7,
         lastModified: now,
       });
+
+      for (const locale of LOCALES) {
+        entries.push({
+          url: `${BASE_URL}/${locale}/country/${country.id}/${region.id}/`,
+          changeFrequency: 'monthly',
+          priority: 0.5,
+          lastModified: now,
+        });
+      }
+
+      for (let m = 1; m <= 12; m++) {
+        entries.push({
+          url: `${BASE_URL}/country/${country.id}/${region.id}/${m}/`,
+          changeFrequency: 'monthly',
+          priority: 0.6,
+          lastModified: now,
+        });
+
+        for (const locale of LOCALES) {
+          entries.push({
+            url: `${BASE_URL}/${locale}/country/${country.id}/${region.id}/${m}/`,
+            changeFrequency: 'monthly',
+            priority: 0.4,
+            lastModified: now,
+          });
+        }
+      }
     }
   }
 
@@ -39,6 +76,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
       lastModified: now,
     });
+
+    for (const locale of LOCALES) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/best-in/${month}/`,
+        changeFrequency: 'monthly',
+        priority: 0.5,
+        lastModified: now,
+      });
+    }
   }
 
   return entries;

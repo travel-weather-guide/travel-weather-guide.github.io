@@ -49,14 +49,18 @@ const LocaleContext = createContext<LocaleContextValue>({
   setLocale: () => undefined,
 });
 
-export function LocaleProvider({ children }: { children: React.ReactNode }) {
-  const [locale, setLocaleState] = useState<Locale>(DEFAULT_LOCALE);
+export function LocaleProvider({ children, initialLocale }: { children: React.ReactNode; initialLocale?: Locale }) {
+  const [locale, setLocaleState] = useState<Locale>(initialLocale ?? DEFAULT_LOCALE);
 
   useEffect(() => {
+    if (initialLocale) {
+      document.documentElement.lang = initialLocale;
+      return;
+    }
     const initial = resolveInitialLocale();
     setLocaleState(initial);
     document.documentElement.lang = initial;
-  }, []);
+  }, [initialLocale]);
 
   function setLocale(next: Locale) {
     localStorage.setItem(STORAGE_KEY, next);

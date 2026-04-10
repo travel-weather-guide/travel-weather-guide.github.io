@@ -31,8 +31,10 @@ export default function CountryDetailContent({ country, comments, countryId }: C
       </Link>
 
       {/* 국가 헤더 */}
-      <h1 className="mt-3 text-2xl font-bold text-gray-900 md:text-3xl">{getLocalizedName(country.name, locale)}</h1>
-      <p className="mt-1 text-gray-500">{country.name.en}</p>
+      <h1 className="mt-3 text-2xl font-bold text-gray-900 md:text-3xl">
+        {getLocalizedName(country.name, locale)} {locale === 'ko' ? '날씨' : locale === 'ja' ? '天気' : locale === 'zh' ? '天气' : 'Weather'}
+      </h1>
+      <p className="mt-1 text-gray-500">{country.name.en} · {locale === 'ko' ? '월간날씨 · 여행 적기 가이드' : locale === 'ja' ? '月間天気・旅行ベストシーズン' : locale === 'zh' ? '月度天气・最佳旅行时间' : 'Monthly Weather & Best Time to Visit'}</p>
 
       {/* 기본 정보 */}
       <div className="mt-6 grid grid-cols-2 gap-4 sm:grid-cols-4">

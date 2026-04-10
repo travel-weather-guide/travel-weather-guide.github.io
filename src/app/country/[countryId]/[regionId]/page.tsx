@@ -69,14 +69,15 @@ export async function generateMetadata({
   if (!country || !region) return {};
 
   return {
-    title: `${region.name.ko}(${region.name.en}) 날씨 · 여행 가이드 - ${country.name.ko}`,
-    description: `${country.name.ko} ${region.name.ko}의 월별 기온, 강수량, 여행 적기. Best time to visit ${region.name.en}, ${country.name.en} — weather & travel guide.`,
+    title: `${region.name.ko} 날씨 · 월간날씨 · 여행 가이드 (${country.name.ko})`,
+    description: `${country.name.ko} ${region.name.ko}의 1월~12월 월간날씨(월별날씨). 과거 기후 데이터 기반 월별 기온·강수량·습도 정보와 여행 적기 가이드. ${region.name.en}, ${country.name.en} weather guide.`,
     alternates: {
       canonical: `/country/${countryId}/${regionId}`,
+      languages: { 'en-US': `/en/country/${countryId}/${regionId}`, 'ja': `/ja/country/${countryId}/${regionId}`, 'zh': `/zh/country/${countryId}/${regionId}` },
     },
     openGraph: {
-      title: `${region.name.ko} 날씨 · 여행 가이드`,
-      description: `${country.name.ko} ${region.name.ko}의 월별 날씨와 여행 적합도`,
+      title: `${region.name.ko} 날씨 · 월간날씨 가이드`,
+      description: `${country.name.ko} ${region.name.ko}의 1월~12월 월간날씨와 여행 적기`,
       images: [`/og/${countryId}.png`],
     },
   };
@@ -125,20 +126,47 @@ export default async function RegionDetailPage({
     },
   ];
 
+  const faqEntries: Array<{ '@type': string; name: string; acceptedAnswer: { '@type': string; text: string } }> = [];
+
   if (bestMonths.length > 0) {
+    faqEntries.push({
+      '@type': 'Question',
+      name: `${region.name.ko} 여행하기 좋은 시기는 언제인가요?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `${region.name.ko}의 여행 적기는 ${bestMonths.map(m => `${m.month}월`).join(', ')}입니다. ${typeof bestMonths[0].summary === 'string' ? bestMonths[0].summary : bestMonths[0].summary.ko}`,
+      },
+    });
+
+    for (const bm of bestMonths.slice(0, 3)) {
+      const md = region.monthlyData?.[bm.month - 1];
+      if (md) {
+        faqEntries.push({
+          '@type': 'Question',
+          name: `${region.name.ko} ${bm.month}월 날씨는 어떤가요?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `${region.name.ko}의 ${bm.month}월 평균 기온은 ${md.tempLow}~${md.tempHigh}°C이며, 강수량은 ${md.rainfall}mm입니다.${md.seaTemp ? ` 바다 수온은 ${md.seaTemp}°C입니다.` : ''}`,
+          },
+        });
+      }
+    }
+  }
+
+  faqEntries.push({
+    '@type': 'Question',
+    name: `${region.name.ko} 월간날씨 정보가 있나요?`,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: `${region.name.ko}의 1월~12월 월간날씨, 과거 기후 데이터 기반 일별 기온·강수량 정보를 제공합니다.`,
+    },
+  });
+
+  if (faqEntries.length > 0) {
     schemas.push({
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
-      mainEntity: [
-        {
-          '@type': 'Question',
-          name: `${region.name.ko} 여행하기 좋은 시기는 언제인가요?`,
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: `${region.name.ko}의 여행 적기는 ${bestMonths.map(m => `${m.month}월`).join(', ')}입니다. ${typeof bestMonths[0].summary === 'string' ? bestMonths[0].summary : bestMonths[0].summary.ko}`,
-          },
-        },
-      ],
+      mainEntity: faqEntries,
     });
   }
 
