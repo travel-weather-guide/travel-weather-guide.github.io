@@ -779,3 +779,24 @@
 | 04-12 | translate-travel-comments.py --dry-run 확인 → 번역 필요 없음 |
 | 04-12 | 42개 도시 2025 데이터 검증 완료 (missing: 0) |
 | 04-12 | npm run build 성공 |
+
+---
+
+## 현재 모든 도시들 26년도 데이터 추가 (2026-04-12 완료)
+
+- [x] `add-2025-data.ts`를 년도/월 파라미터 입력받도록 수정
+- [x] `fetch-climate-data.ts` 날짜 범위 파라미터화 (`setDateRange` 함수)
+- [x] `generate-data.ts`에 `--start-date`/`--end-date` 인자 추가
+- [x] 통합 파이프라인 `scripts/pipeline.ts` 생성
+- [x] 전체 112개 지역 대상 2026년 1~3월 데이터 fetch 실행
+- [x] 빌드 성공 확인 (`npm run build`)
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 04-12 | add-2025-data.ts --year/--months 파라미터 추가 |
+| 04-12 | fetch-climate-data.ts setDateRange() 파라미터화 |
+| 04-12 | generate-data.ts --start-date/--end-date 인자 추가 |
+| 04-12 | scripts/pipeline.ts 통합 파이프라인 생성 |
+| 04-12 | 112개 전체 지역 2026년 1~3월 데이터 추가 완료 |
+| 04-12 | npm run build 성공 확인 |
