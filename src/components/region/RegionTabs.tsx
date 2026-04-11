@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import type { Region, TravelComment } from '@/types';
 import type { DayData } from '@/components/weather/DailyCalendar';
 
@@ -33,10 +33,14 @@ const YEARS = [2024, 2023, 2022];
 export default function RegionTabs({ region, comments, dailyData }: RegionTabsProps) {
   const { locale } = useLocale();
   const [activeTab, setActiveTab] = useState<TabId>('calendar');
-  const currentMonth = new Date().getMonth() + 1;
-  const [calendarMonth, setCalendarMonth] = useState(currentMonth);
+  const [calendarMonth, setCalendarMonth] = useState(1);
   const [calendarYear, setCalendarYear] = useState(2024);
-  const [guideMonth, setGuideMonth] = useState(currentMonth);
+  const [guideMonth, setGuideMonth] = useState(1);
+  useEffect(() => {
+    const m = new Date().getMonth() + 1;
+    setCalendarMonth(m);
+    setGuideMonth(m);
+  }, []);
 
   const TABS = [
     { id: 'calendar' as TabId, label: t(messages.region.tabCalendar, locale) },

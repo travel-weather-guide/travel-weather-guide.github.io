@@ -1,58 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { readFileSync, existsSync } from 'fs';
-import { join } from 'path';
-import type { Country, TravelComment } from '@/types';
 import RegionDetailContent from '@/components/region/RegionDetailContent';
-
-const DATA_DIR = join(process.cwd(), 'src/data');
-
-type DailyDataMap = Record<number, { years: Record<string, Array<{ day: number; tempHigh: number; tempLow: number; rainfall: number; humidity: number }>> }>;
-
-function getCountry(countryId: string): Country | null {
-  try {
-    const raw = readFileSync(join(DATA_DIR, 'countries', `${countryId}.json`), 'utf-8');
-    return JSON.parse(raw) as Country;
-  } catch {
-    return null;
-  }
-}
-
-function getComments(countryId: string): TravelComment[] {
-  try {
-    const raw = readFileSync(join(DATA_DIR, 'travel-comments', `${countryId}.json`), 'utf-8');
-    return JSON.parse(raw) as TravelComment[];
-  } catch {
-    return [];
-  }
-}
-
-function getDailyData(regionId: string): DailyDataMap {
-  const path = join(DATA_DIR, 'daily', regionId, 'all.json');
-  if (!existsSync(path)) return {};
-  try {
-    return JSON.parse(readFileSync(path, 'utf-8')) as DailyDataMap;
-  } catch {
-    return {};
-  }
-}
-
-function getAllCountryIds(): string[] {
-  const summaries = JSON.parse(readFileSync(join(DATA_DIR, 'countries.json'), 'utf-8'));
-  return summaries.map((c: { id: string }) => c.id);
-}
-
-function getAllRegionParams() {
-  const params: { countryId: string; regionId: string }[] = [];
-  for (const countryId of getAllCountryIds()) {
-    const country = getCountry(countryId);
-    if (!country) continue;
-    for (const region of country.regions) {
-      params.push({ countryId, regionId: region.id });
-    }
-  }
-  return params;
-}
+import { getCountry, getComments, getDailyData, getAllRegionParams } from '@/lib/data-server';
 
 export function generateStaticParams() {
   return getAllRegionParams();

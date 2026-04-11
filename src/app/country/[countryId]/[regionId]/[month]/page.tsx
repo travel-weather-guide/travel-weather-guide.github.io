@@ -1,52 +1,13 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { readFileSync, existsSync } from 'fs';
-import { join } from 'path';
-import type { Country, TravelComment } from '@/types';
 import RegionDetailContent from '@/components/region/RegionDetailContent';
+import { getCountry, getComments, getDailyData, getAllMonthlyRegionParams } from '@/lib/data-server';
 
-const DATA_DIR = join(process.cwd(), 'src/data');
 const MONTH_NAMES = ['', '1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월'];
 const MONTH_EN = ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
-type DailyDataMap = Record<number, { years: Record<string, Array<{ day: number; tempHigh: number; tempLow: number; rainfall: number; humidity: number }>> }>;
-
-function getCountry(countryId: string): Country | null {
-  try {
-    return JSON.parse(readFileSync(join(DATA_DIR, 'countries', `${countryId}.json`), 'utf-8'));
-  } catch { return null; }
-}
-
-function getComments(countryId: string): TravelComment[] {
-  try {
-    return JSON.parse(readFileSync(join(DATA_DIR, 'travel-comments', `${countryId}.json`), 'utf-8'));
-  } catch { return []; }
-}
-
-function getDailyData(regionId: string): DailyDataMap {
-  const path = join(DATA_DIR, 'daily', regionId, 'all.json');
-  if (!existsSync(path)) return {};
-  try {
-    return JSON.parse(readFileSync(path, 'utf-8')) as DailyDataMap;
-  } catch { return {}; }
-}
-
-function getAllCountryIds(): string[] {
-  return JSON.parse(readFileSync(join(DATA_DIR, 'countries.json'), 'utf-8')).map((c: { id: string }) => c.id);
-}
-
 export function generateStaticParams() {
-  const params: { countryId: string; regionId: string; month: string }[] = [];
-  for (const countryId of getAllCountryIds()) {
-    const country = getCountry(countryId);
-    if (!country) continue;
-    for (const region of country.regions) {
-      for (let m = 1; m <= 12; m++) {
-        params.push({ countryId, regionId: region.id, month: String(m) });
-      }
-    }
-  }
-  return params;
+  return getAllMonthlyRegionParams();
 }
 
 export async function generateMetadata({

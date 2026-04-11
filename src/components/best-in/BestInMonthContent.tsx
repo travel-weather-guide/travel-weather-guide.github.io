@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import type { MonthlyRecommendation } from '@/types';
-import type { RegionInfo } from '@/app/best-in/[month]/page';
+import type { RegionInfo } from '@/lib/data-server';
 import { useLocale } from '@/contexts/LocaleContext';
 import type { Locale } from '@/contexts/LocaleContext';
 import { messages, t } from '@/i18n/messages';
@@ -165,7 +165,8 @@ export default function BestInMonthContent({ month, data, regionLookup }: Props)
               const info = regionLookup[item.regionId];
               if (!info) return null;
               return (
-                <div key={item.regionId} className="flex items-start gap-3 rounded-xl bg-slate-50 p-4">
+                <div key={item.regionId} className="flex items-start gap-3 rounded-xl bg-red-50 border border-red-100 p-4">
+                  <span className="text-red-400 text-sm shrink-0 mt-0.5">⚠</span>
                   <img src={flagUrl(info.countryId)} alt="" className="h-3 w-4 object-cover shrink-0 mt-0.5" />
                   <span className="text-sm font-medium text-gray-700 whitespace-nowrap">
                     {name(info.regionName, locale)}

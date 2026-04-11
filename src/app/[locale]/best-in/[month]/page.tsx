@@ -1,45 +1,9 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { readFileSync } from 'fs';
-import { join } from 'path';
-import type { MonthlyRecommendation, Country } from '@/types';
-import { getAllCountryIds } from '@/utils/data';
 import type { Locale } from '@/contexts/LocaleContext';
 import { localName, seo, monthName } from '@/utils/seo-locale';
 import BestInMonthContent from '@/components/best-in/BestInMonthContent';
-
-const DATA_DIR = join(process.cwd(), 'src/data');
-
-function getRecommendation(month: number): MonthlyRecommendation | null {
-  try {
-    return JSON.parse(readFileSync(join(DATA_DIR, 'monthly-recommendations', `${month}.json`), 'utf-8'));
-  } catch {
-    return null;
-  }
-}
-
-export interface RegionInfo {
-  countryId: string;
-  countryName: { ko: string; en: string; ja?: string; zh?: string };
-  regionName: { ko: string; en: string; ja?: string; zh?: string };
-}
-
-function buildRegionLookup(): Record<string, RegionInfo> {
-  const lookup: Record<string, RegionInfo> = {};
-  for (const countryId of getAllCountryIds()) {
-    try {
-      const country = JSON.parse(readFileSync(join(DATA_DIR, 'countries', `${countryId}.json`), 'utf-8')) as Country;
-      for (const region of country.regions) {
-        lookup[region.id] = {
-          countryId: country.id,
-          countryName: country.name as RegionInfo['countryName'],
-          regionName: region.name as RegionInfo['regionName'],
-        };
-      }
-    } catch { /* skip */ }
-  }
-  return lookup;
-}
+import { getRecommendation, buildRegionLookup } from '@/lib/data-server';
 
 export function generateStaticParams() {
   return Array.from({ length: 12 }, (_, i) => ({ month: String(i + 1) }));

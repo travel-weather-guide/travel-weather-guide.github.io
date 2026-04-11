@@ -1,5 +1,6 @@
 'use client';
 
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import type { Region, TravelComment } from '@/types';
 import { getBestMonths } from '@/utils/scoring';
@@ -24,7 +25,8 @@ interface RegionListProps {
 
 export default function RegionList({ countryId, regions, comments = [] }: RegionListProps) {
   const { locale } = useLocale();
-  const currentMonth = new Date().getMonth() + 1;
+  const [currentMonth, setCurrentMonth] = useState(1);
+  useEffect(() => { setCurrentMonth(new Date().getMonth() + 1); }, []);
 
   return (
     <div className="grid gap-4 sm:grid-cols-2">

@@ -1,36 +1,10 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { readFileSync } from 'fs';
-import { join } from 'path';
-import type { Country, TravelComment } from '@/types';
 import type { Locale } from '@/contexts/LocaleContext';
 import CountryDetailContent from '@/components/country/CountryDetailContent';
-import { localName, seo, localeHreflangAlternates } from '@/utils/seo-locale';
+import { localName, seo } from '@/utils/seo-locale';
 
-const DATA_DIR = join(process.cwd(), 'src/data');
-
-function getCountry(countryId: string): Country | null {
-  try {
-    const raw = readFileSync(join(DATA_DIR, 'countries', `${countryId}.json`), 'utf-8');
-    return JSON.parse(raw) as Country;
-  } catch {
-    return null;
-  }
-}
-
-function getComments(countryId: string): TravelComment[] {
-  try {
-    const raw = readFileSync(join(DATA_DIR, 'travel-comments', `${countryId}.json`), 'utf-8');
-    return JSON.parse(raw) as TravelComment[];
-  } catch {
-    return [];
-  }
-}
-
-function getAllCountryIds(): string[] {
-  const summaries = JSON.parse(readFileSync(join(DATA_DIR, 'countries.json'), 'utf-8'));
-  return summaries.map((c: { id: string }) => c.id);
-}
+import { getCountry, getComments, getAllCountryIds } from '@/lib/data-server';
 
 export function generateStaticParams() {
   return getAllCountryIds().map((countryId) => ({ countryId }));
