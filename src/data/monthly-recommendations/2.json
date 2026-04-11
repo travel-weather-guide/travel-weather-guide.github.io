@@ -2,543 +2,447 @@
   "month": 2,
   "bestDestinations": [
     {
-      "regionId": "abu-dhabi",
+      "regionId": "bangkok",
       "category": "culture",
-      "reason": {
-        "ko": "겨울, 루브르 아부다비와 문화 투어",
-        "en": "Winter, Louvre Abu Dhabi and Cultural Tour",
-        "ja": "冬、ルーブルアブダビと文化ツアー",
-        "zh": "冬季，阿布扎比卢浮宫和文化之旅"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "cairo",
-      "category": "culture",
-      "reason": {
-        "ko": "건기 지속, 기자 피라미드 새벽 방문 추천",
-        "en": "As the dry season continues, early morning visit to the Giza Pyramids is recommended",
-        "ja": "乾期継続、記者ピラミッド夜明け訪問おすすめ",
-        "zh": "随着旱季的持续，建议清晨参观吉萨金字塔"
-      },
+      "reason": "평균 28°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "chiang-mai",
-      "category": "culture",
-      "reason": {
-        "ko": "건기 지속, 쾌적하지만 연무 시작될 수 있는 시기",
-        "en": "The dry season continues, it is comfortable, but the haze may start",
-        "ja": "乾期持続、快適だが煙霧が始まる時期",
-        "zh": "旱季持续，很舒服，但雾霾可能会开始"
-      },
+      "category": "mountain",
+      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
-      "regionId": "dubai",
+      "regionId": "phuket",
+      "category": "beach",
+      "reason": "평균 28°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "pattaya",
+      "category": "beach",
+      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "krabi",
+      "category": "beach",
+      "reason": "평균 28°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "los-angeles",
       "category": "city",
-      "reason": {
-        "ko": "겨울, 실외 활동 가능한 최고의 날씨",
-        "en": "Winter, the best weather for outdoor activities",
-        "ja": "冬、屋外活動可能な最高の天気",
-        "zh": "冬天，最适合户外活动的天气"
-      },
+      "reason": "평균 14°C, 강수량 적음, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": {
-        "ko": "고래 관찰 피크, 서핑 빅웨이브 시즌",
-        "en": "Peak whale watching, big wave surfing season",
-        "ja": "クジラ観察ピーク、サーフィンビッグウェーブシーズン",
-        "zh": "观鲸高峰、大浪冲浪季节"
-      },
+      "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "las-vegas",
+      "category": "city",
+      "reason": "평균 11°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "ho-chi-minh",
       "category": "city",
-      "reason": {
-        "ko": "건기 절정, 가장 건조한 달",
-        "en": "Peak of the dry season, driest month",
-        "ja": "乾季のピーク、最も乾燥した月",
-        "zh": "旱季高峰期，最干燥的月份"
-      },
+      "reason": "평균 29°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "kaohsiung",
       "category": "city",
-      "reason": {
-        "ko": "건기, 봄 축제와 꽃시장",
-        "en": "Dry season, spring festivals and flower markets",
-        "ja": "乾季、春祭り、花市場",
-        "zh": "旱季、春节和花市"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "luang-prabang",
-      "category": "culture",
-      "reason": {
-        "ko": "건기 절정, 황금빛 사원과 쾌청한 하늘",
-        "en": "Peak of the dry season, golden temples and clear skies",
-        "ja": "乾季絶頂、黄金色の寺院と陽気な空",
-        "zh": "旱季高峰期，金色的寺庙和晴朗的天空"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "luxor",
-      "category": "culture",
-      "reason": {
-        "ko": "쾌청한 겨울, 열기구 투어로 바라본 왕가의 계곡",
-        "en": "The Valley of the Kings seen from a hot air balloon tour on a clear winter day",
-        "ja": "陽気な冬、熱気球ツアーで眺めた王家の渓谷",
-        "zh": "在晴朗的冬日乘坐热气球游览帝王谷"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "marrakech",
-      "category": "culture",
-      "reason": {
-        "ko": "온화한 겨울 마라케시, 사막 투어 출발점으로 최적",
-        "en": "Mild winter in Marrakech, perfect as a starting point for desert tours",
-        "ja": "穏やかな冬のマラケシュ、砂漠ツアーの出発点として最適",
-        "zh": "马拉喀什温和的冬季，非常适合作为沙漠之旅的起点"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "mumbai",
-      "category": "city",
-      "reason": {
-        "ko": "쾌청한 건기, 뭄바이 마라톤 시즌",
-        "en": "Sunny dry season, Mumbai marathon season",
-        "ja": "陽気な乾季、ムンバイマラソンシーズン",
-        "zh": "阳光明媚的旱季，孟买马拉松季节"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "new-delhi",
-      "category": "culture",
-      "reason": {
-        "ko": "공화국의 날 후, 상쾌한 겨울 여행 계속",
-        "en": "After Republic Day, continue your refreshing winter journey",
-        "ja": "共和国の日の後、さわやかな冬の旅を続ける",
-        "zh": "共和国日过后，继续你清爽的冬季之旅"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "phnom-penh",
-      "category": "city",
-      "reason": {
-        "ko": "건기 절정, 쾌적한 역사 투어",
-        "en": "Pleasant historical tour at the peak of the dry season",
-        "ja": "乾季絶頂、快適な歴史ツアー",
-        "zh": "旱季高峰期愉快的历史之旅"
-      },
+      "reason": "평균 21°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "siem-reap",
       "category": "culture",
-      "reason": {
-        "ko": "건기, 맑은 하늘의 앙코르 사원 투어",
-        "en": "Dry season, clear sky Angkor temple tour",
-        "ja": "乾期、澄んだ空のアンコール寺院ツアー",
-        "zh": "旱季、晴空吴哥寺之旅"
-      },
+      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "phnom-penh",
+      "category": "city",
+      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "luang-prabang",
+      "category": "culture",
+      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "vientiane",
       "category": "culture",
-      "reason": {
-        "ko": "건기 지속, 메콩강변 선셋 산책",
-        "en": "Dry season continues, sunset walk along the Mekong River",
-        "ja": "乾季持続、メコン川辺サンセット散歩",
-        "zh": "旱季继续，日落时沿着湄公河散步"
-      },
+      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
-    }
-  ],
-  "hiddenGems": [
+    },
     {
-      "regionId": "auckland",
+      "regionId": "dubai",
       "category": "city",
-      "reason": {
-        "ko": "여름 피크, 해변과 와이헤케 섬 와인 투어",
-        "en": "Peak Summer, Beaches and Waiheke Island Wine Tour",
-        "ja": "夏のピーク、ビーチ、ワイヘケ島ワインツアー",
-        "zh": "盛夏、海滩和怀赫科岛葡萄酒之旅"
-      },
+      "reason": "평균 21°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "abu-dhabi",
+      "category": "culture",
+      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "new-delhi",
+      "category": "culture",
+      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "mumbai",
+      "category": "city",
+      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "평균 15°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "평균 16°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "tokyo",
+      "category": "city",
+      "reason": "평균 6°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 4
     },
     {
-      "regionId": "colombo",
+      "regionId": "osaka",
+      "category": "culture",
+      "reason": "평균 6°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "okinawa",
+      "category": "beach",
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "kyoto",
+      "category": "culture",
+      "reason": "평균 5°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "fukuoka",
       "category": "city",
-      "reason": {
-        "ko": "건기 지속, 스리랑카 독립기념일 분위기",
-        "en": "Dry season continues, Sri Lanka Independence Day mood",
-        "ja": "乾期持続、スリランカ独立記念日の雰囲気",
-        "zh": "旱季持续，斯里兰卡独立日心情"
-      },
+      "reason": "평균 7°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "nagoya",
+      "category": "city",
+      "reason": "평균 6°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "hiroshima",
+      "category": "culture",
+      "reason": "평균 6°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "nara",
+      "category": "culture",
+      "reason": "평균 5°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "nagasaki",
+      "category": "culture",
+      "reason": "평균 9°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "kobe",
+      "category": "city",
+      "reason": "평균 7°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "koh-samui",
+      "category": "beach",
+      "reason": "평균 27°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "paris",
+      "category": "culture",
+      "reason": "평균 7°C, 비가 거의 없는 맑은 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "nice",
+      "category": "beach",
+      "reason": "평균 10°C, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "marseille",
+      "category": "city",
+      "reason": "평균 10°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "san-francisco",
+      "category": "city",
+      "reason": "평균 11°C, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "melbourne",
+      "category": "culture",
+      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 4
     },
     {
       "regionId": "da-nang",
       "category": "beach",
-      "reason": {
-        "ko": "건기 시작, 날씨가 좋아지는 시기",
-        "en": "The beginning of the dry season, when the weather improves",
-        "ja": "乾季開始、天気が良くなる時期",
-        "zh": "旱季开始，天气好转"
-      },
+      "reason": "평균 23°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "nha-trang",
+      "category": "beach",
+      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "manila",
+      "category": "city",
+      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "palawan",
+      "category": "beach",
+      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "barcelona",
+      "category": "beach",
+      "reason": "평균 11°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "seville",
+      "category": "culture",
+      "reason": "평균 14°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "granada",
+      "category": "culture",
+      "reason": "평균 11°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "santorini",
+      "category": "beach",
+      "reason": "평균 14°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "mykonos",
+      "category": "beach",
+      "reason": "평균 13°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "beijing",
+      "category": "culture",
+      "reason": "평균 1°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "xian",
+      "category": "culture",
+      "reason": "평균 5°C, 비가 거의 없는 맑은 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "shenzhen",
+      "category": "city",
+      "reason": "평균 18°C의 온화한 날씨, 비가 거의 없는 맑은 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "guam",
+      "category": "beach",
+      "reason": "평균 27°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
       "rating": 4
     },
     {
       "regionId": "langkawi",
       "category": "beach",
-      "reason": {
-        "ko": "건기 절정, 안다만해 스노클링 최적기",
-        "en": "The peak of the dry season, the best time for snorkeling in the Andaman Sea",
-        "ja": "乾季絶頂、アンダマン海シュノーケリング最適機",
-        "zh": "旱季高峰期，安达曼海浮潜最佳时机"
-      },
+      "reason": "평균 29°C의 온화한 날씨, 강수량 적음, 풍부한 일조량",
       "rating": 4
     },
     {
-      "regionId": "los-angeles",
+      "regionId": "male",
+      "category": "beach",
+      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "auckland",
       "category": "city",
-      "reason": {
-        "ko": "겨울비가 가끔 오지만 대체로 맑은 날씨",
-        "en": "Winter rain occasionally falls, but mostly clear weather",
-        "ja": "冬の雨が時々来るが、概ね晴れた天気",
-        "zh": "冬季偶尔会下雨，但天气大多晴朗"
-      },
+      "reason": "평균 20°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "colombo",
+      "category": "city",
+      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "cancun",
+      "category": "beach",
+      "reason": "평균 25°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "macau",
+      "category": "city",
+      "reason": "평균 18°C의 온화한 날씨, 강수량 적음",
       "rating": 4
     }
   ],
+  "hiddenGems": [],
   "avoidList": [
     {
-      "regionId": "amsterdam",
-      "reason": {
-        "ko": "겨울 마지막, 운하 결빙 시 스케이팅 가능",
-        "en": "At the end of winter, skating is possible when the canals freeze",
-        "ja": "冬の終わり、運河の氷結時にスケート可能",
-        "zh": "冬末运河结冰时可以滑冰"
-      }
-    },
-    {
       "regionId": "bali",
-      "reason": {
-        "ko": "우기 절정, 도로 침수 빈번",
-        "en": "Peak of rainy season, frequent flooding of roads",
-        "ja": "雨季のピーク、道路の浸水頻度",
-        "zh": "雨季高峰，道路经常淹水"
-      }
-    },
-    {
-      "regionId": "berlin",
-      "reason": {
-        "ko": "겨울 끝자락, 베를린 영화제(베를리날레)",
-        "en": "End of winter, Berlin Film Festival (Berlinale)",
-        "ja": "冬の終わり、ベルリン映画祭（ベルリナーレ）",
-        "zh": "冬末，柏林电影节（Berlinale）"
-      }
-    },
-    {
-      "regionId": "cairns",
-      "reason": {
-        "ko": "우기 절정, 열대 폭우와 사이클론 가능",
-        "en": "Peak of monsoon season, tropical downpours and cyclones possible",
-        "ja": "雨季のピーク、熱帯の大雨とサイクロン可能",
-        "zh": "季风季节高峰，可能出现热带倾盆大雨和气旋"
-      }
-    },
-    {
-      "regionId": "copenhagen",
-      "reason": {
-        "ko": "아직 추운 겨울, 실내 미술관·디자인 투어",
-        "en": "Still cold winter, indoor art museum and design tour",
-        "ja": "まだ寒い冬、室内美術館・デザインツアー",
-        "zh": "冬天依然寒冷，室内美术馆与设计之旅"
-      }
-    },
-    {
-      "regionId": "dubrovnik",
-      "reason": {
-        "ko": "겨울, 관광객 거의 없어 숙소 저렴",
-        "en": "In winter, there are few tourists so accommodation is cheap",
-        "ja": "冬、観光客はほとんどいません。",
-        "zh": "冬天游客少，住宿便宜"
-      }
-    },
-    {
-      "regionId": "edinburgh",
-      "reason": {
-        "ko": "아직 추운 겨울, 위스키 투어에 적합",
-        "en": "It's still cold in winter, perfect for a whiskey tour",
-        "ja": "まだ寒い冬、ウイスキーツアーに最適",
-        "zh": "冬天依然寒冷，最适合来一场威士忌之旅"
-      }
+      "reason": "강수량 221mm의 우기"
     },
     {
       "regionId": "florence",
-      "reason": {
-        "ko": "카니발 시즌, 이탈리아 전통 축제 분위기",
-        "en": "Carnival season, Italian traditional festival atmosphere",
-        "ja": "カーニバルシーズン、イタリアの伝統的な祭りの雰囲気",
-        "zh": "狂欢季，意大利传统节日气氛"
-      }
-    },
-    {
-      "regionId": "fukuoka",
-      "reason": {
-        "ko": "규슈 겨울 끝자락, 우메(매화) 공원 산책 시작",
-        "en": "At the end of winter in Kyushu, a walk through Ume Park begins",
-        "ja": "九州冬の終わり、梅（梅）公園の散歩を始める",
-        "zh": "九州冬末，梅园漫步开始"
-      }
-    },
-    {
-      "regionId": "guilin",
-      "reason": {
-        "ko": "쌀쌀하지만 안개 낀 카르스트 산수 절경",
-        "en": "Chilly but misty karst landscape",
-        "ja": "肌寒いが霧のカルスト山水絶景",
-        "zh": "寒冷但云雾缭绕的喀斯特景观"
-      }
-    },
-    {
-      "regionId": "hangzhou",
-      "reason": {
-        "ko": "매화 시즌, 서호 고산매화원 산책",
-        "en": "Plum season, a walk through the West Lake Gosan Plum Garden",
-        "ja": "梅シーズン、西湖高山梅園の散歩",
-        "zh": "梅花时节，漫步西湖高山梅园"
-      }
-    },
-    {
-      "regionId": "helsinki",
-      "reason": {
-        "ko": "겨울 막바지, 눈 덮인 수오멘린나 요새",
-        "en": "Late winter, snow-covered Suomenlinna fortress",
-        "ja": "冬の終わり、雪に覆われたスオメンリンナ要塞",
-        "zh": "冬末，白雪覆盖的芬兰堡要塞"
-      }
-    },
-    {
-      "regionId": "hiroshima",
-      "reason": {
-        "ko": "매화 피기 시작, 슈쿠게이엔 정원 관람",
-        "en": "Plum blossoms starting to bloom, viewing Shukugeien Garden",
-        "ja": "梅の咲き始め、修慶園庭園",
-        "zh": "梅花初开，赏宿艺园"
-      }
-    },
-    {
-      "regionId": "hokkaido",
-      "reason": {
-        "ko": "삿포로 눈축제와 최고의 스키 시즌",
-        "en": "Sapporo Snow Festival and the best ski season",
-        "ja": "札幌雪まつりと最高のスキーシーズン",
-        "zh": "札幌冰雪节和最佳滑雪季节"
-      }
-    },
-    {
-      "regionId": "interlaken",
-      "reason": {
-        "ko": "겨울 스포츠 피크, 그린델발트 스키",
-        "en": "Winter sports peak, Grindelwald skiing",
-        "ja": "ウィンタースポーツピーク、グリンデルヴァルトスキー",
-        "zh": "冬季运动巅峰，格林德瓦滑雪"
-      }
-    },
-    {
-      "regionId": "istanbul",
-      "reason": {
-        "ko": "겨울 끝자락, 터키식 차 한잔의 여유",
-        "en": "At the end of winter, a leisurely cup of Turkish tea",
-        "ja": "冬の終わり、トルコのお茶のカップの余裕",
-        "zh": "冬末，悠闲地喝一杯土耳其茶"
-      }
-    },
-    {
-      "regionId": "jakarta",
-      "reason": {
-        "ko": "우기, 홍수와 교통 마비 빈번",
-        "en": "Rainy season, frequent flooding and traffic paralysis",
-        "ja": "雨期、洪水、交通麻痺頻繁",
-        "zh": "雨季洪水频发，交通瘫痪"
-      }
-    },
-    {
-      "regionId": "kyoto",
-      "reason": {
-        "ko": "매화가 피기 시작하는 교토의 초봄",
-        "en": "Early spring in Kyoto, when plum blossoms begin to bloom",
-        "ja": "梅が咲き始める京都の春先",
-        "zh": "京都早春，梅花盛开"
-      }
+      "reason": "평균 9°C의 추위"
     },
     {
       "regionId": "london",
-      "reason": {
-        "ko": "겨울 끝자락, 아직 춥고 비 잦은 시기",
-        "en": "The end of winter, still cold and rainy time",
-        "ja": "冬の終わり、まだ寒くて雨の頻度",
-        "zh": "冬末，依然寒冷多雨时节"
-      }
+      "reason": "평균 7°C의 추위"
     },
     {
-      "regionId": "munich",
-      "reason": {
-        "ko": "파싱(카니발) 시즌, 의상 축제의 뮌헨",
-        "en": "Pasing (Carnival) season, Munich at the Costume Festival",
-        "ja": "パーシング（カーニバル）シーズン、衣装祭のミュンヘン",
-        "zh": "Pasing（狂欢节）季节，慕尼黑服装节"
-      }
-    },
-    {
-      "regionId": "nagasaki",
-      "reason": {
-        "ko": "나가사키 랜턴 페스티벌, 1만 5천 등불의 장관",
-        "en": "Nagasaki Lantern Festival, a spectacle of 15,000 lanterns",
-        "ja": "長崎ランタンフェスティバル、1万5千灯の大臣",
-        "zh": "长崎元宵节，15,000个灯笼的奇观"
-      }
-    },
-    {
-      "regionId": "nara",
-      "reason": {
-        "ko": "매화 시즌, 나라공원 사슴과 매화 풍경",
-        "en": "Plum season, Nara Park deer and plum blossom scenery",
-        "ja": "梅シーズン、奈良公園鹿と梅の風景",
-        "zh": "梅花时节，奈良公园鹿梅花风光"
-      }
-    },
-    {
-      "regionId": "new-york",
-      "reason": {
-        "ko": "가장 추운 시기, 밸런타인 분위기의 도시",
-        "en": "The coldest time, a city with a Valentine's atmosphere",
-        "ja": "最も寒い時期、バランタインの雰囲気の街",
-        "zh": "最冷的时候，一座充满情人节气息的城市"
-      }
-    },
-    {
-      "regionId": "osaka",
-      "reason": {
-        "ko": "추운 겨울, 실내 먹거리 투어에 좋은 시기",
-        "en": "Cold winter, a good time for an indoor food tour",
-        "ja": "寒い冬、屋内グルメツアーに良い時期",
-        "zh": "寒冷的冬季，室内美食之旅好时节"
-      }
-    },
-    {
-      "regionId": "paris",
-      "reason": {
-        "ko": "아직 쌀쌀한 겨울, 미술관 투어에 좋은 시기",
-        "en": "Winter is still chilly, a good time for an art museum tour",
-        "ja": "まだ肌寒い冬、美術館ツアーに良い時期",
-        "zh": "冬天依然寒冷，正是逛美术馆的好时节"
-      }
-    },
-    {
-      "regionId": "porto",
-      "reason": {
-        "ko": "겨울, 셀라 노바 와이너리 방문과 포트와인",
-        "en": "Winter, visit to Sella Nova Winery and enjoy port wine",
-        "ja": "冬、セラノヴァワイナリー訪問とポートワイン",
-        "zh": "冬季，参观Sella Nova酒庄，品尝波特酒"
-      }
-    },
-    {
-      "regionId": "prague",
-      "reason": {
-        "ko": "추운 겨울, 관광객 적어 여유로운 구시가지",
-        "en": "Cold winter, leisurely old town with few tourists",
-        "ja": "寒い冬、観光客に少しゆったりとした旧市街",
-        "zh": "寒冷的冬天，悠闲的古城，游人稀少"
-      }
-    },
-    {
-      "regionId": "reykjavik",
-      "reason": {
-        "ko": "겨울 아이슬란드, 얼음동굴 투어 막바지",
-        "en": "Winter Iceland, end of ice cave tour",
-        "ja": "冬のアイスランド、氷の洞窟ツアーの終わり",
-        "zh": "冬季冰岛，冰洞之旅结束"
-      }
-    },
-    {
-      "regionId": "salzburg",
-      "reason": {
-        "ko": "겨울 막바지 스키, 모차르트 주간 축제",
-        "en": "Skiing at the end of winter, Mozart Week Festival",
-        "ja": "冬の最後のスキー、モーツァルトの週刊祭り",
-        "zh": "冬末滑雪，莫扎特周音乐节"
-      }
+      "regionId": "istanbul",
+      "reason": "평균 8°C의 추위"
     },
     {
       "regionId": "shanghai",
-      "reason": {
-        "ko": "춘절 연휴, 예원의 등불 축제",
-        "en": "Lunar New Year Holiday, Yuwon Lantern Festival",
-        "ja": "春節連休、イェウォンのランタンフェスティバル",
-        "zh": "农历新年假期、儒原元宵节"
-      }
+      "reason": "평균 7°C의 추위"
+    },
+    {
+      "regionId": "interlaken",
+      "reason": "평균 7°C의 추위"
+    },
+    {
+      "regionId": "dubrovnik",
+      "reason": "잦은 비(137mm), 평균 9°C의 추위"
+    },
+    {
+      "regionId": "munich",
+      "reason": "평균 5°C의 혹한"
+    },
+    {
+      "regionId": "porto",
+      "reason": "여행에 적합하지 않은 날씨"
     },
     {
       "regionId": "toronto",
-      "reason": {
-        "ko": "겨울 지속, 겨울 축제와 아이스 스케이팅 시즌",
-        "en": "Winter continues, winter festivals and ice skating season",
-        "ja": "冬の持続、冬の祭りとアイススケートシーズン",
-        "zh": "冬天还在继续，冬季节日和滑冰季节"
-      }
+      "reason": "평균 -3°C의 혹한"
     },
     {
-      "regionId": "vancouver",
-      "reason": {
-        "ko": "겨울 막바지, 동계올림픽 유산 코스 탐방",
-        "en": "At the end of winter, exploring the Winter Olympics heritage course",
-        "ja": "冬の終わり、冬季オリンピック遺産コースを訪れる",
-        "zh": "冬末，探索冬奥传承路线"
-      }
+      "regionId": "salzburg",
+      "reason": "평균 5°C의 혹한"
+    },
+    {
+      "regionId": "cairns",
+      "reason": "강수량 247mm의 우기"
+    },
+    {
+      "regionId": "jakarta",
+      "reason": "강수량 268mm의 우기"
     },
     {
       "regionId": "yogyakarta",
-      "reason": {
-        "ko": "우기 지속, 실내 바틱 공방 투어 추천",
-        "en": "Rainy season continues, indoor batik workshop tour recommended",
-        "ja": "雨期持続、屋内バティック工房ツアーおすすめ",
-        "zh": "雨季持续，室内蜡染工坊之旅推荐"
-      }
+      "reason": "강수량 303mm의 우기"
+    },
+    {
+      "regionId": "edinburgh",
+      "reason": "평균 6°C의 추위"
     },
     {
       "regionId": "zhangjiajie",
-      "reason": {
-        "ko": "안개 낀 겨울 산, 수묵화 같은 절경",
-        "en": "Foggy winter mountains, a spectacular view like an ink painting",
-        "ja": "霧のある冬の山、水墨画のような絶景",
-        "zh": "冬日山雾缭绕，如水墨画般壮观"
-      }
+      "reason": "평균 8°C의 추위"
+    },
+    {
+      "regionId": "guilin",
+      "reason": "잦은 비(159mm)"
+    },
+    {
+      "regionId": "hangzhou",
+      "reason": "평균 8°C의 추위"
     },
     {
       "regionId": "zurich",
-      "reason": {
-        "ko": "설경의 취리히, 파스나흐트 카니발",
-        "en": "Zurich in the snow, Fasnacht Carnival",
-        "ja": "雪景色のチューリッヒ、パスナハットカーニバル",
-        "zh": "苏黎世雪中狂欢节"
-      }
+      "reason": "평균 5°C의 혹한"
+    },
+    {
+      "regionId": "prague",
+      "reason": "평균 4°C의 혹한"
+    },
+    {
+      "regionId": "berlin",
+      "reason": "평균 4°C의 혹한"
+    },
+    {
+      "regionId": "vancouver",
+      "reason": "잦은 비(109mm), 평균 4°C의 혹한"
+    },
+    {
+      "regionId": "amsterdam",
+      "reason": "평균 6°C의 추위"
+    },
+    {
+      "regionId": "helsinki",
+      "reason": "평균 -3°C의 혹한, 일조량 부족"
+    },
+    {
+      "regionId": "copenhagen",
+      "reason": "평균 3°C의 혹한"
+    },
+    {
+      "regionId": "reykjavik",
+      "reason": "잦은 비(121mm), 평균 0°C의 혹한, 일조량 부족"
     }
   ]
 }

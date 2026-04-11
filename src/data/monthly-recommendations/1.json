@@ -2,652 +2,421 @@
   "month": 1,
   "bestDestinations": [
     {
-      "regionId": "abu-dhabi",
-      "category": "culture",
-      "reason": {
-        "ko": "겨울 최적기, 셰이크 자이드 모스크 황금빛 대리석",
-        "en": "Best time for winter, golden marble of Sheikh Zayed Mosque",
-        "ja": "冬の最適機、シェイクザイドモスクゴールデン大理石",
-        "zh": "冬天的最佳时间，谢赫扎耶德清真寺的金色大理石"
-      },
-      "rating": 5
-    },
-    {
       "regionId": "bangkok",
       "category": "culture",
-      "reason": {
-        "ko": "건기 한가운데, 선선한 바람이 부는 여행 최적기",
-        "en": "The best time to travel in the middle of the dry season, with cool winds blowing",
-        "ja": "乾期の真ん中に、涼しい風が吹く旅行最適機",
-        "zh": "旱季中期出游的最佳时间，凉风习习"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "cairo",
-      "category": "culture",
-      "reason": {
-        "ko": "쾌적한 겨울, 피라미드·스핑크스·이집트 박물관 최적기",
-        "en": "Pleasant winter, the best time to visit the Pyramids, Sphinx, and Egyptian Museums",
-        "ja": "快適な冬、ピラミッド・スフィンクス・エジプト博物館の最適期",
-        "zh": "宜人的冬天，参观金字塔、狮身人面像和埃及博物馆的最佳时机"
-      },
+      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "chiang-mai",
-      "category": "culture",
-      "reason": {
-        "ko": "건기의 서늘한 날씨, 트레킹과 사원 투어 최적기",
-        "en": "The cool weather of the dry season is the best time for trekking and temple tours",
-        "ja": "乾季の涼しい天気、トレッキングと寺院ツアー最適機",
-        "zh": "旱季凉爽的天气是徒步旅行和寺庙游览的最佳时机"
-      },
+      "category": "mountain",
+      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
-      "regionId": "ho-chi-minh",
-      "category": "city",
-      "reason": {
-        "ko": "건기 한가운데, 맑고 쾌적한 여행 최적기",
-        "en": "In the middle of the dry season, the best time to travel is clear and comfortable",
-        "ja": "乾期の真ん中、澄んで快適な旅行最適機",
-        "zh": "旱季中期，晴朗舒适，最佳出行时间"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "kaohsiung",
-      "category": "city",
-      "reason": {
-        "ko": "건기, 따뜻한 남부 날씨로 여행 적기",
-        "en": "Dry season, ideal time to travel due to warm southern weather",
-        "ja": "乾期、暖かい南部の天気への旅行の記録",
-        "zh": "南方气候温暖，旱季是旅行的理想时间"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "luang-prabang",
-      "category": "culture",
-      "reason": {
-        "ko": "건기, 새벽 탁발 행렬과 서늘한 메콩강변",
-        "en": "Dry season, dawn alms procession and cool Mekong Riverside",
-        "ja": "乾季、夜明けの濁発行列と涼しいメコン川辺",
-        "zh": "旱季、黎明施舍游行和凉爽的湄公河畔"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "luxor",
-      "category": "culture",
-      "reason": {
-        "ko": "건기 절정, 왕가의 계곡·카르낙 신전 최적 관광기",
-        "en": "The peak of the dry season, the best time to visit the Valley of the Kings and Karnak Temple",
-        "ja": "乾期絶頂、王家の渓谷・カルナック神殿最適観光機",
-        "zh": "旱季高峰期，游览帝王谷和卡纳克神庙的最佳时间"
-      },
-      "rating": 5
-    },
-    {
-      "regionId": "mumbai",
-      "category": "city",
-      "reason": {
-        "ko": "건기 성수기, 마린 드라이브·발리우드 투어 최적기",
-        "en": "Peak dry season, best time for Marine Drive and Bollywood tours",
-        "ja": "乾期の繁忙期、マリンドライブ・ボリウッドツアーの最適期",
-        "zh": "旱季高峰期，海滨大道和宝莱坞旅游的最佳时间"
-      },
+      "regionId": "phuket",
+      "category": "beach",
+      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "pattaya",
       "category": "beach",
-      "reason": {
-        "ko": "건기 성수기, 맑고 잔잔한 바다에서 수상 스포츠",
-        "en": "During the peak dry season, water sports in clear and calm seas",
-        "ja": "乾期ハイシーズン、澄んだ穏やかな海でウォータースポーツ",
-        "zh": "在旱季高峰期，在清澈平静的海水中进行水上运动"
-      },
+      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
-      "regionId": "phnom-penh",
+      "regionId": "krabi",
+      "category": "beach",
+      "reason": "평균 28°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "los-angeles",
       "category": "city",
-      "reason": {
-        "ko": "건기, 왕궁과 메콩강변 산책 최적기",
-        "en": "Dry season, the best time to walk around the Royal Palace and the Mekong River",
-        "ja": "乾季、王宮、メコン川沿いの散策最適機",
-        "zh": "旱季，逛皇宫和湄公河的最佳时机"
-      },
+      "reason": "평균 13°C, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "hawaii",
+      "category": "beach",
+      "reason": "평균 23°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "las-vegas",
+      "category": "city",
+      "reason": "평균 9°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "ho-chi-minh",
+      "category": "city",
+      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "kaohsiung",
+      "category": "city",
+      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "siem-reap",
       "category": "culture",
-      "reason": {
-        "ko": "건기 절정, 앙코르와트 일출 최고의 시기",
-        "en": "The peak of the dry season, the best time for sunrise at Angkor Wat",
-        "ja": "乾季ピーク、アンコールワット日の出最高の時期",
-        "zh": "旱季高峰期，吴哥窟日出最佳时间"
-      },
+      "reason": "평균 26°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "phnom-penh",
+      "category": "city",
+      "reason": "평균 27°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "luang-prabang",
+      "category": "culture",
+      "reason": "평균 22°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
     },
     {
       "regionId": "vientiane",
       "category": "culture",
-      "reason": {
-        "ko": "건기, 탓루앙 황금 탑과 선선한 날씨",
-        "en": "Dry season, That Luang Golden Pagoda and cool weather",
-        "ja": "乾期、タルアンゴールデンタワーと涼しい天気",
-        "zh": "旱季，塔銮金塔和凉爽的天气"
-      },
+      "reason": "평균 23°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 5
-    }
-  ],
-  "hiddenGems": [
+    },
     {
-      "regionId": "langkawi",
-      "category": "beach",
-      "reason": {
-        "ko": "건기, 맹그로브 보트 투어와 맑은 바다",
-        "en": "Dry season, mangrove boat tour and clear sea",
-        "ja": "乾季、マングローブボートツアーと澄んだ海",
-        "zh": "旱季、红树林游船和清澈的海水"
-      },
+      "regionId": "abu-dhabi",
+      "category": "culture",
+      "reason": "평균 21°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "mumbai",
+      "category": "city",
+      "reason": "평균 24°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "cairo",
+      "category": "culture",
+      "reason": "평균 15°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "luxor",
+      "category": "culture",
+      "reason": "평균 16°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 5
+    },
+    {
+      "regionId": "tokyo",
+      "category": "city",
+      "reason": "평균 5°C, 강수량 적음",
       "rating": 4
     },
     {
-      "regionId": "male",
+      "regionId": "osaka",
+      "category": "culture",
+      "reason": "평균 5°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "okinawa",
       "category": "beach",
-      "reason": {
-        "ko": "NE 몬순 건기, 파도 잔잔하고 시야 맑은 스노클링",
-        "en": "NE monsoon dry season, snorkeling with calm waves and clear visibility",
-        "ja": "NEモンスーン乾季、波の穏やかな視界クリアシュノーケリング",
-        "zh": "东北季风旱季，浮潜时海浪平静，能见度清晰"
-      },
+      "reason": "평균 17°C의 온화한 날씨, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "kyoto",
+      "category": "culture",
+      "reason": "평균 4°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "nagoya",
+      "category": "city",
+      "reason": "평균 5°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "hiroshima",
+      "category": "culture",
+      "reason": "평균 5°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "nara",
+      "category": "culture",
+      "reason": "평균 4°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "nagasaki",
+      "category": "culture",
+      "reason": "평균 8°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "kobe",
+      "category": "city",
+      "reason": "평균 6°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "koh-samui",
+      "category": "beach",
+      "reason": "평균 26°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "nice",
+      "category": "beach",
+      "reason": "평균 9°C, 강수량 적음",
+      "rating": 4
+    },
+    {
+      "regionId": "marseille",
+      "category": "city",
+      "reason": "평균 8°C, 비가 거의 없는 맑은 날씨",
+      "rating": 4
+    },
+    {
+      "regionId": "san-francisco",
+      "category": "city",
+      "reason": "평균 11°C",
       "rating": 4
     },
     {
       "regionId": "melbourne",
       "category": "culture",
-      "reason": {
-        "ko": "한여름, 호주 오픈 테니스 시즌",
-        "en": "Midsummer, Australian Open tennis season",
-        "ja": "真夏、オーストラリアオープンテニスシーズン",
-        "zh": "仲夏，澳大利亚网球公开赛赛季"
-      },
+      "reason": "평균 20°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "nha-trang",
+      "category": "beach",
+      "reason": "평균 24°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "shenzhen",
+      "category": "city",
+      "reason": "평균 16°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "hong-kong",
+      "category": "city",
+      "reason": "평균 16°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "langkawi",
+      "category": "beach",
+      "reason": "평균 28°C의 쾌적한 기온, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "male",
+      "category": "beach",
+      "reason": "평균 27°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "dubai",
+      "category": "city",
+      "reason": "평균 20°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "marrakech",
+      "category": "culture",
+      "reason": "평균 13°C, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "cancun",
+      "category": "beach",
+      "reason": "평균 24°C의 쾌적한 기온, 강수량 적음, 풍부한 일조량",
+      "rating": 4
+    },
+    {
+      "regionId": "macau",
+      "category": "city",
+      "reason": "평균 17°C의 온화한 날씨, 비가 거의 없는 맑은 날씨, 풍부한 일조량",
       "rating": 4
     }
   ],
+  "hiddenGems": [],
   "avoidList": [
     {
-      "regionId": "amalfi",
-      "reason": {
-        "ko": "겨울, 대부분의 호텔·식당 폐업",
-        "en": "Winter, most hotels and restaurants closed",
-        "ja": "冬、ほとんどのホテル・食堂閉業",
-        "zh": "冬天，大部分酒店和餐馆关门"
-      }
-    },
-    {
-      "regionId": "amsterdam",
-      "reason": {
-        "ko": "추운 겨울이지만 뮤지엄 투어(반고흐·국립) 적기",
-        "en": "It's cold winter, but it's a good time for museum tours (Van Gogh, National)",
-        "ja": "寒い冬だがミュージアムツアー(バンゴッホ・国立) 赤旗",
-        "zh": "冬天虽冷，却正是参观博物馆的好时机（梵高、国立）"
-      }
-    },
-    {
-      "regionId": "antalya",
-      "reason": {
-        "ko": "겨울 비, 해변 부적합하지만 유적지 관광 가능",
-        "en": "Winter rain, unsuitable for beaches, but tours of historic sites possible",
-        "ja": "冬の雨、ビーチには適していませんが、遺跡の観光が可能",
-        "zh": "冬天下雨，不适合海滩，但可以游览古迹"
-      }
-    },
-    {
-      "regionId": "athens",
-      "reason": {
-        "ko": "겨울 비, 파르테논은 한산하고 입장 편한 시기",
-        "en": "Winter rain, Parthenon is quiet and easy to enter",
-        "ja": "冬の雨、パルテノンは寒くて入場しやすい時期",
-        "zh": "冬雨，帕特农神庙安静易入"
-      }
-    },
-    {
-      "regionId": "bali",
-      "reason": {
-        "ko": "우기 한가운데, 매일 폭우와 높은 습도",
-        "en": "In the middle of the rainy season, heavy rain and high humidity every day",
-        "ja": "雨期の真ん中、毎日の大雨と高湿度",
-        "zh": "梅雨季节中期，天天下大雨，湿度大"
-      }
-    },
-    {
-      "regionId": "berlin",
-      "reason": {
-        "ko": "혹독한 베를린 겨울, 박물관섬 실내 관광",
-        "en": "Harsh Berlin winter, indoor tour of Museum Island",
-        "ja": "厳しいベルリン冬、博物館島の屋内観光",
-        "zh": "柏林严冬，博物馆岛室内游"
-      }
-    },
-    {
-      "regionId": "budapest",
-      "reason": {
-        "ko": "혹한이지만 세체니 온천 노천탕의 매력",
-        "en": "Despite the cold weather, the charm of the open-air baths in Széchenyi Hot Springs",
-        "ja": "酷いけどセチェニー温泉露天風呂の魅力",
-        "zh": "尽管天气寒冷，塞切尼温泉露天浴池的魅力"
-      }
-    },
-    {
-      "regionId": "cairns",
-      "reason": {
-        "ko": "우기 한가운데, 해파리 시즌·폭우 주의",
-        "en": "In the middle of the rainy season, beware of jellyfish season and heavy rain",
-        "ja": "雨期の真ん中、クラゲシーズン・大雨注意",
-        "zh": "正值雨季，谨防水母季、大雨"
-      }
-    },
-    {
-      "regionId": "cappadocia",
-      "reason": {
-        "ko": "폭설로 열기구 대부분 결항, 겨울왕국 풍경",
-        "en": "Most hot air balloon flights are canceled due to heavy snow, a frozen landscape",
-        "ja": "大雪炉の熱気球のほとんど欠航、冬の王国の風景",
-        "zh": "由于大雪、冰冻景观，大多数热气球航班被取消"
-      }
-    },
-    {
-      "regionId": "cebu",
-      "reason": {
-        "ko": "건기, 맑은 바다에서 고래상어 투어 최적기",
-        "en": "Dry season, the best time for whale shark tours in clear sea",
-        "ja": "乾季、澄んだ海でジンベエザメツアー最適機",
-        "zh": "旱季，碧海观鲸鲨最佳时节"
-      }
-    },
-    {
-      "regionId": "copenhagen",
-      "reason": {
-        "ko": "겨울 한가운데, 휘게(hygge) 카페 투어",
-        "en": "Hygge cafe tour in the middle of winter",
-        "ja": "冬の真ん中に、曲がったカフェツアー",
-        "zh": "隆冬的 Hygge 咖啡馆之旅"
-      }
+      "regionId": "hokkaido",
+      "reason": "평균 -6°C의 혹한"
     },
     {
       "regionId": "da-nang",
-      "reason": {
-        "ko": "비가 줄지만 아직 흐린 날이 많은 시기",
-        "en": "A time when the rain decreases but there are still many cloudy days",
-        "ja": "雨が降ってもまだ曇りの日が多い時期",
-        "zh": "雨势渐小但阴天仍多"
-      }
-    },
-    {
-      "regionId": "dubrovnik",
-      "reason": {
-        "ko": "비수기, 크루즈 없는 여유로운 성벽 투어",
-        "en": "Off-season, leisurely castle wall tour without cruise",
-        "ja": "シーズン、クルーズのないリラックスした城壁ツアー",
-        "zh": "淡季，悠闲的城墙之旅，不乘船游览"
-      }
-    },
-    {
-      "regionId": "edinburgh",
-      "reason": {
-        "ko": "혹한과 어둠, 일조시간 7시간의 깊은 겨울",
-        "en": "Deep winter with severe cold and darkness and 7 hours of sunlight",
-        "ja": "寒さと闇、日照時間7時間の深い冬",
-        "zh": "深冬严寒、黑暗，日照时间长达 7 小时"
-      }
-    },
-    {
-      "regionId": "florence",
-      "reason": {
-        "ko": "겨울 비수기, 우피치 미술관 한적한 관람",
-        "en": "Winter off-season, quiet visit to the Uffizi Gallery",
-        "ja": "冬のシーズン、ウピッチ美術館の静かな観覧",
-        "zh": "冬季淡季，安静逛乌菲兹美术馆"
-      }
-    },
-    {
-      "regionId": "fukuoka",
-      "reason": {
-        "ko": "추운 겨울이지만 야타이 포장마차에서 라멘 한 그릇",
-        "en": "It's a cold winter, but I enjoyed a bowl of ramen at a yatai stall",
-        "ja": "寒い冬ですが、ヤタイ屋台でラーメンのボウル",
-        "zh": "寒冷的冬天，却在屋台摊享用了一碗拉面"
-      }
-    },
-    {
-      "regionId": "guilin",
-      "reason": {
-        "ko": "한겨울이지만 이강 유람선 운항, 수묵화 속 여행",
-        "en": "Although it is the middle of winter, the river cruise ship operates, a journey in ink painting",
-        "ja": "真冬だがイガンクルーズ船運航、水墨画の中の旅",
-        "zh": "虽然已是隆冬，但内河游船开行，一场水墨之旅"
-      }
-    },
-    {
-      "regionId": "hangzhou",
-      "reason": {
-        "ko": "겨울 서호, 단교잔설(끊어진 다리 위 잔설) 절경",
-        "en": "West Lake in winter, the remaining snow on the broken bridge (remaining snow on the broken bridge) spectacular view",
-        "ja": "冬の西湖、断崖残説（絶え間ない橋の上の残雪）絶景",
-        "zh": "冬天的西湖，断桥残雪（断桥残雪）壮观景色"
-      }
-    },
-    {
-      "regionId": "helsinki",
-      "reason": {
-        "ko": "혹한(-10°C), 사우나 문화와 오로라 가능",
-        "en": "Extreme cold (-10°C), sauna culture and Northern Lights possible",
-        "ja": "寒い（-10°C）、サウナ文化とオーロラ可能",
-        "zh": "极冷（-10°C）、桑拿文化和北极光可能"
-      }
-    },
-    {
-      "regionId": "hiroshima",
-      "reason": {
-        "ko": "겨울이지만 미야지마 섬 한적한 참배 시기",
-        "en": "Although it is winter, it is a quiet time to visit Miyajima Island",
-        "ja": "冬ですが、宮島の静かな参拝時期",
-        "zh": "虽然是冬天，但游览宫岛却是一个安静的时节"
-      }
+      "reason": "잦은 비(154mm)"
     },
     {
       "regionId": "hoi-an",
-      "reason": {
-        "ko": "건기, 황등 불빛 아래 고도 골목 산책 최적기",
-        "en": "The dry season is the best time to walk along the Aldo Alley under the light of yellow lanterns",
-        "ja": "乾期、黄灯の光の下で高度路地散歩最適機",
-        "zh": "旱季是在黄色灯笼的照耀下沿着奥尔多巷漫步的最佳时机"
-      }
+      "reason": "잦은 비(154mm)"
     },
     {
-      "regionId": "hokkaido",
-      "reason": {
-        "ko": "파우더 스노우 스키의 천국, 니세코·루스쓰 최적기",
-        "en": "A paradise for powder snow skiing, Niseko and Rusutsu are the best times",
-        "ja": "パウダースノースキーの天国、ニセコ・ルスツの最適期",
-        "zh": "粉雪滑雪的天堂，新雪谷和留寿都是最好的时光"
-      }
-    },
-    {
-      "regionId": "interlaken",
-      "reason": {
-        "ko": "스키 시즌 절정, 융프라우 파우더 스노우",
-        "en": "The peak of ski season, Jungfrau powder snow",
-        "ja": "スキーシーズンのピーク、ユングフラウパウダースノー",
-        "zh": "滑雪旺季，少女峰粉雪"
-      }
-    },
-    {
-      "regionId": "istanbul",
-      "reason": {
-        "ko": "겨울 비, 보스포루스 강풍이 부는 시기",
-        "en": "Winter rain, Bosphorus strong wind blowing",
-        "ja": "冬の雨、ボスポルスの強風が吹く時期",
-        "zh": "冬天下雨，博斯普鲁斯海峡大风吹"
-      }
-    },
-    {
-      "regionId": "jakarta",
-      "reason": {
-        "ko": "우기 절정, 심각한 도시 침수가 매년 반복",
-        "en": "At the peak of the rainy season, severe urban flooding occurs every year.",
-        "ja": "雨期絶頂、深刻な都市浸水が毎年繰り返される",
-        "zh": "每年雨季高峰期，都会发生严重的城市内涝。"
-      }
-    },
-    {
-      "regionId": "kota-kinabalu",
-      "reason": {
-        "ko": "건기 절정, 키나발루산 트레킹 최적기",
-        "en": "The peak of the dry season, the best time to trek Mount Kinabalu",
-        "ja": "乾季ピーク、キナバルサントレッキング最適機",
-        "zh": "旱季高峰期，徒步京那巴鲁山的最佳时间"
-      }
-    },
-    {
-      "regionId": "kuala-lumpur",
-      "reason": {
-        "ko": "북동 몬순, 비 잦지만 페트로나스 타워는 언제나 장관",
-        "en": "Northeast monsoon, rain is frequent, but Petronas Towers are always spectacular",
-        "ja": "北東モンスーン、頻繁ではありませんが、ペトロナスタワーはいつも大臣",
-        "zh": "东北季风，雨水频繁，但双子塔却永远壮观"
-      }
-    },
-    {
-      "regionId": "kyoto",
-      "reason": {
-        "ko": "금각사 설경, 고요한 교토의 겨울 풍경",
-        "en": "Golden Pavilion snow scene, quiet winter scenery of Kyoto",
-        "ja": "金閣寺雪景色、静かな京都の冬の風景",
-        "zh": "金阁雪景，静谧的京都冬景"
-      }
-    },
-    {
-      "regionId": "london",
-      "reason": {
-        "ko": "어두운 겨울, 뮤지컬과 실내 관광 위주",
-        "en": "Dark winter, focusing on musicals and indoor tourism",
-        "ja": "暗い冬、ミュージカルと屋内観光中心",
-        "zh": "暗冬，专注音乐剧和室内旅游"
-      }
-    },
-    {
-      "regionId": "munich",
-      "reason": {
-        "ko": "겨울, 마리엔광장 야경과 근교 알프스 스키",
-        "en": "Winter, night view of Marienplatz and nearby Alpine skiing",
-        "ja": "冬、マリエン広場の夜景と近郊のアルプススキー",
-        "zh": "冬季玛利亚广场和附近高山滑雪场的夜景"
-      }
-    },
-    {
-      "regionId": "nagasaki",
-      "reason": {
-        "ko": "겨울 항구도시, 짬뽕·카스테라 미식 여행",
-        "en": "Winter port city, Jjamppong and castella gourmet trip",
-        "ja": "冬港都市、チャンポン・カステラグルメ旅行",
-        "zh": "冬季港口城市、Jjamppong和castella美食之旅"
-      }
-    },
-    {
-      "regionId": "nagoya",
-      "reason": {
-        "ko": "겨울이지만 아쓰타 신궁 첫 참배와 미소니코미 우동",
-        "en": "Although it is winter, the first visit to Atsuta Jingu Shrine and Misoni Komi Udon",
-        "ja": "冬ですが、厚田神宮初の参拝とみそにこううどん",
-        "zh": "虽然是冬天，初访热田神宫和美索尼科米乌冬面"
-      }
-    },
-    {
-      "regionId": "nara",
-      "reason": {
-        "ko": "겨울 나라, 한적한 와카쿠사야마 불태우기(1월)",
-        "en": "Burning down secluded Mt. Wakakusa, a winter wonderland (January)",
-        "ja": "冬の国、閑静な和歌山山を燃やす（1月）",
-        "zh": "烧毁幽静的若草山，打造冬季仙境（一月）"
-      }
-    },
-    {
-      "regionId": "new-york",
-      "reason": {
-        "ko": "영하의 혹한과 폭설, 브로드웨이와 실내 관광 위주",
-        "en": "Sub-zero cold and heavy snow, focusing on Broadway and indoor tourism",
-        "ja": "零下の酷寒と大雪、ブロードウェイと屋内観光中心",
-        "zh": "零下严寒大雪，聚焦百老汇和室内旅游"
-      }
-    },
-    {
-      "regionId": "paris",
-      "reason": {
-        "ko": "겨울 한가운데, 관광객 적고 항공권 저렴한 비수기",
-        "en": "Mid-winter, off-season with few tourists and cheap airline tickets",
-        "ja": "冬の真ん中に、観光客が少なく、航空券の安いオフシーズン",
-        "zh": "仲冬淡季，游客稀少，机票便宜"
-      }
-    },
-    {
-      "regionId": "porto",
-      "reason": {
-        "ko": "겨울 비, 동루이스 다리 위 빗속 산책",
-        "en": "Winter rain, a walk in the rain on the East Louis Bridge",
-        "ja": "冬の雨、東ルイス橋の上の雨の中を歩く",
-        "zh": "冬天的雨，东路易桥雨中漫步"
-      }
-    },
-    {
-      "regionId": "prague",
-      "reason": {
-        "ko": "겨울, 카를교 위 눈과 뜨거운 맥주 한 잔",
-        "en": "Winter, snow on Charles Bridge and a glass of hot beer",
-        "ja": "冬、カール橋の上の雪とホットビールのグラス",
-        "zh": "冬天，查理大桥上的雪和一杯热啤酒"
-      }
-    },
-    {
-      "regionId": "reykjavik",
-      "reason": {
-        "ko": "극야 시즌, 오로라와 블루라군 온천",
-        "en": "Polar night season, Aurora and Blue Lagoon hot springs",
-        "ja": "極夜シーズン、オーロラとブルーラグーン温泉",
-        "zh": "极夜季节，极光和蓝湖温泉"
-      }
-    },
-    {
-      "regionId": "rome",
-      "reason": {
-        "ko": "겨울 비, 콜로세움 줄이 짧은 비수기",
-        "en": "Off-season with winter rain and short lines at the Colosseum",
-        "ja": "冬の雨、コロシアムラインが短いシーズン",
-        "zh": "淡季有冬雨，罗马斗兽场的排队时间很短"
-      }
-    },
-    {
-      "regionId": "salzburg",
-      "reason": {
-        "ko": "겨울 스키 시즌, 근교 알프스 스키 리조트",
-        "en": "Winter ski season, nearby Alpine ski resorts",
-        "ja": "冬スキーシーズン、近郊アルプススキーリゾート",
-        "zh": "冬季滑雪季节，附近高山滑雪胜地"
-      }
-    },
-    {
-      "regionId": "san-francisco",
-      "reason": {
-        "ko": "겨울 비 시즌, 피셔맨스워프 클램차우더",
-        "en": "Winter Rain Season, Fisherman's Wharf Clam Chowder",
-        "ja": "冬の雨シーズン、フィッシャーマンスワーフクラムチャウダー",
-        "zh": "冬雨时节，渔人码头蛤蜊浓汤"
-      }
-    },
-    {
-      "regionId": "shanghai",
-      "reason": {
-        "ko": "쌀쌀한 겨울, 와이탄 야경과 실내 쇼핑",
-        "en": "Chilly winter, night view of the Bund and indoor shopping",
-        "ja": "肌寒い冬、ワイタンの夜景と屋内ショッピング",
-        "zh": "寒冷的冬天，外滩夜景和室内购物"
-      }
+      "regionId": "cebu",
+      "reason": "강수량 223mm의 우기"
     },
     {
       "regionId": "singapore",
-      "reason": {
-        "ko": "북동 몬순, 비가 가장 많은 시기",
-        "en": "Northeast monsoon, the most rainy season",
-        "ja": "北東モンスーン、最も雨の多い時期",
-        "zh": "东北季风，最雨季"
-      }
+      "reason": "강수량 295mm의 우기"
     },
     {
-      "regionId": "split",
-      "reason": {
-        "ko": "비수기, 디오클레티아누스 궁전 독차지",
-        "en": "Off-season, Diocletian's Palace is all to yourself",
-        "ja": "シーズン、ディオクレティアヌス宮殿の独占",
-        "zh": "淡季，戴克里先宫完全属于你自己"
-      }
+      "regionId": "rome",
+      "reason": "평균 8°C의 추위"
     },
     {
-      "regionId": "tokyo",
-      "reason": {
-        "ko": "겨울 일루미네이션과 맑은 후지산 전망이 매력인 시기",
-        "en": "A time when winter illuminations and clear views of Mt. Fuji are attractive",
-        "ja": "冬のイルミネーションと澄んだ富士山の景色が魅力の時期",
-        "zh": "冬天的灯饰和富士山的美景充满魅力的时期"
-      }
+      "regionId": "florence",
+      "reason": "평균 7°C의 추위"
     },
     {
-      "regionId": "toronto",
-      "reason": {
-        "ko": "혹한과 폭설, 실내 CN타워·박물관 위주 여행",
-        "en": "Extreme cold and heavy snow, a trip focused on indoor CN Tower and museums",
-        "ja": "酷寒と大雪、屋内CNタワー・博物館中心旅行",
-        "zh": "极寒大雪，一场聚焦室内CN塔和博物馆的旅行"
-      }
+      "regionId": "cappadocia",
+      "reason": "평균 1°C의 혹한"
     },
     {
-      "regionId": "vancouver",
-      "reason": {
-        "ko": "눈이 드물지만 스키 리조트(휘슬러) 당일치기 가능",
-        "en": "Although snow is rare, a day trip to the ski resort (Whistler) is possible",
-        "ja": "雪はまれですが、スキーリゾート（ウィスラー）日帰り可能",
-        "zh": "虽然很少下雪，但可以去滑雪胜地（惠斯勒）一日游"
-      }
+      "regionId": "antalya",
+      "reason": "잦은 비(146mm)"
     },
     {
-      "regionId": "venice",
-      "reason": {
-        "ko": "겨울 추위, 안개와 아쿠아 알타(침수) 위험",
-        "en": "Winter cold, fog and Aqua Alta (flooding) risk",
-        "ja": "冬の寒さ、霧とアクアアルタ（浸水）の危険",
-        "zh": "冬季寒冷、大雾和 Aqua Alta（洪水）风险"
-      }
+      "regionId": "athens",
+      "reason": "평균 9°C의 추위"
     },
     {
-      "regionId": "vienna",
-      "reason": {
-        "ko": "신년 필하모닉 음악회 여운, 조용한 겨울 빈",
-        "en": "New Year's Philharmonic Concert Lingering, Quiet Winter Vienna",
-        "ja": "新年フィルハーモニー音楽会余韻、静かな冬の空",
-        "zh": "新年爱乐音乐会缠绵，静谧的冬日维也纳"
-      }
-    },
-    {
-      "regionId": "yogyakarta",
-      "reason": {
-        "ko": "우기, 하지만 보로부두르 새벽 안개 사진 명소",
-        "en": "Rainy season, but Borobudur dawn fog photo spot",
-        "ja": "雨季、しかしボロブドゥールの夜明けの霧写真スポット",
-        "zh": "雨季，婆罗浮屠却是晨雾拍照胜地"
-      }
+      "regionId": "shanghai",
+      "reason": "평균 6°C의 추위"
     },
     {
       "regionId": "zhangjiajie",
-      "reason": {
-        "ko": "겨울 설경, 눈 덮인 아바타 산의 신비로운 풍경",
-        "en": "Winter snow scene, mysterious scenery of snow-covered Avatar Mountain",
-        "ja": "冬の雪景色、雪に覆われたアバター山の神秘的な風景",
-        "zh": "冬季雪景，阿凡达山雪景神秘"
-      }
+      "reason": "평균 7°C의 추위"
+    },
+    {
+      "regionId": "guilin",
+      "reason": "잦은 비(149mm)"
+    },
+    {
+      "regionId": "hangzhou",
+      "reason": "평균 6°C의 추위"
+    },
+    {
+      "regionId": "kuala-lumpur",
+      "reason": "강수량 222mm의 우기"
+    },
+    {
+      "regionId": "kota-kinabalu",
+      "reason": "강수량 273mm의 우기"
+    },
+    {
+      "regionId": "prague",
+      "reason": "평균 2°C의 혹한"
+    },
+    {
+      "regionId": "split",
+      "reason": "잦은 비(145mm), 평균 8°C의 추위"
+    },
+    {
+      "regionId": "porto",
+      "reason": "잦은 비(176mm)"
+    },
+    {
+      "regionId": "vienna",
+      "reason": "평균 2°C의 혹한"
+    },
+    {
+      "regionId": "budapest",
+      "reason": "평균 2°C의 혹한"
+    },
+    {
+      "regionId": "cairns",
+      "reason": "강수량 454mm의 우기"
+    },
+    {
+      "regionId": "bali",
+      "reason": "강수량 284mm의 우기"
+    },
+    {
+      "regionId": "jakarta",
+      "reason": "강수량 343mm의 우기"
+    },
+    {
+      "regionId": "yogyakarta",
+      "reason": "강수량 297mm의 우기"
+    },
+    {
+      "regionId": "venice",
+      "reason": "평균 4°C의 혹한"
+    },
+    {
+      "regionId": "amalfi",
+      "reason": "잦은 비(143mm), 평균 10°C의 추위"
+    },
+    {
+      "regionId": "london",
+      "reason": "평균 5°C의 혹한"
+    },
+    {
+      "regionId": "edinburgh",
+      "reason": "평균 5°C의 혹한, 일조량 부족"
+    },
+    {
+      "regionId": "istanbul",
+      "reason": "평균 7°C의 추위"
     },
     {
       "regionId": "zurich",
-      "reason": {
-        "ko": "겨울, 알프스 스키 근교 여행과 퐁뒤",
-        "en": "Winter, Alpine ski trip and fondue",
-        "ja": "冬、アルプススキー近郊の旅行とフォンデュ",
-        "zh": "冬季，高山滑雪之旅和火锅"
-      }
+      "reason": "평균 2°C의 혹한"
+    },
+    {
+      "regionId": "interlaken",
+      "reason": "잦은 비(131mm), 평균 4°C의 혹한"
+    },
+    {
+      "regionId": "dubrovnik",
+      "reason": "강수량 222mm의 우기, 평균 8°C의 추위"
+    },
+    {
+      "regionId": "berlin",
+      "reason": "평균 3°C의 혹한, 일조량 부족"
+    },
+    {
+      "regionId": "munich",
+      "reason": "평균 1°C의 혹한"
+    },
+    {
+      "regionId": "vancouver",
+      "reason": "강수량 284mm의 우기, 평균 4°C의 혹한, 일조량 부족"
+    },
+    {
+      "regionId": "toronto",
+      "reason": "평균 -3°C의 혹한"
+    },
+    {
+      "regionId": "salzburg",
+      "reason": "평균 2°C의 혹한"
+    },
+    {
+      "regionId": "amsterdam",
+      "reason": "평균 5°C의 혹한, 일조량 부족"
+    },
+    {
+      "regionId": "helsinki",
+      "reason": "평균 -3°C의 혹한, 일조량 부족"
+    },
+    {
+      "regionId": "copenhagen",
+      "reason": "평균 3°C의 혹한, 일조량 부족"
+    },
+    {
+      "regionId": "reykjavik",
+      "reason": "잦은 비(157mm), 평균 -1°C의 혹한, 일조량 부족"
     }
   ]
 }
