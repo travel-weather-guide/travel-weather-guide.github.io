@@ -3,24 +3,85 @@
     "regionId": "vancouver",
     "month": 1,
     "rating": 1,
-    "summary": "눈이 드물지만 스키 리조트(휘슬러) 당일치기 가능",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 284mm로 우기에 해당",
-      "월 21.4일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "눈이 드물지만 스키 리조트(휘슬러) 당일치기 가능",
+      "en": "Although snow is rare, a day trip to the ski resort (Whistler) is possible",
+      "ja": "雪はまれですが、スキーリゾート（ウィスラー）日帰り可能",
+      "zh": "虽然很少下雪，但可以去滑雪胜地（惠斯勒）一日游"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 284mm로 우기에 해당",
+        "월 21.4일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "Monthly precipitation is 284mm, corresponding to the rainy season",
+        "About 21 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 85%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "月降水量284mmで雨季に対応",
+        "月21.4日雨と屋外のスケジュールに注意",
+        "湿度85％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "月降水量284毫米，对应雨季",
+        "月均约21天降雨，注意安排户外行程",
+        "湿度85%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -28,23 +89,81 @@
     "regionId": "vancouver",
     "month": 2,
     "rating": 1,
-    "summary": "겨울 막바지, 동계올림픽 유산 코스 탐방",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "강수량이 109mm로 우산 필수",
-      "월 16일 비가 와 야외 일정에 유의",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 막바지, 동계올림픽 유산 코스 탐방",
+      "en": "At the end of winter, exploring the Winter Olympics heritage course",
+      "ja": "冬の終わり、冬季オリンピック遺産コースを訪れる",
+      "zh": "冬末，探索冬奥传承路线"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 109mm로 우산 필수",
+        "월 16일 비가 와 야외 일정에 유의",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 109mm, so an umbrella is a must",
+        "It's raining on the 16th, so be careful about outdoor schedules",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "降水量が109mmで傘必須",
+        "月16日雨と屋外のスケジュールに注意",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量109毫米，雨伞必备",
+        "16号有雨，户外行程要注意",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -52,20 +171,69 @@
     "regionId": "vancouver",
     "month": 3,
     "rating": 1,
-    "summary": "봄 시작, 벚꽃 피는 밴쿠버 공원 산책",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 128mm로 우산 필수",
-      "비 오는 날이 14.8일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 벚꽃 피는 밴쿠버 공원 산책",
+      "en": "Spring begins, a walk through a Vancouver park where cherry blossoms are blooming",
+      "ja": "春の始まり、桜の咲くバンクーバー公園の散歩",
+      "zh": "春天开始了，漫步在樱花盛开的温哥华公园"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 128mm로 우산 필수",
+        "비 오는 날이 14.8일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 128mm, so an umbrella is a must",
+        "With 14.8 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "降水量は 128 mm なので傘は必須です",
+        "雨の日が14.8日で屋内代替準備を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量128毫米，雨伞必备",
+        "14.8阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -73,21 +241,73 @@
     "regionId": "vancouver",
     "month": 4,
     "rating": 2,
-    "summary": "벚꽃 만개, 스탠리 파크 산책로 분홍빛",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 111mm로 우산 필수",
-      "비 오는 날이 13.4일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "벚꽃 만개, 스탠리 파크 산책로 분홍빛",
+      "en": "Cherry blossoms in full bloom, Stanley Park promenade turns pink",
+      "ja": "桜満開、スタンレーパーク遊歩道ピンク",
+      "zh": "樱花盛开，斯坦利公园长廊变成粉色"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 111mm로 우산 필수",
+        "비 오는 날이 13.4일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 111mm, so an umbrella is a must",
+        "With 13.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "降水量が111mmで傘必須",
+        "雨の日が13.4日で屋内代替案を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "降雨量111毫米，雨伞必备",
+        "13.4阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -95,19 +315,65 @@
     "regionId": "vancouver",
     "month": 5,
     "rating": 3,
-    "summary": "쾌적한 봄, 캐필라노 현수교 & 그라우스산 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.8일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쾌적한 봄, 캐필라노 현수교 & 그라우스산 최적기",
+      "en": "Pleasant spring, best time to visit Capilano Suspension Bridge & Grouse Mountain",
+      "ja": "快適な春、キャピラノ吊り橋＆グラウス山最適機",
+      "zh": "宜人的春天，参观卡皮拉诺吊桥和松鸡山的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.8일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "With 10.8 rainy days, indoor alternative preparations are recommended.",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "雨の日が10.8日で屋内代替案を推奨",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "10.8阴雨天，建议室内替代准备。",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -115,23 +381,86 @@
     "regionId": "vancouver",
     "month": 6,
     "rating": 3,
-    "summary": "화창한 초여름, 재즈 페스티벌과 야외 마켓",
-    "highlights": [
-      "화창한 여름, 스탠리 파크·캐필라노 현수교 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 11.8일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "밴쿠버 재즈 페스티벌 (6월)",
-      "캐나다 데이 (7월 1일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "화창한 초여름, 재즈 페스티벌과 야외 마켓",
+      "en": "Sunny early summer, jazz festival and outdoor market",
+      "ja": "日当たりの良い初夏、ジャズフェスティバルと屋外マーケット",
+      "zh": "阳光明媚的初夏，爵士音乐节和露天市场"
+    },
+    "highlights": {
+      "ko": [
+        "화창한 여름, 스탠리 파크·캐필라노 현수교 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Sunny summer, the best time for Stanley Park and Capilano Suspension Bridge",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "晴れた夏、スタンレーパーク・キャピラノ吊り橋の最適期",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "阳光明媚的夏日，斯坦利公园和卡皮拉诺吊桥的最佳时节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.8일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "With 11.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "雨の日が11.8日で屋内代替案を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "11.8阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "밴쿠버 재즈 페스티벌 (6월)",
+        "캐나다 데이 (7월 1일)"
+      ],
+      "en": [
+        "Vancouver Jazz Festival (June)",
+        "Canada Day (July 1)"
+      ],
+      "ja": [
+        "バンクーバージャズフェスティバル（6月）",
+        "カナダの日（7月1日）"
+      ],
+      "zh": [
+        "温哥华爵士音乐节（六月）",
+        "加拿大国庆日（7 月 1 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -139,24 +468,90 @@
     "regionId": "vancouver",
     "month": 7,
     "rating": 5,
-    "summary": "캐나다 데이, 맑고 쾌적한 여름 피크",
-    "highlights": [
-      "화창한 여름, 스탠리 파크·캐필라노 현수교 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
-    "events": [
-      "밴쿠버 재즈 페스티벌 (6월)",
-      "캐나다 데이 (7월 1일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "캐나다 데이, 맑고 쾌적한 여름 피크",
+      "en": "Canada Day, peak of sunny and pleasant summer",
+      "ja": "カナダの日、澄んで快適な夏のピーク",
+      "zh": "加拿大国庆日，阳光明媚、宜人的夏日高峰"
+    },
+    "highlights": {
+      "ko": [
+        "화창한 여름, 스탠리 파크·캐필라노 현수교 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Sunny summer, the best time for Stanley Park and Capilano Suspension Bridge",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "晴れた夏、スタンレーパーク・キャピラノ吊り橋の最適期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "阳光明媚的夏日，斯坦利公园和卡皮拉诺吊桥的最佳时节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "밴쿠버 재즈 페스티벌 (6월)",
+        "캐나다 데이 (7월 1일)"
+      ],
+      "en": [
+        "Vancouver Jazz Festival (June)",
+        "Canada Day (July 1)"
+      ],
+      "ja": [
+        "バンクーバージャズフェスティバル（6月）",
+        "カナダの日（7月1日）"
+      ],
+      "zh": [
+        "温哥华爵士音乐节（六月）",
+        "加拿大国庆日（7 月 1 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -164,24 +559,90 @@
     "regionId": "vancouver",
     "month": 8,
     "rating": 4,
-    "summary": "여름 성수기, 개니타 섬 카약·고래 관찰 크루즈",
-    "highlights": [
-      "화창한 여름, 스탠리 파크·캐필라노 현수교 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "밴쿠버 재즈 페스티벌 (6월)",
-      "캐나다 데이 (7월 1일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 성수기, 개니타 섬 카약·고래 관찰 크루즈",
+      "en": "Summer peak season, Gaenita Island kayaking and whale watching cruise",
+      "ja": "夏のハイシーズン、ガニタ島のカヤック・クジラ観察クルーズ",
+      "zh": "夏季旺季，盖尼塔岛皮划艇和观鲸游船"
+    },
+    "highlights": {
+      "ko": [
+        "화창한 여름, 스탠리 파크·캐필라노 현수교 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Sunny summer, the best time for Stanley Park and Capilano Suspension Bridge",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "晴れた夏、スタンレーパーク・キャピラノ吊り橋の最適期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "阳光明媚的夏日，斯坦利公园和卡皮拉诺吊桥的最佳时节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "밴쿠버 재즈 페스티벌 (6월)",
+        "캐나다 데이 (7월 1일)"
+      ],
+      "en": [
+        "Vancouver Jazz Festival (June)",
+        "Canada Day (July 1)"
+      ],
+      "ja": [
+        "バンクーバージャズフェスティバル（6月）",
+        "カナダの日（7月1日）"
+      ],
+      "zh": [
+        "温哥华爵士音乐节（六月）",
+        "加拿大国庆日（7 月 1 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -189,24 +650,90 @@
     "regionId": "vancouver",
     "month": 9,
     "rating": 3,
-    "summary": "선선한 가을 시작, 단풍과 와이너리 투어",
-    "highlights": [
-      "선선한 가을, 단풍과 와이너리 시즌",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 111mm로 우산 필수",
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
-    "events": [
-      "밴쿠버 국제 영화제 (10월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "선선한 가을 시작, 단풍과 와이너리 투어",
+      "en": "Cool start of fall, fall foliage and winery tour",
+      "ja": "鮮やかな秋の始まり、紅葉とワイナリーツアー",
+      "zh": "凉爽的秋天开始，秋叶和酒庄之旅"
+    },
+    "highlights": {
+      "ko": [
+        "선선한 가을, 단풍과 와이너리 시즌",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Cool fall, fall foliage and winery season",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "鮮やかな秋、紅葉とワイナリーシーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "凉爽的秋天，秋叶和酒庄的季节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 111mm로 우산 필수",
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 111mm, so an umbrella is a must",
+        "With 10.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "降水量が111mmで傘必須",
+        "雨の日が10.4日で屋内代替案を推奨",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量111毫米，雨伞必备",
+        "10.4阴雨天，建议室内替代准备",
+        "湿度82%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "밴쿠버 국제 영화제 (10월)"
+      ],
+      "en": [
+        "Vancouver International Film Festival (October)"
+      ],
+      "ja": [
+        "バンクーバー国際映画祭（10月）"
+      ],
+      "zh": [
+        "温哥华国际电影节（十月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -214,22 +741,82 @@
     "regionId": "vancouver",
     "month": 10,
     "rating": 1,
-    "summary": "단풍 절정, 오카나간 와인 수확 축제",
-    "highlights": [
-      "선선한 가을, 단풍과 와이너리 시즌"
-    ],
-    "cautions": [
-      "월 강수량 225mm로 우기에 해당",
-      "비 오는 날이 14.6일로 실내 대안 준비 권장",
-      "습도 86%로 불쾌지수 높음"
-    ],
-    "events": [
-      "밴쿠버 국제 영화제 (10월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "단풍 절정, 오카나간 와인 수확 축제",
+      "en": "Fall Foliage Peak, Okanagan Wine Harvest Festival",
+      "ja": "紅葉絶頂、オカナガンワイン収穫祭",
+      "zh": "秋叶峰，奥肯那根葡萄酒丰收节"
+    },
+    "highlights": {
+      "ko": [
+        "선선한 가을, 단풍과 와이너리 시즌"
+      ],
+      "en": [
+        "Cool fall, fall foliage and winery season"
+      ],
+      "ja": [
+        "鮮やかな秋、紅葉とワイナリーシーズン"
+      ],
+      "zh": [
+        "凉爽的秋天，秋叶和酒庄的季节"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 225mm로 우기에 해당",
+        "비 오는 날이 14.6일로 실내 대안 준비 권장",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 225mm, corresponding to the rainy season",
+        "With 14.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "月降水量225mmで雨季に対応",
+        "雨の日が14.6日で屋内代替案を推奨",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "每月降雨量225毫米，对应雨季",
+        "14.6阴雨天，建议室内替代准备",
+        "湿度86%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "밴쿠버 국제 영화제 (10월)"
+      ],
+      "en": [
+        "Vancouver International Film Festival (October)"
+      ],
+      "ja": [
+        "バンクーバー国際映画祭（10月）"
+      ],
+      "zh": [
+        "温哥华国际电影节（十月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -237,22 +824,77 @@
     "regionId": "vancouver",
     "month": 11,
     "rating": 1,
-    "summary": "가을비 시작, 아쿠아리움·박물관 실내 탐방",
-    "highlights": [
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 310mm로 우기에 해당",
-      "월 19일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "가을비 시작, 아쿠아리움·박물관 실내 탐방",
+      "en": "Autumn rain begins, indoor visit to aquarium and museum",
+      "ja": "秋雨開始、水族館・博物館屋内探訪",
+      "zh": "秋雨初起，室内参观水族馆和博物馆"
+    },
+    "highlights": {
+      "ko": [
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 310mm로 우기에 해당",
+        "월 19일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "Monthly rainfall is 310mm, corresponding to the rainy season",
+        "It's raining on the 19th, so be careful about outdoor schedules",
+        "High discomfort index with humidity of 86%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "月降水量310mmで雨季に対応",
+        "月19日雨と屋外のスケジュールに注意",
+        "湿度86％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "每月降雨量310毫米，对应雨季",
+        "19号有雨，户外行程要注意",
+        "湿度86%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -260,24 +902,85 @@
     "regionId": "vancouver",
     "month": 12,
     "rating": 1,
-    "summary": "크리스마스 시즌, 휘슬러 스키 리조트 오픈",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 267mm로 우기에 해당",
-      "월 21.2일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "크리스마스 시즌, 휘슬러 스키 리조트 오픈",
+      "en": "Christmas season, Whistler ski resort opens",
+      "ja": "クリスマスシーズン、ウィスラースキーリゾートオープン",
+      "zh": "圣诞节期间，惠斯勒滑雪胜地开业"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 267mm로 우기에 해당",
+        "월 21.2일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "Monthly rainfall is 267mm, corresponding to the rainy season",
+        "About 21 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 86%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "月降水量267mmで雨季に対応",
+        "月21.2日雨と屋外のスケジュールに注意",
+        "湿度86％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "每月降雨量267毫米，对应雨季",
+        "月均约21天降雨，注意安排户外行程",
+        "湿度86%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -285,20 +988,69 @@
     "regionId": "toronto",
     "month": 1,
     "rating": 1,
-    "summary": "혹한과 폭설, 실내 CN타워·박물관 위주 여행",
-    "highlights": [
-      "혹한과 폭설, 야외 관광 힘든 시기",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -6°C로 방한 대비 필요",
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "혹한과 폭설, 실내 CN타워·박물관 위주 여행",
+      "en": "Extreme cold and heavy snow, a trip focused on indoor CN Tower and museums",
+      "ja": "酷寒と大雪、屋内CNタワー・博物館中心旅行",
+      "zh": "极寒大雪，一场聚焦室内CN塔和博物馆的旅行"
+    },
+    "highlights": {
+      "ko": [
+        "혹한과 폭설, 야외 관광 힘든 시기",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Extreme cold and heavy snow, difficult times for outdoor tourism",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "酷寒と大雪、屋外観光の厳しい時期",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "严寒大雪，户外旅游艰难",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -6°C로 방한 대비 필요",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "The average minimum temperature is -6°C, so preparation for cold weather is necessary",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "平均最低気温-6℃で防寒コントラストが必要",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "平均最低气温为-6℃，做好防寒准备",
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+      "en": "Winter clothes, padding, hot packs. Preparation for extreme cold is essential",
+      "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
+      "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -306,21 +1058,73 @@
     "regionId": "toronto",
     "month": 2,
     "rating": 2,
-    "summary": "겨울 지속, 겨울 축제와 아이스 스케이팅 시즌",
-    "highlights": [
-      "혹한과 폭설, 야외 관광 힘든 시기",
-      "강수량이 적어 맑은 날이 많음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -7°C로 방한 대비 필요",
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울 지속, 겨울 축제와 아이스 스케이팅 시즌",
+      "en": "Winter continues, winter festivals and ice skating season",
+      "ja": "冬の持続、冬の祭りとアイススケートシーズン",
+      "zh": "冬天还在继续，冬季节日和滑冰季节"
+    },
+    "highlights": {
+      "ko": [
+        "혹한과 폭설, 야외 관광 힘든 시기",
+        "강수량이 적어 맑은 날이 많음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Extreme cold and heavy snow, difficult times for outdoor tourism",
+        "There is little precipitation and there are many clear days",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "酷寒と大雪、屋外観光の厳しい時期",
+        "降水量が少なく、晴れた日が多い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "严寒大雪，户外旅游艰难",
+        "降水少，晴天多",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -7°C로 방한 대비 필요",
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "The average minimum temperature is -7°C, so preparation for cold weather is necessary",
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "平均最低気温-7°Cで防寒コントラストが必要",
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "平均最低气温-7℃，做好防寒准备",
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+      "en": "Winter clothes, padding, hot packs. Preparation for extreme cold is essential",
+      "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
+      "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -328,19 +1132,65 @@
     "regionId": "toronto",
     "month": 3,
     "rating": 2,
-    "summary": "봄 시작이지만 여전히 쌀쌀한 토론토",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -2°C로 방한 대비 필요",
-      "비 오는 날이 11.4일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "봄 시작이지만 여전히 쌀쌀한 토론토",
+      "en": "Spring has begun, but it's still chilly in Toronto",
+      "ja": "春の始まりですが、まだ肌寒いトロント",
+      "zh": "春天已经来临，但多伦多依然寒冷"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -2°C로 방한 대비 필요",
+        "비 오는 날이 11.4일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "The average minimum temperature is -2°C, so preparation for cold weather is necessary",
+        "With 11.4 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "平均最低気温-2℃で防寒コントラストが必要",
+        "雨の日が11.4日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "平均最低气温为-2℃，做好防寒准备",
+        "11.4阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -348,18 +1198,61 @@
     "regionId": "toronto",
     "month": 4,
     "rating": 2,
-    "summary": "봄꽃 시작, 하이 파크 벚꽃 명소",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 13.8일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "봄꽃 시작, 하이 파크 벚꽃 명소",
+      "en": "Spring flowers begin, High Park cherry blossom spot",
+      "ja": "春の花の始まり、ハイパークの桜スポット",
+      "zh": "春暖花开，High Park赏樱胜地"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.8일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 13.8 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が13.8日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "13.8阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -367,20 +1260,69 @@
     "regionId": "toronto",
     "month": 5,
     "rating": 3,
-    "summary": "쾌적한 봄, 하이 파크 벚꽃 만개 & 아웃도어 시즌",
-    "highlights": [
-      "나이아가라·CN타워 관광 최적 시즌",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "쾌적한 봄, 하이 파크 벚꽃 만개 & 아웃도어 시즌",
+      "en": "Pleasant spring, High Park cherry blossoms in full bloom & outdoor season",
+      "ja": "快適な春、ハイパーク桜満開＆アウトドアシーズン",
+      "zh": "春意盎然，High Park 樱花盛开，户外季节"
+    },
+    "highlights": {
+      "ko": [
+        "나이아가라·CN타워 관광 최적 시즌",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Best season for Niagara/CN Tower tourism",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "ナイアガラ・CNタワー観光最適シーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "尼亚加拉/加拿大国家电视塔旅游的最佳季节",
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "토론토 국제 영화제 (9월)",
-      "캐나다 데이 (7월 1일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "토론토 국제 영화제 (9월)",
+        "캐나다 데이 (7월 1일)"
+      ],
+      "en": [
+        "Toronto International Film Festival (September)",
+        "Canada Day (July 1)"
+      ],
+      "ja": [
+        "トロント国際映画祭（9月）",
+        "カナダの日（7月1日）"
+      ],
+      "zh": [
+        "多伦多国际电影节（九月）",
+        "加拿大国庆日（7 月 1 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -388,23 +1330,86 @@
     "regionId": "toronto",
     "month": 6,
     "rating": 4,
-    "summary": "초여름, 나이아가라 폭포 당일치기 최고 시기",
-    "highlights": [
-      "나이아가라·CN타워 관광 최적 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 10.4일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "토론토 국제 영화제 (9월)",
-      "캐나다 데이 (7월 1일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "초여름, 나이아가라 폭포 당일치기 최고 시기",
+      "en": "Early summer, the best time for a day trip to Niagara Falls",
+      "ja": "初夏、ナイアガラの滝日帰りの最高時期",
+      "zh": "初夏，尼亚加拉大瀑布一日游最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "나이아가라·CN타워 관광 최적 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best season for Niagara/CN Tower tourism",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ナイアガラ・CNタワー観光最適シーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "尼亚加拉/加拿大国家电视塔旅游的最佳季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.4일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 10.4 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が10.4日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "10.4阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "토론토 국제 영화제 (9월)",
+        "캐나다 데이 (7월 1일)"
+      ],
+      "en": [
+        "Toronto International Film Festival (September)",
+        "Canada Day (July 1)"
+      ],
+      "ja": [
+        "トロント国際映画祭（9月）",
+        "カナダの日（7月1日）"
+      ],
+      "zh": [
+        "多伦多国际电影节（九月）",
+        "加拿大国庆日（7 月 1 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -412,24 +1417,90 @@
     "regionId": "toronto",
     "month": 7,
     "rating": 4,
-    "summary": "캐나다 데이, 토론토 여름 성수기",
-    "highlights": [
-      "나이아가라·CN타워 관광 최적 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 11.6일로 실내 대안 준비 권장",
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "토론토 국제 영화제 (9월)",
-      "캐나다 데이 (7월 1일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "캐나다 데이, 토론토 여름 성수기",
+      "en": "Canada Day, peak summer season in Toronto",
+      "ja": "カナダの日、トロントの夏のピークシーズン",
+      "zh": "加拿大国庆日，多伦多夏季旺季"
+    },
+    "highlights": {
+      "ko": [
+        "나이아가라·CN타워 관광 최적 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best season for Niagara/CN Tower tourism",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ナイアガラ・CNタワー観光最適シーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "尼亚加拉/加拿大国家电视塔旅游的最佳季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.6일로 실내 대안 준비 권장",
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "With 11.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "雨の日が11.6日で屋内代替案を推奨",
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "11.6阴雨天，建议室内替代准备",
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "토론토 국제 영화제 (9월)",
+        "캐나다 데이 (7월 1일)"
+      ],
+      "en": [
+        "Toronto International Film Festival (September)",
+        "Canada Day (July 1)"
+      ],
+      "ja": [
+        "トロント国際映画祭（9月）",
+        "カナダの日（7月1日）"
+      ],
+      "zh": [
+        "多伦多国际电影节（九月）",
+        "加拿大国庆日（7 月 1 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -437,24 +1508,90 @@
     "regionId": "toronto",
     "month": 8,
     "rating": 4,
-    "summary": "여름 절정, 토론토 아이랜드 페리·레이크쇼어 산책",
-    "highlights": [
-      "나이아가라·CN타워 관광 최적 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 11일로 실내 대안 준비 권장",
-      "습도가 73%로 다소 높음"
-    ],
-    "events": [
-      "토론토 국제 영화제 (9월)",
-      "캐나다 데이 (7월 1일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 절정, 토론토 아이랜드 페리·레이크쇼어 산책",
+      "en": "Peak of summer, stroll along Toronto Island Ferry and Lakeshore",
+      "ja": "夏絶頂、トロントアイランドフェリー・レイクショア散歩",
+      "zh": "盛夏季节，漫步多伦多岛渡轮和湖畔"
+    },
+    "highlights": {
+      "ko": [
+        "나이아가라·CN타워 관광 최적 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best season for Niagara/CN Tower tourism",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ナイアガラ・CNタワー観光最適シーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "尼亚加拉/加拿大国家电视塔旅游的最佳季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11일로 실내 대안 준비 권장",
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "As the rainy day is the 11th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "雨の日が11日で屋内代替準備を推奨",
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "由于11号是雨天，建议室内替代准备",
+        "湿度有点高，为 73%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "토론토 국제 영화제 (9월)",
+        "캐나다 데이 (7월 1일)"
+      ],
+      "en": [
+        "Toronto International Film Festival (September)",
+        "Canada Day (July 1)"
+      ],
+      "ja": [
+        "トロント国際映画祭（9月）",
+        "カナダの日（7月1日）"
+      ],
+      "zh": [
+        "多伦多国际电影节（九月）",
+        "加拿大国庆日（7 月 1 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -462,22 +1599,82 @@
     "regionId": "toronto",
     "month": 9,
     "rating": 4,
-    "summary": "TIFF(토론토 국제 영화제), 서늘하고 쾌적한 가을",
-    "highlights": [
-      "나이아가라·CN타워 관광 최적 시즌",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "토론토 국제 영화제 (9월)",
-      "캐나다 데이 (7월 1일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "TIFF(토론토 국제 영화제), 서늘하고 쾌적한 가을",
+      "en": "TIFF (Toronto International Film Festival), cool and pleasant fall",
+      "ja": "TIFF（トロント国際映画祭）、涼しく快適な秋",
+      "zh": "TIFF（多伦多国际电影节），凉爽宜人的秋天"
+    },
+    "highlights": {
+      "ko": [
+        "나이아가라·CN타워 관광 최적 시즌",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Best season for Niagara/CN Tower tourism",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "ナイアガラ・CNタワー観光最適シーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "尼亚加拉/加拿大国家电视塔旅游的最佳季节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "토론토 국제 영화제 (9월)",
+        "캐나다 데이 (7월 1일)"
+      ],
+      "en": [
+        "Toronto International Film Festival (September)",
+        "Canada Day (July 1)"
+      ],
+      "ja": [
+        "トロント国際映画祭（9月）",
+        "カナダの日（7月1日）"
+      ],
+      "zh": [
+        "多伦多国际电影节（九月）",
+        "加拿大国庆日（7 月 1 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -485,17 +1682,52 @@
     "regionId": "toronto",
     "month": 10,
     "rating": 3,
-    "summary": "단풍 절정, 한국계 커뮤니티 코리아타운 탐방",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 11.8일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "단풍 절정, 한국계 커뮤니티 코리아타운 탐방",
+      "en": "Autumn leaves peak, Korean community visits Koreatown",
+      "ja": "紅葉絶頂、韓国系コミュニティコリアタウン探訪",
+      "zh": "秋叶高峰，韩国社区参观韩国城"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.8일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "With 11.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "雨の日が11.8日で屋内代替案を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "11.8阴雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -503,16 +1735,48 @@
     "regionId": "toronto",
     "month": 11,
     "rating": 2,
-    "summary": "추워지기 시작, 실내 박물관·푸드마켓 투어",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "추워지기 시작, 실내 박물관·푸드마켓 투어",
+      "en": "Starting to get cold, indoor museum and food market tour",
+      "ja": "寒くなり始め、室内博物館・フードマーケットツアー",
+      "zh": "开始变冷，室内博物馆和菜市场之旅"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -520,22 +1784,77 @@
     "regionId": "toronto",
     "month": 12,
     "rating": 1,
-    "summary": "크리스마스 성수기, 나이아가라 윈터 페스티벌",
-    "highlights": [
-      "혹한과 폭설, 야외 관광 힘든 시기",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -2°C로 방한 대비 필요",
-      "비 오는 날이 13일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "크리스마스 성수기, 나이아가라 윈터 페스티벌",
+      "en": "Peak Christmas season, Niagara Winter Festival",
+      "ja": "クリスマスハイシーズン、ナイアガラウィンターフェスティバル",
+      "zh": "圣诞节高峰期，尼亚加拉冬季节"
+    },
+    "highlights": {
+      "ko": [
+        "혹한과 폭설, 야외 관광 힘든 시기",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Extreme cold and heavy snow, difficult times for outdoor tourism",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "酷寒と大雪、屋外観光の厳しい時期",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "严寒大雪，户外旅游艰难",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -2°C로 방한 대비 필요",
+        "비 오는 날이 13일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "The average minimum temperature is -2°C, so preparation for cold weather is necessary",
+        "As the rainy day is the 13th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-2℃で防寒コントラストが必要",
+        "雨の日が13日で屋内代替準備を推奨",
+        "湿度が77％でやや高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "平均最低气温为-2℃，做好防寒准备",
+        "由于13号是雨天，建议室内替代准备",
+        "湿度有点高，77%",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

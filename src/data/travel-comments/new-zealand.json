@@ -3,26 +3,98 @@
     "regionId": "auckland",
     "month": 1,
     "rating": 3,
-    "summary": "남반구 한여름, 와이테마타 항구와 야외 페스티벌",
-    "highlights": [
-      "뉴질랜드 여름, 해변과 하이킹 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 108mm로 우산 필수",
-      "비 오는 날이 12.4일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "오클랜드 하버브리지 클라임 (연중)",
-      "뉴질랜드 오픈 (1월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "남반구 한여름, 와이테마타 항구와 야외 페스티벌",
+      "en": "Southern Hemisphere Midsummer, Waitemata Harbor and Outdoor Festival",
+      "ja": "南半球真夏、ワイテマタ港と屋外フェスティバル",
+      "zh": "南半球仲夏，怀特玛塔港和户外节"
+    },
+    "highlights": {
+      "ko": [
+        "뉴질랜드 여름, 해변과 하이킹 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "New Zealand summer, the best time for beaches and hiking",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ニュージーランドの夏、ビーチとハイキングの最適期",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "新西兰的夏天，海滩和徒步的最佳时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 108mm로 우산 필수",
+        "비 오는 날이 12.4일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 108mm, so an umbrella is a must",
+        "With 12.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "降水量が108mmで傘必須",
+        "雨の日が12.4日で屋内代替準備を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "降雨量108毫米，雨伞必备",
+        "12.4阴雨天，建议室内替代准备",
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "오클랜드 하버브리지 클라임 (연중)",
+        "뉴질랜드 오픈 (1월)"
+      ],
+      "en": [
+        "Auckland Harbor Bridge Climb (year round)",
+        "New Zealand Open (January)"
+      ],
+      "ja": [
+        "オークランドハーバーブリッジクライム（年中）",
+        "ニュージーランドオープン（1月）"
+      ],
+      "zh": [
+        "奥克兰海港大桥攀登（全年）",
+        "新西兰公开赛（一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -30,24 +102,90 @@
     "regionId": "auckland",
     "month": 2,
     "rating": 4,
-    "summary": "여름 피크, 해변과 와이헤케 섬 와인 투어",
-    "highlights": [
-      "뉴질랜드 여름, 해변과 하이킹 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 10.8일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "오클랜드 하버브리지 클라임 (연중)",
-      "뉴질랜드 오픈 (1월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 피크, 해변과 와이헤케 섬 와인 투어",
+      "en": "Peak Summer, Beaches and Waiheke Island Wine Tour",
+      "ja": "夏のピーク、ビーチ、ワイヘケ島ワインツアー",
+      "zh": "盛夏、海滩和怀赫科岛葡萄酒之旅"
+    },
+    "highlights": {
+      "ko": [
+        "뉴질랜드 여름, 해변과 하이킹 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "New Zealand summer, the best time for beaches and hiking",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ニュージーランドの夏、ビーチとハイキングの最適期",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "新西兰的夏天，海滩和徒步的最佳时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.8일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "With 10.8 rainy days, indoor alternative preparations are recommended.",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "雨の日が10.8日で屋内代替案を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "10.8阴雨天，建议室内替代准备。",
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "오클랜드 하버브리지 클라임 (연중)",
+        "뉴질랜드 오픈 (1월)"
+      ],
+      "en": [
+        "Auckland Harbor Bridge Climb (year round)",
+        "New Zealand Open (January)"
+      ],
+      "ja": [
+        "オークランドハーバーブリッジクライム（年中）",
+        "ニュージーランドオープン（1月）"
+      ],
+      "zh": [
+        "奥克兰海港大桥攀登（全年）",
+        "新西兰公开赛（一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -55,24 +193,90 @@
     "regionId": "auckland",
     "month": 3,
     "rating": 4,
-    "summary": "가을 시작, 아직 따뜻한 해변과 줄어드는 인파",
-    "highlights": [
-      "뉴질랜드 여름, 해변과 하이킹 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 11.4일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "오클랜드 하버브리지 클라임 (연중)",
-      "뉴질랜드 오픈 (1월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "가을 시작, 아직 따뜻한 해변과 줄어드는 인파",
+      "en": "Autumn begins, still warm beaches and fewer crowds",
+      "ja": "秋の始まり、まだ暖かいビーチと減る人波",
+      "zh": "秋天开始了，海滩依然温暖，人群也少了"
+    },
+    "highlights": {
+      "ko": [
+        "뉴질랜드 여름, 해변과 하이킹 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "New Zealand summer, the best time for beaches and hiking",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ニュージーランドの夏、ビーチとハイキングの最適期",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "新西兰的夏天，海滩和徒步的最佳时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.4일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "With 11.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "雨の日が11.4日で屋内代替準備を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "11.4阴雨天，建议室内替代准备",
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "오클랜드 하버브리지 클라임 (연중)",
+        "뉴질랜드 오픈 (1월)"
+      ],
+      "en": [
+        "Auckland Harbor Bridge Climb (year round)",
+        "New Zealand Open (January)"
+      ],
+      "ja": [
+        "オークランドハーバーブリッジクライム（年中）",
+        "ニュージーランドオープン（1月）"
+      ],
+      "zh": [
+        "奥克兰海港大桥攀登（全年）",
+        "新西兰公开赛（一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -80,19 +284,65 @@
     "regionId": "auckland",
     "month": 4,
     "rating": 3,
-    "summary": "가을, 단풍 물드는 공원과 선선한 날씨",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 12.2일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을, 단풍 물드는 공원과 선선한 날씨",
+      "en": "Autumn, parks with colored leaves and cool weather",
+      "ja": "秋、紅葉染まる公園と涼しい天気",
+      "zh": "秋天，公园里有红叶和凉爽的天气"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.2일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "With 12.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "雨の日が12.2日で屋内代替案を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "12.2阴雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -100,20 +350,69 @@
     "regionId": "auckland",
     "month": 5,
     "rating": 2,
-    "summary": "초겨울, 비 잦아지는 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 102mm로 우산 필수",
-      "비 오는 날이 14.2일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "초겨울, 비 잦아지는 시기",
+      "en": "Early winter, when rain becomes more frequent",
+      "ja": "初冬、雨が多い時期",
+      "zh": "初冬，雨水变得更加频繁"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 102mm로 우산 필수",
+        "비 오는 날이 14.2일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 102mm, so an umbrella is a must",
+        "With 14.2 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "降水量が102mmで傘必須",
+        "雨の日が14.2日で屋内代替準備を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量102毫米，雨伞必备",
+        "14.2阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -121,20 +420,69 @@
     "regionId": "auckland",
     "month": 6,
     "rating": 2,
-    "summary": "겨울, 스카이타워 야경과 실내 문화 시즌",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 111mm로 우산 필수",
-      "비 오는 날이 12.8일로 실내 대안 준비 권장",
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 스카이타워 야경과 실내 문화 시즌",
+      "en": "Winter, Sky Tower night view and indoor culture season",
+      "ja": "冬、スカイタワーの夜景と屋内カルチャーシーズン",
+      "zh": "冬天，天空塔夜景和室内文化季节"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 111mm로 우산 필수",
+        "비 오는 날이 12.8일로 실내 대안 준비 권장",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 111mm, so an umbrella is a must",
+        "With 12.8 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "降水量が111mmで傘必須",
+        "雨の日が12.8日で屋内代替準備を推奨",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量111毫米，雨伞必备",
+        "12.8阴雨天，建议室内替代准备",
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -142,20 +490,69 @@
     "regionId": "auckland",
     "month": 7,
     "rating": 2,
-    "summary": "겨울 한가운데, 고래 관찰 시즌 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 128mm로 우산 필수",
-      "비 오는 날이 12일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 한가운데, 고래 관찰 시즌 시작",
+      "en": "In the middle of winter, whale watching season begins",
+      "ja": "冬の真ん中、クジラ観察シーズン開始",
+      "zh": "隆冬，赏鲸季节开始"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 128mm로 우산 필수",
+        "비 오는 날이 12일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 128mm, so an umbrella is a must",
+        "As the rainy day is on the 12th, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "降水量は 128 mm なので傘は必須です",
+        "雨の日が12日で屋内代替準備を推奨",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量128毫米，雨伞必备",
+        "由于12号是雨天，建议室内替代准备",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -163,21 +560,73 @@
     "regionId": "auckland",
     "month": 8,
     "rating": 2,
-    "summary": "겨울 끝자락, 봄이 오기 전 야생화 준비",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 123mm로 우산 필수",
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 끝자락, 봄이 오기 전 야생화 준비",
+      "en": "End of winter, preparing for wildflowers before spring comes",
+      "ja": "冬の終わり、春が来る前に野生の花の準備",
+      "zh": "冬末，为春天来临前准备野花"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 123mm로 우산 필수",
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 123mm, so an umbrella is a must",
+        "With 13.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "降水量が123mmで傘必須",
+        "雨の日が13.6日で屋内代替案を推奨",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量123毫米，雨伞必备",
+        "13.6阴雨天，建议室内替代准备",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -185,21 +634,73 @@
     "regionId": "auckland",
     "month": 9,
     "rating": 2,
-    "summary": "봄 시작, 야생화와 쾌적한 도시 산책",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 106mm로 우산 필수",
-      "비 오는 날이 14.6일로 실내 대안 준비 권장",
-      "습도가 80%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 야생화와 쾌적한 도시 산책",
+      "en": "Spring begins, wildflowers and pleasant city walks",
+      "ja": "春の始まり、野生の花と快適な街の散歩",
+      "zh": "春天开始了，野花盛开，宜人的城市漫步"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 106mm로 우산 필수",
+        "비 오는 날이 14.6일로 실내 대안 준비 권장",
+        "습도가 80%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 106mm, so an umbrella is a must",
+        "With 14.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 80%"
+      ],
+      "ja": [
+        "降水量が106mmで傘必須",
+        "雨の日が14.6日で屋内代替案を推奨",
+        "湿度が80％とやや高い"
+      ],
+      "zh": [
+        "降雨量106毫米，雨伞必备",
+        "14.6阴雨天，建议室内替代准备",
+        "湿度有点高，达到 80%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -207,21 +708,73 @@
     "regionId": "auckland",
     "month": 10,
     "rating": 2,
-    "summary": "봄 절정, 리저널 파크 하이킹 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 125mm로 우산 필수",
-      "비 오는 날이 14.8일로 실내 대안 준비 권장",
-      "습도 80%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "봄 절정, 리저널 파크 하이킹 최적기",
+      "en": "Peak spring, the best time to hike in Regional Park",
+      "ja": "春の絶頂、リザーナルパークハイキング最適機",
+      "zh": "春季高峰，地区公园徒步旅行的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 125mm로 우산 필수",
+        "비 오는 날이 14.8일로 실내 대안 준비 권장",
+        "습도 80%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 125mm, so an umbrella is a must",
+        "With 14.8 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 80%"
+      ],
+      "ja": [
+        "降水量は 125mm なので傘は必須です",
+        "雨の日が14.8日で屋内代替準備を推奨",
+        "湿度80％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量125毫米，雨伞必备",
+        "14.8阴雨天，建议室内替代准备",
+        "湿度80%不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -229,21 +782,73 @@
     "regionId": "auckland",
     "month": 11,
     "rating": 2,
-    "summary": "봄 끝자락, 여름 직전 쾌적한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 132mm로 우산 필수",
-      "월 17.4일 비가 와 야외 일정에 유의",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 끝자락, 여름 직전 쾌적한 시기",
+      "en": "Pleasant time at the end of spring, just before summer",
+      "ja": "春の終わり、夏の直前の快適な時期",
+      "zh": "春末夏初的美好时光"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 132mm로 우산 필수",
+        "월 17.4일 비가 와 야외 일정에 유의",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 132mm, so an umbrella is a must",
+        "About 17 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "降水量は 132mm なので傘は必須です",
+        "月17.4日雨と屋外のスケジュールに注意",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "降雨量132毫米，雨伞必备",
+        "月均约17天降雨，注意安排户外行程",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -251,26 +856,98 @@
     "regionId": "auckland",
     "month": 12,
     "rating": 3,
-    "summary": "여름 시작, 크리스마스 해변 바베큐",
-    "highlights": [
-      "뉴질랜드 여름, 해변과 하이킹 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 112mm로 우산 필수",
-      "월 15.2일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "오클랜드 하버브리지 클라임 (연중)",
-      "뉴질랜드 오픈 (1월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 시작, 크리스마스 해변 바베큐",
+      "en": "Summer begins, Christmas beach barbecue",
+      "ja": "夏のスタート、クリスマスビーチバーベキュー",
+      "zh": "夏天开始，圣诞海滩烧烤"
+    },
+    "highlights": {
+      "ko": [
+        "뉴질랜드 여름, 해변과 하이킹 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "New Zealand summer, the best time for beaches and hiking",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ニュージーランドの夏、ビーチとハイキングの最適期",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "新西兰的夏天，海滩和徒步的最佳时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 112mm로 우산 필수",
+        "월 15.2일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 112mm, so an umbrella is a must",
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "降水量が112mmで傘必須",
+        "月15.2日雨と屋外のスケジュールに注意",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "降雨量112毫米，雨伞必备",
+        "月均约15天降雨，注意安排户外行程",
+        "湿度有点高，78%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "오클랜드 하버브리지 클라임 (연중)",
+        "뉴질랜드 오픈 (1월)"
+      ],
+      "en": [
+        "Auckland Harbor Bridge Climb (year round)",
+        "New Zealand Open (January)"
+      ],
+      "ja": [
+        "オークランドハーバーブリッジクライム（年中）",
+        "ニュージーランドオープン（1月）"
+      ],
+      "zh": [
+        "奥克兰海港大桥攀登（全年）",
+        "新西兰公开赛（一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -278,20 +955,69 @@
     "regionId": "queenstown",
     "month": 1,
     "rating": 3,
-    "summary": "남반구 한여름, 밀포드사운드 하이킹 절정",
-    "highlights": [
-      "남반구 여름, 번지점프·래프팅 성수기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "남반구 한여름, 밀포드사운드 하이킹 절정",
+      "en": "Midsummer in the Southern Hemisphere, peak hiking in Milford Sound",
+      "ja": "南半球真夏、ミルフォードサウンドハイキングピーク",
+      "zh": "南半球仲夏，米尔福德峡湾徒步高峰"
+    },
+    "highlights": {
+      "ko": [
+        "남반구 여름, 번지점프·래프팅 성수기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Summer in the Southern Hemisphere, peak season for bungee jumping and rafting",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "南半球夏、バンジージャンプ・ラフティングピークシーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "南半球的夏季，蹦极、漂流的旺季",
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "퀸스타운 와인 앤 푸드 페스티벌 (1월)",
-      "서머 어드벤처 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "퀸스타운 와인 앤 푸드 페스티벌 (1월)",
+        "서머 어드벤처 시즌"
+      ],
+      "en": [
+        "Queenstown Wine and Food Festival (January)",
+        "Summer Adventure Season"
+      ],
+      "ja": [
+        "クイーンズタウンワイン＆フードフェスティバル（1月）",
+        "サマーアドベンチャーシーズン"
+      ],
+      "zh": [
+        "皇后镇美酒美食节（一月）",
+        "夏季冒险季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -299,22 +1025,82 @@
     "regionId": "queenstown",
     "month": 2,
     "rating": 3,
-    "summary": "여름 피크, 번지점프와 와카티푸 호수",
-    "highlights": [
-      "남반구 여름, 번지점프·래프팅 성수기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 71%로 다소 높음"
-    ],
-    "events": [
-      "퀸스타운 와인 앤 푸드 페스티벌 (1월)",
-      "서머 어드벤처 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 피크, 번지점프와 와카티푸 호수",
+      "en": "Summer Peak, Bungee Jumping and Lake Wakatipu",
+      "ja": "夏のピーク、バンジージャンプとワカティプ湖",
+      "zh": "夏峰、蹦极和瓦卡蒂普湖"
+    },
+    "highlights": {
+      "ko": [
+        "남반구 여름, 번지점프·래프팅 성수기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Summer in the Southern Hemisphere, peak season for bungee jumping and rafting",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "南半球夏、バンジージャンプ・ラフティングピークシーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "南半球的夏季，蹦极、漂流的旺季",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，71%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "퀸스타운 와인 앤 푸드 페스티벌 (1월)",
+        "서머 어드벤처 시즌"
+      ],
+      "en": [
+        "Queenstown Wine and Food Festival (January)",
+        "Summer Adventure Season"
+      ],
+      "ja": [
+        "クイーンズタウンワイン＆フードフェスティバル（1月）",
+        "サマーアドベンチャーシーズン"
+      ],
+      "zh": [
+        "皇后镇美酒美食节（一月）",
+        "夏季冒险季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -322,19 +1108,65 @@
     "regionId": "queenstown",
     "month": 3,
     "rating": 3,
-    "summary": "가을 시작, 뉴질랜드 단풍과 포도 수확",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을 시작, 뉴질랜드 단풍과 포도 수확",
+      "en": "Autumn begins, New Zealand foliage and grape harvest",
+      "ja": "秋の始まり、ニュージーランドの紅葉とビンテージ",
+      "zh": "秋天开始，新西兰树叶和葡萄收获"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "With 10.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "雨の日が10.4日で屋内代替案を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "10.4阴雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -342,21 +1174,73 @@
     "regionId": "queenstown",
     "month": 4,
     "rating": 2,
-    "summary": "가을 황금빛, 남섬 단풍 드라이브",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 110mm로 우산 필수",
-      "비 오는 날이 12.8일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을 황금빛, 남섬 단풍 드라이브",
+      "en": "Autumn Golden Colors, South Island Foliage Drive",
+      "ja": "秋の黄金色、南島の紅葉ドライブ",
+      "zh": "秋天的金色，南岛树叶大道"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 110mm로 우산 필수",
+        "비 오는 날이 12.8일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 110mm, so umbrella is required",
+        "With 12.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "降水量が110mmで傘必須",
+        "雨の日が12.8日で屋内代替準備を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "降雨量110毫米，需要带伞",
+        "12.8阴雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -364,20 +1248,69 @@
     "regionId": "queenstown",
     "month": 5,
     "rating": 1,
-    "summary": "초겨울, 스키 시즌 준비 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 102mm로 우산 필수",
-      "비 오는 날이 11.6일로 실내 대안 준비 권장",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "초겨울, 스키 시즌 준비 시작",
+      "en": "Early winter, preparations for ski season begin",
+      "ja": "初冬、スキーシーズン準備開始",
+      "zh": "初冬，滑雪季节的准备开始"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 102mm로 우산 필수",
+        "비 오는 날이 11.6일로 실내 대안 준비 권장",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 102mm, so an umbrella is a must",
+        "With 11.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "降水量が102mmで傘必須",
+        "雨の日が11.6日で屋内代替案を推奨",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量102毫米，雨伞必备",
+        "11.6阴雨天，建议室内替代准备",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -385,23 +1318,86 @@
     "regionId": "queenstown",
     "month": 6,
     "rating": 1,
-    "summary": "겨울 스키 시즌 오픈, 코로넷 피크 개장",
-    "highlights": [
-      "남반구 겨울, 스키 리조트 성수기"
-    ],
-    "cautions": [
-      "강수량이 109mm로 우산 필수",
-      "비 오는 날이 11.8일로 실내 대안 준비 권장",
-      "습도 90%로 불쾌지수 높음"
-    ],
-    "events": [
-      "코로넷피크·리마커블스 스키 시즌",
-      "퀸스타운 윈터 페스티벌 (6월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "summary": {
+      "ko": "겨울 스키 시즌 오픈, 코로넷 피크 개장",
+      "en": "Winter ski season opens, Coronet Peak opens",
+      "ja": "冬のスキーシーズンオープン、コロネットピークオープン",
+      "zh": "冬季滑雪季开启，皇冠峰开放"
+    },
+    "highlights": {
+      "ko": [
+        "남반구 겨울, 스키 리조트 성수기"
+      ],
+      "en": [
+        "Southern Hemisphere winter, peak season for ski resorts"
+      ],
+      "ja": [
+        "南半球冬、スキーリゾートハイシーズン"
+      ],
+      "zh": [
+        "南半球冬季，滑雪胜地旺季"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 109mm로 우산 필수",
+        "비 오는 날이 11.8일로 실내 대안 준비 권장",
+        "습도 90%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 109mm, so an umbrella is a must",
+        "With 11.8 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with 90% humidity"
+      ],
+      "ja": [
+        "降水量が109mmで傘必須",
+        "雨の日が11.8日で屋内代替案を推奨",
+        "湿度90％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量109毫米，雨伞必备",
+        "11.8阴雨天，建议室内替代准备",
+        "湿度90%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "코로넷피크·리마커블스 스키 시즌",
+        "퀸스타운 윈터 페스티벌 (6월)"
+      ],
+      "en": [
+        "Coronet Peak·Remarkables Ski Season",
+        "Queenstown Winter Festival (June)"
+      ],
+      "ja": [
+        "コロネットピーク・リマーカブルススキーシーズン",
+        "クイーンズタウンウィンターフェスティバル（6月）"
+      ],
+      "zh": [
+        "皇冠峰·卓越滑雪季",
+        "皇后镇冬季节（六月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -409,27 +1405,102 @@
     "regionId": "queenstown",
     "month": 7,
     "rating": 1,
-    "summary": "스키 절정, 남반구 최고의 스키 리조트",
-    "highlights": [
-      "남반구 겨울, 스키 리조트 성수기",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "강수량이 124mm로 우산 필수",
-      "비 오는 날이 13일로 실내 대안 준비 권장",
-      "습도 89%로 불쾌지수 높음"
-    ],
-    "events": [
-      "코로넷피크·리마커블스 스키 시즌",
-      "퀸스타운 윈터 페스티벌 (6월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "스키 절정, 남반구 최고의 스키 리조트",
+      "en": "Ski peak, the best ski resort in the Southern Hemisphere",
+      "ja": "スキー絶頂、南半球で最高のスキーリゾート",
+      "zh": "滑雪峰，南半球最好的滑雪胜地"
+    },
+    "highlights": {
+      "ko": [
+        "남반구 겨울, 스키 리조트 성수기",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Southern Hemisphere winter, peak season for ski resorts",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "南半球冬、スキーリゾートハイシーズン",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "南半球冬季，滑雪胜地旺季",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 124mm로 우산 필수",
+        "비 오는 날이 13일로 실내 대안 준비 권장",
+        "습도 89%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 124mm, so an umbrella is required.",
+        "As the rainy day is the 13th, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 89%"
+      ],
+      "ja": [
+        "降水量が124mmで傘必須",
+        "雨の日が13日で屋内代替準備を推奨",
+        "湿度89％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量为124毫米，因此需要带伞。",
+        "由于13号是雨天，建议室内替代准备",
+        "湿度89%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "코로넷피크·리마커블스 스키 시즌",
+        "퀸스타운 윈터 페스티벌 (6월)"
+      ],
+      "en": [
+        "Coronet Peak·Remarkables Ski Season",
+        "Queenstown Winter Festival (June)"
+      ],
+      "ja": [
+        "コロネットピーク・リマーカブルススキーシーズン",
+        "クイーンズタウンウィンターフェスティバル（6月）"
+      ],
+      "zh": [
+        "皇冠峰·卓越滑雪季",
+        "皇后镇冬季节（六月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -437,23 +1508,86 @@
     "regionId": "queenstown",
     "month": 8,
     "rating": 1,
-    "summary": "스키 피크 시즌, 설원 액티비티 총집합",
-    "highlights": [
-      "남반구 겨울, 스키 리조트 성수기"
-    ],
-    "cautions": [
-      "강수량이 118mm로 우산 필수",
-      "비 오는 날이 14.6일로 실내 대안 준비 권장",
-      "습도 86%로 불쾌지수 높음"
-    ],
-    "events": [
-      "코로넷피크·리마커블스 스키 시즌",
-      "퀸스타운 윈터 페스티벌 (6월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "summary": {
+      "ko": "스키 피크 시즌, 설원 액티비티 총집합",
+      "en": "Peak ski season, a comprehensive collection of snowy activities",
+      "ja": "スキーピークシーズン、雪原アクティビティ総集合",
+      "zh": "滑雪旺季，雪上活动全面集合"
+    },
+    "highlights": {
+      "ko": [
+        "남반구 겨울, 스키 리조트 성수기"
+      ],
+      "en": [
+        "Southern Hemisphere winter, peak season for ski resorts"
+      ],
+      "ja": [
+        "南半球冬、スキーリゾートハイシーズン"
+      ],
+      "zh": [
+        "南半球冬季，滑雪胜地旺季"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 118mm로 우산 필수",
+        "비 오는 날이 14.6일로 실내 대안 준비 권장",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 118mm, so an umbrella is a must",
+        "With 14.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "降水量が118mmで傘必須",
+        "雨の日が14.6日で屋内代替案を推奨",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量118毫米，雨伞必备",
+        "14.6阴雨天，建议室内替代准备",
+        "湿度86%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "코로넷피크·리마커블스 스키 시즌",
+        "퀸스타운 윈터 페스티벌 (6월)"
+      ],
+      "en": [
+        "Coronet Peak·Remarkables Ski Season",
+        "Queenstown Winter Festival (June)"
+      ],
+      "ja": [
+        "コロネットピーク・リマーカブルススキーシーズン",
+        "クイーンズタウンウィンターフェスティバル（6月）"
+      ],
+      "zh": [
+        "皇冠峰·卓越滑雪季",
+        "皇后镇冬季节（六月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -461,21 +1595,73 @@
     "regionId": "queenstown",
     "month": 9,
     "rating": 1,
-    "summary": "스키 시즌 마무리, 봄 하이킹 시작",
-    "highlights": [
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 240mm로 우기에 해당",
-      "월 15.4일 비가 와 야외 일정에 유의",
-      "습도가 80%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "스키 시즌 마무리, 봄 하이킹 시작",
+      "en": "Ski season ends, spring hiking begins",
+      "ja": "スキーシーズンの終わり、春のハイキングを開始",
+      "zh": "滑雪季节结束，春季徒步旅行开始"
+    },
+    "highlights": {
+      "ko": [
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 240mm로 우기에 해당",
+        "월 15.4일 비가 와 야외 일정에 유의",
+        "습도가 80%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 240mm, corresponding to the rainy season",
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 80%"
+      ],
+      "ja": [
+        "月降水量240mmで雨季に対応",
+        "月15.4日雨と屋外のスケジュールに注意してください",
+        "湿度が80％とやや高い"
+      ],
+      "zh": [
+        "每月降雨量240毫米，对应雨季",
+        "月均约15天降雨，注意安排户外行程",
+        "湿度有点高，达到 80%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -483,21 +1669,73 @@
     "regionId": "queenstown",
     "month": 10,
     "rating": 1,
-    "summary": "봄, 루트번 트랙 하이킹 시즌 재개",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 강수량 150mm로 우기에 해당",
-      "비 오는 날이 14일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄, 루트번 트랙 하이킹 시즌 재개",
+      "en": "Spring, Routeburn Track hiking season resumes",
+      "ja": "春、ルートバーントラックハイキングシーズン再開",
+      "zh": "春天，路特本步道徒步季节恢复"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 150mm로 우기에 해당",
+        "비 오는 날이 14일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 150mm, corresponding to the rainy season",
+        "With 14 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "月降水量150mmで雨季に対応",
+        "雨の日が14日で屋内代替準備を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "每月降雨量150mm，对应雨季",
+        "14个阴雨天，建议室内替代准备",
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -505,19 +1743,65 @@
     "regionId": "queenstown",
     "month": 11,
     "rating": 3,
-    "summary": "봄 절정, 밀포드사운드 크루즈 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 절정, 밀포드사운드 크루즈 최적기",
+      "en": "Peak spring, the best time for a Milford Sound cruise",
+      "ja": "春絶頂、ミルフォードサウンドクルーズ最適機",
+      "zh": "春季高峰，米尔福德峡湾巡游的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "With 13.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "雨の日が13.6日で屋内代替案を推奨",
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "13.6阴雨天，建议室内替代准备",
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -525,25 +1809,94 @@
     "regionId": "queenstown",
     "month": 12,
     "rating": 3,
-    "summary": "여름 시작, 극지의 햇빛으로 와카티푸 빛나는 시기",
-    "highlights": [
-      "남반구 여름, 번지점프·래프팅 성수기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 114mm로 우산 필수",
-      "월 16.2일 비가 와 야외 일정에 유의",
-      "습도가 70%로 다소 높음"
-    ],
-    "events": [
-      "퀸스타운 와인 앤 푸드 페스티벌 (1월)",
-      "서머 어드벤처 시즌"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 시작, 극지의 햇빛으로 와카티푸 빛나는 시기",
+      "en": "Summer begins, the time when Wakatipu shines with polar sunlight",
+      "ja": "夏の始まり、極地の日光でワカティプ輝く時期",
+      "zh": "夏季开始，瓦卡蒂普沐浴极地阳光的时刻"
+    },
+    "highlights": {
+      "ko": [
+        "남반구 여름, 번지점프·래프팅 성수기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Summer in the Southern Hemisphere, peak season for bungee jumping and rafting",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "南半球夏、バンジージャンプ・ラフティングピークシーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "南半球的夏季，蹦极、漂流的旺季",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 114mm로 우산 필수",
+        "월 16.2일 비가 와 야외 일정에 유의",
+        "습도가 70%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 114mm, so an umbrella is a must",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 70%"
+      ],
+      "ja": [
+        "降水量が114mmで傘必須",
+        "月16.2日雨と屋外のスケジュールに注意",
+        "湿度が70％とやや高い"
+      ],
+      "zh": [
+        "降雨量114毫米，雨伞必备",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度有点高，70%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "퀸스타운 와인 앤 푸드 페스티벌 (1월)",
+        "서머 어드벤처 시즌"
+      ],
+      "en": [
+        "Queenstown Wine and Food Festival (January)",
+        "Summer Adventure Season"
+      ],
+      "ja": [
+        "クイーンズタウンワイン＆フードフェスティバル（1月）",
+        "サマーアドベンチャーシーズン"
+      ],
+      "zh": [
+        "皇后镇美酒美食节（一月）",
+        "夏季冒险季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   }

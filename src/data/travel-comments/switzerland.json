@@ -3,20 +3,69 @@
     "regionId": "zurich",
     "month": 1,
     "rating": 1,
-    "summary": "겨울, 알프스 스키 근교 여행과 퐁뒤",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -1°C로 방한 대비 필요",
-      "비 오는 날이 12일로 실내 대안 준비 권장",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 알프스 스키 근교 여행과 퐁뒤",
+      "en": "Winter, Alpine ski trip and fondue",
+      "ja": "冬、アルペン スキー旅行とフォンデュ",
+      "zh": "冬季，高山滑雪之旅和火锅"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -1°C로 방한 대비 필요",
+        "비 오는 날이 12일로 실내 대안 준비 권장",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Need to prepare for cold weather with average minimum temperature -1°C",
+        "As the rainy day is on the 12th, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "平均最低気温-1℃で防寒コントラストが必要",
+        "雨の日が12日で屋内代替準備を推奨",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "需要做好应对平均最低气温-1°C的寒冷天气的准备",
+        "由于12号是雨天，建议室内替代准备",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -24,19 +73,65 @@
     "regionId": "zurich",
     "month": 2,
     "rating": 1,
-    "summary": "설경의 취리히, 파스나흐트 카니발",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 13일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "설경의 취리히, 파스나흐트 카니발",
+      "en": "Zurich in the snow, Fasnacht Carnival",
+      "ja": "雪景色のチューリッヒ、パスナハットカーニバル",
+      "zh": "苏黎世雪中狂欢节"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "As the rainy day is the 13th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "雨の日が13日で屋内代替準備を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "由于13号是雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -44,19 +139,65 @@
     "regionId": "zurich",
     "month": 3,
     "rating": 2,
-    "summary": "봄 시작, 취리히 호수변 꽃이 피는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 11.8일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 취리히 호수변 꽃이 피는 시기",
+      "en": "The beginning of spring, the time when flowers bloom along Lake Zurich",
+      "ja": "春の始まり、チューリッヒ湖の花が咲く時期",
+      "zh": "立春，苏黎世湖畔百花盛开"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.8일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "With 11.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "雨の日が11.8日で屋内代替案を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "11.8阴雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -64,19 +205,65 @@
     "regionId": "zurich",
     "month": 4,
     "rating": 2,
-    "summary": "봄, 구시가지 산책과 호수 보트 타기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 12.2일로 실내 대안 준비 권장",
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄, 구시가지 산책과 호수 보트 타기",
+      "en": "Spring, walking around the old town and boating on the lake",
+      "ja": "春、旧市街の散歩と湖のボートに乗る",
+      "zh": "春天，逛古城、泛舟湖"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.2일로 실내 대안 준비 권장",
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "With 12.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "雨の日が12.2日で屋内代替案を推奨",
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "12.2阴雨天，建议室内替代准备",
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -84,21 +271,73 @@
     "regionId": "zurich",
     "month": 5,
     "rating": 2,
-    "summary": "봄 절정, 야외 테라스와 호수 수영 시즌 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 138mm로 우산 필수",
-      "월 18일 비가 와 야외 일정에 유의",
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 절정, 야외 테라스와 호수 수영 시즌 시작",
+      "en": "Spring peak, outdoor terrace and lake swimming season begins",
+      "ja": "春のピーク、屋外テラスと湖の水泳シーズンを開始",
+      "zh": "春季高峰，户外露台和湖泊游泳季节开始"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 138mm로 우산 필수",
+        "월 18일 비가 와 야외 일정에 유의",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 138mm, so an umbrella is a must",
+        "It's raining on the 18th, so be careful about outdoor schedules",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "降水量は 138 mm なので傘は必須です",
+        "月18日雨と屋外のスケジュールに注意",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "降雨量138毫米，雨伞必备",
+        "18号有雨，户外行程要注意",
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -106,26 +345,98 @@
     "regionId": "zurich",
     "month": 6,
     "rating": 3,
-    "summary": "취리히 여름, 호수에서 수영하는 현지인들",
-    "highlights": [
-      "알프스 하이킹과 호수 수영의 계절",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 132mm로 우산 필수",
-      "월 15.8일 비가 와 야외 일정에 유의",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "취리히 스트리트 퍼레이드 (8월)",
-      "취리히 오픈에어 영화제 (7~8월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "취리히 여름, 호수에서 수영하는 현지인들",
+      "en": "Zurich summer, locals swimming in the lake",
+      "ja": "チューリッヒ夏、湖で泳ぐ地元の人々",
+      "zh": "苏黎世的夏天，当地人在湖里游泳"
+    },
+    "highlights": {
+      "ko": [
+        "알프스 하이킹과 호수 수영의 계절",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Season for hiking in the Alps and swimming in lakes",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "アルプスハイキングと湖水泳の季節",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "阿尔卑斯山徒步旅行和湖泊游泳的季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 132mm로 우산 필수",
+        "월 15.8일 비가 와 야외 일정에 유의",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 132mm, so an umbrella is a must",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "降水量は 132mm なので傘は必須です",
+        "月15.8日雨と屋外のスケジュールに注意",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "降雨量132毫米，雨伞必备",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "취리히 스트리트 퍼레이드 (8월)",
+        "취리히 오픈에어 영화제 (7~8월)"
+      ],
+      "en": [
+        "Zurich Street Parade (August)",
+        "Zurich Open Air Film Festival (July-August)"
+      ],
+      "ja": [
+        "チューリッヒストリートパレード（8月）",
+        "チューリッヒオープンエア映画祭（7〜8月）"
+      ],
+      "zh": [
+        "苏黎世街头游行（八月）",
+        "苏黎世露天电影节（七月至八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -133,26 +444,98 @@
     "regionId": "zurich",
     "month": 7,
     "rating": 3,
-    "summary": "스트리트 퍼레이드(유럽 최대 테크노 축제)",
-    "highlights": [
-      "알프스 하이킹과 호수 수영의 계절",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 152mm로 우기에 해당",
-      "월 16일 비가 와 야외 일정에 유의",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "취리히 스트리트 퍼레이드 (8월)",
-      "취리히 오픈에어 영화제 (7~8월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "스트리트 퍼레이드(유럽 최대 테크노 축제)",
+      "en": "Street Parade (Europe’s largest techno festival)",
+      "ja": "ストリートパレード（ヨーロッパ最大のテクノフェスティバル）",
+      "zh": "街头游行（欧洲最大的科技音乐节）"
+    },
+    "highlights": {
+      "ko": [
+        "알프스 하이킹과 호수 수영의 계절",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Season for hiking in the Alps and swimming in lakes",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "アルプスハイキングと湖水泳の季節",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "阿尔卑斯山徒步旅行和湖泊游泳的季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 152mm로 우기에 해당",
+        "월 16일 비가 와 야외 일정에 유의",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 152mm, corresponding to the rainy season",
+        "It's raining on the 16th, so be careful about outdoor schedules",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "月降水量152mmで雨季に対応",
+        "月16日雨と屋外のスケジュールに注意",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "月降水量152毫米，对应雨季",
+        "16号有雨，户外行程要注意",
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "취리히 스트리트 퍼레이드 (8월)",
+        "취리히 오픈에어 영화제 (7~8월)"
+      ],
+      "en": [
+        "Zurich Street Parade (August)",
+        "Zurich Open Air Film Festival (July-August)"
+      ],
+      "ja": [
+        "チューリッヒストリートパレード（8月）",
+        "チューリッヒオープンエア映画祭（7〜8月）"
+      ],
+      "zh": [
+        "苏黎世街头游行（八月）",
+        "苏黎世露天电影节（七月至八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -160,26 +543,98 @@
     "regionId": "zurich",
     "month": 8,
     "rating": 3,
-    "summary": "여름 피크, 알프스 하이킹과 호수 최고의 계절",
-    "highlights": [
-      "알프스 하이킹과 호수 수영의 계절",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 127mm로 우산 필수",
-      "비 오는 날이 11.6일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "취리히 스트리트 퍼레이드 (8월)",
-      "취리히 오픈에어 영화제 (7~8월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 피크, 알프스 하이킹과 호수 최고의 계절",
+      "en": "Peak summer, best season for hiking and lakes in the Alps",
+      "ja": "夏のピーク、アルプスのハイキングと湖で最高の季節",
+      "zh": "夏季高峰，阿尔卑斯山徒步旅行和湖泊的最佳季节"
+    },
+    "highlights": {
+      "ko": [
+        "알프스 하이킹과 호수 수영의 계절",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Season for hiking in the Alps and swimming in lakes",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "アルプスハイキングと湖水泳の季節",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "阿尔卑斯山徒步旅行和湖泊游泳的季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 127mm로 우산 필수",
+        "비 오는 날이 11.6일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 127mm, so an umbrella is a must",
+        "With 11.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "降水量は 127mm なので傘は必須です",
+        "雨の日が11.6日で屋内代替案を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "降雨量127毫米，雨伞必备",
+        "11.6阴雨天，建议室内替代准备",
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "취리히 스트리트 퍼레이드 (8월)",
+        "취리히 오픈에어 영화제 (7~8월)"
+      ],
+      "en": [
+        "Zurich Street Parade (August)",
+        "Zurich Open Air Film Festival (July-August)"
+      ],
+      "ja": [
+        "チューリッヒストリートパレード（8月）",
+        "チューリッヒオープンエア映画祭（7〜8月）"
+      ],
+      "zh": [
+        "苏黎世街头游行（八月）",
+        "苏黎世露天电影节（七月至八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -187,19 +642,65 @@
     "regionId": "zurich",
     "month": 9,
     "rating": 3,
-    "summary": "가을 시작, 포도 수확과 와인 축제",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 11.2일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "가을 시작, 포도 수확과 와인 축제",
+      "en": "Autumn begins, grape harvest and wine festival",
+      "ja": "秋の始まり、ビンテージとワインフェスティバル",
+      "zh": "秋天开始，葡萄收获和葡萄酒节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.2일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 11.2 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "雨の日が11.2日で屋内代替準備を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "11.2阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -207,17 +708,52 @@
     "regionId": "zurich",
     "month": 10,
     "rating": 2,
-    "summary": "가을 단풍, 알프스 설경이 내려오는 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 12.2일로 실내 대안 준비 권장",
-      "습도 86%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "가을 단풍, 알프스 설경이 내려오는 시기",
+      "en": "Fall foliage and Alpine snow scenery",
+      "ja": "秋の紅葉、アルプス雪景色が降る時期",
+      "zh": "秋天的红叶和高山雪景"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.2일로 실내 대안 준비 권장",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 12.2 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "雨の日が12.2日で屋内代替案を推奨",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "12.2阴雨天，建议室内替代准备",
+        "湿度86%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -225,20 +761,69 @@
     "regionId": "zurich",
     "month": 11,
     "rating": 1,
-    "summary": "초겨울, 세계 최고 수준의 크리스마스 마켓 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 106mm로 우산 필수",
-      "비 오는 날이 14.4일로 실내 대안 준비 권장",
-      "습도 88%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "초겨울, 세계 최고 수준의 크리스마스 마켓 시작",
+      "en": "Early winter, world-class Christmas market begins",
+      "ja": "初冬、世界最高水準のクリスマスマーケットをスタート",
+      "zh": "初冬，世界级圣诞集市拉开"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 106mm로 우산 필수",
+        "비 오는 날이 14.4일로 실내 대안 준비 권장",
+        "습도 88%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 106mm, so an umbrella is a must",
+        "With 14.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 88%"
+      ],
+      "ja": [
+        "降水量が106mmで傘必須",
+        "雨の日が14.4日で屋内代替案を推奨",
+        "湿度88％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量106毫米，雨伞必备",
+        "14.4阴雨天，建议室内替代准备",
+        "湿度88%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -246,29 +831,110 @@
     "regionId": "zurich",
     "month": 12,
     "rating": 1,
-    "summary": "크리스마스 마켓 절정, 눈 덮인 구시가지",
-    "highlights": [
-      "크리스마스 마켓, 유럽 최고 수준",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -0°C로 방한 대비 필요",
-      "강수량이 127mm로 우산 필수",
-      "월 16일 비가 와 야외 일정에 유의",
-      "습도 89%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
-    "events": [
-      "취리히 크리스마스 마켓 (12월)",
-      "실베스터 신년 행사"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "크리스마스 마켓 절정, 눈 덮인 구시가지",
+      "en": "Christmas market peak, snow-covered old town",
+      "ja": "クリスマスマーケットのピーク、雪に覆われた旧市街",
+      "zh": "圣诞集市高峰，白雪覆盖的老城区"
+    },
+    "highlights": {
+      "ko": [
+        "크리스마스 마켓, 유럽 최고 수준",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Christmas market, one of the best in Europe",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "クリスマスマーケット、ヨーロッパトップレベル",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "圣诞市场，欧洲最好的之一",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -0°C로 방한 대비 필요",
+        "강수량이 127mm로 우산 필수",
+        "월 16일 비가 와 야외 일정에 유의",
+        "습도 89%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "Need to prepare for cold weather with average minimum temperature -0°C",
+        "Rainfall is 127mm, so an umbrella is a must",
+        "It's raining on the 16th, so be careful about outdoor schedules",
+        "High discomfort index with humidity of 89%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-0℃で防寒コントラストが必要",
+        "降水量は 127mm なので傘は必須です",
+        "月16日雨と屋外のスケジュールに注意",
+        "湿度89％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "需要为平均最低气温-0°C的寒冷天气做好准备",
+        "降雨量127毫米，雨伞必备",
+        "16号有雨，户外行程要注意",
+        "湿度89%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
+    "events": {
+      "ko": [
+        "취리히 크리스마스 마켓 (12월)",
+        "실베스터 신년 행사"
+      ],
+      "en": [
+        "Zurich Christmas Market (December)",
+        "Sylvester New Year Event"
+      ],
+      "ja": [
+        "チューリッヒクリスマスマーケット（12月）",
+        "シルベスター新年イベント"
+      ],
+      "zh": [
+        "苏黎世圣诞市场（十二月）",
+        "西尔维斯特新年活动"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -276,25 +942,94 @@
     "regionId": "interlaken",
     "month": 1,
     "rating": 1,
-    "summary": "스키 시즌 절정, 융프라우 파우더 스노우",
-    "highlights": [
-      "알프스 스키 시즌, 눈 덮인 동화 같은 풍경",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "강수량이 131mm로 우산 필수",
-      "월 15.4일 비가 와 야외 일정에 유의",
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "스위스 스키 시즌 (12~3월)",
-      "인터라켄 크리스마스 마켓"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "스키 시즌 절정, 융프라우 파우더 스노우",
+      "en": "The peak of ski season, Jungfrau powder snow",
+      "ja": "スキーシーズンのピーク、ユングフラウパウダースノー",
+      "zh": "滑雪旺季，少女峰粉雪"
+    },
+    "highlights": {
+      "ko": [
+        "알프스 스키 시즌, 눈 덮인 동화 같은 풍경",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Alpine ski season, snow-covered fairytale-like scenery",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "アルプススキーシーズン、雪に覆われたおとぎ話のような風景",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "高山滑雪季，白雪皑皑的童话般景色",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 131mm로 우산 필수",
+        "월 15.4일 비가 와 야외 일정에 유의",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 131mm, so an umbrella is a must",
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "降水量は 131mm なので傘は必須です",
+        "月15.4日雨と屋外のスケジュールに注意してください",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "降雨量131毫米，雨伞必备",
+        "月均约15天降雨，注意安排户外行程",
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "스위스 스키 시즌 (12~3월)",
+        "인터라켄 크리스마스 마켓"
+      ],
+      "en": [
+        "Swiss ski season (December-March)",
+        "Interlaken Christmas Market"
+      ],
+      "ja": [
+        "スイススキーシーズン（12〜3月）",
+        "インターラーケンクリスマスマーケット"
+      ],
+      "zh": [
+        "瑞士滑雪季（十二月至三月）",
+        "因特拉肯圣诞市场"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -302,19 +1037,65 @@
     "regionId": "interlaken",
     "month": 2,
     "rating": 2,
-    "summary": "겨울 스포츠 피크, 그린델발트 스키",
-    "highlights": [
-      "알프스 스키 시즌, 눈 덮인 동화 같은 풍경"
-    ],
-    "cautions": [
-      "비 오는 날이 13일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "스위스 스키 시즌 (12~3월)",
-      "인터라켄 크리스마스 마켓"
-    ],
+    "summary": {
+      "ko": "겨울 스포츠 피크, 그린델발트 스키",
+      "en": "Winter sports peak, Grindelwald skiing",
+      "ja": "ウィンタースポーツピーク、グリンデルヴァルトスキー",
+      "zh": "冬季运动巅峰，格林德瓦滑雪"
+    },
+    "highlights": {
+      "ko": [
+        "알프스 스키 시즌, 눈 덮인 동화 같은 풍경"
+      ],
+      "en": [
+        "Alpine ski season, snow-covered fairytale-like scenery"
+      ],
+      "ja": [
+        "アルプススキーシーズン、雪に覆われたおとぎ話のような風景"
+      ],
+      "zh": [
+        "高山滑雪季，白雪皑皑的童话般景色"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "As the rainy day is the 13th, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が13日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "由于13号是雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "스위스 스키 시즌 (12~3월)",
+        "인터라켄 크리스마스 마켓"
+      ],
+      "en": [
+        "Swiss ski season (December-March)",
+        "Interlaken Christmas Market"
+      ],
+      "ja": [
+        "スイススキーシーズン（12〜3月）",
+        "インターラーケンクリスマスマーケット"
+      ],
+      "zh": [
+        "瑞士滑雪季（十二月至三月）",
+        "因特拉肯圣诞市场"
+      ]
+    },
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -322,20 +1103,69 @@
     "regionId": "interlaken",
     "month": 3,
     "rating": 2,
-    "summary": "스키 시즌 막바지, 봄 눈녹이 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 130mm로 우산 필수",
-      "비 오는 날이 13.6일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "스키 시즌 막바지, 봄 눈녹이 시작",
+      "en": "Ski season is coming to an end, spring snow has begun to melt",
+      "ja": "スキーシーズンの終わり、春の雪が始まります",
+      "zh": "滑雪季节即将结束，春雪已开始融化"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 130mm로 우산 필수",
+        "비 오는 날이 13.6일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "Rainfall is 130mm, so an umbrella is a must",
+        "With 13.6 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "降水量は 130mm なので傘は必須です",
+        "雨の日が13.6日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "降雨量130mm，雨伞必备",
+        "13.6阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -343,21 +1173,73 @@
     "regionId": "interlaken",
     "month": 4,
     "rating": 2,
-    "summary": "봄, 알프스 야생화 피기 시작하는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 144mm로 우산 필수",
-      "월 15.2일 비가 와 야외 일정에 유의",
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄, 알프스 야생화 피기 시작하는 시기",
+      "en": "Spring, when Alpine wildflowers begin to bloom",
+      "ja": "春、アルプスの野生の花が咲き始める時期",
+      "zh": "春天，高山野花开始绽放"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 144mm로 우산 필수",
+        "월 15.2일 비가 와 야외 일정에 유의",
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 144mm, so an umbrella is a must",
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "降水量は 144mm なので傘は必須です",
+        "月15.2日雨と屋外のスケジュールに注意",
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "降雨量144毫米，雨伞必备",
+        "月均约15天降雨，注意安排户外行程",
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -365,21 +1247,73 @@
     "regionId": "interlaken",
     "month": 5,
     "rating": 1,
-    "summary": "봄 녹음, 융프라우 하이킹 시즌 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 강수량 187mm로 우기에 해당",
-      "월 20.2일 비가 와 야외 일정에 유의",
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 녹음, 융프라우 하이킹 시즌 시작",
+      "en": "Spring greening, Jungfrau hiking season begins",
+      "ja": "春の録音、ユングフラウハイキングシーズン開始",
+      "zh": "春天绿化，少女峰徒步季节开始"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 187mm로 우기에 해당",
+        "월 20.2일 비가 와 야외 일정에 유의",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 187mm, corresponding to the rainy season",
+        "About 20 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "月降水量187mmで雨季に対応",
+        "月20.2日雨と屋外のスケジュールに注意",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "月降水量187毫米，对应雨季",
+        "月均约20天降雨，注意安排户外行程",
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -387,26 +1321,98 @@
     "regionId": "interlaken",
     "month": 6,
     "rating": 3,
-    "summary": "패러글라이딩 최적, 알프스 전망 쾌청",
-    "highlights": [
-      "융프라우 하이킹과 패러글라이딩 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 181mm로 우기에 해당",
-      "월 17.8일 비가 와 야외 일정에 유의",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "인터라켄 하이킹 시즌",
-      "융프라우 마라톤 (9월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "패러글라이딩 최적, 알프스 전망 쾌청",
+      "en": "Best for paragliding, clear skies with views of the Alps",
+      "ja": "パラグライディング最適、アルプス展望快聴",
+      "zh": "最适合滑翔伞，晴朗的天空，可欣赏阿尔卑斯山的景色"
+    },
+    "highlights": {
+      "ko": [
+        "융프라우 하이킹과 패러글라이딩 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Jungfrau hiking and paragliding peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ユングフラウハイキングとパラグライディングハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "少女峰徒步和滑翔伞旺季",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 181mm로 우기에 해당",
+        "월 17.8일 비가 와 야외 일정에 유의",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 181mm, corresponding to the rainy season",
+        "About 18 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "月降水量181mmで雨季に対応",
+        "月17.8日雨と屋外のスケジュールに注意",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "月降水量181毫米，对应雨季",
+        "月均约18天降雨，注意安排户外行程",
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "인터라켄 하이킹 시즌",
+        "융프라우 마라톤 (9월)"
+      ],
+      "en": [
+        "Interlaken Hiking Season",
+        "Jungfrau Marathon (September)"
+      ],
+      "ja": [
+        "インターラーケンハイキングシーズン",
+        "ユングフラウマラソン（9月）"
+      ],
+      "zh": [
+        "因特拉肯徒步季节",
+        "少女峰马拉松（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -414,26 +1420,98 @@
     "regionId": "interlaken",
     "month": 7,
     "rating": 3,
-    "summary": "하이킹 피크, 툰 호수와 브리엔츠 호수 눈부심",
-    "highlights": [
-      "융프라우 하이킹과 패러글라이딩 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 177mm로 우기에 해당",
-      "월 16.8일 비가 와 야외 일정에 유의",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "인터라켄 하이킹 시즌",
-      "융프라우 마라톤 (9월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "하이킹 피크, 툰 호수와 브리엔츠 호수 눈부심",
+      "en": "Hiking peak, dazzling views of Lake Thun and Lake Brienz",
+      "ja": "ハイキングピーク、トゥーン湖とブリエンツ湖の眩しい",
+      "zh": "徒步山顶，欣赏图恩湖和布里恩茨湖的壮丽景色"
+    },
+    "highlights": {
+      "ko": [
+        "융프라우 하이킹과 패러글라이딩 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Jungfrau hiking and paragliding peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ユングフラウハイキングとパラグライディングハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "少女峰徒步和滑翔伞旺季",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 177mm로 우기에 해당",
+        "월 16.8일 비가 와 야외 일정에 유의",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 177mm, corresponding to the rainy season.",
+        "About 17 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "月降水量177mmで雨季に対応",
+        "月16.8日雨と屋外のスケジュールに注意",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "月降雨量177毫米，对应雨季。",
+        "月均约17天降雨，注意安排户外行程",
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "인터라켄 하이킹 시즌",
+        "융프라우 마라톤 (9월)"
+      ],
+      "en": [
+        "Interlaken Hiking Season",
+        "Jungfrau Marathon (September)"
+      ],
+      "ja": [
+        "インターラーケンハイキングシーズン",
+        "ユングフラウマラソン（9月）"
+      ],
+      "zh": [
+        "因特拉肯徒步季节",
+        "少女峰马拉松（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -441,26 +1519,98 @@
     "regionId": "interlaken",
     "month": 8,
     "rating": 3,
-    "summary": "여름 성수기, 야외 액티비티 총집합",
-    "highlights": [
-      "융프라우 하이킹과 패러글라이딩 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 171mm로 우기에 해당",
-      "비 오는 날이 14.4일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "인터라켄 하이킹 시즌",
-      "융프라우 마라톤 (9월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 성수기, 야외 액티비티 총집합",
+      "en": "Summer peak season, a comprehensive collection of outdoor activities",
+      "ja": "夏のハイシーズン、屋外アクティビティ総集合",
+      "zh": "夏季旺季，户外活动全面集合"
+    },
+    "highlights": {
+      "ko": [
+        "융프라우 하이킹과 패러글라이딩 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Jungfrau hiking and paragliding peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ユングフラウハイキングとパラグライディングハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "少女峰徒步和滑翔伞旺季",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 171mm로 우기에 해당",
+        "비 오는 날이 14.4일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 171mm, corresponding to the rainy season",
+        "With 14.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "月降水量171mmで雨季に対応",
+        "雨の日が14.4日で屋内代替案を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "月降水量171毫米，对应雨季",
+        "14.4阴雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "인터라켄 하이킹 시즌",
+        "융프라우 마라톤 (9월)"
+      ],
+      "en": [
+        "Interlaken Hiking Season",
+        "Jungfrau Marathon (September)"
+      ],
+      "ja": [
+        "インターラーケンハイキングシーズン",
+        "ユングフラウマラソン（9月）"
+      ],
+      "zh": [
+        "因特拉肯徒步季节",
+        "少女峰马拉松（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -468,21 +1618,73 @@
     "regionId": "interlaken",
     "month": 9,
     "rating": 3,
-    "summary": "가을 알프스, 단풍 든 산과 호수",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 144mm로 우산 필수",
-      "비 오는 날이 15일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을 알프스, 단풍 든 산과 호수",
+      "en": "Autumn Alps, mountains and lakes with autumn leaves",
+      "ja": "秋のアルプス、紅葉の山と湖",
+      "zh": "秋天的阿尔卑斯山，高山和湖泊，秋叶"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 144mm로 우산 필수",
+        "비 오는 날이 15일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 144mm, so an umbrella is a must",
+        "With 15 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "降水量は 144mm なので傘は必須です",
+        "雨の日が15日で屋内代替案の準備を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "降雨量144毫米，雨伞必备",
+        "15个阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -490,20 +1692,69 @@
     "regionId": "interlaken",
     "month": 10,
     "rating": 2,
-    "summary": "쌀쌀해지는 가을, 첫 눈 내리는 융프라우",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 133mm로 우산 필수",
-      "비 오는 날이 14일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쌀쌀해지는 가을, 첫 눈 내리는 융프라우",
+      "en": "Autumn gets chilly, Jungfrau falls with the first snow",
+      "ja": "寒くなる秋、初雪のユングフラウ",
+      "zh": "秋意渐凉，少女峰初雪飘落"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 133mm로 우산 필수",
+        "비 오는 날이 14일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 133mm, so an umbrella is a must",
+        "With 14 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "降水量は 133mm なので傘は必須です",
+        "雨の日が14日で屋内代替準備を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "降雨量133毫米，雨伞必备",
+        "14个阴雨天，建议室内替代准备",
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -511,20 +1762,69 @@
     "regionId": "interlaken",
     "month": 11,
     "rating": 1,
-    "summary": "스키 시즌 준비, 알프스에 눈 쌓이는 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 150mm로 우산 필수",
-      "비 오는 날이 14일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "스키 시즌 준비, 알프스에 눈 쌓이는 시기",
+      "en": "Preparing for ski season, when snow piles up in the Alps",
+      "ja": "スキーシーズン準備、アルプスに雪を積む時期",
+      "zh": "当阿尔卑斯山积雪时，为滑雪季节做准备"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 150mm로 우산 필수",
+        "비 오는 날이 14일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 150mm, so an umbrella is a must",
+        "With 14 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "降水量が150mmで傘必須",
+        "雨の日が14日で屋内代替準備を推奨",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "降雨量150毫米，雨伞必备",
+        "14个阴雨天，建议室内替代准备",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -532,25 +1832,94 @@
     "regionId": "interlaken",
     "month": 12,
     "rating": 1,
-    "summary": "스키 시즌 시작, 설원의 크리스마스",
-    "highlights": [
-      "알프스 스키 시즌, 눈 덮인 동화 같은 풍경",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 179mm로 우기에 해당",
-      "월 16.2일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "스위스 스키 시즌 (12~3월)",
-      "인터라켄 크리스마스 마켓"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "summary": {
+      "ko": "스키 시즌 시작, 설원의 크리스마스",
+      "en": "Ski season begins, Christmas in the snow",
+      "ja": "スキーシーズン開始、雪原のクリスマス",
+      "zh": "滑雪季节开始，雪中圣诞节"
+    },
+    "highlights": {
+      "ko": [
+        "알프스 스키 시즌, 눈 덮인 동화 같은 풍경",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Alpine ski season, snow-covered fairytale-like scenery",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "アルプススキーシーズン、雪に覆われたおとぎ話のような風景",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "高山滑雪季，白雪皑皑的童话般景色",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 179mm로 우기에 해당",
+        "월 16.2일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 179mm, corresponding to the rainy season",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "月降水量179mmで雨季に対応",
+        "月16.2日雨と屋外のスケジュールに注意",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "月降水量179毫米，对应雨季",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度有点高，78%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "스위스 스키 시즌 (12~3월)",
+        "인터라켄 크리스마스 마켓"
+      ],
+      "en": [
+        "Swiss ski season (December-March)",
+        "Interlaken Christmas Market"
+      ],
+      "ja": [
+        "スイススキーシーズン（12〜3月）",
+        "インターラーケンクリスマスマーケット"
+      ],
+      "zh": [
+        "瑞士滑雪季（十二月至三月）",
+        "因特拉肯圣诞市场"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

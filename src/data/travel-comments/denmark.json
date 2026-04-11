@@ -3,22 +3,77 @@
     "regionId": "copenhagen",
     "month": 1,
     "rating": 1,
-    "summary": "겨울 한가운데, 휘게(hygge) 카페 투어",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도 86%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "겨울 한가운데, 휘게(hygge) 카페 투어",
+      "en": "In the middle of winter, hygge cafe tour",
+      "ja": "冬の真ん中に、曲がったカフェツアー",
+      "zh": "隆冬，hygge咖啡馆之旅"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도 86%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "With 13.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 86%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "雨の日が13.6日で屋内代替案を推奨",
+        "湿度86％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "13.6阴雨天，建议室内替代准备",
+        "湿度86%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -26,19 +81,65 @@
     "regionId": "copenhagen",
     "month": 2,
     "rating": 1,
-    "summary": "아직 추운 겨울, 실내 미술관·디자인 투어",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 13.2일로 실내 대안 준비 권장",
-      "습도 84%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "아직 추운 겨울, 실내 미술관·디자인 투어",
+      "en": "Still cold winter, indoor art museum and design tour",
+      "ja": "まだ寒い冬、室内美術館・デザインツアー",
+      "zh": "冬天依然寒冷，室内美术馆与设计之旅"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.2일로 실내 대안 준비 권장",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 13.2 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 84%"
+      ],
+      "ja": [
+        "雨の日が13.2日で屋内代替案を推奨",
+        "湿度84％で不快指数が高い"
+      ],
+      "zh": [
+        "13.2阴雨天，建议室内替代准备",
+        "湿度84%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -46,19 +147,65 @@
     "regionId": "copenhagen",
     "month": 3,
     "rating": 2,
-    "summary": "봄 시작, 티볼리 공원 시즌 오픈(4월)",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 티볼리 공원 시즌 오픈(4월)",
+      "en": "Spring begins, Tivoli Park season opens (April)",
+      "ja": "春の始まり、チボリ公園シーズンオープン（4月）",
+      "zh": "春天开始，蒂沃利公园季节开放（四月）"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "降水少，晴天多",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -66,19 +213,65 @@
     "regionId": "copenhagen",
     "month": 4,
     "rating": 3,
-    "summary": "봄 꽃 시즌, 티볼리 공원 개장 축제",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 꽃 시즌, 티볼리 공원 개장 축제",
+      "en": "Spring flower season, Tivoli Park opening festival",
+      "ja": "春の花シーズン、チボリ公園オープンフェスティバル",
+      "zh": "春暖花开时节，蒂沃利公园开园节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -86,20 +279,69 @@
     "regionId": "copenhagen",
     "month": 5,
     "rating": 3,
-    "summary": "쾌적한 봄, 뉘하운 운하 산책 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.8일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쾌적한 봄, 뉘하운 운하 산책 최적기",
+      "en": "Pleasant spring, the best time to walk along the Nyhavn Canal",
+      "ja": "快適な春、ニュアンス運河散策最適機",
+      "zh": "宜人的春天，沿着新港运河散步的最佳时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.8일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "With 10.8 rainy days, indoor alternative preparations are recommended.",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "雨の日が10.8日で屋内代替案を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "10.8阴雨天，建议室内替代准备。",
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -107,23 +349,86 @@
     "regionId": "copenhagen",
     "month": 6,
     "rating": 4,
-    "summary": "여름 시작, 긴 해와 야외 테라스",
-    "highlights": [
-      "덴마크의 짧고 화창한 여름, 뉘하운 운하 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "로스킬레 페스티벌 (7월)",
-      "코펜하겐 재즈 페스티벌 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 시작, 긴 해와 야외 테라스",
+      "en": "Summer begins, long sun and outdoor terrace",
+      "ja": "夏の始まり、長い年と屋外テラス",
+      "zh": "夏天开始了，漫长的阳光和户外露台"
+    },
+    "highlights": {
+      "ko": [
+        "덴마크의 짧고 화창한 여름, 뉘하운 운하 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Denmark's short, sunny summer is the best time for the Nyhavn Canal",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "デンマークの短く日当たりの良い夏、ニュアンス運河最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "丹麦短暂而阳光明媚的夏季是新港运河的最佳时节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "로스킬레 페스티벌 (7월)",
+        "코펜하겐 재즈 페스티벌 (7월)"
+      ],
+      "en": [
+        "Roskilde Festival (July)",
+        "Copenhagen Jazz Festival (July)"
+      ],
+      "ja": [
+        "ロスキレフェスティバル（7月）",
+        "コペンハーゲンジャズフェスティバル（7月）"
+      ],
+      "zh": [
+        "罗斯基勒音乐节（七月）",
+        "哥本哈根爵士音乐节（七月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -131,23 +436,86 @@
     "regionId": "copenhagen",
     "month": 7,
     "rating": 4,
-    "summary": "덴마크 여름 절정, 로스킬레 페스티벌",
-    "highlights": [
-      "덴마크의 짧고 화창한 여름, 뉘하운 운하 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "로스킬레 페스티벌 (7월)",
-      "코펜하겐 재즈 페스티벌 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "덴마크 여름 절정, 로스킬레 페스티벌",
+      "en": "The peak of Danish summer, Roskilde Festival",
+      "ja": "デンマーク夏のピーク、ロスキレフェスティバル",
+      "zh": "丹麦夏季的高峰，罗斯基勒音乐节"
+    },
+    "highlights": {
+      "ko": [
+        "덴마크의 짧고 화창한 여름, 뉘하운 운하 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Denmark's short, sunny summer is the best time for the Nyhavn Canal",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "デンマークの短く日当たりの良い夏、ニュアンス運河最適機",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "丹麦短暂而阳光明媚的夏季是新港运河的最佳时节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "With 13.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "雨の日が13.6日で屋内代替案を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "13.6阴雨天，建议室内替代准备",
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "로스킬레 페스티벌 (7월)",
+        "코펜하겐 재즈 페스티벌 (7월)"
+      ],
+      "en": [
+        "Roskilde Festival (July)",
+        "Copenhagen Jazz Festival (July)"
+      ],
+      "ja": [
+        "ロスキレフェスティバル（7月）",
+        "コペンハーゲンジャズフェスティバル（7月）"
+      ],
+      "zh": [
+        "罗斯基勒音乐节（七月）",
+        "哥本哈根爵士音乐节（七月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -155,23 +523,86 @@
     "regionId": "copenhagen",
     "month": 8,
     "rating": 4,
-    "summary": "여름 끝자락, 코펜하겐 요리 페스티벌",
-    "highlights": [
-      "덴마크의 짧고 화창한 여름, 뉘하운 운하 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 11.4일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "로스킬레 페스티벌 (7월)",
-      "코펜하겐 재즈 페스티벌 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 끝자락, 코펜하겐 요리 페스티벌",
+      "en": "End of summer, Copenhagen Culinary Festival",
+      "ja": "夏の終わり、コペンハーゲン料理フェスティバル",
+      "zh": "夏末，哥本哈根美食节"
+    },
+    "highlights": {
+      "ko": [
+        "덴마크의 짧고 화창한 여름, 뉘하운 운하 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Denmark's short, sunny summer is the best time for the Nyhavn Canal",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "デンマークの短く日当たりの良い夏、ニュアンス運河最適機",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "丹麦短暂而阳光明媚的夏季是新港运河的最佳时节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.4일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "With 11.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "雨の日が11.4日で屋内代替準備を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "11.4阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "로스킬레 페스티벌 (7월)",
+        "코펜하겐 재즈 페스티벌 (7월)"
+      ],
+      "en": [
+        "Roskilde Festival (July)",
+        "Copenhagen Jazz Festival (July)"
+      ],
+      "ja": [
+        "ロスキレフェスティバル（7月）",
+        "コペンハーゲンジャズフェスティバル（7月）"
+      ],
+      "zh": [
+        "罗斯基勒音乐节（七月）",
+        "哥本哈根爵士音乐节（七月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -179,18 +610,61 @@
     "regionId": "copenhagen",
     "month": 9,
     "rating": 3,
-    "summary": "가을 시작, 관광객 줄어 여유로운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을 시작, 관광객 줄어 여유로운 시기",
+      "en": "Autumn begins, a leisurely time with fewer tourists",
+      "ja": "秋の始まり、観光客を減らすのに十分な時間",
+      "zh": "入秋了，游人稀少的悠闲时光"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -198,17 +672,52 @@
     "regionId": "copenhagen",
     "month": 10,
     "rating": 2,
-    "summary": "가을 깊어지는 시기, 해 짧아짐",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 12.6일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "가을 깊어지는 시기, 해 짧아짐",
+      "en": "Autumn deepens, the days get shorter",
+      "ja": "秋深くなる時期、年短く",
+      "zh": "秋意渐浓，白昼变短"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.6일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 12.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "雨の日が12.6日で屋内代替案を推奨",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "12.6阴雨天，建议室内替代准备",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -216,18 +725,56 @@
     "regionId": "copenhagen",
     "month": 11,
     "rating": 2,
-    "summary": "초겨울, 티볼리 크리스마스 시즌 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 11일로 실내 대안 준비 권장",
-      "습도 84%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "초겨울, 티볼리 크리스마스 시즌 시작",
+      "en": "Early winter, Tivoli Christmas season begins",
+      "ja": "初冬、チボリのクリスマスシーズンスタート",
+      "zh": "初冬，蒂沃利圣诞季开始"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11일로 실내 대안 준비 권장",
+        "습도 84%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "As the rainy day is the 11th, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 84%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "雨の日が11日で屋内代替準備を推奨",
+        "湿度84％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "由于11号是雨天，建议室内替代准备",
+        "湿度84%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -235,25 +782,94 @@
     "regionId": "copenhagen",
     "month": 12,
     "rating": 1,
-    "summary": "티볼리 크리스마스 마켓, 휘게의 절정",
-    "highlights": [
-      "티볼리 크리스마스 마켓과 휘게의 계절",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 14일로 실내 대안 준비 권장",
-      "습도 87%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
-    "events": [
-      "티볼리 크리스마스 (11~12월)"
-    ],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "티볼리 크리스마스 마켓, 휘게의 절정",
+      "en": "Tivoli Christmas Market, the pinnacle of hygge",
+      "ja": "チボリのクリスマスマーケット、曲げのピーク",
+      "zh": "蒂沃利圣诞市场，hygge 的顶峰"
+    },
+    "highlights": {
+      "ko": [
+        "티볼리 크리스마스 마켓과 휘게의 계절",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Tivoli Christmas Market and the season of hygge",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "チボリのクリスマスマーケットと湾曲の季節",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "蒂沃利圣诞市场和 hygge 的季节",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 14일로 실내 대안 준비 권장",
+        "습도 87%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "With 14 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 87%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "雨の日が14日で屋内代替準備を推奨",
+        "湿度87％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "14个阴雨天，建议室内替代准备",
+        "湿度87%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
+    "events": {
+      "ko": [
+        "티볼리 크리스마스 (11~12월)"
+      ],
+      "en": [
+        "Tivoli Christmas (November-December)"
+      ],
+      "ja": [
+        "チボリクリスマス（11〜12月）"
+      ],
+      "zh": [
+        "蒂沃利圣诞节（十一月至十二月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

@@ -3,22 +3,77 @@
     "regionId": "dubai",
     "month": 1,
     "rating": 4,
-    "summary": "겨울 최적기, 25°C의 완벽한 쇼핑·사막 투어",
-    "highlights": [
-      "두바이 관광 황금 시즌, 야외 활동 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "겨울 최적기, 25°C의 완벽한 쇼핑·사막 투어",
+      "en": "Perfect shopping and desert tour in winter at 25°C",
+      "ja": "冬の最適機、25℃の完璧なショッピング＆砂漠ツアー",
+      "zh": "25°C 冬季完美购物和沙漠之旅"
+    },
+    "highlights": {
+      "ko": [
+        "두바이 관광 황금 시즌, 야외 활동 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dubai's golden tourism season, perfect for outdoor activities",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ドバイ観光ゴールデンシーズン、野外活動最適",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "迪拜黄金旅游季，最适合户外活动",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "두바이 쇼핑 페스티벌 (1~2월)",
-      "두바이 엑스포·이벤트 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "두바이 쇼핑 페스티벌 (1~2월)",
+        "두바이 엑스포·이벤트 시즌"
+      ],
+      "en": [
+        "Dubai Shopping Festival (January-February)",
+        "Dubai Expo/Event Season"
+      ],
+      "ja": [
+        "ドバイショッピングフェスティバル（1〜2月）",
+        "ドバイエキスポ・イベントシーズン"
+      ],
+      "zh": [
+        "迪拜购物节（一月至二月）",
+        "迪拜世博会/活动季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -26,22 +81,77 @@
     "regionId": "dubai",
     "month": 2,
     "rating": 5,
-    "summary": "겨울, 실외 활동 가능한 최고의 날씨",
-    "highlights": [
-      "두바이 관광 황금 시즌, 야외 활동 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "겨울, 실외 활동 가능한 최고의 날씨",
+      "en": "Winter, the best weather for outdoor activities",
+      "ja": "冬はアウトドアアクティビティに最適な気候",
+      "zh": "冬天，最适合户外活动的天气"
+    },
+    "highlights": {
+      "ko": [
+        "두바이 관광 황금 시즌, 야외 활동 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dubai's golden tourism season, perfect for outdoor activities",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ドバイ観光ゴールデンシーズン、野外活動最適",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "迪拜黄金旅游季，最适合户外活动",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "두바이 쇼핑 페스티벌 (1~2월)",
-      "두바이 엑스포·이벤트 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "두바이 쇼핑 페스티벌 (1~2월)",
+        "두바이 엑스포·이벤트 시즌"
+      ],
+      "en": [
+        "Dubai Shopping Festival (January-February)",
+        "Dubai Expo/Event Season"
+      ],
+      "ja": [
+        "ドバイショッピングフェスティバル（1〜2月）",
+        "ドバイエキスポ・イベントシーズン"
+      ],
+      "zh": [
+        "迪拜购物节（一月至二月）",
+        "迪拜世博会/活动季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -49,22 +159,77 @@
     "regionId": "dubai",
     "month": 3,
     "rating": 5,
-    "summary": "봄 기운, 아직 쾌적하고 관광 좋은 시기",
-    "highlights": [
-      "두바이 관광 황금 시즌, 야외 활동 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "봄 기운, 아직 쾌적하고 관광 좋은 시기",
+      "en": "Spring is in full swing, still pleasant and a good time for tourism",
+      "ja": "春のオーラ、まだ快適で観光の良い時期",
+      "zh": "春意盎然，依然宜人，正是旅游的好时节"
+    },
+    "highlights": {
+      "ko": [
+        "두바이 관광 황금 시즌, 야외 활동 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dubai's golden tourism season, perfect for outdoor activities",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ドバイ観光ゴールデンシーズン、野外活動最適",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "迪拜黄金旅游季，最适合户外活动",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "두바이 쇼핑 페스티벌 (1~2월)",
-      "두바이 엑스포·이벤트 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "두바이 쇼핑 페스티벌 (1~2월)",
+        "두바이 엑스포·이벤트 시즌"
+      ],
+      "en": [
+        "Dubai Shopping Festival (January-February)",
+        "Dubai Expo/Event Season"
+      ],
+      "ja": [
+        "ドバイショッピングフェスティバル（1〜2月）",
+        "ドバイエキスポ・イベントシーズン"
+      ],
+      "zh": [
+        "迪拜购物节（一月至二月）",
+        "迪拜世博会/活动季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -72,19 +237,60 @@
     "regionId": "dubai",
     "month": 4,
     "rating": 5,
-    "summary": "점점 더워지는 과도기, 아직 버틸 만한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "점점 더워지는 과도기, 아직 버틸 만한 시기",
+      "en": "It's a transitional period that's getting hotter, but it's still a time to endure",
+      "ja": "どんどん暑くなる過渡期、まだバチルな時期",
+      "zh": "这是一个过渡期，天气越来越热，但仍然是一个要忍受的时期"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -92,22 +298,77 @@
     "regionId": "dubai",
     "month": 5,
     "rating": 5,
-    "summary": "더위 본격화, 야외 활동 오전으로 제한",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 36°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "더위 본격화, 야외 활동 오전으로 제한",
+      "en": "Heat intensifies, outdoor activities limited to mornings",
+      "ja": "暑さ本格化、野外活動の朝に限定",
+      "zh": "炎热天气加剧，户外活动仅限早晨"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 36°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 36°C"
+      ],
+      "ja": [
+        "平均最高気温36°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温36°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -115,22 +376,77 @@
     "regionId": "dubai",
     "month": 6,
     "rating": 4,
-    "summary": "40°C대 폭염, 실내 몰에서 쇼핑만",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 39°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "40°C대 폭염, 실내 몰에서 쇼핑만",
+      "en": "Heatwave in the 40°C range, shopping only at indoor malls",
+      "ja": "40°Cの爆発、屋内モールでの買い物だけ",
+      "zh": "40°C热浪，只能在室内商场购物"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 39°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 39°C."
+      ],
+      "ja": [
+        "平均最高気温39℃で暑さに注意"
+      ],
+      "zh": [
+        "请注意防暑，平均最高气温为 39°C。"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -138,22 +454,77 @@
     "regionId": "dubai",
     "month": 7,
     "rating": 4,
-    "summary": "45°C+ 극한 더위, 야외는 위험 수준",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 41°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "45°C+ 극한 더위, 야외는 위험 수준",
+      "en": "45°C+ extreme heat, dangerous outdoors",
+      "ja": "45°C+極端な暑さ、屋外は危険レベル",
+      "zh": "45°C+ 酷热，户外危险"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 41°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 41°C"
+      ],
+      "ja": [
+        "平均最高気温41°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温41°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -161,22 +532,77 @@
     "regionId": "dubai",
     "month": 8,
     "rating": 4,
-    "summary": "극심한 폭염, 실내 리조트 풀에서만 생존",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 41°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "극심한 폭염, 실내 리조트 풀에서만 생존",
+      "en": "Extreme heat wave, surviving only in indoor resort pool",
+      "ja": "極端な爆炎、屋内リゾートプールでのみ生存",
+      "zh": "极端热浪，只能在室内度假村泳池中生存"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 41°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 41°C"
+      ],
+      "ja": [
+        "平均最高気温41°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温41°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -184,21 +610,73 @@
     "regionId": "dubai",
     "month": 9,
     "rating": 4,
-    "summary": "여전히 40°C+, 아직 바깥은 힘든 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 39°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "여전히 40°C+, 아직 바깥은 힘든 시기",
+      "en": "Still 40°C+, still difficult times outside",
+      "ja": "まだ40°C+、まだ外は難しい時期",
+      "zh": "气温仍然在 40°C+，外面的日子依然艰难"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 39°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 39°C."
+      ],
+      "ja": [
+        "平均最高気温39℃で暑さに注意"
+      ],
+      "zh": [
+        "请注意防暑，平均最高气温为 39°C。"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -206,20 +684,69 @@
     "regionId": "dubai",
     "month": 10,
     "rating": 5,
-    "summary": "더위 물러나기 시작, 야외 조금씩 가능",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 35°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "더위 물러나기 시작, 야외 조금씩 가능",
+      "en": "The heat is starting to recede, allowing the outdoors little by little",
+      "ja": "暑さから退き始め、屋外で少しずつ可能",
+      "zh": "炎热开始消退，户外活动逐渐开始"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 35°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 35°C"
+      ],
+      "ja": [
+        "平均最高気温35°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温35°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -227,22 +754,77 @@
     "regionId": "dubai",
     "month": 11,
     "rating": 5,
-    "summary": "겨울 시작, 두바이 마라톤과 쇼핑 시즌",
-    "highlights": [
-      "두바이 관광 황금 시즌, 야외 활동 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "겨울 시작, 두바이 마라톤과 쇼핑 시즌",
+      "en": "Winter begins, Dubai Marathon and shopping season",
+      "ja": "冬の始まり、ドバイマラソンとショッピングシーズン",
+      "zh": "冬天开始，迪拜马拉松和购物季"
+    },
+    "highlights": {
+      "ko": [
+        "두바이 관광 황금 시즌, 야외 활동 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dubai's golden tourism season, perfect for outdoor activities",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ドバイ観光ゴールデンシーズン、野外活動最適",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "迪拜黄金旅游季，最适合户外活动",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "두바이 쇼핑 페스티벌 (1~2월)",
-      "두바이 엑스포·이벤트 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "두바이 쇼핑 페스티벌 (1~2월)",
+        "두바이 엑스포·이벤트 시즌"
+      ],
+      "en": [
+        "Dubai Shopping Festival (January-February)",
+        "Dubai Expo/Event Season"
+      ],
+      "ja": [
+        "ドバイショッピングフェスティバル（1〜2月）",
+        "ドバイエキスポ・イベントシーズン"
+      ],
+      "zh": [
+        "迪拜购物节（一月至二月）",
+        "迪拜世博会/活动季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -250,22 +832,77 @@
     "regionId": "dubai",
     "month": 12,
     "rating": 5,
-    "summary": "겨울 완벽, 두바이 쇼핑 페스티벌의 성수기",
-    "highlights": [
-      "두바이 관광 황금 시즌, 야외 활동 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "겨울 완벽, 두바이 쇼핑 페스티벌의 성수기",
+      "en": "Winter is perfect, peak season for the Dubai Shopping Festival",
+      "ja": "冬の完璧、ドバイショッピングフェスティバルのピークシーズン",
+      "zh": "冬天是完美的，迪拜购物节的旺季"
+    },
+    "highlights": {
+      "ko": [
+        "두바이 관광 황금 시즌, 야외 활동 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dubai's golden tourism season, perfect for outdoor activities",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ドバイ観光ゴールデンシーズン、野外活動最適",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "迪拜黄金旅游季，最适合户外活动",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "두바이 쇼핑 페스티벌 (1~2월)",
-      "두바이 엑스포·이벤트 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "두바이 쇼핑 페스티벌 (1~2월)",
+        "두바이 엑스포·이벤트 시즌"
+      ],
+      "en": [
+        "Dubai Shopping Festival (January-February)",
+        "Dubai Expo/Event Season"
+      ],
+      "ja": [
+        "ドバイショッピングフェスティバル（1〜2月）",
+        "ドバイエキスポ・イベントシーズン"
+      ],
+      "zh": [
+        "迪拜购物节（一月至二月）",
+        "迪拜世博会/活动季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -273,22 +910,77 @@
     "regionId": "abu-dhabi",
     "month": 1,
     "rating": 5,
-    "summary": "겨울 최적기, 셰이크 자이드 모스크 황금빛 대리석",
-    "highlights": [
-      "아부다비 쾌적한 겨울 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "겨울 최적기, 셰이크 자이드 모스크 황금빛 대리석",
+      "en": "Best time for winter, golden marble of Sheikh Zayed Mosque",
+      "ja": "冬の最適機、シェイクザイドモスクゴールデン大理石",
+      "zh": "冬天的最佳时间，谢赫扎耶德清真寺的金色大理石"
+    },
+    "highlights": {
+      "ko": [
+        "아부다비 쾌적한 겨울 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Pleasant winter season in Abu Dhabi",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "アブダビの快適な冬のシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "阿布扎比宜人的冬季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "아부다비 F1 그랑프리 (11월)",
-      "아부다비 아트 페어"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "아부다비 F1 그랑프리 (11월)",
+        "아부다비 아트 페어"
+      ],
+      "en": [
+        "Abu Dhabi F1 Grand Prix (November)",
+        "Abu Dhabi Art Fair"
+      ],
+      "ja": [
+        "アブダビF1グランプリ（11月）",
+        "アブダビアートフェア"
+      ],
+      "zh": [
+        "阿布扎比 F1 大奖赛（11 月）",
+        "阿布扎比艺术博览会"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -296,22 +988,77 @@
     "regionId": "abu-dhabi",
     "month": 2,
     "rating": 5,
-    "summary": "겨울, 루브르 아부다비와 문화 투어",
-    "highlights": [
-      "아부다비 쾌적한 겨울 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "겨울, 루브르 아부다비와 문화 투어",
+      "en": "Winter, Louvre Abu Dhabi and Cultural Tour",
+      "ja": "冬、ルーブル アブダビと文化ツアー",
+      "zh": "冬季，阿布扎比卢浮宫和文化之旅"
+    },
+    "highlights": {
+      "ko": [
+        "아부다비 쾌적한 겨울 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Pleasant winter season in Abu Dhabi",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "アブダビの快適な冬のシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "阿布扎比宜人的冬季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "아부다비 F1 그랑프리 (11월)",
-      "아부다비 아트 페어"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "아부다비 F1 그랑프리 (11월)",
+        "아부다비 아트 페어"
+      ],
+      "en": [
+        "Abu Dhabi F1 Grand Prix (November)",
+        "Abu Dhabi Art Fair"
+      ],
+      "ja": [
+        "アブダビF1グランプリ（11月）",
+        "アブダビアートフェア"
+      ],
+      "zh": [
+        "阿布扎比 F1 大奖赛（11 月）",
+        "阿布扎比艺术博览会"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -319,23 +1066,81 @@
     "regionId": "abu-dhabi",
     "month": 3,
     "rating": 5,
-    "summary": "봄 기운, F1 전초전 분위기의 도시",
-    "highlights": [
-      "아부다비 쾌적한 겨울 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "봄 기운, F1 전초전 분위기의 도시",
+      "en": "A city full of spring vibes and an F1 skirmish atmosphere",
+      "ja": "春のオーラ、F1前哨戦の雰囲気の街",
+      "zh": "一座充满春天气息和F1冲突氛围的城市"
+    },
+    "highlights": {
+      "ko": [
+        "아부다비 쾌적한 겨울 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Pleasant winter season in Abu Dhabi",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "アブダビの快適な冬のシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "阿布扎比宜人的冬季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "아부다비 F1 그랑프리 (11월)",
-      "아부다비 아트 페어"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "아부다비 F1 그랑프리 (11월)",
+        "아부다비 아트 페어"
+      ],
+      "en": [
+        "Abu Dhabi F1 Grand Prix (November)",
+        "Abu Dhabi Art Fair"
+      ],
+      "ja": [
+        "アブダビF1グランプリ（11月）",
+        "アブダビアートフェア"
+      ],
+      "zh": [
+        "阿布扎比 F1 大奖赛（11 月）",
+        "阿布扎比艺术博览会"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -343,19 +1148,60 @@
     "regionId": "abu-dhabi",
     "month": 4,
     "rating": 5,
-    "summary": "더워지기 시작, 야외 관광 마지막 기회",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "더워지기 시작, 야외 관광 마지막 기회",
+      "en": "It's starting to get hot, last chance for outdoor tourism",
+      "ja": "暑くなり始め、屋外観光の最後のチャンス",
+      "zh": "天气开始变热，户外旅游最后机会"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -363,22 +1209,77 @@
     "regionId": "abu-dhabi",
     "month": 5,
     "rating": 5,
-    "summary": "초여름, 오전 관광 후 실내로",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 36°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "초여름, 오전 관광 후 실내로",
+      "en": "Early summer, after sightseeing in the morning, we go indoors",
+      "ja": "初夏、午前観光後に室内に",
+      "zh": "初夏，早上游览完，进屋"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 36°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 36°C"
+      ],
+      "ja": [
+        "平均最高気温36°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温36°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -386,22 +1287,77 @@
     "regionId": "abu-dhabi",
     "month": 6,
     "rating": 4,
-    "summary": "40°C 폭염, 모스크는 오전 이른 방문 필수",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 39°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "40°C 폭염, 모스크는 오전 이른 방문 필수",
+      "en": "40°C heat wave, must visit mosque early in the morning",
+      "ja": "40°C猛暑、モスクは午前早い訪問必須",
+      "zh": "40°C热浪，必须一大早去清真寺"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 39°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 39°C."
+      ],
+      "ja": [
+        "平均最高気温39℃で暑さに注意"
+      ],
+      "zh": [
+        "请注意防暑，平均最高气温为 39°C。"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -409,22 +1365,77 @@
     "regionId": "abu-dhabi",
     "month": 7,
     "rating": 4,
-    "summary": "극한의 더위, 쇼핑몰과 워터파크 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 40°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "극한의 더위, 쇼핑몰과 워터파크 시즌",
+      "en": "Extreme heat, shopping mall and water park season",
+      "ja": "極限の暑さ、ショッピングモール、ウォーターパークシーズン",
+      "zh": "酷暑、购物中心和水上乐园季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 40°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 40°C"
+      ],
+      "ja": [
+        "平均最高気温40℃で熱に注意"
+      ],
+      "zh": [
+        "平均最高气温40°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -432,22 +1443,77 @@
     "regionId": "abu-dhabi",
     "month": 8,
     "rating": 4,
-    "summary": "폭염 지속, 실내 리조트 휴가",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 41°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "폭염 지속, 실내 리조트 휴가",
+      "en": "Heat wave continues, indoor resort vacation",
+      "ja": "爆炎継続、屋内リゾートの休暇",
+      "zh": "热浪持续，室内度假村度假"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 41°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 41°C"
+      ],
+      "ja": [
+        "平均最高気温41°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温41°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -455,21 +1521,73 @@
     "regionId": "abu-dhabi",
     "month": 9,
     "rating": 4,
-    "summary": "더위 서서히 가라앉는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 39°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "더위 서서히 가라앉는 시기",
+      "en": "When the heat gradually subsides",
+      "ja": "暑さが徐々に沈む時期",
+      "zh": "当热气渐渐退去"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 39°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 39°C."
+      ],
+      "ja": [
+        "平均最高気温39℃で暑さに注意"
+      ],
+      "zh": [
+        "请注意防暑，平均最高气温为 39°C。"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -477,21 +1595,73 @@
     "regionId": "abu-dhabi",
     "month": 10,
     "rating": 5,
-    "summary": "야외 활동 재개, F1 시즌 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 35°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "야외 활동 재개, F1 시즌 시작",
+      "en": "Outdoor activities resume, F1 season begins",
+      "ja": "野外活動の再開、F1シーズン開始",
+      "zh": "户外活动恢复，F1赛季开始"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 35°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 35°C"
+      ],
+      "ja": [
+        "平均最高気温35°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温35°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -499,22 +1669,77 @@
     "regionId": "abu-dhabi",
     "month": 11,
     "rating": 5,
-    "summary": "쾌적한 가을, F1 아부다비 그랑프리",
-    "highlights": [
-      "아부다비 쾌적한 겨울 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "쾌적한 가을, F1 아부다비 그랑프리",
+      "en": "Pleasant fall, F1 Abu Dhabi Grand Prix",
+      "ja": "快適な秋、F1アブダビグランプリ",
+      "zh": "宜人的秋天，F1阿布扎比大奖赛"
+    },
+    "highlights": {
+      "ko": [
+        "아부다비 쾌적한 겨울 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Pleasant winter season in Abu Dhabi",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "アブダビの快適な冬のシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "阿布扎比宜人的冬季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "아부다비 F1 그랑프리 (11월)",
-      "아부다비 아트 페어"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "아부다비 F1 그랑프리 (11월)",
+        "아부다비 아트 페어"
+      ],
+      "en": [
+        "Abu Dhabi F1 Grand Prix (November)",
+        "Abu Dhabi Art Fair"
+      ],
+      "ja": [
+        "アブダビF1グランプリ（11月）",
+        "アブダビアートフェア"
+      ],
+      "zh": [
+        "阿布扎比 F1 大奖赛（11 月）",
+        "阿布扎比艺术博览会"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -522,22 +1747,77 @@
     "regionId": "abu-dhabi",
     "month": 12,
     "rating": 5,
-    "summary": "겨울 완벽, 그랜드 모스크 야경과 선선한 사막",
-    "highlights": [
-      "아부다비 쾌적한 겨울 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "겨울 완벽, 그랜드 모스크 야경과 선선한 사막",
+      "en": "Perfect winter, night view of the Grand Mosque and cool desert",
+      "ja": "冬の完璧、グランドモスクの夜景と鮮やかな砂漠",
+      "zh": "完美的冬天，大清真寺的夜景和凉爽的沙漠"
+    },
+    "highlights": {
+      "ko": [
+        "아부다비 쾌적한 겨울 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Pleasant winter season in Abu Dhabi",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "アブダビの快適な冬のシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "阿布扎比宜人的冬季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "아부다비 F1 그랑프리 (11월)",
-      "아부다비 아트 페어"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "아부다비 F1 그랑프리 (11월)",
+        "아부다비 아트 페어"
+      ],
+      "en": [
+        "Abu Dhabi F1 Grand Prix (November)",
+        "Abu Dhabi Art Fair"
+      ],
+      "ja": [
+        "アブダビF1グランプリ（11月）",
+        "アブダビアートフェア"
+      ],
+      "zh": [
+        "阿布扎比 F1 大奖赛（11 月）",
+        "阿布扎比艺术博览会"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   }

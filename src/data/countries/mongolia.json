@@ -24,7 +24,12 @@
       "countryId": "mongolia",
       "latitude": 47.8864,
       "longitude": 106.9057,
-      "climateType": "냉대 대륙성",
+      "climateType": {
+        "ko": "냉대 대륙성",
+        "en": "Subarctic continental",
+        "ja": "亜寒帯大陸性",
+        "zh": "亚寒带大陆性"
+      },
       "monthlyData": [
         {
           "month": 1,
@@ -34,7 +39,12 @@
           "rainyDays": 1.3,
           "humidity": 71,
           "sunshineHours": 8,
-          "weatherSummary": "혹한"
+          "weatherSummary": {
+            "ko": "혹한",
+            "en": "Freezing",
+            "ja": "極寒",
+            "zh": "严寒"
+          }
         },
         {
           "month": 2,
@@ -44,7 +54,12 @@
           "rainyDays": 2,
           "humidity": 68.3,
           "sunshineHours": 9.3,
-          "weatherSummary": "혹한"
+          "weatherSummary": {
+            "ko": "혹한",
+            "en": "Freezing",
+            "ja": "極寒",
+            "zh": "严寒"
+          }
         },
         {
           "month": 3,
@@ -54,7 +69,12 @@
           "rainyDays": 2.4,
           "humidity": 45.5,
           "sunshineHours": 10.5,
-          "weatherSummary": "혹한"
+          "weatherSummary": {
+            "ko": "혹한",
+            "en": "Freezing",
+            "ja": "極寒",
+            "zh": "严寒"
+          }
         },
         {
           "month": 4,
@@ -64,7 +84,12 @@
           "rainyDays": 5.6,
           "humidity": 41.6,
           "sunshineHours": 11.3,
-          "weatherSummary": "추움"
+          "weatherSummary": {
+            "ko": "추움",
+            "en": "Cold",
+            "ja": "寒い",
+            "zh": "寒冷"
+          }
         },
         {
           "month": 5,
@@ -74,7 +99,12 @@
           "rainyDays": 7.8,
           "humidity": 47.7,
           "sunshineHours": 11.6,
-          "weatherSummary": "쌀쌀"
+          "weatherSummary": {
+            "ko": "쌀쌀",
+            "en": "Chilly",
+            "ja": "肌寒い",
+            "zh": "微凉"
+          }
         },
         {
           "month": 6,
@@ -84,7 +114,12 @@
           "rainyDays": 10.8,
           "humidity": 57.9,
           "sunshineHours": 11.8,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 7,
@@ -94,7 +129,12 @@
           "rainyDays": 13.4,
           "humidity": 66.7,
           "sunshineHours": 11.3,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 8,
@@ -104,7 +144,12 @@
           "rainyDays": 12.2,
           "humidity": 71.2,
           "sunshineHours": 11,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 9,
@@ -114,7 +159,12 @@
           "rainyDays": 8.4,
           "humidity": 64.1,
           "sunshineHours": 9.8,
-          "weatherSummary": "쌀쌀"
+          "weatherSummary": {
+            "ko": "쌀쌀",
+            "en": "Chilly",
+            "ja": "肌寒い",
+            "zh": "微凉"
+          }
         },
         {
           "month": 10,
@@ -124,7 +174,12 @@
           "rainyDays": 3.6,
           "humidity": 56,
           "sunshineHours": 8.8,
-          "weatherSummary": "추움"
+          "weatherSummary": {
+            "ko": "추움",
+            "en": "Cold",
+            "ja": "寒い",
+            "zh": "寒冷"
+          }
         },
         {
           "month": 11,
@@ -134,7 +189,12 @@
           "rainyDays": 4,
           "humidity": 60.5,
           "sunshineHours": 7.6,
-          "weatherSummary": "혹한"
+          "weatherSummary": {
+            "ko": "혹한",
+            "en": "Freezing",
+            "ja": "極寒",
+            "zh": "严寒"
+          }
         },
         {
           "month": 12,
@@ -144,7 +204,12 @@
           "rainyDays": 2,
           "humidity": 67.3,
           "sunshineHours": 7.4,
-          "weatherSummary": "혹한"
+          "weatherSummary": {
+            "ko": "혹한",
+            "en": "Freezing",
+            "ja": "極寒",
+            "zh": "严寒"
+          }
         }
       ]
     }

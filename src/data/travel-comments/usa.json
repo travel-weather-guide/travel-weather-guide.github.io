@@ -3,21 +3,73 @@
     "regionId": "new-york",
     "month": 1,
     "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -2°C로 방한 대비 필요",
-      "강수량이 102mm로 우산 필수",
-      "비 오는 날이 11일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "쌀쌀한 날씨, 방한 준비 필요",
+      "en": "Chilly weather, need to prepare for winter",
+      "ja": "寒い天候、防寒準備が必要",
+      "zh": "天气寒冷，需要做好过冬准备"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -2°C로 방한 대비 필요",
+        "강수량이 102mm로 우산 필수",
+        "비 오는 날이 11일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "The average minimum temperature is -2°C, so preparation for cold weather is necessary",
+        "Rainfall is 102mm, so an umbrella is a must",
+        "As the rainy day is the 11th, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "平均最低気温-2℃で防寒コントラストが必要",
+        "降水量が102mmで傘必須",
+        "雨の日が11日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "平均最低气温为-2℃，做好防寒准备",
+        "降雨量102毫米，雨伞必备",
+        "由于11号是雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "medium"
   },
@@ -25,18 +77,61 @@
     "regionId": "new-york",
     "month": 2,
     "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -2°C로 방한 대비 필요"
-    ],
+    "summary": {
+      "ko": "쌀쌀한 날씨, 방한 준비 필요",
+      "en": "Chilly weather, need to prepare for winter",
+      "ja": "寒い天候、防寒準備が必要",
+      "zh": "天气寒冷，需要做好过冬准备"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -2°C로 방한 대비 필요"
+      ],
+      "en": [
+        "The average minimum temperature is -2°C, so preparation for cold weather is necessary"
+      ],
+      "ja": [
+        "平均最低気温-2℃で防寒コントラストが必要"
+      ],
+      "zh": [
+        "平均最低气温为-2℃，做好防寒准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "medium"
   },
@@ -44,20 +139,69 @@
     "regionId": "new-york",
     "month": 3,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 129mm로 우산 필수",
-      "비 오는 날이 10.6일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 129mm로 우산 필수",
+        "비 오는 날이 10.6일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "Rainfall is 129mm, so an umbrella is a must",
+        "With 10.6 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "降水量は 129mm なので傘は必須です",
+        "雨の日が10.6日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "降雨量129毫米，雨伞必备",
+        "10.6阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -65,24 +209,90 @@
     "regionId": "new-york",
     "month": 4,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "센트럴파크 봄꽃, 쾌적한 날씨",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 126mm로 우산 필수",
-      "비 오는 날이 12.2일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "센트럴파크 벚꽃 (4월)",
-      "메트로폴리탄 미술관 갈라 (5월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "센트럴파크 봄꽃, 쾌적한 날씨",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Central Park spring flowers, pleasant weather",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "セントラルパーク春の花、快適な天気",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "中央公园春暖花开，气候宜人",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 126mm로 우산 필수",
+        "비 오는 날이 12.2일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "Rainfall is 126mm, so an umbrella is a must",
+        "With 12.2 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "降水量は 126mm なので傘は必須です",
+        "雨の日が12.2日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "降雨量126毫米，雨伞必备",
+        "12.2阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "센트럴파크 벚꽃 (4월)",
+        "메트로폴리탄 미술관 갈라 (5월)"
+      ],
+      "en": [
+        "Central Park Cherry Blossoms (April)",
+        "Metropolitan Museum of Art Gala (May)"
+      ],
+      "ja": [
+        "セントラルパーク桜（4月）",
+        "メトロポリタン美術館ガラ（5月）"
+      ],
+      "zh": [
+        "中央公园樱花（四月）",
+        "大都会艺术博物馆晚会（五月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -90,22 +300,82 @@
     "regionId": "new-york",
     "month": 5,
     "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "센트럴파크 봄꽃, 쾌적한 날씨",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.8일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "센트럴파크 벚꽃 (4월)",
-      "메트로폴리탄 미술관 갈라 (5월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "센트럴파크 봄꽃, 쾌적한 날씨",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Central Park spring flowers, pleasant weather",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "セントラルパーク春の花、快適な天気",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "中央公园春暖花开，气候宜人",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.8일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 10.8 rainy days, indoor alternative preparations are recommended."
+      ],
+      "ja": [
+        "雨の日が10.8日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "10.8阴雨天，建议室内替代准备。"
+      ]
+    },
+    "events": {
+      "ko": [
+        "센트럴파크 벚꽃 (4월)",
+        "메트로폴리탄 미술관 갈라 (5월)"
+      ],
+      "en": [
+        "Central Park Cherry Blossoms (April)",
+        "Metropolitan Museum of Art Gala (May)"
+      ],
+      "ja": [
+        "セントラルパーク桜（4月）",
+        "メトロポリタン美術館ガラ（5月）"
+      ],
+      "zh": [
+        "中央公园樱花（四月）",
+        "大都会艺术博物馆晚会（五月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -113,17 +383,52 @@
     "regionId": "new-york",
     "month": 6,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "쾌적한 기온, 여행하기 좋은 시기",
+      "en": "Pleasant temperature, good time to travel",
+      "ja": "快適な気温、旅行に良い時期",
+      "zh": "气温宜人，旅游好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -131,22 +436,77 @@
     "regionId": "new-york",
     "month": 7,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 144mm로 우산 필수",
-      "비 오는 날이 14일로 실내 대안 준비 권장",
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쾌적한 기온, 여행하기 좋은 시기",
+      "en": "Pleasant temperature, good time to travel",
+      "ja": "快適な気温、旅行に良い時期",
+      "zh": "气温宜人，旅游好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 144mm로 우산 필수",
+        "비 오는 날이 14일로 실내 대안 준비 권장",
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 144mm, so an umbrella is a must",
+        "With 14 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "降水量は 144mm なので傘は必須です",
+        "雨の日が14日で屋内代替準備を推奨",
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "降雨量144毫米，雨伞必备",
+        "14个阴雨天，建议室内替代准备",
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -154,22 +514,77 @@
     "regionId": "new-york",
     "month": 8,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 134mm로 우산 필수",
-      "비 오는 날이 13일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쾌적한 기온, 여행하기 좋은 시기",
+      "en": "Pleasant temperature, good time to travel",
+      "ja": "快適な気温、旅行に良い時期",
+      "zh": "气温宜人，旅游好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 134mm로 우산 필수",
+        "비 오는 날이 13일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 134mm, so an umbrella is a must",
+        "As the rainy day is the 13th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "降水量は 134mm なので傘は必須です",
+        "雨の日が13日で屋内代替準備を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "降雨量134毫米，雨伞必备",
+        "由于13号是雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -177,21 +592,73 @@
     "regionId": "new-york",
     "month": 9,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 136mm로 우산 필수",
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쾌적한 기온, 여행하기 좋은 시기",
+      "en": "Pleasant temperature, good time to travel",
+      "ja": "快適な気温、旅行に良い時期",
+      "zh": "气温宜人，旅游好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 136mm로 우산 필수",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 136mm, so an umbrella is a must",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "降水量は 136 mm なので傘は必須です",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "降雨量136毫米，雨伞必备",
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -199,24 +666,90 @@
     "regionId": "new-york",
     "month": 10,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "가을 단풍과 할로윈/추수감사절",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 147mm로 우산 필수",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "할로윈 퍼레이드 (10월)",
-      "메이시스 추수감사절 퍼레이드 (11월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "가을 단풍과 할로윈/추수감사절",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Fall Foliage and Halloween/Thanksgiving",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "秋の紅葉とハロウィーン/感謝祭",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "秋叶和万圣节/感恩节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 147mm로 우산 필수",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 147mm, so an umbrella is a must",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "降水量は 147mm なので傘は必須です",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "降雨量147毫米，雨伞必备",
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "할로윈 퍼레이드 (10월)",
+        "메이시스 추수감사절 퍼레이드 (11월)"
+      ],
+      "en": [
+        "Halloween Parade (October)",
+        "Macy's Thanksgiving Day Parade (November)"
+      ],
+      "ja": [
+        "ハロウィンパレード（10月）",
+        "メイシス感謝祭パレード（11月）"
+      ],
+      "zh": [
+        "万圣节游行（十月）",
+        "梅西百货感恩节游行（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -224,17 +757,52 @@
     "regionId": "new-york",
     "month": 11,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "가을 단풍과 할로윈/추수감사절"
-    ],
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "가을 단풍과 할로윈/추수감사절"
+      ],
+      "en": [
+        "Fall Foliage and Halloween/Thanksgiving"
+      ],
+      "ja": [
+        "秋の紅葉とハロウィーン/感謝祭"
+      ],
+      "zh": [
+        "秋叶和万圣节/感恩节"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "할로윈 퍼레이드 (10월)",
-      "메이시스 추수감사절 퍼레이드 (11월)"
-    ],
+    "events": {
+      "ko": [
+        "할로윈 퍼레이드 (10월)",
+        "메이시스 추수감사절 퍼레이드 (11월)"
+      ],
+      "en": [
+        "Halloween Parade (October)",
+        "Macy's Thanksgiving Day Parade (November)"
+      ],
+      "ja": [
+        "ハロウィンパレード（10月）",
+        "メイシス感謝祭パレード（11月）"
+      ],
+      "zh": [
+        "万圣节游行（十月）",
+        "梅西百货感恩节游行（十一月）"
+      ]
+    },
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -242,26 +810,98 @@
     "regionId": "new-york",
     "month": 12,
     "rating": 3,
-    "summary": "쌀쌀한 날씨, 방한 준비 필요",
-    "highlights": [
-      "록펠러 크리스마스 트리와 홀리데이 시즌",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -0°C로 방한 대비 필요",
-      "강수량이 120mm로 우산 필수",
-      "비 오는 날이 10.6일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "록펠러 센터 트리 점등",
-      "타임스퀘어 새해 카운트다운"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "쌀쌀한 날씨, 방한 준비 필요",
+      "en": "Chilly weather, need to prepare for winter",
+      "ja": "寒い天候、防寒準備が必要",
+      "zh": "天气寒冷，需要做好过冬准备"
+    },
+    "highlights": {
+      "ko": [
+        "록펠러 크리스마스 트리와 홀리데이 시즌",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Rockefeller Christmas Tree and Holiday Season",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ロックフェラークリスマスツリーとホリデーシーズン",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "洛克菲勒圣诞树和节日",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -0°C로 방한 대비 필요",
+        "강수량이 120mm로 우산 필수",
+        "비 오는 날이 10.6일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Need to prepare for cold weather with average minimum temperature -0°C",
+        "Rainfall is 120mm, so an umbrella is a must",
+        "With 10.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "平均最低気温-0℃で防寒コントラストが必要",
+        "降水量が120mmで傘必須",
+        "雨の日が10.6日で屋内代替準備を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "需要为平均最低气温-0°C的寒冷天气做好准备",
+        "降雨量120mm，雨伞必备",
+        "10.6阴雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "록펠러 센터 트리 점등",
+        "타임스퀘어 새해 카운트다운"
+      ],
+      "en": [
+        "Rockefeller Center Tree Lighting",
+        "Times Square New Year Countdown"
+      ],
+      "ja": [
+        "ロックフェラーセンターツリー点灯",
+        "タイムズスクエア新年カウントダウン"
+      ],
+      "zh": [
+        "洛克菲勒中心树灯",
+        "时代广场新年倒计时"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -269,16 +909,48 @@
     "regionId": "los-angeles",
     "month": 1,
     "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -286,20 +958,69 @@
     "regionId": "los-angeles",
     "month": 2,
     "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "아카데미 시상식 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "아카데미 시상식 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Academy Awards season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "アカデミー授賞式シーズン",
+        "日照時間が長く、野外活動に良い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "奥斯卡颁奖季",
+        "日照时间长，适合户外活动",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "아카데미 시상식 (2~3월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "아카데미 시상식 (2~3월)"
+      ],
+      "en": [
+        "Academy Awards (February~March)"
+      ],
+      "ja": [
+        "アカデミー授賞式（2～3月）"
+      ],
+      "zh": [
+        "奥斯卡金像奖（2月~3月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -307,22 +1028,82 @@
     "regionId": "los-angeles",
     "month": 3,
     "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "아카데미 시상식 시즌",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 100mm로 우산 필수"
-    ],
-    "events": [
-      "아카데미 시상식 (2~3월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "아카데미 시상식 시즌",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Academy Awards season",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "アカデミー授賞式シーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "奥斯卡颁奖季",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 100mm로 우산 필수"
+      ],
+      "en": [
+        "With 100mm of precipitation, an umbrella is essential"
+      ],
+      "ja": [
+        "降水量が100mmで傘必須"
+      ],
+      "zh": [
+        "100毫米降水，雨伞必不可少"
+      ]
+    },
+    "events": {
+      "ko": [
+        "아카데미 시상식 (2~3월)"
+      ],
+      "en": [
+        "Academy Awards (February~March)"
+      ],
+      "ja": [
+        "アカデミー授賞式（2～3月）"
+      ],
+      "zh": [
+        "奥斯卡金像奖（2月~3月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -330,17 +1111,52 @@
     "regionId": "los-angeles",
     "month": 4,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -348,18 +1164,56 @@
     "regionId": "los-angeles",
     "month": 5,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -367,21 +1221,73 @@
     "regionId": "los-angeles",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "해변 성수기, 서핑에 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "해변 성수기, 서핑에 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Peak beach season, perfect for surfing",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ビーチハイシーズン、サーフィンに最適",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "海滩旺季，非常适合冲浪",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "US 오픈 서핑 (7~8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "US 오픈 서핑 (7~8월)"
+      ],
+      "en": [
+        "US Open Surfing (July-August)"
+      ],
+      "ja": [
+        "USオープンサーフィン（7～8月）"
+      ],
+      "zh": [
+        "美国冲浪公开赛（七月至八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -389,21 +1295,73 @@
     "regionId": "los-angeles",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "해변 성수기, 서핑에 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "해변 성수기, 서핑에 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Peak beach season, perfect for surfing",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ビーチハイシーズン、サーフィンに最適",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "海滩旺季，非常适合冲浪",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "US 오픈 서핑 (7~8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "US 오픈 서핑 (7~8월)"
+      ],
+      "en": [
+        "US Open Surfing (July-August)"
+      ],
+      "ja": [
+        "USオープンサーフィン（7～8月）"
+      ],
+      "zh": [
+        "美国冲浪公开赛（七月至八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -411,21 +1369,73 @@
     "regionId": "los-angeles",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "해변 성수기, 서핑에 최적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "해변 성수기, 서핑에 최적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Peak beach season, perfect for surfing",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ビーチハイシーズン、サーフィンに最適",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "海滩旺季，非常适合冲浪",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "US 오픈 서핑 (7~8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "US 오픈 서핑 (7~8월)"
+      ],
+      "en": [
+        "US Open Surfing (July-August)"
+      ],
+      "ja": [
+        "USオープンサーフィン（7～8月）"
+      ],
+      "zh": [
+        "美国冲浪公开赛（七月至八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -433,18 +1443,56 @@
     "regionId": "los-angeles",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -452,19 +1500,60 @@
     "regionId": "los-angeles",
     "month": 10,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -472,18 +1561,56 @@
     "regionId": "los-angeles",
     "month": 11,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -491,18 +1618,61 @@
     "regionId": "los-angeles",
     "month": 12,
     "rating": 5,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 103mm로 우산 필수"
-    ],
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 103mm로 우산 필수"
+      ],
+      "en": [
+        "With 103mm of precipitation, an umbrella is a must"
+      ],
+      "ja": [
+        "降水量が103mmで傘必須"
+      ],
+      "zh": [
+        "103毫米降水量，雨伞必备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -510,23 +1680,86 @@
     "regionId": "hawaii",
     "month": 1,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
-    "highlights": [
-      "고래 관찰 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "고래 관찰 시즌",
-      "하와이안 문화 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "쾌적한 기온, 여행하기 좋은 시기",
+      "en": "Pleasant temperature, good time to travel",
+      "ja": "快適な気温、旅行に良い時期",
+      "zh": "气温宜人，旅游好时节"
+    },
+    "highlights": {
+      "ko": [
+        "고래 관찰 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Whale Watching Season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "クジラ観察シーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "观鲸季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "고래 관찰 시즌",
+        "하와이안 문화 축제"
+      ],
+      "en": [
+        "Whale Watching Season",
+        "Hawaiian Cultural Festival"
+      ],
+      "ja": [
+        "クジラ観察シーズン",
+        "ハワイアン文化祭"
+      ],
+      "zh": [
+        "观鲸季节",
+        "夏威夷文化节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -534,24 +1767,90 @@
     "regionId": "hawaii",
     "month": 2,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "고래 관찰 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "고래 관찰 시즌",
-      "하와이안 문화 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "고래 관찰 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Whale Watching Season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "クジラ観察シーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "观鲸季节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "고래 관찰 시즌",
+        "하와이안 문화 축제"
+      ],
+      "en": [
+        "Whale Watching Season",
+        "Hawaiian Cultural Festival"
+      ],
+      "ja": [
+        "クジラ観察シーズン",
+        "ハワイアン文化祭"
+      ],
+      "zh": [
+        "观鲸季节",
+        "夏威夷文化节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -559,20 +1858,69 @@
     "regionId": "hawaii",
     "month": 3,
     "rating": 4,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 14.2일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쾌적한 기온, 여행하기 좋은 시기",
+      "en": "Pleasant temperature, good time to travel",
+      "ja": "快適な気温、旅行に良い時期",
+      "zh": "气温宜人，旅游好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 14.2일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "With 14.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "雨の日が14.2日で屋内代替準備を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "14.2阴雨天，建议室内替代准备",
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -580,21 +1928,73 @@
     "regionId": "hawaii",
     "month": 4,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 12일로 실내 대안 준비 권장",
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12일로 실내 대안 준비 권장",
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "As the rainy day is on the 12th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "雨の日が12日で屋内代替準備を推奨",
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "由于12号是雨天，建议室内替代准备",
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -602,20 +2002,69 @@
     "regionId": "hawaii",
     "month": 5,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 11일로 실내 대안 준비 권장",
-      "습도가 72%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쾌적한 기온, 여행하기 좋은 시기",
+      "en": "Pleasant temperature, good time to travel",
+      "ja": "快適な気温、旅行に良い時期",
+      "zh": "气温宜人，旅游好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11일로 실내 대안 준비 권장",
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "As the rainy day is the 11th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "雨の日が11日で屋内代替準備を推奨",
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "由于11号是雨天，建议室内替代准备",
+        "湿度有点高，72%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -623,21 +2072,73 @@
     "regionId": "hawaii",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "건기 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "건기 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best time for beaches in dry season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季海滩的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "킹 카메하메하 데이 (6월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "킹 카메하메하 데이 (6월)"
+      ],
+      "en": [
+        "King Kamehameha Day (June)"
+      ],
+      "ja": [
+        "キングカメハメハデー（6月）"
+      ],
+      "zh": [
+        "卡美哈美哈国王日（六月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -645,23 +2146,86 @@
     "regionId": "hawaii",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "건기 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 71%로 다소 높음"
-    ],
-    "events": [
-      "킹 카메하메하 데이 (6월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "건기 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best time for beaches in dry season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季海滩的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，71%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "킹 카메하메하 데이 (6월)"
+      ],
+      "en": [
+        "King Kamehameha Day (June)"
+      ],
+      "ja": [
+        "キングカメハメハデー（6月）"
+      ],
+      "zh": [
+        "卡美哈美哈国王日（六月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -669,21 +2233,73 @@
     "regionId": "hawaii",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "건기 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "건기 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best time for beaches in dry season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季海滩的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "킹 카메하메하 데이 (6월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "킹 카메하메하 데이 (6월)"
+      ],
+      "en": [
+        "King Kamehameha Day (June)"
+      ],
+      "ja": [
+        "キングカメハメハデー（6月）"
+      ],
+      "zh": [
+        "卡美哈美哈国王日（六月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -691,18 +2307,56 @@
     "regionId": "hawaii",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -710,21 +2364,73 @@
     "regionId": "hawaii",
     "month": 10,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 10.2일로 실내 대안 준비 권장",
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.2일로 실내 대안 준비 권장",
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "With 10.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "雨の日が10.2日で屋内代替案を推奨",
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "10.2阴雨天，建议室内替代准备",
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -732,20 +2438,69 @@
     "regionId": "hawaii",
     "month": 11,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -753,23 +2508,86 @@
     "regionId": "hawaii",
     "month": 12,
     "rating": 5,
-    "summary": "쾌적한 기온, 여행하기 좋은 시기",
-    "highlights": [
-      "고래 관찰 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "고래 관찰 시즌",
-      "하와이안 문화 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "쾌적한 기온, 여행하기 좋은 시기",
+      "en": "Pleasant temperature, good time to travel",
+      "ja": "快適な気温、旅行に良い時期",
+      "zh": "气温宜人，旅游好时节"
+    },
+    "highlights": {
+      "ko": [
+        "고래 관찰 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Whale Watching Season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "クジラ観察シーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "观鲸季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "고래 관찰 시즌",
+        "하와이안 문화 축제"
+      ],
+      "en": [
+        "Whale Watching Season",
+        "Hawaiian Cultural Festival"
+      ],
+      "ja": [
+        "クジラ観察シーズン",
+        "ハワイアン文化祭"
+      ],
+      "zh": [
+        "观鲸季节",
+        "夏威夷文化节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -777,19 +2595,65 @@
     "regionId": "san-francisco",
     "month": 1,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 109mm로 우산 필수",
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 109mm로 우산 필수",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 109mm, so an umbrella is a must",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "降水量が109mmで傘必須",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量109毫米，雨伞必备",
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -797,18 +2661,61 @@
     "regionId": "san-francisco",
     "month": 2,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -816,19 +2723,65 @@
     "regionId": "san-francisco",
     "month": 3,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.2일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.2일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "With 10.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "雨の日が10.2日で屋内代替案を推奨",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "10.2阴雨天，建议室内替代准备",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -836,22 +2789,82 @@
     "regionId": "san-francisco",
     "month": 4,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "봄 골든게이트 산책, 안개 걷힌 베이 뷰",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "Bay to Breakers (5월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "봄 골든게이트 산책, 안개 걷힌 베이 뷰",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Spring Golden Gate walk, fog-cleared bay view",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "春ゴールデンゲートウォーキング、霧の中で歩いたベイビュー",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "春天金门漫步，清雾湾景",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "Bay to Breakers (5월)"
+      ],
+      "en": [
+        "Bay to Breakers (May)"
+      ],
+      "ja": [
+        "Bay to Breakers (5月)"
+      ],
+      "zh": [
+        "海湾到碎浪（五月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -859,22 +2872,82 @@
     "regionId": "san-francisco",
     "month": 5,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "봄 골든게이트 산책, 안개 걷힌 베이 뷰",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "Bay to Breakers (5월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "봄 골든게이트 산책, 안개 걷힌 베이 뷰",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Spring Golden Gate walk, fog-cleared bay view",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "春ゴールデンゲートウォーキング、霧の中で歩いたベイビュー",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "春天金门漫步，清雾湾景",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "Bay to Breakers (5월)"
+      ],
+      "en": [
+        "Bay to Breakers (May)"
+      ],
+      "ja": [
+        "Bay to Breakers (5月)"
+      ],
+      "zh": [
+        "海湾到碎浪（五月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -882,19 +2955,65 @@
     "regionId": "san-francisco",
     "month": 6,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -902,19 +3021,65 @@
     "regionId": "san-francisco",
     "month": 7,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -922,19 +3087,65 @@
     "regionId": "san-francisco",
     "month": 8,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -942,23 +3153,86 @@
     "regionId": "san-francisco",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "인디안 서머, 골든게이트 뷰 가장 맑은 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 80%로 불쾌지수 높음"
-    ],
-    "events": [
-      "Fleet Week (10월)",
-      "샌프란시스코 마라톤"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "인디안 서머, 골든게이트 뷰 가장 맑은 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Indian Summer, Golden Gate View The clearest time",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "インディアンサマー、ゴールデンゲートビュー最も晴れの時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "小阳春，金门观景最晴时",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 80%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 80%"
+      ],
+      "ja": [
+        "湿度80％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度80%不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "Fleet Week (10월)",
+        "샌프란시스코 마라톤"
+      ],
+      "en": [
+        "Fleet Week (October)",
+        "San Francisco Marathon"
+      ],
+      "ja": [
+        "Fleet Week (10月)",
+        "サンフランシスコマラソン"
+      ],
+      "zh": [
+        "舰队周（十月）",
+        "旧金山马拉松"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -966,23 +3240,86 @@
     "regionId": "san-francisco",
     "month": 10,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "인디안 서머, 골든게이트 뷰 가장 맑은 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "Fleet Week (10월)",
-      "샌프란시스코 마라톤"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "인디안 서머, 골든게이트 뷰 가장 맑은 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Indian Summer, Golden Gate View The clearest time",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "インディアンサマー、ゴールデンゲートビュー最も晴れの時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "小阳春，金门观景最晴时",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "Fleet Week (10월)",
+        "샌프란시스코 마라톤"
+      ],
+      "en": [
+        "Fleet Week (October)",
+        "San Francisco Marathon"
+      ],
+      "ja": [
+        "Fleet Week (10月)",
+        "サンフランシスコマラソン"
+      ],
+      "zh": [
+        "舰队周（十月）",
+        "旧金山马拉松"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -990,18 +3327,61 @@
     "regionId": "san-francisco",
     "month": 11,
     "rating": 4,
-    "summary": "날씨가 좋아 여행하기 적합한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "날씨가 좋아 여행하기 적합한 시기",
+      "en": "A good time to travel when the weather is good",
+      "ja": "天気の良い旅行に適した時期",
+      "zh": "天气好，正是出游的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -1009,20 +3389,69 @@
     "regionId": "san-francisco",
     "month": 12,
     "rating": 3,
-    "summary": "비가 잦지만 여행 가능한 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 174mm로 우기에 해당",
-      "비 오는 날이 11.8일로 실내 대안 준비 권장",
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "비가 잦지만 여행 가능한 시기",
+      "en": "Although it rains often, it is still possible to travel",
+      "ja": "雨が多いが旅行可能な時期",
+      "zh": "虽然经常下雨，但还是可以出行的"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 174mm로 우기에 해당",
+        "비 오는 날이 11.8일로 실내 대안 준비 권장",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 174mm, corresponding to the rainy season",
+        "With 11.8 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "月降水量174mmで雨季に対応",
+        "雨の日が11.8日で屋内代替案を推奨",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量174毫米，对应雨季",
+        "11.8阴雨天，建议室内替代准备",
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "medium"
   },
@@ -1030,18 +3459,56 @@
     "regionId": "las-vegas",
     "month": 1,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -1049,18 +3516,56 @@
     "regionId": "las-vegas",
     "month": 2,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -1068,22 +3573,77 @@
     "regionId": "las-vegas",
     "month": 3,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "봄 사막, 쾌적한 기온과 야외 풀사이드",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "봄 사막, 쾌적한 기온과 야외 풀사이드",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Spring desert, comfortable temperature and outdoor poolside",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "春の砂漠、快適な気温と屋外のプールサイド",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "春天的沙漠，舒适的温度和室外池畔",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "March Madness 시즌",
-      "EDC (5~6월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "March Madness 시즌",
+        "EDC (5~6월)"
+      ],
+      "en": [
+        "March Madness Season",
+        "EDC (May-June)"
+      ],
+      "ja": [
+        "March Madness シーズン",
+        "EDC（5～6月）"
+      ],
+      "zh": [
+        "疯狂三月季",
+        "EDC（5 月至 6 月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -1091,23 +3651,81 @@
     "regionId": "las-vegas",
     "month": 4,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "봄 사막, 쾌적한 기온과 야외 풀사이드",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "봄 사막, 쾌적한 기온과 야외 풀사이드",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Spring desert, comfortable temperature and outdoor poolside",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "春の砂漠、快適な気温と屋外のプールサイド",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "春天的沙漠，舒适的温度和室外池畔",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "March Madness 시즌",
-      "EDC (5~6월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "March Madness 시즌",
+        "EDC (5~6월)"
+      ],
+      "en": [
+        "March Madness Season",
+        "EDC (May-June)"
+      ],
+      "ja": [
+        "March Madness シーズン",
+        "EDC（5～6月）"
+      ],
+      "zh": [
+        "疯狂三月季",
+        "EDC（5 月至 6 月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -1115,23 +3733,81 @@
     "regionId": "las-vegas",
     "month": 5,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "봄 사막, 쾌적한 기온과 야외 풀사이드",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "봄 사막, 쾌적한 기온과 야외 풀사이드",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Spring desert, comfortable temperature and outdoor poolside",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "春の砂漠、快適な気温と屋外のプールサイド",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "春天的沙漠，舒适的温度和室外池畔",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "March Madness 시즌",
-      "EDC (5~6월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "March Madness 시즌",
+        "EDC (5~6월)"
+      ],
+      "en": [
+        "March Madness Season",
+        "EDC (May-June)"
+      ],
+      "ja": [
+        "March Madness シーズン",
+        "EDC（5～6月）"
+      ],
+      "zh": [
+        "疯狂三月季",
+        "EDC（5 月至 6 月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -1139,22 +3815,77 @@
     "regionId": "las-vegas",
     "month": 6,
     "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 38°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 38°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 38°C"
+      ],
+      "ja": [
+        "平均最高気温38°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温38°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -1162,22 +3893,77 @@
     "regionId": "las-vegas",
     "month": 7,
     "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 42°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 42°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 42°C"
+      ],
+      "ja": [
+        "平均最高気温42°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温42°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -1185,22 +3971,77 @@
     "regionId": "las-vegas",
     "month": 8,
     "rating": 4,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 40°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 40°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 40°C"
+      ],
+      "ja": [
+        "平均最高気温40℃で熱に注意"
+      ],
+      "zh": [
+        "平均最高气温40°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -1208,21 +4049,73 @@
     "regionId": "las-vegas",
     "month": 9,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 36°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 36°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 36°C"
+      ],
+      "ja": [
+        "平均最高気温36°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温36°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -1230,23 +4123,81 @@
     "regionId": "las-vegas",
     "month": 10,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "가을 라스베이거스, 그랜드캐니언 투어 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "가을 라스베이거스, 그랜드캐니언 투어 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Fall Las Vegas, the best time to tour the Grand Canyon",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "秋のラスベガス、グランドキャニオンツアーの赤字",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "秋季拉斯维加斯，游览大峡谷的最佳时机",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "할로윈 이벤트",
-      "Life is Beautiful (9월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "할로윈 이벤트",
+        "Life is Beautiful (9월)"
+      ],
+      "en": [
+        "Halloween Event",
+        "Life is Beautiful (September)"
+      ],
+      "ja": [
+        "ハロウィーンイベント",
+        "Life is Beautiful (9月)"
+      ],
+      "zh": [
+        "万圣节活动",
+        "生活是美丽的（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -1254,22 +4205,77 @@
     "regionId": "las-vegas",
     "month": 11,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "가을 라스베이거스, 그랜드캐니언 투어 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "가을 라스베이거스, 그랜드캐니언 투어 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Fall Las Vegas, the best time to tour the Grand Canyon",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "秋のラスベガス、グランドキャニオンツアーの赤字",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "秋季拉斯维加斯，游览大峡谷的最佳时机",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "할로윈 이벤트",
-      "Life is Beautiful (9월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "할로윈 이벤트",
+        "Life is Beautiful (9월)"
+      ],
+      "en": [
+        "Halloween Event",
+        "Life is Beautiful (September)"
+      ],
+      "ja": [
+        "ハロウィーンイベント",
+        "Life is Beautiful (9月)"
+      ],
+      "zh": [
+        "万圣节活动",
+        "生活是美丽的（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -1277,18 +4283,56 @@
     "regionId": "las-vegas",
     "month": 12,
     "rating": 5,
-    "summary": "맑고 건조한 날씨, 여행 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "맑고 건조한 날씨, 여행 최적기",
+      "en": "Clear and dry weather, the best time to travel",
+      "ja": "澄んで乾燥した天気、旅行最適化",
+      "zh": "天气晴朗干燥，正是出游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   }

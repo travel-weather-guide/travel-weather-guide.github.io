@@ -24,7 +24,12 @@
       "countryId": "finland",
       "latitude": 60.1699,
       "longitude": 24.9384,
-      "climateType": "냉대 습윤",
+      "climateType": {
+        "ko": "냉대 습윤",
+        "en": "Humid continental",
+        "ja": "冷帯湿潤",
+        "zh": "冷带湿润"
+      },
       "monthlyData": [
         {
           "month": 1,
@@ -35,7 +40,12 @@
           "humidity": 87.1,
           "sunshineHours": 1.5,
           "seaTemp": -0.2,
-          "weatherSummary": "혹한"
+          "weatherSummary": {
+            "ko": "혹한",
+            "en": "Freezing",
+            "ja": "極寒",
+            "zh": "严寒"
+          }
         },
         {
           "month": 2,
@@ -46,7 +56,12 @@
           "humidity": 85.1,
           "sunshineHours": 3.4,
           "seaTemp": -0.2,
-          "weatherSummary": "혹한"
+          "weatherSummary": {
+            "ko": "혹한",
+            "en": "Freezing",
+            "ja": "極寒",
+            "zh": "严寒"
+          }
         },
         {
           "month": 3,
@@ -57,7 +72,12 @@
           "humidity": 83,
           "sunshineHours": 6.8,
           "seaTemp": 0.4,
-          "weatherSummary": "혹한"
+          "weatherSummary": {
+            "ko": "혹한",
+            "en": "Freezing",
+            "ja": "極寒",
+            "zh": "严寒"
+          }
         },
         {
           "month": 4,
@@ -68,7 +88,12 @@
           "humidity": 74.7,
           "sunshineHours": 10,
           "seaTemp": 3.4,
-          "weatherSummary": "추움"
+          "weatherSummary": {
+            "ko": "추움",
+            "en": "Cold",
+            "ja": "寒い",
+            "zh": "寒冷"
+          }
         },
         {
           "month": 5,
@@ -79,7 +104,12 @@
           "humidity": 68.8,
           "sunshineHours": 12.9,
           "seaTemp": 10.2,
-          "weatherSummary": "쌀쌀"
+          "weatherSummary": {
+            "ko": "쌀쌀",
+            "en": "Chilly",
+            "ja": "肌寒い",
+            "zh": "微凉"
+          }
         },
         {
           "month": 6,
@@ -90,7 +120,12 @@
           "humidity": 69.6,
           "sunshineHours": 15.6,
           "seaTemp": 16.9,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 7,
@@ -101,7 +136,12 @@
           "humidity": 75.2,
           "sunshineHours": 13.8,
           "seaTemp": 18.5,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 8,
@@ -112,7 +152,12 @@
           "humidity": 79.5,
           "sunshineHours": 11.1,
           "seaTemp": 19.5,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 9,
@@ -123,7 +168,12 @@
           "humidity": 80.3,
           "sunshineHours": 8.6,
           "seaTemp": 17.6,
-          "weatherSummary": "쌀쌀"
+          "weatherSummary": {
+            "ko": "쌀쌀",
+            "en": "Chilly",
+            "ja": "肌寒い",
+            "zh": "微凉"
+          }
         },
         {
           "month": 10,
@@ -134,7 +184,12 @@
           "humidity": 83.8,
           "sunshineHours": 5.1,
           "seaTemp": 10.7,
-          "weatherSummary": "쌀쌀"
+          "weatherSummary": {
+            "ko": "쌀쌀",
+            "en": "Chilly",
+            "ja": "肌寒い",
+            "zh": "微凉"
+          }
         },
         {
           "month": 11,
@@ -145,7 +200,12 @@
           "humidity": 86.8,
           "sunshineHours": 2,
           "seaTemp": 5.2,
-          "weatherSummary": "추움"
+          "weatherSummary": {
+            "ko": "추움",
+            "en": "Cold",
+            "ja": "寒い",
+            "zh": "寒冷"
+          }
         },
         {
           "month": 12,
@@ -156,7 +216,12 @@
           "humidity": 86.5,
           "sunshineHours": 1.1,
           "seaTemp": 1.2,
-          "weatherSummary": "혹한"
+          "weatherSummary": {
+            "ko": "혹한",
+            "en": "Freezing",
+            "ja": "極寒",
+            "zh": "严寒"
+          }
         }
       ]
     }

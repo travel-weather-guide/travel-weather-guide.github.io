@@ -4,169 +4,309 @@
     {
       "regionId": "amalfi",
       "category": "beach",
-      "reason": "극심한 혼잡, 예약 없이는 못 가는 시기",
+      "reason": {
+        "ko": "극심한 혼잡, 예약 없이는 못 가는 시기",
+        "en": "Extremely crowded, times when you can't go without a reservation",
+        "ja": "激しい混雑、予約なしでは行けない時期",
+        "zh": "人潮拥挤，不预约就不能去"
+      },
       "rating": 5
     },
     {
       "regionId": "antalya",
       "category": "beach",
-      "reason": "비치 피크 시즌, 수온 27°C의 뜨거운 여름",
+      "reason": {
+        "ko": "비치 피크 시즌, 수온 27°C의 뜨거운 여름",
+        "en": "Peak beach season, hot summer with water temperature of 27°C",
+        "ja": "ビーチピークシーズン、水温27℃の暑い夏",
+        "zh": "海滩旺季，炎热夏季，水温27°C"
+      },
       "rating": 5
     },
     {
       "regionId": "athens",
       "category": "culture",
-      "reason": "38°C+ 극심한 폭염, 아크로폴리스 정오 폐쇄",
+      "reason": {
+        "ko": "38°C+ 극심한 폭염, 아크로폴리스 정오 폐쇄",
+        "en": "38°C+ extreme heat wave, Acropolis closed at noon",
+        "ja": "38°C+極端な爆炎、アクロポリス正午閉鎖",
+        "zh": "38°C+极端热浪，雅典卫城中午关闭"
+      },
       "rating": 5
     },
     {
       "regionId": "barcelona",
       "category": "city",
-      "reason": "비치 피크 시즌, 바르셀로네타 해변 만석",
+      "reason": {
+        "ko": "비치 피크 시즌, 바르셀로네타 해변 만석",
+        "en": "Peak beach season, Barceloneta beach full",
+        "ja": "ビーチピークシーズン、バルセロネータビーチ満席",
+        "zh": "海滩旺季，巴塞罗那海滩爆满"
+      },
       "rating": 5
     },
     {
       "regionId": "budapest",
       "category": "culture",
-      "reason": "여름 성수기, 시게트 페스티벌(8월) 대비",
+      "reason": {
+        "ko": "여름 성수기, 시게트 페스티벌(8월) 대비",
+        "en": "Preparing for summer peak season, Sziget Festival (August)",
+        "ja": "夏のハイシーズン、シーゲットフェスティバル（8月）に備えて",
+        "zh": "为夏季旺季做好准备，Sziget 节（八月）"
+      },
       "rating": 5
     },
     {
       "regionId": "cairo",
       "category": "culture",
-      "reason": "극한 더위, 유럽인 관광객 감소로 한산",
+      "reason": {
+        "ko": "극한 더위, 유럽인 관광객 감소로 한산",
+        "en": "Due to extreme heat and a decrease in European tourists",
+        "ja": "極端な暑さ、ヨーロッパ人観光客の減少で韓山",
+        "zh": "由于极度炎热和欧洲游客减少"
+      },
       "rating": 5
     },
     {
       "regionId": "cappadocia",
       "category": "adventure",
-      "reason": "40°C 폭염, 열기구 조건 악화",
+      "reason": {
+        "ko": "40°C 폭염, 열기구 조건 악화",
+        "en": "40°C heat wave worsens hot air balloon conditions",
+        "ja": "40°C爆炎、熱気球条件の悪化",
+        "zh": "40°C热浪使热气球条件恶化"
+      },
       "rating": 5
     },
     {
       "regionId": "dubrovnik",
       "category": "culture",
-      "reason": "왕좌의게임 성지 순례, 폭염과 극심한 인파",
+      "reason": {
+        "ko": "왕좌의게임 성지 순례, 폭염과 극심한 인파",
+        "en": "Game of Thrones pilgrimage, heat wave and extreme crowds",
+        "ja": "王座のゲーム聖地巡礼、猛暑と激しい人派",
+        "zh": "权力的游戏朝圣、热浪和极端人群"
+      },
       "rating": 5
     },
     {
       "regionId": "florence",
       "category": "culture",
-      "reason": "여름 성수기, 35°C 이상 더위 주의",
+      "reason": {
+        "ko": "여름 성수기, 35°C 이상 더위 주의",
+        "en": "Summer peak season, beware of heat above 35°C",
+        "ja": "夏のピークシーズン、35℃以上の暑さに注意",
+        "zh": "夏季旺季，谨防35℃以上高温"
+      },
       "rating": 5
     },
     {
       "regionId": "granada",
       "category": "culture",
-      "reason": "40°C 폭염, 오전 관광·오후 시에스타",
+      "reason": {
+        "ko": "40°C 폭염, 오전 관광·오후 시에스타",
+        "en": "40°C heat wave, morning sightseeing and afternoon siesta",
+        "ja": "40°C爆炎、午前観光・午後シエスタ",
+        "zh": "40℃热浪，早上观光下午午睡"
+      },
       "rating": 5
     },
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": "여름 피크 시즌, 가족 관광객 많은 시기",
+      "reason": {
+        "ko": "여름 피크 시즌, 가족 관광객 많은 시기",
+        "en": "Peak summer season, a time when there are many family tourists",
+        "ja": "夏のピークシーズン、家族観光客の多くの時期",
+        "zh": "夏季旺季，家庭游客众多"
+      },
       "rating": 5
     },
     {
       "regionId": "istanbul",
       "category": "culture",
-      "reason": "여름 더위, 그랜드바자르와 실내 관광",
+      "reason": {
+        "ko": "여름 더위, 그랜드바자르와 실내 관광",
+        "en": "Summer heat, Grand Bazaar and indoor tourism",
+        "ja": "夏の暑さ、グランドバザールと屋内観光",
+        "zh": "夏日酷暑，大巴扎与室内旅游"
+      },
       "rating": 5
     },
     {
       "regionId": "lisbon",
       "category": "city",
-      "reason": "여름 성수기, 더위지만 해안 바람으로 버틸 만",
+      "reason": {
+        "ko": "여름 성수기, 더위지만 해안 바람으로 버틸 만",
+        "en": "Summer peak season, hot but bearable due to coastal breeze",
+        "ja": "夏のハイシーズン、暑いが海岸の風に耐えるだけ",
+        "zh": "夏季旺季，炎热但沿海微风尚可"
+      },
       "rating": 5
     },
     {
       "regionId": "los-angeles",
       "category": "city",
-      "reason": "여름 해변 시즌, 산타모니카·베니스 비치",
+      "reason": {
+        "ko": "여름 해변 시즌, 산타모니카·베니스 비치",
+        "en": "Summer beach season, Santa Monica·Venice Beach",
+        "ja": "夏のビーチシーズン、サンタモニカ・ベニスビーチ",
+        "zh": "夏季海滩季节，圣莫尼卡·威尼斯海滩"
+      },
       "rating": 5
     },
     {
       "regionId": "luxor",
       "category": "culture",
-      "reason": "폭염 절정, 외국 관광객 거의 없는 시기",
+      "reason": {
+        "ko": "폭염 절정, 외국 관광객 거의 없는 시기",
+        "en": "The peak of the heat wave, a time when there are almost no foreign tourists",
+        "ja": "猛烈なピーク、外国人観光客がほとんどいない時期",
+        "zh": "热浪最高峰，几乎没有外国游客的时候"
+      },
       "rating": 5
     },
     {
       "regionId": "madrid",
       "category": "city",
-      "reason": "40°C 넘는 극심한 폭염, 낮에는 야외 불가",
+      "reason": {
+        "ko": "40°C 넘는 극심한 폭염, 낮에는 야외 불가",
+        "en": "Extreme heat wave exceeding 40°C, no outdoor activities allowed during the day",
+        "ja": "40°Cを超える極度の爆発、日中は屋外不可",
+        "zh": "极端热浪超过40℃，白天禁止户外活动"
+      },
       "rating": 5
     },
     {
       "regionId": "marrakech",
       "category": "culture",
-      "reason": "40°C 극한 더위, 실내 전통 궁전 관람 위주",
+      "reason": {
+        "ko": "40°C 극한 더위, 실내 전통 궁전 관람 위주",
+        "en": "Extreme heat of 40°C, focusing on indoor traditional palace viewing",
+        "ja": "40°C極端な暑さ、屋内の伝統的な宮殿の観覧中心",
+        "zh": "40℃酷暑，专注室内传统宫廷观赏"
+      },
       "rating": 5
     },
     {
       "regionId": "marseille",
       "category": "city",
-      "reason": "여름 성수기, 재즈 페스티벌과 해변 만석",
+      "reason": {
+        "ko": "여름 성수기, 재즈 페스티벌과 해변 만석",
+        "en": "Summer peak season, jazz festivals and beaches full",
+        "ja": "夏のハイシーズン、ジャズフェスティバル、ビーチ満席",
+        "zh": "夏季旺季，爵士音乐节和海滩爆满"
+      },
       "rating": 5
     },
     {
       "regionId": "mykonos",
       "category": "beach",
-      "reason": "파티 피크, 비치클럽 만석",
+      "reason": {
+        "ko": "파티 피크, 비치클럽 만석",
+        "en": "Party peak, beach club full",
+        "ja": "パーティーピーク、ビーチクラブ満席",
+        "zh": "派对巅峰，海滩俱乐部爆满"
+      },
       "rating": 5
     },
     {
       "regionId": "nice",
       "category": "beach",
-      "reason": "여름 성수기, 코트다쥐르 해변 만석",
+      "reason": {
+        "ko": "여름 성수기, 코트다쥐르 해변 만석",
+        "en": "Summer peak season, Cote d'Azur beaches full",
+        "ja": "夏のハイシーズン、コートダジュールビーチ満席",
+        "zh": "夏季旺季，蔚蓝海岸海滩爆满"
+      },
       "rating": 5
     },
     {
       "regionId": "porto",
       "category": "culture",
-      "reason": "여름 성수기, 포트와인 셀러 투어",
+      "reason": {
+        "ko": "여름 성수기, 포트와인 셀러 투어",
+        "en": "Summer peak season, port wine cellar tour",
+        "ja": "夏のハイシーズン、ポートワインセラーツアー",
+        "zh": "夏日旺季，波特酒窖之旅"
+      },
       "rating": 5
     },
     {
       "regionId": "rome",
       "category": "culture",
-      "reason": "35°C 이상 더위, 혼잡하지만 관광은 가능",
+      "reason": {
+        "ko": "35°C 이상 더위, 혼잡하지만 관광은 가능",
+        "en": "Heat above 35°C, crowded but sightseeing is possible",
+        "ja": "35℃以上の暑さ、混雑しているが観光は可能",
+        "zh": "35℃以上高温，人多但可观光"
+      },
       "rating": 5
     },
     {
       "regionId": "santorini",
       "category": "beach",
-      "reason": "성수기, 오이아 석양 명소 극심한 인파",
+      "reason": {
+        "ko": "성수기, 오이아 석양 명소 극심한 인파",
+        "en": "High season, extreme crowds at sunset spots in Oia",
+        "ja": "ハイシーズン、オイアの夕日の観光スポット極度の人類",
+        "zh": "旺季，伊亚日落景点人潮汹涌"
+      },
       "rating": 5
     },
     {
       "regionId": "seville",
       "category": "culture",
-      "reason": "45°C까지 오르는 유럽 최악의 폭염",
+      "reason": {
+        "ko": "45°C까지 오르는 유럽 최악의 폭염",
+        "en": "Europe's worst heat wave reaching up to 45°C",
+        "ja": "45℃に上がるヨーロッパの最悪の炎",
+        "zh": "欧洲最严重热浪高达45°C"
+      },
       "rating": 5
     },
     {
       "regionId": "split",
       "category": "beach",
-      "reason": "피크 시즌, 브라체 섬·흐바르 섬 페리 붐빔",
+      "reason": {
+        "ko": "피크 시즌, 브라체 섬·흐바르 섬 페리 붐빔",
+        "en": "Peak season, ferries to Brace Island and Hvar Island are crowded",
+        "ja": "ピークシーズン、ブラチ島・フヴァル島フェリー大混雑",
+        "zh": "旺季，前往布雷斯岛和赫瓦尔岛的渡轮拥挤"
+      },
       "rating": 5
     },
     {
       "regionId": "vancouver",
       "category": "city",
-      "reason": "캐나다 데이, 맑고 쾌적한 여름 피크",
+      "reason": {
+        "ko": "캐나다 데이, 맑고 쾌적한 여름 피크",
+        "en": "Canada Day, peak of sunny and pleasant summer",
+        "ja": "カナダの日、澄んで快適な夏のピーク",
+        "zh": "加拿大国庆日，阳光明媚、宜人的夏日高峰"
+      },
       "rating": 5
     },
     {
       "regionId": "venice",
       "category": "culture",
-      "reason": "여름 더위, 운하 냄새와 관광객 혼잡",
+      "reason": {
+        "ko": "여름 더위, 운하 냄새와 관광객 혼잡",
+        "en": "Summer heat, canal smells and tourist crowds",
+        "ja": "夏の暑さ、運河の匂いと観光客の混雑",
+        "zh": "夏季炎热、运河气味和游客人群"
+      },
       "rating": 5
     },
     {
       "regionId": "vienna",
       "category": "culture",
-      "reason": "여름 성수기, 빈 필하모닉 잘츠부르크 페스티벌",
+      "reason": {
+        "ko": "여름 성수기, 빈 필하모닉 잘츠부르크 페스티벌",
+        "en": "Peak summer season, Vienna Philharmonic Salzburg Festival",
+        "ja": "夏のハイシーズン、空のフィルハーモニーザルツブルクフェスティバル",
+        "zh": "夏季高峰期，维也纳爱乐萨尔茨堡音乐节"
+      },
       "rating": 5
     }
   ],
@@ -174,238 +314,518 @@
     {
       "regionId": "abu-dhabi",
       "category": "culture",
-      "reason": "극한의 더위, 쇼핑몰과 워터파크 시즌",
+      "reason": {
+        "ko": "극한의 더위, 쇼핑몰과 워터파크 시즌",
+        "en": "Extreme heat, shopping mall and water park season",
+        "ja": "極限の暑さ、ショッピングモール、ウォーターパークシーズン",
+        "zh": "酷暑、购物中心和水上乐园季节"
+      },
       "rating": 4
     },
     {
       "regionId": "berlin",
       "category": "city",
-      "reason": "크리스토퍼 스트리트 데이(CSD), 야외 파티 시즌",
+      "reason": {
+        "ko": "크리스토퍼 스트리트 데이(CSD), 야외 파티 시즌",
+        "en": "Christopher Street Day (CSD), outdoor party season",
+        "ja": "クリストファーストリートデー（CSD）、アウトドアパーティーシーズン",
+        "zh": "克里斯托弗街日 (CSD)，户外派对季节"
+      },
       "rating": 4
     },
     {
       "regionId": "hokkaido",
       "category": "adventure",
-      "reason": "라벤더 만개, 25°C의 시원한 여름 피서지",
+      "reason": {
+        "ko": "라벤더 만개, 25°C의 시원한 여름 피서지",
+        "en": "Lavender in full bloom, a cool summer resort at 25°C",
+        "ja": "ラベンダー満開、25℃の涼しい避暑地",
+        "zh": "盛开的薰衣草，25℃的清凉避暑胜地"
+      },
       "rating": 4
     },
     {
       "regionId": "lombok",
       "category": "beach",
-      "reason": "건기, 서핑과 스노클링 최적 컨디션",
+      "reason": {
+        "ko": "건기, 서핑과 스노클링 최적 컨디션",
+        "en": "Dry season, optimal conditions for surfing and snorkeling",
+        "ja": "乾季、サーフィン、シュノーケリング最適体調",
+        "zh": "旱季，冲浪和浮潜的最佳条件"
+      },
       "rating": 4
     },
     {
       "regionId": "munich",
       "category": "culture",
-      "reason": "뮌헨 여름, 근교 알프스 하이킹 시즌",
+      "reason": {
+        "ko": "뮌헨 여름, 근교 알프스 하이킹 시즌",
+        "en": "Summer in Munich, hiking season in the nearby Alps",
+        "ja": "ミュンヘン夏、近郊アルプスハイキングシーズン",
+        "zh": "慕尼黑的夏天，附近阿尔卑斯山的徒步季节"
+      },
       "rating": 4
     }
   ],
   "avoidList": [
     {
       "regionId": "auckland",
-      "reason": "겨울 한가운데, 고래 관찰 시즌 시작"
+      "reason": {
+        "ko": "겨울 한가운데, 고래 관찰 시즌 시작",
+        "en": "In the middle of winter, whale watching season begins",
+        "ja": "冬の真ん中、クジラ観察シーズン開始",
+        "zh": "隆冬，赏鲸季节开始"
+      }
     },
     {
       "regionId": "bali",
-      "reason": "건기, 성수기라 관광객 많지만 날씨 최고"
+      "reason": {
+        "ko": "건기, 성수기라 관광객 많지만 날씨 최고",
+        "en": "It is the dry season and peak season, so there are a lot of tourists, but the weather is great",
+        "ja": "乾期、繁忙期の観光客が多いが天候最高",
+        "zh": "现在是旱季和旺季，所以游客很多，但是天气很好"
+      }
     },
     {
       "regionId": "bangkok",
-      "reason": "우기 지속, 도로 침수가 빈번한 시기"
+      "reason": {
+        "ko": "우기 지속, 도로 침수가 빈번한 시기",
+        "en": "Rainy season continues, frequent road flooding",
+        "ja": "雨期の継続、道路の浸水が頻繁な時期",
+        "zh": "雨季持续，道路水浸频繁"
+      }
     },
     {
       "regionId": "boracay",
-      "reason": "우기, 파도 높고 투어 취소 빈번"
+      "reason": {
+        "ko": "우기, 파도 높고 투어 취소 빈번",
+        "en": "Rainy season, high waves and frequent tour cancellations",
+        "ja": "雨季、波高、ツアーキャンセル頻繁",
+        "zh": "雨季，海浪大，旅游频繁取消"
+      }
     },
     {
       "regionId": "cebu",
-      "reason": "우기 지속, 태풍 영향 가능"
+      "reason": {
+        "ko": "우기 지속, 태풍 영향 가능",
+        "en": "Rainy season continues, typhoon effects possible",
+        "ja": "雨季の継続、台風の影響可能",
+        "zh": "雨季持续，可能受台风影响"
+      }
     },
     {
       "regionId": "chengdu",
-      "reason": "무더위, 칭청산 피서와 찻집 문화 체험"
+      "reason": {
+        "ko": "무더위, 칭청산 피서와 찻집 문화 체험",
+        "en": "Summer heat, Qingcheng Mountain escape and teahouse culture experience",
+        "ja": "暑さ、青清山のフィサーと茶屋の文化体験",
+        "zh": "夏日消暑，青城山避世与茶馆文化体验"
+      }
     },
     {
       "regionId": "chiang-mai",
-      "reason": "우기 지속, 짧은 오후 소나기 후 맑은 하늘"
+      "reason": {
+        "ko": "우기 지속, 짧은 오후 소나기 후 맑은 하늘",
+        "en": "Rainy season continues, clear skies after brief afternoon showers",
+        "ja": "雨期の持続、短い午後のシャワー後の澄んだ空",
+        "zh": "雨季仍在继续，下午短暂阵雨后天空晴朗"
+      }
     },
     {
       "regionId": "colombo",
-      "reason": "우기 지속, 스리랑카 페라헤라 축제 (캔디, 7~8월)"
+      "reason": {
+        "ko": "우기 지속, 스리랑카 페라헤라 축제 (캔디, 7~8월)",
+        "en": "Rainy season continues, Sri Lanka Perahera Festival (Kandy, July-August)",
+        "ja": "ウギ持続、スリランカフェラヘラ祭り（キャンディ、7〜8月）",
+        "zh": "雨季继续，斯里兰卡 Perahera 节（康提，7 月至 8 月）"
+      }
     },
     {
       "regionId": "fukuoka",
-      "reason": "야마카사 축제 — 박력 넘치는 가마 질주 구경"
+      "reason": {
+        "ko": "야마카사 축제 — 박력 넘치는 가마 질주 구경",
+        "en": "Yamakasa Festival — Watch the powerful parade of palanquins",
+        "ja": "山笠まつり - 迫力あふれる窯疾走口径",
+        "zh": "山笠祭 — 观看神轿游行"
+      }
     },
     {
       "regionId": "guam",
-      "reason": "태풍 시즌과 우기 겹침, 일정 변동 주의"
+      "reason": {
+        "ko": "태풍 시즌과 우기 겹침, 일정 변동 주의",
+        "en": "Typhoon season and rainy season overlap, so be careful of schedule changes",
+        "ja": "台風シーズンと雨季の重なり、一定の変動注意",
+        "zh": "台风季与雨季重叠，注意行程变动"
+      }
     },
     {
       "regionId": "guilin",
-      "reason": "우기 성수기, 더운 여름이지만 경치는 절경"
+      "reason": {
+        "ko": "우기 성수기, 더운 여름이지만 경치는 절경",
+        "en": "Although it is the peak rainy season and hot summer, the scenery is spectacular",
+        "ja": "雨期ハイシーズン、暑い夏ですが景色は絶景",
+        "zh": "虽然正值雨季炎热夏季，但景色却很壮观"
+      }
     },
     {
       "regionId": "hangzhou",
-      "reason": "폭염 시작, 서호 연꽃이 만개하는 시기"
+      "reason": {
+        "ko": "폭염 시작, 서호 연꽃이 만개하는 시기",
+        "en": "The heat wave begins, the time when West Lake lotus flowers are in full bloom",
+        "ja": "炎の始まり、西湖蓮の花が満開の時期",
+        "zh": "热浪袭来，西湖荷花盛开时节"
+      }
     },
     {
       "regionId": "hanoi",
-      "reason": "우기 절정, 폭우와 폭염이 동시에"
+      "reason": {
+        "ko": "우기 절정, 폭우와 폭염이 동시에",
+        "en": "The peak of the rainy season, heavy rain and heat waves at the same time",
+        "ja": "雨季のピーク、大雨と猛暑が同時に",
+        "zh": "雨季高峰，暴雨与热浪同时出现"
+      }
     },
     {
       "regionId": "hiroshima",
-      "reason": "여름 더위, 세토내해 섬 투어 시즌"
+      "reason": {
+        "ko": "여름 더위, 세토내해 섬 투어 시즌",
+        "en": "Summer heat, Seto Inland Sea island tour season",
+        "ja": "夏の暑さ、瀬戸内海島ツアーシーズン",
+        "zh": "夏日炎炎，濑户内海海岛旅游季节"
+      }
     },
     {
       "regionId": "ho-chi-minh",
-      "reason": "우기 지속, 높은 습도"
+      "reason": {
+        "ko": "우기 지속, 높은 습도",
+        "en": "Rainy season continues, high humidity",
+        "ja": "雨期継続、高湿度",
+        "zh": "雨季持续，湿度高"
+      }
     },
     {
       "regionId": "hong-kong",
-      "reason": "태풍 빈발, 폭염과 폭우의 복합 위협"
+      "reason": {
+        "ko": "태풍 빈발, 폭염과 폭우의 복합 위협",
+        "en": "Frequent typhoons, combined threat of heat waves and heavy rain",
+        "ja": "台風の頻発、爆炎と大雨の複合脅威",
+        "zh": "台风频繁，热浪和暴雨双重威胁"
+      }
     },
     {
       "regionId": "kaohsiung",
-      "reason": "태풍+우기, 극심한 더위"
+      "reason": {
+        "ko": "태풍+우기, 극심한 더위",
+        "en": "Typhoon + rainy season, extreme heat",
+        "ja": "台風+雨、激しい暑さ",
+        "zh": "台风+雨季，酷暑"
+      }
     },
     {
       "regionId": "kobe",
-      "reason": "여름 고베 항구 축제, 해상 불꽃놀이"
+      "reason": {
+        "ko": "여름 고베 항구 축제, 해상 불꽃놀이",
+        "en": "Summer Kobe Port Festival, maritime fireworks",
+        "ja": "夏神戸港まつり、海上花火大会",
+        "zh": "夏季神户港祭、海上烟花"
+      }
     },
     {
       "regionId": "kota-kinabalu",
-      "reason": "우기 중, 키나발루산 운무 장관"
+      "reason": {
+        "ko": "우기 중, 키나발루산 운무 장관",
+        "en": "During the rainy season, Mount Kinabalu Cloud Minister",
+        "ja": "雨期中、キナバルサン運賃大臣",
+        "zh": "雨季期间，神山云部长"
+      }
     },
     {
       "regionId": "krabi",
-      "reason": "우기 절정, 서퍼들의 시즌으로 전환"
+      "reason": {
+        "ko": "우기 절정, 서퍼들의 시즌으로 전환",
+        "en": "Peak of the rainy season, turning into surfer's season",
+        "ja": "雨季のピーク、サーファーのシーズンに切り替える",
+        "zh": "雨季高峰，冲浪季节"
+      }
     },
     {
       "regionId": "kuala-lumpur",
-      "reason": "우기 중, 실내 쇼핑몰 투어로 대응"
+      "reason": {
+        "ko": "우기 중, 실내 쇼핑몰 투어로 대응",
+        "en": "During the rainy season, we respond with an indoor shopping mall tour",
+        "ja": "雨期中、屋内ショッピングモールツアーで対応",
+        "zh": "雨季期间，我们以室内商场之旅应对"
+      }
     },
     {
       "regionId": "kyoto",
-      "reason": "기온 마츠리 월간 축제, 무더위와 함께하는 여름 교토"
+      "reason": {
+        "ko": "기온 마츠리 월간 축제, 무더위와 함께하는 여름 교토",
+        "en": "Gion Matsuri Monthly Festival, summer Kyoto with the sweltering heat",
+        "ja": "祇園祭月間祭り、暑さと一緒に夏の京都",
+        "zh": "祗园祭每月一次的祭典，炎热的夏季京都"
+      }
     },
     {
       "regionId": "langkawi",
-      "reason": "우기 절정, 해양 활동 제한"
+      "reason": {
+        "ko": "우기 절정, 해양 활동 제한",
+        "en": "Peak of rainy season, marine activities restricted",
+        "ja": "雨期のピーク、海洋活動の制限",
+        "zh": "雨季高峰，海上活动受限"
+      }
     },
     {
       "regionId": "luang-prabang",
-      "reason": "우기 지속, 메콩강 수위 오르는 시기"
+      "reason": {
+        "ko": "우기 지속, 메콩강 수위 오르는 시기",
+        "en": "Rainy season continues, Mekong River water level rises",
+        "ja": "雨期継続、メコン川の水位上昇時期",
+        "zh": "雨季持续，湄公河水位上涨"
+      }
     },
     {
       "regionId": "macau",
-      "reason": "태풍 시즌, 고온다습하고 비 잦음"
+      "reason": {
+        "ko": "태풍 시즌, 고온다습하고 비 잦음",
+        "en": "Typhoon season, high temperature and humidity and frequent rain",
+        "ja": "台風シーズン、高温多湿と雨の頻度",
+        "zh": "台风季节，高温高湿多雨"
+      }
     },
     {
       "regionId": "male",
-      "reason": "우기, 파도 거칠고 시야 낮아지는 시기"
+      "reason": {
+        "ko": "우기, 파도 거칠고 시야 낮아지는 시기",
+        "en": "Rainy season, when the waves are rough and visibility is low",
+        "ja": "雨季、波が荒く、視界が低くなる時期",
+        "zh": "雨季，海浪汹涌，能见度低"
+      }
     },
     {
       "regionId": "manila",
-      "reason": "태풍 시즌, 극심한 폭우와 홍수"
+      "reason": {
+        "ko": "태풍 시즌, 극심한 폭우와 홍수",
+        "en": "Typhoon season, extreme rain and flooding",
+        "ja": "台風シーズン、激しい大雨と洪水",
+        "zh": "台风季节，暴雨和洪水"
+      }
     },
     {
       "regionId": "melbourne",
-      "reason": "겨울 한가운데, 춥지만 겨울 나이트마켓"
+      "reason": {
+        "ko": "겨울 한가운데, 춥지만 겨울 나이트마켓",
+        "en": "In the middle of winter, it’s cold, but it’s a winter night market",
+        "ja": "冬の真ん中、寒いが冬のナイトマーケット",
+        "zh": "隆冬，天冷，却是冬天的夜市"
+      }
     },
     {
       "regionId": "mumbai",
-      "reason": "몬순 절정, 도시 곳곳 침수 — 여행 비추"
+      "reason": {
+        "ko": "몬순 절정, 도시 곳곳 침수 — 여행 비추",
+        "en": "At the peak of monsoon, many parts of the city are flooded — travel advice",
+        "ja": "モンスーンの頂上、都市のあちこちに浸水 — 旅行の照り出し",
+        "zh": "在季风高峰期，城市许多地方都被洪水淹没——旅行建议"
+      }
     },
     {
       "regionId": "nagasaki",
-      "reason": "여름 더위, 하우스텐보스 여름 축제"
+      "reason": {
+        "ko": "여름 더위, 하우스텐보스 여름 축제",
+        "en": "Summer heat, Huis Ten Bosch summer festival",
+        "ja": "夏の暑さ、ハウステンボス夏祭り",
+        "zh": "夏日炎炎，Huis Ten Bosch夏日祭"
+      }
     },
     {
       "regionId": "nagoya",
-      "reason": "무더위와 높은 습도, 나고야 마쓰리 시즌"
+      "reason": {
+        "ko": "무더위와 높은 습도, 나고야 마쓰리 시즌",
+        "en": "Sweltering heat and high humidity, Nagoya Matsuri season",
+        "ja": "暑さと高湿度、名古屋祭りシーズン",
+        "zh": "酷暑高湿，名古屋祭季"
+      }
     },
     {
       "regionId": "nara",
-      "reason": "무더위, 나라 등화회(만등제) 환상적인 밤"
+      "reason": {
+        "ko": "무더위, 나라 등화회(만등제) 환상적인 밤",
+        "en": "In the scorching heat, a fantastic night at the Nara Lantern Festival",
+        "ja": "暑さ、国等化会（万灯制）幻想的な夜",
+        "zh": "炎炎夏日，奈良元宵节的美妙之夜"
+      }
     },
     {
       "regionId": "new-delhi",
-      "reason": "몬순 우기, 도시 침수 주의"
+      "reason": {
+        "ko": "몬순 우기, 도시 침수 주의",
+        "en": "Monsoon rainy season, beware of urban flooding",
+        "ja": "モンスーン雨期、都市浸水注意",
+        "zh": "季风雨季，谨防城市内涝"
+      }
     },
     {
       "regionId": "okinawa",
-      "reason": "태풍 시즌 시작, 항공편 결항 가능성 높음"
+      "reason": {
+        "ko": "태풍 시즌 시작, 항공편 결항 가능성 높음",
+        "en": "Typhoon season begins, flight cancellations highly likely",
+        "ja": "台風シーズン開始、フライト欠航の可能性が高い",
+        "zh": "台风季节开始，航班取消的可能性很大"
+      }
     },
     {
       "regionId": "osaka",
-      "reason": "35°C 이상 폭염, 무더위가 기승을 부리는 시기"
+      "reason": {
+        "ko": "35°C 이상 폭염, 무더위가 기승을 부리는 시기",
+        "en": "A heatwave over 35°C, a period of extreme heat",
+        "ja": "35°C以上の猛暑、暑さが寄勝する時期",
+        "zh": "超过35℃的热浪，酷暑时期"
+      }
     },
     {
       "regionId": "palawan",
-      "reason": "우기, 아일랜드 호핑 투어 어려움"
+      "reason": {
+        "ko": "우기, 아일랜드 호핑 투어 어려움",
+        "en": "Rainy season, island hopping tour difficult",
+        "ja": "ウギ、アイルランドホッピングツアーの難しさ",
+        "zh": "雨季，跳岛游艰难"
+      }
     },
     {
       "regionId": "pattaya",
-      "reason": "우기 지속, 리조트 풀빌라 중심 여행"
+      "reason": {
+        "ko": "우기 지속, 리조트 풀빌라 중심 여행",
+        "en": "Rainy season continues, travel focused on resort pool villas",
+        "ja": "ウギ持続、リゾートプールヴィラ中心部旅行",
+        "zh": "雨季持续，出行重点关注度假村泳池别墅"
+      }
     },
     {
       "regionId": "penang",
-      "reason": "우기 시작, 오후 스콜 잦은 시기"
+      "reason": {
+        "ko": "우기 시작, 오후 스콜 잦은 시기",
+        "en": "Beginning of the rainy season, frequent afternoon squalls",
+        "ja": "雨季の始まり、午後のスコール頻度",
+        "zh": "雨季开始，午后狂风频繁"
+      }
     },
     {
       "regionId": "phnom-penh",
-      "reason": "우기, 습도와 더위의 이중고"
+      "reason": {
+        "ko": "우기, 습도와 더위의 이중고",
+        "en": "Rainy season, double whammy of humidity and heat",
+        "ja": "雨期、湿度、暑さの二重高さ",
+        "zh": "雨季，湿热双重打击"
+      }
     },
     {
       "regionId": "phuket",
-      "reason": "우기, 비와 거친 파도가 지속되는 시기"
+      "reason": {
+        "ko": "우기, 비와 거친 파도가 지속되는 시기",
+        "en": "Rainy season, a period of continuous rain and rough waves",
+        "ja": "雨季、雨、荒波が続く時期",
+        "zh": "雨季，一段持续阴雨、惊涛骇浪的时期"
+      }
     },
     {
       "regionId": "qingdao",
-      "reason": "맥주 축제 전야, 해변 성수기 절정"
+      "reason": {
+        "ko": "맥주 축제 전야, 해변 성수기 절정",
+        "en": "The eve of the beer festival, peak beach season",
+        "ja": "ビールフェスティバルの夜、ビーチピークシーズン",
+        "zh": "啤酒节前夕，海滩旺季"
+      }
     },
     {
       "regionId": "queenstown",
-      "reason": "스키 절정, 남반구 최고의 스키 리조트"
+      "reason": {
+        "ko": "스키 절정, 남반구 최고의 스키 리조트",
+        "en": "Ski peak, the best ski resort in the Southern Hemisphere",
+        "ja": "スキー絶頂、南半球で最高のスキーリゾート",
+        "zh": "滑雪峰，南半球最好的滑雪胜地"
+      }
     },
     {
       "regionId": "reykjavik",
-      "reason": "백야 절정, 가장 따뜻하고(12°C) 활동적 시기"
+      "reason": {
+        "ko": "백야 절정, 가장 따뜻하고(12°C) 활동적 시기",
+        "en": "Midnight Sun peak, warmest (12°C) and most active period",
+        "ja": "白夜のピーク、最も暖かい（12°C）活動的な時期",
+        "zh": "午夜太阳高峰、最热 (12°C) 和最活跃的时期"
+      }
     },
     {
       "regionId": "shanghai",
-      "reason": "폭염과 장마, 태풍 영향 가능성"
+      "reason": {
+        "ko": "폭염과 장마, 태풍 영향 가능성",
+        "en": "Possible effects of heat waves, rainy season, and typhoons",
+        "ja": "猛暑と梅雨、台風の影響の可能性",
+        "zh": "热浪、雨季和台风的可能影响"
+      }
     },
     {
       "regionId": "shenzhen",
-      "reason": "태풍 시즌, 고온다습한 여름"
+      "reason": {
+        "ko": "태풍 시즌, 고온다습한 여름",
+        "en": "Typhoon season, hot and humid summer",
+        "ja": "台風シーズン、高温多湿の夏",
+        "zh": "台风季节，夏季炎热潮湿"
+      }
     },
     {
       "regionId": "siem-reap",
-      "reason": "우기, 비 사이 앙코르 반영 사진 명소"
+      "reason": {
+        "ko": "우기, 비 사이 앙코르 반영 사진 명소",
+        "en": "Angkor reflection photo spot between rainy season and rain",
+        "ja": "ウギ、ビサイアンコール反映写真スポット",
+        "zh": "雨季雨天吴哥倒影拍照点"
+      }
     },
     {
       "regionId": "singapore",
-      "reason": "세일 시즌(GSS), 쇼핑하기 좋은 시기"
+      "reason": {
+        "ko": "세일 시즌(GSS), 쇼핑하기 좋은 시기",
+        "en": "Sale Season (GSS), a great time to shop",
+        "ja": "セールシーズン（GSS）、買い物に良い時期",
+        "zh": "促销季（GSS），购物的好时机"
+      }
     },
     {
       "regionId": "taipei",
-      "reason": "태풍 시즌과 극심한 고온다습"
+      "reason": {
+        "ko": "태풍 시즌과 극심한 고온다습",
+        "en": "Typhoon season and extremely high temperatures and humidity",
+        "ja": "台風シーズンと激しい高温多湿",
+        "zh": "台风季节和极高的气温和湿度"
+      }
     },
     {
       "regionId": "tokyo",
-      "reason": "무더위와 높은 습도, 불꽃축제가 열리는 여름"
+      "reason": {
+        "ko": "무더위와 높은 습도, 불꽃축제가 열리는 여름",
+        "en": "Summer with sweltering heat, high humidity, and fireworks",
+        "ja": "暑さと高湿度、花火祭りが開催される夏",
+        "zh": "夏季酷暑高湿，烟花爆竹"
+      }
     },
     {
       "regionId": "vientiane",
-      "reason": "우기, 라오스 전통 시장 탐방 추천"
+      "reason": {
+        "ko": "우기, 라오스 전통 시장 탐방 추천",
+        "en": "Rainy season, recommended to visit Laos traditional market",
+        "ja": "ウギ、ラオスの伝統市場探訪おすすめ",
+        "zh": "雨季，推荐逛老挝传统市场"
+      }
     },
     {
       "regionId": "zhangjiajie",
-      "reason": "여름 성수기, 중국 관광객으로 붐비는 시기"
+      "reason": {
+        "ko": "여름 성수기, 중국 관광객으로 붐비는 시기",
+        "en": "Summer peak season, crowded with Chinese tourists",
+        "ja": "夏のハイシーズン、中国の観光客で混雑する時期",
+        "zh": "夏季旺季，中国游客挤满"
+      }
     }
   ]
 }

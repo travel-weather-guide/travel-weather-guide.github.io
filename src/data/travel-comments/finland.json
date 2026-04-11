@@ -3,23 +3,81 @@
     "regionId": "helsinki",
     "month": 1,
     "rating": 1,
-    "summary": "혹한(-10°C), 사우나 문화와 오로라 가능",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -5°C로 방한 대비 필요",
-      "월 16.2일 비가 와 야외 일정에 유의",
-      "습도 87%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "혹한(-10°C), 사우나 문화와 오로라 가능",
+      "en": "Extreme cold (-10°C), sauna culture and Northern Lights possible",
+      "ja": "寒い（-10°C）、サウナ文化とオーロラ可能",
+      "zh": "极冷（-10°C）、桑拿文化和北极光可能"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -5°C로 방한 대비 필요",
+        "월 16.2일 비가 와 야외 일정에 유의",
+        "습도 87%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "The average minimum temperature is -5°C, so preparation for cold weather is necessary",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 87%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-5℃で防寒コントラストが必要",
+        "月16.2日雨と屋外のスケジュールに注意",
+        "湿度87％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "平均最低气温为-5℃，做好防寒准备",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度87%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+      "en": "Winter clothes, padding, hot packs. Preparation for extreme cold is essential",
+      "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
+      "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -27,21 +85,73 @@
     "regionId": "helsinki",
     "month": 2,
     "rating": 1,
-    "summary": "겨울 막바지, 눈 덮인 수오멘린나 요새",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -5°C로 방한 대비 필요",
-      "비 오는 날이 12일로 실내 대안 준비 권장",
-      "습도 85%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "겨울 막바지, 눈 덮인 수오멘린나 요새",
+      "en": "Late winter, snow-covered Suomenlinna fortress",
+      "ja": "冬の終わり、雪に覆われたスオメンリンナ要塞",
+      "zh": "冬末，白雪覆盖的芬兰堡要塞"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -5°C로 방한 대비 필요",
+        "비 오는 날이 12일로 실내 대안 준비 권장",
+        "습도 85%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "The average minimum temperature is -5°C, so preparation for cold weather is necessary",
+        "As the rainy day is on the 12th, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 85%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-5℃で防寒コントラストが必要",
+        "雨の日が12日で屋内代替準備を推奨",
+        "湿度85％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "平均最低气温为-5℃，做好防寒准备",
+        "由于12号是雨天，建议室内替代准备",
+        "湿度85%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+      "en": "Winter clothes, padding, hot packs. Preparation for extreme cold is essential",
+      "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
+      "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -49,21 +159,73 @@
     "regionId": "helsinki",
     "month": 3,
     "rating": 2,
-    "summary": "아직 추운 겨울, 봄 해빙 시작",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -4°C로 방한 대비 필요",
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "아직 추운 겨울, 봄 해빙 시작",
+      "en": "Winter still cold, spring thawing begins",
+      "ja": "まだ寒い冬、春の海氷開始",
+      "zh": "冬天依然寒冷，春天解冻开始"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "降水少，晴天多",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -4°C로 방한 대비 필요",
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "The average minimum temperature is -4°C, so preparation for cold weather is necessary",
+        "With 10.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "平均最低気温-4℃で防寒コントラストが必要",
+        "雨の日が10.4日で屋内代替案を推奨",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "平均最低气温为-4℃，做好防寒准备",
+        "10.4阴雨天，建议室内替代准备",
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+      "en": "Winter clothes, padding, hot packs. Preparation for extreme cold is essential",
+      "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
+      "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -71,21 +233,73 @@
     "regionId": "helsinki",
     "month": 4,
     "rating": 3,
-    "summary": "봄 시작, 해빙기 발트해 산책",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 해빙기 발트해 산책",
+      "en": "Spring begins, a walk on the Baltic Sea during the thaw",
+      "ja": "春の始まり、海氷期バルト海の散歩",
+      "zh": "春天开始了，在解冻期间在波罗的海散步"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -93,16 +307,48 @@
     "regionId": "helsinki",
     "month": 5,
     "rating": 3,
-    "summary": "봄 꽃 시작, 해가 길어지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "봄 꽃 시작, 해가 길어지는 시기",
+      "en": "Spring flowers begin, the days get longer",
+      "ja": "春の花の始まり、太陽が長くなる時期",
+      "zh": "春暖花开，白昼变长"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -110,21 +356,73 @@
     "regionId": "helsinki",
     "month": 6,
     "rating": 4,
-    "summary": "백야 시작, 유하누스(하지) 축제의 낭만",
-    "highlights": [
-      "백야의 여름, 해가 지지 않는 핀란드",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "백야 시작, 유하누스(하지) 축제의 낭만",
+      "en": "The beginning of the midnight sun, the romance of the Juhanus (Summer solstice) festival",
+      "ja": "白夜開始、ユハヌス（ハジ）祭りのロマン",
+      "zh": "午夜阳光的开始，Juhanus（夏至）节的浪漫"
+    },
+    "highlights": {
+      "ko": [
+        "백야의 여름, 해가 지지 않는 핀란드",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Midnight summer, Finland where the sun never sets",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "白夜の夏、日がけないフィンランド",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "芬兰的午夜夏日，太阳永不落山",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "유하누스 (하지 축제, 6월)",
-      "헬싱키 페스티벌 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "유하누스 (하지 축제, 6월)",
+        "헬싱키 페스티벌 (8월)"
+      ],
+      "en": [
+        "Juhanus (Summer Solstice Festival, June)",
+        "Helsinki Festival (August)"
+      ],
+      "ja": [
+        "ユハヌス（ハジフェスティバル、6月）",
+        "ヘルシンキフェスティバル（8月）"
+      ],
+      "zh": [
+        "Juhanus（夏至节，六月）",
+        "赫尔辛基节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -132,23 +430,86 @@
     "regionId": "helsinki",
     "month": 7,
     "rating": 3,
-    "summary": "백야 절정, 해가 지지 않는 핀란드 여름",
-    "highlights": [
-      "백야의 여름, 해가 지지 않는 핀란드",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "유하누스 (하지 축제, 6월)",
-      "헬싱키 페스티벌 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "백야 절정, 해가 지지 않는 핀란드 여름",
+      "en": "The peak of midnight sun, Finnish summer when the sun never sets",
+      "ja": "白夜の絶頂、太陽のないフィンランド夏",
+      "zh": "午夜阳光的巅峰，太阳永不落山的芬兰夏季"
+    },
+    "highlights": {
+      "ko": [
+        "백야의 여름, 해가 지지 않는 핀란드",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Midnight summer, Finland where the sun never sets",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "白夜の夏、日がけないフィンランド",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "芬兰的午夜夏日，太阳永不落山",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "With 13.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "雨の日が13.6日で屋内代替案を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "13.6阴雨天，建议室内替代准备",
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "유하누스 (하지 축제, 6월)",
+        "헬싱키 페스티벌 (8월)"
+      ],
+      "en": [
+        "Juhanus (Summer Solstice Festival, June)",
+        "Helsinki Festival (August)"
+      ],
+      "ja": [
+        "ユハヌス（ハジフェスティバル、6月）",
+        "ヘルシンキフェスティバル（8月）"
+      ],
+      "zh": [
+        "Juhanus（夏至节，六月）",
+        "赫尔辛基节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -156,23 +517,86 @@
     "regionId": "helsinki",
     "month": 8,
     "rating": 3,
-    "summary": "여름 끝자락, 헬싱키 페스티벌 시즌",
-    "highlights": [
-      "백야의 여름, 해가 지지 않는 핀란드",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 14.4일로 실내 대안 준비 권장",
-      "습도가 80%로 다소 높음"
-    ],
-    "events": [
-      "유하누스 (하지 축제, 6월)",
-      "헬싱키 페스티벌 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 끝자락, 헬싱키 페스티벌 시즌",
+      "en": "End of summer, Helsinki Festival season",
+      "ja": "夏の終わり、ヘルシンキフェスティバルシーズン",
+      "zh": "夏末，赫尔辛基节日季"
+    },
+    "highlights": {
+      "ko": [
+        "백야의 여름, 해가 지지 않는 핀란드",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Midnight summer, Finland where the sun never sets",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "白夜の夏、日がけないフィンランド",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "芬兰的午夜夏日，太阳永不落山",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 14.4일로 실내 대안 준비 권장",
+        "습도가 80%로 다소 높음"
+      ],
+      "en": [
+        "With 14.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 80%"
+      ],
+      "ja": [
+        "雨の日が14.4日で屋内代替案を推奨",
+        "湿度が80％とやや高い"
+      ],
+      "zh": [
+        "14.4阴雨天，建议室内替代准备",
+        "湿度有点高，达到 80%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "유하누스 (하지 축제, 6월)",
+        "헬싱키 페스티벌 (8월)"
+      ],
+      "en": [
+        "Juhanus (Summer Solstice Festival, June)",
+        "Helsinki Festival (August)"
+      ],
+      "ja": [
+        "ユハヌス（ハジフェスティバル、6月）",
+        "ヘルシンキフェスティバル（8月）"
+      ],
+      "zh": [
+        "Juhanus（夏至节，六月）",
+        "赫尔辛基节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -180,19 +604,65 @@
     "regionId": "helsinki",
     "month": 9,
     "rating": 3,
-    "summary": "가을 시작, 단풍과 짧아지는 낮",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도 80%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "가을 시작, 단풍과 짧아지는 낮",
+      "en": "Autumn begins, changing leaves and shorter days",
+      "ja": "秋の始まり、紅葉と短くなる日",
+      "zh": "秋天开始，树叶变黄，白昼变短"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도 80%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 10.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 80%"
+      ],
+      "ja": [
+        "雨の日が10.4日で屋内代替案を推奨",
+        "湿度80％で不快指数が高い"
+      ],
+      "zh": [
+        "10.4阴雨天，建议室内替代准备",
+        "湿度80%不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -200,17 +670,52 @@
     "regionId": "helsinki",
     "month": 10,
     "rating": 1,
-    "summary": "가을 깊어지는 시기, 오로라 시즌 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도 84%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "가을 깊어지는 시기, 오로라 시즌 시작",
+      "en": "Autumn deepens, Aurora season begins",
+      "ja": "秋深くなる時期、オーロラシーズンスタート",
+      "zh": "秋意渐深，极光季节开始"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 13.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 84%"
+      ],
+      "ja": [
+        "雨の日が13.6日で屋内代替案を推奨",
+        "湿度84％で不快指数が高い"
+      ],
+      "zh": [
+        "13.6阴雨天，建议室内替代准备",
+        "湿度84%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -218,22 +723,77 @@
     "regionId": "helsinki",
     "month": 11,
     "rating": 1,
-    "summary": "초겨울 어둠, 크리스마스 준비 분위기",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 13.8일로 실내 대안 준비 권장",
-      "습도 87%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "초겨울 어둠, 크리스마스 준비 분위기",
+      "en": "Early winter darkness, Christmas preparation atmosphere",
+      "ja": "初冬の闇、クリスマス準備の雰囲気",
+      "zh": "初冬的黑暗，圣诞节的准备气氛"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.8일로 실내 대안 준비 권장",
+        "습도 87%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "With 13.8 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 87%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "雨の日が13.8日で屋内代替案を推奨",
+        "湿度87％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "13.8阴雨天，建议室内替代准备",
+        "湿度87%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -241,27 +801,102 @@
     "regionId": "helsinki",
     "month": 12,
     "rating": 1,
-    "summary": "크리스마스 마켓, 산타클로스의 나라 분위기",
-    "highlights": [
-      "크리스마스와 사우나, 산타클로스의 나라",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -4°C로 방한 대비 필요",
-      "비 오는 날이 14.2일로 실내 대안 준비 권장",
-      "습도 87%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
-    "events": [
-      "크리스마스 마켓",
-      "독립기념일 (12월 6일)"
-    ],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "summary": {
+      "ko": "크리스마스 마켓, 산타클로스의 나라 분위기",
+      "en": "Christmas market, Santa Claus country atmosphere",
+      "ja": "クリスマスマーケット、サンタクロースの国の雰囲気",
+      "zh": "圣诞集市，圣诞老人乡村氛围"
+    },
+    "highlights": {
+      "ko": [
+        "크리스마스와 사우나, 산타클로스의 나라",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "The land of Christmas, saunas and Santa Claus",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "クリスマスとサウナ、サンタクロースの国",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "圣诞节、桑拿和圣诞老人​​的土地",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -4°C로 방한 대비 필요",
+        "비 오는 날이 14.2일로 실내 대안 준비 권장",
+        "습도 87%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "The average minimum temperature is -4°C, so preparation for cold weather is necessary",
+        "With 14.2 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 87%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-4℃で防寒コントラストが必要",
+        "雨の日が14.2日で屋内代替準備を推奨",
+        "湿度87％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "平均最低气温为-4℃，做好防寒准备",
+        "14.2阴雨天，建议室内替代准备",
+        "湿度87%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
+    "events": {
+      "ko": [
+        "크리스마스 마켓",
+        "독립기념일 (12월 6일)"
+      ],
+      "en": [
+        "Christmas Market",
+        "Independence Day (December 6)"
+      ],
+      "ja": [
+        "クリスマスマーケット",
+        "独立記念日（12月6日）"
+      ],
+      "zh": [
+        "圣诞市场",
+        "独立日（12 月 6 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+      "en": "Winter clothes, padding, hot packs. Preparation for extreme cold is essential",
+      "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
+      "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

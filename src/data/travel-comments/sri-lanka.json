@@ -3,26 +3,98 @@
     "regionId": "colombo",
     "month": 1,
     "rating": 3,
-    "summary": "서남부 건기, 갈레 요새·네곰보 해변 관광 최적기",
-    "highlights": [
-      "서남부 건기, 갈레 요새·스리랑카 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 120mm로 우산 필수",
-      "비 오는 날이 15일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [
-      "싱할라·타밀 새해 (4월)",
-      "스리랑카 독립기념일 (2월 4일)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "서남부 건기, 갈레 요새·네곰보 해변 관광 최적기",
+      "en": "Dry season in the southwestern region, the best time to visit Galle Fort and Negombo Beach",
+      "ja": "西南部建機、ガレ要塞・ネゴンボビーチ観光最適機",
+      "zh": "西南地区旱季，游览加勒堡和尼甘布海滩的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "서남부 건기, 갈레 요새·스리랑카 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season in the southwestern region, the best time for Galle Fort and Sri Lankan beaches",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "西南部建機、ガレ要塞・スリランカビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "西南地区旱季，加勒堡和斯里兰卡海滩最佳时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 120mm로 우산 필수",
+        "비 오는 날이 15일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 120mm, so an umbrella is a must",
+        "With 15 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "降水量が120mmで傘必須",
+        "雨の日が15日で屋内代替案の準備を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量120mm，雨伞必备",
+        "15个阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "싱할라·타밀 새해 (4월)",
+        "스리랑카 독립기념일 (2월 4일)"
+      ],
+      "en": [
+        "Sinhala/Tamil New Year (April)",
+        "Sri Lanka Independence Day (February 4)"
+      ],
+      "ja": [
+        "シンハラ・タミル新年（4月）",
+        "スリランカ独立記念日（2月4日）"
+      ],
+      "zh": [
+        "僧伽罗/泰米尔新年（四月）",
+        "斯里兰卡独立日（2 月 4 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -30,25 +102,94 @@
     "regionId": "colombo",
     "month": 2,
     "rating": 4,
-    "summary": "건기 지속, 스리랑카 독립기념일 분위기",
-    "highlights": [
-      "서남부 건기, 갈레 요새·스리랑카 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "싱할라·타밀 새해 (4월)",
-      "스리랑카 독립기념일 (2월 4일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 지속, 스리랑카 독립기념일 분위기",
+      "en": "Dry season continues, Sri Lanka Independence Day mood",
+      "ja": "乾期持続、スリランカ独立記念日の雰囲気",
+      "zh": "旱季持续，斯里兰卡独立日心情"
+    },
+    "highlights": {
+      "ko": [
+        "서남부 건기, 갈레 요새·스리랑카 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season in the southwestern region, the best time for Galle Fort and Sri Lankan beaches",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "西南部建機、ガレ要塞・スリランカビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "西南地区旱季，加勒堡和斯里兰卡海滩最佳时节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "With 10.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "雨の日が10.4日で屋内代替案を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "10.4阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "싱할라·타밀 새해 (4월)",
+        "스리랑카 독립기념일 (2월 4일)"
+      ],
+      "en": [
+        "Sinhala/Tamil New Year (April)",
+        "Sri Lanka Independence Day (February 4)"
+      ],
+      "ja": [
+        "シンハラ・タミル新年（4月）",
+        "スリランカ独立記念日（2月4日）"
+      ],
+      "zh": [
+        "僧伽罗/泰米尔新年（四月）",
+        "斯里兰卡独立日（2 月 4 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -56,26 +197,98 @@
     "regionId": "colombo",
     "month": 3,
     "rating": 3,
-    "summary": "쾌청한 건기, 시기리야 바위 요새 당일치기 추천",
-    "highlights": [
-      "서남부 건기, 갈레 요새·스리랑카 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 105mm로 우산 필수",
-      "월 18일 비가 와 야외 일정에 유의",
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [
-      "싱할라·타밀 새해 (4월)",
-      "스리랑카 독립기념일 (2월 4일)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "쾌청한 건기, 시기리야 바위 요새 당일치기 추천",
+      "en": "During the clear dry season, a day trip to Sigiriya Rock Fortress is recommended",
+      "ja": "陽気な乾期、シギリヤ岩砦の日帰りおすすめ",
+      "zh": "晴朗旱季，推荐锡吉里耶岩石堡垒一日游"
+    },
+    "highlights": {
+      "ko": [
+        "서남부 건기, 갈레 요새·스리랑카 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season in the southwestern region, the best time for Galle Fort and Sri Lankan beaches",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "西南部建機、ガレ要塞・スリランカビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "西南地区旱季，加勒堡和斯里兰卡海滩最佳时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 105mm로 우산 필수",
+        "월 18일 비가 와 야외 일정에 유의",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 105mm of precipitation, an umbrella is a must",
+        "It's raining on the 18th, so be careful about outdoor schedules",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "降水量が105mmで傘必須",
+        "月18日雨と屋外のスケジュールに注意",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "105毫米降水，雨伞必备",
+        "18号有雨，户外行程要注意",
+        "湿度81%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "싱할라·타밀 새해 (4월)",
+        "스리랑카 독립기념일 (2월 4일)"
+      ],
+      "en": [
+        "Sinhala/Tamil New Year (April)",
+        "Sri Lanka Independence Day (February 4)"
+      ],
+      "ja": [
+        "シンハラ・タミル新年（4月）",
+        "スリランカ独立記念日（2月4日）"
+      ],
+      "zh": [
+        "僧伽罗/泰米尔新年（四月）",
+        "斯里兰卡独立日（2 月 4 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -83,26 +296,98 @@
     "regionId": "colombo",
     "month": 4,
     "rating": 2,
-    "summary": "싱할라 새해 축제, 콜롬보 전통 문화 체험",
-    "highlights": [
-      "서남부 건기, 갈레 요새·스리랑카 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 156mm로 우기에 해당",
-      "월 24일 비가 와 야외 일정에 유의",
-      "습도 84%로 불쾌지수 높음"
-    ],
-    "events": [
-      "싱할라·타밀 새해 (4월)",
-      "스리랑카 독립기념일 (2월 4일)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "싱할라 새해 축제, 콜롬보 전통 문화 체험",
+      "en": "Sinhala New Year Festival, Colombo Traditional Culture Experience",
+      "ja": "シンハラ新年祭り、コロンボの伝統文化体験",
+      "zh": "僧伽罗新年节，科伦坡传统文化体验"
+    },
+    "highlights": {
+      "ko": [
+        "서남부 건기, 갈레 요새·스리랑카 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season in the southwestern region, the best time for Galle Fort and Sri Lankan beaches",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "西南部建機、ガレ要塞・スリランカビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "西南地区旱季，加勒堡和斯里兰卡海滩最佳时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 156mm로 우기에 해당",
+        "월 24일 비가 와 야외 일정에 유의",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 156mm, corresponding to the rainy season",
+        "It will rain on the 24th of March so be careful about outdoor schedules",
+        "High discomfort index with humidity of 84%"
+      ],
+      "ja": [
+        "月降水量156mmで雨季に対応",
+        "月24日雨と屋外のスケジュールに注意",
+        "湿度84％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量156毫米，对应雨季",
+        "3月24日有雨，注意户外行程",
+        "湿度84%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "싱할라·타밀 새해 (4월)",
+        "스리랑카 독립기념일 (2월 4일)"
+      ],
+      "en": [
+        "Sinhala/Tamil New Year (April)",
+        "Sri Lanka Independence Day (February 4)"
+      ],
+      "ja": [
+        "シンハラ・タミル新年（4月）",
+        "スリランカ独立記念日（2月4日）"
+      ],
+      "zh": [
+        "僧伽罗/泰米尔新年（四月）",
+        "斯里兰卡独立日（2 月 4 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -110,25 +395,89 @@
     "regionId": "colombo",
     "month": 5,
     "rating": 1,
-    "summary": "서남 몬순 시작, 인도양 거대 파도 주의",
-    "highlights": [
-      "서남 몬순 우기, 강한 비와 높은 파도",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 440mm로 우기에 해당",
-      "월 30일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "서남 몬순 시작, 인도양 거대 파도 주의",
+      "en": "Southwest monsoon begins, watch out for giant waves in the Indian Ocean",
+      "ja": "西南モンスーンの始まり、インド洋の巨大な波の注意",
+      "zh": "西南季风开始，留意印度洋巨浪"
+    },
+    "highlights": {
+      "ko": [
+        "서남 몬순 우기, 강한 비와 높은 파도",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Southwest monsoon rainy season, strong rain and high waves",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "西南モンスーン雨期、強い雨と高い波",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "西南季风雨季，强雨大浪",
+        "日照时间长，适合户外活动",
+        "舒适温度",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 440mm로 우기에 해당",
+        "월 30일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 440mm, corresponding to the rainy season",
+        "It rains on the 30th of the month so be careful about outdoor schedules",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "月降水量440mmで雨季に対応",
+        "月30日雨と屋外のスケジュールに注意",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "每月降雨量440mm，对应雨季",
+        "30号有雨，户外行程要注意",
+        "湿度86%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -136,23 +485,81 @@
     "regionId": "colombo",
     "month": 6,
     "rating": 1,
-    "summary": "우기 절정, 동부 해안(아루감만)으로 이동 추천",
-    "highlights": [
-      "서남 몬순 우기, 강한 비와 높은 파도",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 307mm로 우기에 해당",
-      "월 29.2일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 절정, 동부 해안(아루감만)으로 이동 추천",
+      "en": "At the peak of the rainy season, recommended to go to the eastern coast (Arugam Bay)",
+      "ja": "雨期絶頂、東部海岸（アルガム湾）へ移動おすすめ",
+      "zh": "雨季高峰期，建议前往东海岸（阿鲁加姆湾）"
+    },
+    "highlights": {
+      "ko": [
+        "서남 몬순 우기, 강한 비와 높은 파도",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Southwest monsoon rainy season, strong rain and high waves",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "西南モンスーン雨期、強い雨と高い波",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "西南季风雨季，强雨大浪",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 307mm로 우기에 해당",
+        "월 29.2일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 307mm, corresponding to the rainy season",
+        "About 29 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "月降水量307mmで雨季に対応",
+        "月29.2日雨と屋外のスケジュールに注意",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量307毫米，对应雨季",
+        "月均约29天降雨，注意安排户外行程",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -160,23 +567,81 @@
     "regionId": "colombo",
     "month": 7,
     "rating": 1,
-    "summary": "우기 지속, 스리랑카 페라헤라 축제 (캔디, 7~8월)",
-    "highlights": [
-      "서남 몬순 우기, 강한 비와 높은 파도",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 250mm로 우기에 해당",
-      "월 27.8일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 지속, 스리랑카 페라헤라 축제 (캔디, 7~8월)",
+      "en": "Rainy season continues, Sri Lanka Perahera Festival (Kandy, July-August)",
+      "ja": "ウギ持続、スリランカフェラヘラフェスティバル（キャンディ、7〜8月）",
+      "zh": "雨季继续，斯里兰卡 Perahera 节（康提，7 月至 8 月）"
+    },
+    "highlights": {
+      "ko": [
+        "서남 몬순 우기, 강한 비와 높은 파도",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Southwest monsoon rainy season, strong rain and high waves",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "西南モンスーン雨期、強い雨と高い波",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "西南季风雨季，强雨大浪",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 250mm로 우기에 해당",
+        "월 27.8일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 250mm, corresponding to the rainy season",
+        "About 28 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "月降水量250mmで雨季に対応",
+        "月27.8日雨と屋外のスケジュールに注意",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "每月降雨量250mm，对应雨季",
+        "月均约28天降雨，注意安排户外行程",
+        "湿度86%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -184,23 +649,81 @@
     "regionId": "colombo",
     "month": 8,
     "rating": 1,
-    "summary": "우기, 서퍼들이 찾는 우기 전용 파도 시즌",
-    "highlights": [
-      "서남 몬순 우기, 강한 비와 높은 파도",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 257mm로 우기에 해당",
-      "월 28.6일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기, 서퍼들이 찾는 우기 전용 파도 시즌",
+      "en": "Rainy season, the only wave season for the rainy season",
+      "ja": "ウギ、サーファーたちが探すウギ専用波シーズン",
+      "zh": "雨季，雨季唯一的浪季"
+    },
+    "highlights": {
+      "ko": [
+        "서남 몬순 우기, 강한 비와 높은 파도",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Southwest monsoon rainy season, strong rain and high waves",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "西南モンスーン雨期、強い雨と高い波",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "西南季风雨季，强雨大浪",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 257mm로 우기에 해당",
+        "월 28.6일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 257mm, corresponding to the rainy season",
+        "About 29 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "月降水量257mmで雨季に対応",
+        "月28.6日雨と屋外のスケジュールに注意",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量257毫米，对应雨季",
+        "月均约29天降雨，注意安排户外行程",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -208,23 +731,81 @@
     "regionId": "colombo",
     "month": 9,
     "rating": 1,
-    "summary": "우기 막바지, 동부 해안 건기 시작",
-    "highlights": [
-      "서남 몬순 우기, 강한 비와 높은 파도",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 341mm로 우기에 해당",
-      "월 29.2일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 막바지, 동부 해안 건기 시작",
+      "en": "End of rainy season, beginning of dry season on the East Coast",
+      "ja": "雨期の最後は、東海岸を乾かし始める",
+      "zh": "东海岸雨季结束，旱季开始"
+    },
+    "highlights": {
+      "ko": [
+        "서남 몬순 우기, 강한 비와 높은 파도",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Southwest monsoon rainy season, strong rain and high waves",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "西南モンスーン雨期、強い雨と高い波",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "西南季风雨季，强雨大浪",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 341mm로 우기에 해당",
+        "월 29.2일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 341mm, corresponding to the rainy season",
+        "About 29 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "月降水量341mmで雨季に対応",
+        "月29.2日雨と屋外のスケジュールに注意",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量341毫米，对应雨季",
+        "月均约29天降雨，注意安排户外行程",
+        "湿度86%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -232,23 +813,81 @@
     "regionId": "colombo",
     "month": 10,
     "rating": 2,
-    "summary": "서남부 우기 마무리, 날씨 회복 중",
-    "highlights": [
-      "서남 몬순 우기, 강한 비와 높은 파도",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 365mm로 우기에 해당",
-      "월 29.4일 비가 와 야외 일정에 유의",
-      "습도 87%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "서남부 우기 마무리, 날씨 회복 중",
+      "en": "The rainy season in the southwest is over, the weather is recovering",
+      "ja": "西南部ウギ仕上げ、天気回復中",
+      "zh": "西南雨季结束，天气逐渐回暖"
+    },
+    "highlights": {
+      "ko": [
+        "서남 몬순 우기, 강한 비와 높은 파도",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Southwest monsoon rainy season, strong rain and high waves",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "西南モンスーン雨期、強い雨と高い波",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "西南季风雨季，强雨大浪",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 365mm로 우기에 해당",
+        "월 29.4일 비가 와 야외 일정에 유의",
+        "습도 87%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 365mm, corresponding to the rainy season",
+        "About 29 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 87%"
+      ],
+      "ja": [
+        "月降水量365mmで雨季に対応",
+        "月29.4日雨と屋外のスケジュールに注意",
+        "湿度87％で不快指数が高い"
+      ],
+      "zh": [
+        "每月降雨量365毫米，对应雨季",
+        "月均约29天降雨，注意安排户外行程",
+        "湿度87%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -256,22 +895,77 @@
     "regionId": "colombo",
     "month": 11,
     "rating": 2,
-    "summary": "북동 몬순 시작, 콜롬보는 쾌청해지는 시기",
-    "highlights": [
-      "쾌적한 기온",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 411mm로 우기에 해당",
-      "월 24.6일 비가 와 야외 일정에 유의",
-      "습도 88%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "북동 몬순 시작, 콜롬보는 쾌청해지는 시기",
+      "en": "The beginning of the northeast monsoon, a sunny season in Colombo",
+      "ja": "北東モンスーン開始、コロンボは快晴になる時期",
+      "zh": "东北季风初起，科伦坡阳光灿烂的季节"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Comfortable temperature",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "快適な気温",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "舒适温度",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 411mm로 우기에 해당",
+        "월 24.6일 비가 와 야외 일정에 유의",
+        "습도 88%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 411mm, corresponding to the rainy season",
+        "About 25 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 88%"
+      ],
+      "ja": [
+        "月降水量411mmで雨季に対応",
+        "月24.6日雨と屋外のスケジュールに注意",
+        "湿度88％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量411毫米，对应雨季",
+        "月均约25天降雨，注意安排户外行程",
+        "湿度88%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -279,22 +973,77 @@
     "regionId": "colombo",
     "month": 12,
     "rating": 2,
-    "summary": "건기 재개, 갈레 문학 축제 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 198mm로 우기에 해당",
-      "월 20.8일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "건기 재개, 갈레 문학 축제 시즌",
+      "en": "Dry season resumes, Galle Literary Festival season",
+      "ja": "乾季再開、ガレ文学祭シーズン",
+      "zh": "旱季恢复，加勒文学节季"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 198mm로 우기에 해당",
+        "월 20.8일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 198mm, corresponding to the rainy season",
+        "About 21 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "月降水量198mmで雨季に対応",
+        "月20.8日雨と屋外のスケジュールに注意",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量198毫米，对应雨季",
+        "月均约21天降雨，注意安排户外行程",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

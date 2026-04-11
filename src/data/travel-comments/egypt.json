@@ -3,21 +3,73 @@
     "regionId": "cairo",
     "month": 1,
     "rating": 5,
-    "summary": "쾌적한 겨울, 피라미드·스핑크스·이집트 박물관 최적기",
-    "highlights": [
-      "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "쾌적한 겨울, 피라미드·스핑크스·이집트 박물관 최적기",
+      "en": "Pleasant winter, the best time to visit the Pyramids, Sphinx, and Egyptian Museums",
+      "ja": "快適な冬、ピラミッド・スフィンクス・エジプト博物館の最適期",
+      "zh": "宜人的冬天，参观金字塔、狮身人面像和埃及博物馆的最佳时机"
+    },
+    "highlights": {
+      "ko": [
+        "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Best time to visit the Pyramids and Sphinx, pleasant desert weather",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "ピラミッド・スフィンクス観光の最適期、快適な砂漠の天気",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "参观金字塔和狮身人面像的最佳时间，沙漠气候宜人",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "라마단 (이슬람력 기준)",
-      "카이로 국제 영화제 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "라마단 (이슬람력 기준)",
+        "카이로 국제 영화제 (11월)"
+      ],
+      "en": [
+        "Ramadan (based on Islamic calendar)",
+        "Cairo International Film Festival (November)"
+      ],
+      "ja": [
+        "ラマダン（イスラム力基準）",
+        "カイロ国際映画祭（11月）"
+      ],
+      "zh": [
+        "斋月（基于伊斯兰历）",
+        "开罗国际电影节（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -25,22 +77,77 @@
     "regionId": "cairo",
     "month": 2,
     "rating": 5,
-    "summary": "건기 지속, 기자 피라미드 새벽 방문 추천",
-    "highlights": [
-      "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "건기 지속, 기자 피라미드 새벽 방문 추천",
+      "en": "As the dry season continues, early morning visit to the Giza Pyramids is recommended",
+      "ja": "乾期継続、記者ピラミッド夜明け訪問おすすめ",
+      "zh": "随着旱季的持续，建议清晨参观吉萨金字塔"
+    },
+    "highlights": {
+      "ko": [
+        "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time to visit the Pyramids and Sphinx, pleasant desert weather",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "ピラミッド・スフィンクス観光の最適期、快適な砂漠の天気",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "参观金字塔和狮身人面像的最佳时间，沙漠气候宜人",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "라마단 (이슬람력 기준)",
-      "카이로 국제 영화제 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "라마단 (이슬람력 기준)",
+        "카이로 국제 영화제 (11월)"
+      ],
+      "en": [
+        "Ramadan (based on Islamic calendar)",
+        "Cairo International Film Festival (November)"
+      ],
+      "ja": [
+        "ラマダン（イスラム力基準）",
+        "カイロ国際映画祭（11月）"
+      ],
+      "zh": [
+        "斋月（基于伊斯兰历）",
+        "开罗国际电影节（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -48,23 +155,81 @@
     "regionId": "cairo",
     "month": 3,
     "rating": 5,
-    "summary": "봄 시작, 모래바람(하마신) 시작 전 마지막 쾌적 시기",
-    "highlights": [
-      "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "봄 시작, 모래바람(하마신) 시작 전 마지막 쾌적 시기",
+      "en": "The beginning of spring, the last pleasant period before the sandstorm (hamashin) begins",
+      "ja": "春の始まり、砂風（ハマシン）開始前の最後の快適時期",
+      "zh": "春天的开始，沙尘暴（hamashin）开始前的最后一个愉快的时期"
+    },
+    "highlights": {
+      "ko": [
+        "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time to visit the Pyramids and Sphinx, pleasant desert weather",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "ピラミッド・スフィンクス観光の最適期、快適な砂漠の天気",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "参观金字塔和狮身人面像的最佳时间，沙漠气候宜人",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "라마단 (이슬람력 기준)",
-      "카이로 국제 영화제 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "라마단 (이슬람력 기준)",
+        "카이로 국제 영화제 (11월)"
+      ],
+      "en": [
+        "Ramadan (based on Islamic calendar)",
+        "Cairo International Film Festival (November)"
+      ],
+      "ja": [
+        "ラマダン（イスラム力基準）",
+        "カイロ国際映画祭（11月）"
+      ],
+      "zh": [
+        "斋月（基于伊斯兰历）",
+        "开罗国际电影节（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -72,19 +237,60 @@
     "regionId": "cairo",
     "month": 4,
     "rating": 5,
-    "summary": "모래바람 시즌, 유적 관광은 가능하지만 눈·코 주의",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "모래바람 시즌, 유적 관광은 가능하지만 눈·코 주의",
+      "en": "During sandstorm season, it is possible to tour the ruins, but be careful of your eyes and nose",
+      "ja": "砂風シーズン、遺跡観光は可能だが雪・鼻注意",
+      "zh": "沙尘暴季节，可以游览遗址，但要小心你的眼睛和鼻子"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -92,21 +298,73 @@
     "regionId": "cairo",
     "month": 5,
     "rating": 5,
-    "summary": "기온 급상승, 야외 유적 오전에만 관광",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [
-      "평균 최고기온 35°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "기온 급상승, 야외 유적 오전에만 관광",
+      "en": "Temperature soars, tours of outdoor ruins only in the morning",
+      "ja": "祇園急上昇、野外遺跡午前のみ観光",
+      "zh": "气温飙升，户外遗址游览只在早上"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 35°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 35°C"
+      ],
+      "ja": [
+        "平均最高気温35°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温35°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -114,22 +372,77 @@
     "regionId": "cairo",
     "month": 6,
     "rating": 5,
-    "summary": "40°C 이상 폭염, 박물관·실내 위주 여행",
-    "highlights": [
-      "40°C 이상 폭염, 야외 유적 관광 힘든 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 38°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "40°C 이상 폭염, 박물관·실내 위주 여행",
+      "en": "Heat wave over 40°C, travel focused on museums and indoors",
+      "ja": "40°C以上の猛暑、博物館・室内中心旅行",
+      "zh": "40℃以上热浪，出行集中在博物馆和室内"
+    },
+    "highlights": {
+      "ko": [
+        "40°C 이상 폭염, 야외 유적 관광 힘든 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Heatwave over 40°C, difficult time for outdoor historic sightseeing",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "40°C以上の猛暑、野外遺跡観光困難な時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "40℃以上热浪，户外历史观光困难时期",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 38°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 38°C"
+      ],
+      "ja": [
+        "平均最高気温38°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温38°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -137,23 +450,81 @@
     "regionId": "cairo",
     "month": 7,
     "rating": 5,
-    "summary": "극한 더위, 유럽인 관광객 감소로 한산",
-    "highlights": [
-      "40°C 이상 폭염, 야외 유적 관광 힘든 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 39°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "극한 더위, 유럽인 관광객 감소로 한산",
+      "en": "Due to extreme heat and a decrease in European tourists",
+      "ja": "極端な暑さ、ヨーロッパ人観光客の減少で韓山",
+      "zh": "由于极度炎热和欧洲游客减少"
+    },
+    "highlights": {
+      "ko": [
+        "40°C 이상 폭염, 야외 유적 관광 힘든 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Heatwave over 40°C, difficult time for outdoor historic sightseeing",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "40°C以上の猛暑、野外遺跡観光困難な時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "40℃以上热浪，户外历史观光困难时期",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 39°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 39°C."
+      ],
+      "ja": [
+        "平均最高気温39℃で暑さに注意"
+      ],
+      "zh": [
+        "请注意防暑，平均最高气温为 39°C。"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -161,23 +532,81 @@
     "regionId": "cairo",
     "month": 8,
     "rating": 5,
-    "summary": "폭염 지속, 해질 무렵 나일강 유람선 추천",
-    "highlights": [
-      "40°C 이상 폭염, 야외 유적 관광 힘든 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 39°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "폭염 지속, 해질 무렵 나일강 유람선 추천",
+      "en": "As the heat wave continues, a cruise on the Nile River at dusk is recommended",
+      "ja": "爆炎持続、日没頃ナイル川クルーズ船おすすめ",
+      "zh": "热浪持续，推荐黄昏尼罗河游船"
+    },
+    "highlights": {
+      "ko": [
+        "40°C 이상 폭염, 야외 유적 관광 힘든 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Heatwave over 40°C, difficult time for outdoor historic sightseeing",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "40°C以上の猛暑、野外遺跡観光困難な時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "40℃以上热浪，户外历史观光困难时期",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 39°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 39°C."
+      ],
+      "ja": [
+        "平均最高気温39℃で暑さに注意"
+      ],
+      "zh": [
+        "请注意防暑，平均最高气温为 39°C。"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -185,21 +614,73 @@
     "regionId": "cairo",
     "month": 9,
     "rating": 5,
-    "summary": "더위 가시기 시작, 이른 가을 여행 가능",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 37°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "더위 가시기 시작, 이른 가을 여행 가능",
+      "en": "As the heat begins to subside, early fall travel is possible",
+      "ja": "暑さの始まり、早い秋に旅行可能",
+      "zh": "随着炎热开始消退，早秋旅行成为可能"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 37°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 37°C"
+      ],
+      "ja": [
+        "平均最高気温37°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温37°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -207,19 +688,60 @@
     "regionId": "cairo",
     "month": 10,
     "rating": 5,
-    "summary": "쾌적한 가을, 피라미드 일출 촬영 적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "쾌적한 가을, 피라미드 일출 촬영 적기",
+      "en": "Pleasant fall, perfect time to photograph sunrise at Pyramids",
+      "ja": "快適な秋、ピラミッドの日の出撮影の赤字",
+      "zh": "宜人的秋天，金字塔拍摄日出的最佳时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -227,23 +749,81 @@
     "regionId": "cairo",
     "month": 11,
     "rating": 5,
-    "summary": "건기 여행 황금기, 이집트 박물관 & 유적 순례",
-    "highlights": [
-      "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "건기 여행 황금기, 이집트 박물관 & 유적 순례",
+      "en": "The golden age of dry season travel, pilgrimage to Egyptian museums and ruins",
+      "ja": "乾期旅行黄金期、エジプト博物館＆遺跡巡礼",
+      "zh": "旱季旅行的黄金时代，朝圣埃及博物馆和遗址"
+    },
+    "highlights": {
+      "ko": [
+        "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time to visit the Pyramids and Sphinx, pleasant desert weather",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "ピラミッド・スフィンクス観光の最適期、快適な砂漠の天気",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "参观金字塔和狮身人面像的最佳时间，沙漠气候宜人",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "라마단 (이슬람력 기준)",
-      "카이로 국제 영화제 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "라마단 (이슬람력 기준)",
+        "카이로 국제 영화제 (11월)"
+      ],
+      "en": [
+        "Ramadan (based on Islamic calendar)",
+        "Cairo International Film Festival (November)"
+      ],
+      "ja": [
+        "ラマダン（イスラム力基準）",
+        "カイロ国際映画祭（11月）"
+      ],
+      "zh": [
+        "斋月（基于伊斯兰历）",
+        "开罗国际电影节（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -251,21 +831,73 @@
     "regionId": "cairo",
     "month": 12,
     "rating": 5,
-    "summary": "겨울 성수기, 나일강 크루즈 + 유적 패키지 인기",
-    "highlights": [
-      "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "겨울 성수기, 나일강 크루즈 + 유적 패키지 인기",
+      "en": "Winter peak season, Nile River cruise + ruins package popular",
+      "ja": "冬のハイシーズン、ナイル川クルーズ+遺跡パッケージ人気",
+      "zh": "冬季旺季，尼罗河游船+遗址套餐人气"
+    },
+    "highlights": {
+      "ko": [
+        "피라미드·스핑크스 관광 최적기, 쾌적한 사막 날씨",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Best time to visit the Pyramids and Sphinx, pleasant desert weather",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "ピラミッド・スフィンクス観光の最適期、快適な砂漠の天気",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "参观金字塔和狮身人面像的最佳时间，沙漠气候宜人",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "라마단 (이슬람력 기준)",
-      "카이로 국제 영화제 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "라마단 (이슬람력 기준)",
+        "카이로 국제 영화제 (11월)"
+      ],
+      "en": [
+        "Ramadan (based on Islamic calendar)",
+        "Cairo International Film Festival (November)"
+      ],
+      "ja": [
+        "ラマダン（イスラム力基準）",
+        "カイロ国際映画祭（11月）"
+      ],
+      "zh": [
+        "斋月（基于伊斯兰历）",
+        "开罗国际电影节（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -273,22 +905,77 @@
     "regionId": "luxor",
     "month": 1,
     "rating": 5,
-    "summary": "건기 절정, 왕가의 계곡·카르낙 신전 최적 관광기",
-    "highlights": [
-      "왕가의 계곡·카르낙 신전 최적 관광 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "건기 절정, 왕가의 계곡·카르낙 신전 최적 관광기",
+      "en": "The peak of the dry season, the best time to visit the Valley of the Kings and Karnak Temple",
+      "ja": "乾期絶頂、王家の渓谷・カルナック神殿最適観光機",
+      "zh": "旱季高峰期，游览帝王谷和卡纳克神庙的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "왕가의 계곡·카르낙 신전 최적 관광 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time to visit Valley of the Kings and Karnak Temple",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "王家の渓谷・カルナック神殿最適観光時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "参观帝王谷和卡纳克神庙的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "옵트 축제 (이슬람력 기준)",
-      "룩소르 열기구 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "옵트 축제 (이슬람력 기준)",
+        "룩소르 열기구 시즌"
+      ],
+      "en": [
+        "Opt Festival (based on Islamic calendar)",
+        "Luxor hot air balloon season"
+      ],
+      "ja": [
+        "オプトフェスティバル（イスラム力基準）",
+        "ルクソール熱気球シーズン"
+      ],
+      "zh": [
+        "Opt 节（基于伊斯兰历）",
+        "卢克索热气球季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -296,22 +983,77 @@
     "regionId": "luxor",
     "month": 2,
     "rating": 5,
-    "summary": "쾌청한 겨울, 열기구 투어로 바라본 왕가의 계곡",
-    "highlights": [
-      "왕가의 계곡·카르낙 신전 최적 관광 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "쾌청한 겨울, 열기구 투어로 바라본 왕가의 계곡",
+      "en": "The Valley of the Kings seen from a hot air balloon tour on a clear winter day",
+      "ja": "陽気な冬、熱気球ツアーで眺めた王家の渓谷",
+      "zh": "在晴朗的冬日乘坐热气球游览帝王谷"
+    },
+    "highlights": {
+      "ko": [
+        "왕가의 계곡·카르낙 신전 최적 관광 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time to visit Valley of the Kings and Karnak Temple",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "王家の渓谷・カルナック神殿最適観光時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "参观帝王谷和卡纳克神庙的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "옵트 축제 (이슬람력 기준)",
-      "룩소르 열기구 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "옵트 축제 (이슬람력 기준)",
+        "룩소르 열기구 시즌"
+      ],
+      "en": [
+        "Opt Festival (based on Islamic calendar)",
+        "Luxor hot air balloon season"
+      ],
+      "ja": [
+        "オプトフェスティバル（イスラム力基準）",
+        "ルクソール熱気球シーズン"
+      ],
+      "zh": [
+        "Opt 节（基于伊斯兰历）",
+        "卢克索热气球季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -319,23 +1061,81 @@
     "regionId": "luxor",
     "month": 3,
     "rating": 5,
-    "summary": "아직 쾌적, 룩소르 신전 석양이 아름다운 시기",
-    "highlights": [
-      "왕가의 계곡·카르낙 신전 최적 관광 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "아직 쾌적, 룩소르 신전 석양이 아름다운 시기",
+      "en": "Still pleasant, the sunset at Luxor Temple is beautiful",
+      "ja": "まだ快適、ルクソール神殿の夕日が美しい時期",
+      "zh": "还是宜人的，卢克索神庙的日落很美"
+    },
+    "highlights": {
+      "ko": [
+        "왕가의 계곡·카르낙 신전 최적 관광 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time to visit Valley of the Kings and Karnak Temple",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "王家の渓谷・カルナック神殿最適観光時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "参观帝王谷和卡纳克神庙的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "옵트 축제 (이슬람력 기준)",
-      "룩소르 열기구 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "옵트 축제 (이슬람력 기준)",
+        "룩소르 열기구 시즌"
+      ],
+      "en": [
+        "Opt Festival (based on Islamic calendar)",
+        "Luxor hot air balloon season"
+      ],
+      "ja": [
+        "オプトフェスティバル（イスラム力基準）",
+        "ルクソール熱気球シーズン"
+      ],
+      "zh": [
+        "Opt 节（基于伊斯兰历）",
+        "卢克索热气球季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -343,21 +1143,73 @@
     "regionId": "luxor",
     "month": 4,
     "rating": 5,
-    "summary": "더위 시작, 오전 유적 관광 필수",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [
-      "평균 최고기온 35°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "더위 시작, 오전 유적 관광 필수",
+      "en": "As the heat begins, a morning tour of the ruins is a must",
+      "ja": "暑さの始まり、午前遺跡観光必須",
+      "zh": "随着炎热的天气开始，早上游览废墟是必须的"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 35°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 35°C"
+      ],
+      "ja": [
+        "平均最高気温35°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温35°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -365,22 +1217,77 @@
     "regionId": "luxor",
     "month": 5,
     "rating": 5,
-    "summary": "고온 시작, 열기구 취소 가능성 증가",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 39°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "고온 시작, 열기구 취소 가능성 증가",
+      "en": "High temperature start, increased chance of hot air balloon cancellation",
+      "ja": "高温開始、熱気球のキャンセルの可能性が増加",
+      "zh": "高温启动，热气球取消几率增加"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 39°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 39°C."
+      ],
+      "ja": [
+        "平均最高気温39℃で暑さに注意"
+      ],
+      "zh": [
+        "请注意防暑，平均最高气温为 39°C。"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -388,23 +1295,81 @@
     "regionId": "luxor",
     "month": 6,
     "rating": 5,
-    "summary": "45°C 이상 극한 더위, 아침 일찍만 유적 가능",
-    "highlights": [
-      "45°C 이상 극한 폭염, 유적 관광 힘듦",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 42°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "45°C 이상 극한 더위, 아침 일찍만 유적 가능",
+      "en": "Extreme heat above 45°C, ruins only possible early in the morning",
+      "ja": "45℃以上の極端な暑さ、朝早くに遺跡が可能",
+      "zh": "45°C以上的酷热，只有清晨才有可能毁掉"
+    },
+    "highlights": {
+      "ko": [
+        "45°C 이상 극한 폭염, 유적 관광 힘듦",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Extreme heatwave over 45°C, difficult to tour ruins",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "45°C以上の極端な爆炎、遺跡観光力",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "超过45°C的极端热浪，难以游览废墟",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 42°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 42°C"
+      ],
+      "ja": [
+        "平均最高気温42°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温42°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -412,23 +1377,81 @@
     "regionId": "luxor",
     "month": 7,
     "rating": 5,
-    "summary": "폭염 절정, 외국 관광객 거의 없는 시기",
-    "highlights": [
-      "45°C 이상 극한 폭염, 유적 관광 힘듦",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 42°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "폭염 절정, 외국 관광객 거의 없는 시기",
+      "en": "The peak of the heat wave, a time when there are almost no foreign tourists",
+      "ja": "猛烈なピーク、外国人観光客がほとんどいない時期",
+      "zh": "热浪最高峰，几乎没有外国游客的时候"
+    },
+    "highlights": {
+      "ko": [
+        "45°C 이상 극한 폭염, 유적 관광 힘듦",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Extreme heatwave over 45°C, difficult to tour ruins",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "45°C以上の極端な爆炎、遺跡観光力",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "超过45°C的极端热浪，难以游览废墟",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 42°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 42°C"
+      ],
+      "ja": [
+        "平均最高気温42°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温42°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -436,23 +1459,81 @@
     "regionId": "luxor",
     "month": 8,
     "rating": 4,
-    "summary": "극한 더위 지속, 나일강 펠루카 저녁에만",
-    "highlights": [
-      "45°C 이상 극한 폭염, 유적 관광 힘듦",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 43°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "극한 더위 지속, 나일강 펠루카 저녁에만",
+      "en": "Extreme heat continues, Nile felucca only in the evening",
+      "ja": "極端な暑さの持続、ナイル川のペルーカの夜のみ",
+      "zh": "极端炎热持续，尼罗河小帆船仅在晚上"
+    },
+    "highlights": {
+      "ko": [
+        "45°C 이상 극한 폭염, 유적 관광 힘듦",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Extreme heatwave over 45°C, difficult to tour ruins",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "45°C以上の極端な爆炎、遺跡観光力",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "超过45°C的极端热浪，难以游览废墟",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 43°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 43°C"
+      ],
+      "ja": [
+        "平均最高気温43°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温43°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -460,22 +1541,77 @@
     "regionId": "luxor",
     "month": 9,
     "rating": 5,
-    "summary": "더위 가시기 시작, 가을 여행 시즌 준비",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 41°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "더위 가시기 시작, 가을 여행 시즌 준비",
+      "en": "The heat is starting to subside, preparing for the fall travel season",
+      "ja": "暑さの始まり、秋の旅行シーズンの準備",
+      "zh": "暑气开始消退，为秋季旅游季节做准备"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 41°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 41°C"
+      ],
+      "ja": [
+        "平均最高気温41°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温41°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -483,21 +1619,73 @@
     "regionId": "luxor",
     "month": 10,
     "rating": 5,
-    "summary": "쾌적해지는 룩소르, 열기구·유적 투어 재개",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 36°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "쾌적해지는 룩소르, 열기구·유적 투어 재개",
+      "en": "Luxor becomes more comfortable, hot air balloon and ruins tours resume",
+      "ja": "快適になるルクソール、熱気球・遺跡ツアーを再開",
+      "zh": "卢克索变得更加舒适，热气球和遗址之旅恢复"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 36°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 36°C"
+      ],
+      "ja": [
+        "平均最高気温36°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温36°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -505,23 +1693,81 @@
     "regionId": "luxor",
     "month": 11,
     "rating": 5,
-    "summary": "건기 여행 최적기, 카르낙 신전 야간 쇼 추천",
-    "highlights": [
-      "왕가의 계곡·카르낙 신전 최적 관광 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "건기 여행 최적기, 카르낙 신전 야간 쇼 추천",
+      "en": "The best time to travel during the dry season, Karnak Temple night show recommended",
+      "ja": "乾季旅行最適機、カルナック神殿夜間ショーおすすめ",
+      "zh": "旱季最佳旅行时间，卡纳克神庙夜景推荐"
+    },
+    "highlights": {
+      "ko": [
+        "왕가의 계곡·카르낙 신전 최적 관광 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time to visit Valley of the Kings and Karnak Temple",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "王家の渓谷・カルナック神殿最適観光時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "参观帝王谷和卡纳克神庙的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "옵트 축제 (이슬람력 기준)",
-      "룩소르 열기구 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "옵트 축제 (이슬람력 기준)",
+        "룩소르 열기구 시즌"
+      ],
+      "en": [
+        "Opt Festival (based on Islamic calendar)",
+        "Luxor hot air balloon season"
+      ],
+      "ja": [
+        "オプトフェスティバル（イスラム力基準）",
+        "ルクソール熱気球シーズン"
+      ],
+      "zh": [
+        "Opt 节（基于伊斯兰历）",
+        "卢克索热气球季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -529,23 +1775,81 @@
     "regionId": "luxor",
     "month": 12,
     "rating": 5,
-    "summary": "성수기 절정, 나일강 크루즈와 유적 탐방 러시",
-    "highlights": [
-      "왕가의 계곡·카르낙 신전 최적 관광 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "성수기 절정, 나일강 크루즈와 유적 탐방 러시",
+      "en": "Peak season, rush to take Nile River cruises and explore ruins",
+      "ja": "ピークシーズン、ナイル川クルーズと遺跡探検ラッシュ",
+      "zh": "旺季，赶紧乘坐尼罗河游船，探索遗迹"
+    },
+    "highlights": {
+      "ko": [
+        "왕가의 계곡·카르낙 신전 최적 관광 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time to visit Valley of the Kings and Karnak Temple",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "王家の渓谷・カルナック神殿最適観光時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "参观帝王谷和卡纳克神庙的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "옵트 축제 (이슬람력 기준)",
-      "룩소르 열기구 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "옵트 축제 (이슬람력 기준)",
+        "룩소르 열기구 시즌"
+      ],
+      "en": [
+        "Opt Festival (based on Islamic calendar)",
+        "Luxor hot air balloon season"
+      ],
+      "ja": [
+        "オプトフェスティバル（イスラム力基準）",
+        "ルクソール熱気球シーズン"
+      ],
+      "zh": [
+        "Opt 节（基于伊斯兰历）",
+        "卢克索热气球季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   }

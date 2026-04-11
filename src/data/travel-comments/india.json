@@ -3,23 +3,86 @@
     "regionId": "new-delhi",
     "month": 1,
     "rating": 3,
-    "summary": "쾌적한 겨울, 타지마할·붉은 요새 관광 최적기",
-    "highlights": [
-      "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [
-      "디왈리 (11월, 힌두 빛 축제)",
-      "공화국의 날 퍼레이드 (1월 26일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "쾌적한 겨울, 타지마할·붉은 요새 관광 최적기",
+      "en": "Pleasant winter, the best time to visit the Taj Mahal and Red Fort",
+      "ja": "快適な冬、タージマハル・赤い要塞観光最適機",
+      "zh": "宜人的冬天，参观泰姬陵和红堡的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Pleasant dry season, ideal time to visit Taj Mahal and Red Fort",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "快適な乾期、タージマハル・赤い要塞観光適期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "宜人的旱季，是参观泰姬陵和红堡的理想时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度81%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "디왈리 (11월, 힌두 빛 축제)",
+        "공화국의 날 퍼레이드 (1월 26일)"
+      ],
+      "en": [
+        "Diwali (November, Hindu festival of lights)",
+        "Republic Day Parade (January 26)"
+      ],
+      "ja": [
+        "ディワリ（11月、ヒンドゥーライトフェスティバル）",
+        "共和国の日パレード（1月26日）"
+      ],
+      "zh": [
+        "排灯节（十一月，印度教灯节）",
+        "共和国日游行（1 月 26 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -27,21 +90,73 @@
     "regionId": "new-delhi",
     "month": 2,
     "rating": 5,
-    "summary": "공화국의 날 후, 상쾌한 겨울 여행 계속",
-    "highlights": [
-      "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "공화국의 날 후, 상쾌한 겨울 여행 계속",
+      "en": "After Republic Day, continue your refreshing winter journey",
+      "ja": "共和国の日の後、さわやかな冬の旅を続ける",
+      "zh": "共和国日过后，继续你清爽的冬季之旅"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Pleasant dry season, ideal time to visit Taj Mahal and Red Fort",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "快適な乾期、タージマハル・赤い要塞観光適期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "宜人的旱季，是参观泰姬陵和红堡的理想时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "디왈리 (11월, 힌두 빛 축제)",
-      "공화국의 날 퍼레이드 (1월 26일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "디왈리 (11월, 힌두 빛 축제)",
+        "공화국의 날 퍼레이드 (1월 26일)"
+      ],
+      "en": [
+        "Diwali (November, Hindu festival of lights)",
+        "Republic Day Parade (January 26)"
+      ],
+      "ja": [
+        "ディワリ（11月、ヒンドゥーライトフェスティバル）",
+        "共和国の日パレード（1月26日）"
+      ],
+      "zh": [
+        "排灯节（十一月，印度教灯节）",
+        "共和国日游行（1 月 26 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -49,19 +164,60 @@
     "regionId": "new-delhi",
     "month": 3,
     "rating": 5,
-    "summary": "홀리 색깔 축제, 봄 기운과 함께 찾아오는 축제",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "홀리 색깔 축제, 봄 기운과 함께 찾아오는 축제",
+      "en": "Holi Color Festival, a festival that comes with the energy of spring",
+      "ja": "ヒイラギ色の祭り、春のオーラと一緒に訪れる祭り",
+      "zh": "洒红节色彩节，一个充满春天活力的节日"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -69,21 +225,73 @@
     "regionId": "new-delhi",
     "month": 4,
     "rating": 5,
-    "summary": "기온 급상승 시작, 야외 관광 아침·저녁만",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 36°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "기온 급상승 시작, 야외 관광 아침·저녁만",
+      "en": "Temperature begins to rise rapidly, outdoor tourism only in the morning and evening",
+      "ja": "祇園急上昇開始、野外観光朝・夕のみ",
+      "zh": "气温开始快速上升，户外旅游只在早晚"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 36°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 36°C"
+      ],
+      "ja": [
+        "平均最高気温36°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温36°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -91,22 +299,77 @@
     "regionId": "new-delhi",
     "month": 5,
     "rating": 5,
-    "summary": "45°C 이상 폭염, 야외 유적 관광 자제",
-    "highlights": [
-      "45°C 이상 극심한 폭염 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 38°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "45°C 이상 폭염, 야외 유적 관광 자제",
+      "en": "Heatwave over 45°C, refrain from touring outdoor monuments",
+      "ja": "45°C以上の猛暑、野外遺跡観光自制",
+      "zh": "45℃以上热浪，请勿游览户外遗址"
+    },
+    "highlights": {
+      "ko": [
+        "45°C 이상 극심한 폭염 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "During extreme heat waves above 45°C",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "45°C以上の激しい爆炎の時期",
+        "日照時間が長く、野外活動に良い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "在 45°C 以上的极端热浪期间",
+        "日照时间长，适合户外活动",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 38°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 38°C"
+      ],
+      "ja": [
+        "平均最高気温38°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温38°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -114,22 +377,77 @@
     "regionId": "new-delhi",
     "month": 6,
     "rating": 4,
-    "summary": "몬순 직전 극한 더위, 실내 박물관 위주",
-    "highlights": [
-      "45°C 이상 극심한 폭염 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 38°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "몬순 직전 극한 더위, 실내 박물관 위주",
+      "en": "Extreme heat just before monsoon, focus on indoor museums",
+      "ja": "モンスーンの直前の極端な暑さ、屋内博物館を中心に",
+      "zh": "季风来临前酷暑，关注室内博物馆"
+    },
+    "highlights": {
+      "ko": [
+        "45°C 이상 극심한 폭염 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "During extreme heat waves above 45°C",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "45°C以上の激しい爆炎の時期",
+        "日照時間が長く、野外活動に良い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "在 45°C 以上的极端热浪期间",
+        "日照时间长，适合户外活动",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 38°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 38°C"
+      ],
+      "ja": [
+        "平均最高気温38°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温38°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -137,25 +455,89 @@
     "regionId": "new-delhi",
     "month": 7,
     "rating": 1,
-    "summary": "몬순 우기, 도시 침수 주의",
-    "highlights": [
-      "몬순 우기, 도시 침수 빈번",
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 34°C로 더위에 주의",
-      "월 강수량 248mm로 우기에 해당",
-      "월 22.2일 비가 와 야외 일정에 유의",
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "몬순 우기, 도시 침수 주의",
+      "en": "Monsoon rainy season, beware of urban flooding",
+      "ja": "モンスーン雨期、都市浸水注意",
+      "zh": "季风雨季，谨防城市内涝"
+    },
+    "highlights": {
+      "ko": [
+        "몬순 우기, 도시 침수 빈번",
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Monsoon rainy season, frequent urban flooding",
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "モンスーン雨期、都市浸水頻繁",
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "季风雨季，城市内涝频繁",
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 34°C로 더위에 주의",
+        "월 강수량 248mm로 우기에 해당",
+        "월 22.2일 비가 와 야외 일정에 유의",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 34°C",
+        "Monthly precipitation is 248mm, corresponding to the rainy season",
+        "About 22 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "平均最高気温34°Cで暑さに注意",
+        "月降水量248mmで雨季に対応",
+        "月22.2日雨と屋外のスケジュールに注意",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "平均最高气温34°C，请注意防暑",
+        "月降水量248毫米，对应雨季",
+        "月均约22天降雨，注意安排户外行程",
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -163,23 +545,81 @@
     "regionId": "new-delhi",
     "month": 8,
     "rating": 1,
-    "summary": "우기 지속, 독립기념일(15일) 분위기",
-    "highlights": [
-      "몬순 우기, 도시 침수 빈번",
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "월 강수량 154mm로 우기에 해당",
-      "월 17.4일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기 지속, 독립기념일(15일) 분위기",
+      "en": "Rainy season continues, Independence Day (15th) atmosphere",
+      "ja": "雨期持続、独立記念日（15日）雰囲気",
+      "zh": "雨季持续，独立日（15日）气氛"
+    },
+    "highlights": {
+      "ko": [
+        "몬순 우기, 도시 침수 빈번",
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Monsoon rainy season, frequent urban flooding",
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "モンスーン雨期、都市浸水頻繁",
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "季风雨季，城市内涝频繁",
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 154mm로 우기에 해당",
+        "월 17.4일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 154mm, corresponding to the rainy season",
+        "About 17 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "月降水量154mmで雨季に対応",
+        "月17.4日雨と屋外のスケジュールに注意",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "月降水量154毫米，对应雨季",
+        "月均约17天降雨，注意安排户外行程",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -187,23 +627,81 @@
     "regionId": "new-delhi",
     "month": 9,
     "rating": 2,
-    "summary": "우기 마무리, 더위 가시기 시작",
-    "highlights": [
-      "몬순 우기, 도시 침수 빈번",
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "월 강수량 160mm로 우기에 해당",
-      "비 오는 날이 14일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기 마무리, 더위 가시기 시작",
+      "en": "The rainy season is over, the heat is starting to subside",
+      "ja": "ウギ仕上げ、暑さが始まり",
+      "zh": "雨季已过，炎热开始消退"
+    },
+    "highlights": {
+      "ko": [
+        "몬순 우기, 도시 침수 빈번",
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Monsoon rainy season, frequent urban flooding",
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "モンスーン雨期、都市浸水頻繁",
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "季风雨季，城市内涝频繁",
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 160mm로 우기에 해당",
+        "비 오는 날이 14일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 160mm, corresponding to the rainy season",
+        "With 14 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "月降水量160mmで雨季に対応",
+        "雨の日が14日で屋内代替準備を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "每月降雨量160mm，对应雨季",
+        "14个阴雨天，建议室内替代准备",
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -211,18 +709,56 @@
     "regionId": "new-delhi",
     "month": 10,
     "rating": 5,
-    "summary": "건기 복귀, 디왈리 빛 축제 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "건기 복귀, 디왈리 빛 축제 시즌",
+      "en": "Return to dry season, Diwali light festival season",
+      "ja": "乾期復帰、ディワリライトフェスティバルシーズン",
+      "zh": "回归旱季，排灯节淡季"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -230,22 +766,77 @@
     "regionId": "new-delhi",
     "month": 11,
     "rating": 5,
-    "summary": "쾌적한 건기, 뉴델리 여행 황금기",
-    "highlights": [
-      "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "쾌적한 건기, 뉴델리 여행 황금기",
+      "en": "Pleasant dry season, golden time to travel to New Delhi",
+      "ja": "快適な乾期、ニューデリー旅行ゴールデン",
+      "zh": "宜人的旱季，去新德里旅游的黄金时间"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Pleasant dry season, ideal time to visit Taj Mahal and Red Fort",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "快適な乾期、タージマハル・赤い要塞観光適期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "宜人的旱季，是参观泰姬陵和红堡的理想时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "디왈리 (11월, 힌두 빛 축제)",
-      "공화국의 날 퍼레이드 (1월 26일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "디왈리 (11월, 힌두 빛 축제)",
+        "공화국의 날 퍼레이드 (1월 26일)"
+      ],
+      "en": [
+        "Diwali (November, Hindu festival of lights)",
+        "Republic Day Parade (January 26)"
+      ],
+      "ja": [
+        "ディワリ（11月、ヒンドゥーライトフェスティバル）",
+        "共和国の日パレード（1月26日）"
+      ],
+      "zh": [
+        "排灯节（十一月，印度教灯节）",
+        "共和国日游行（1 月 26 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -253,21 +844,73 @@
     "regionId": "new-delhi",
     "month": 12,
     "rating": 4,
-    "summary": "선선한 겨울, 크리스마스 분위기와 관광 성수기",
-    "highlights": [
-      "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "선선한 겨울, 크리스마스 분위기와 관광 성수기",
+      "en": "Cool winter, Christmas atmosphere and peak tourist season",
+      "ja": "涼しい冬、クリスマスの雰囲気と観光ハイシーズン",
+      "zh": "冬季凉爽，圣诞气氛浓厚，旅游旺季"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 건기, 타지마할·붉은 요새 관광 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Pleasant dry season, ideal time to visit Taj Mahal and Red Fort",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "快適な乾期、タージマハル・赤い要塞観光適期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "宜人的旱季，是参观泰姬陵和红堡的理想时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "디왈리 (11월, 힌두 빛 축제)",
-      "공화국의 날 퍼레이드 (1월 26일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "디왈리 (11월, 힌두 빛 축제)",
+        "공화국의 날 퍼레이드 (1월 26일)"
+      ],
+      "en": [
+        "Diwali (November, Hindu festival of lights)",
+        "Republic Day Parade (January 26)"
+      ],
+      "ja": [
+        "ディワリ（11月、ヒンドゥーライトフェスティバル）",
+        "共和国の日パレード（1月26日）"
+      ],
+      "zh": [
+        "排灯节（十一月，印度教灯节）",
+        "共和国日游行（1 月 26 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -275,22 +918,77 @@
     "regionId": "mumbai",
     "month": 1,
     "rating": 5,
-    "summary": "건기 성수기, 마린 드라이브·발리우드 투어 최적기",
-    "highlights": [
-      "건기 뭄바이, 발리우드·해안 산책 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "건기 성수기, 마린 드라이브·발리우드 투어 최적기",
+      "en": "Peak dry season, best time for Marine Drive and Bollywood tours",
+      "ja": "乾期の繁忙期、マリンドライブ・ボリウッドツアーの最適期",
+      "zh": "旱季高峰期，海滨大道和宝莱坞旅游的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "건기 뭄바이, 발리우드·해안 산책 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season in Mumbai, best time for Bollywood and coastal walks",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ムンバイ、バリウッド・海岸散策最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "孟买的旱季，宝莱坞和沿海散步的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "가네샤 차투르티 (8~9월)",
-      "뭄바이 마라톤 (1월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "가네샤 차투르티 (8~9월)",
+        "뭄바이 마라톤 (1월)"
+      ],
+      "en": [
+        "Ganesha Chaturthi (August-September)",
+        "Mumbai Marathon (January)"
+      ],
+      "ja": [
+        "ガネーシャチャトルティ（8～9月）",
+        "ムンバイマラソン（1月）"
+      ],
+      "zh": [
+        "Ganesha Chaturthi（八月至九月）",
+        "孟买马拉松（一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -298,23 +996,81 @@
     "regionId": "mumbai",
     "month": 2,
     "rating": 5,
-    "summary": "쾌청한 건기, 뭄바이 마라톤 시즌",
-    "highlights": [
-      "건기 뭄바이, 발리우드·해안 산책 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "쾌청한 건기, 뭄바이 마라톤 시즌",
+      "en": "Sunny dry season, Mumbai marathon season",
+      "ja": "陽気な乾季、ムンバイマラソンシーズン",
+      "zh": "阳光明媚的旱季，孟买马拉松季节"
+    },
+    "highlights": {
+      "ko": [
+        "건기 뭄바이, 발리우드·해안 산책 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Dry season in Mumbai, best time for Bollywood and coastal walks",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "乾期ムンバイ、バリウッド・海岸散策最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "孟买的旱季，宝莱坞和沿海散步的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "가네샤 차투르티 (8~9월)",
-      "뭄바이 마라톤 (1월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "가네샤 차투르티 (8~9월)",
+        "뭄바이 마라톤 (1월)"
+      ],
+      "en": [
+        "Ganesha Chaturthi (August-September)",
+        "Mumbai Marathon (January)"
+      ],
+      "ja": [
+        "ガネーシャチャトルティ（8～9月）",
+        "ムンバイマラソン（1月）"
+      ],
+      "zh": [
+        "Ganesha Chaturthi（八月至九月）",
+        "孟买马拉松（一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -322,22 +1078,77 @@
     "regionId": "mumbai",
     "month": 3,
     "rating": 5,
-    "summary": "더워지지만 바다 바람으로 위안, 해안 산책 추천",
-    "highlights": [
-      "건기 뭄바이, 발리우드·해안 산책 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "더워지지만 바다 바람으로 위안, 해안 산책 추천",
+      "en": "It gets hot, but the sea breeze comforts you. A walk along the coast is recommended",
+      "ja": "暑くなりますが、海風で慰め、海岸散歩におすすめ",
+      "zh": "虽然天气很热，但海风却很舒服。建议沿着海岸散步"
+    },
+    "highlights": {
+      "ko": [
+        "건기 뭄바이, 발리우드·해안 산책 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season in Mumbai, best time for Bollywood and coastal walks",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ムンバイ、バリウッド・海岸散策最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "孟买的旱季，宝莱坞和沿海散步的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "가네샤 차투르티 (8~9월)",
-      "뭄바이 마라톤 (1월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "가네샤 차투르티 (8~9월)",
+        "뭄바이 마라톤 (1월)"
+      ],
+      "en": [
+        "Ganesha Chaturthi (August-September)",
+        "Mumbai Marathon (January)"
+      ],
+      "ja": [
+        "ガネーシャチャトルティ（8～9月）",
+        "ムンバイマラソン（1月）"
+      ],
+      "zh": [
+        "Ganesha Chaturthi（八月至九月）",
+        "孟买马拉松（一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -345,21 +1156,73 @@
     "regionId": "mumbai",
     "month": 4,
     "rating": 5,
-    "summary": "고온다습, 오전 위주 관광으로 체력 관리",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 33°C로 더위에 주의",
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "고온다습, 오전 위주 관광으로 체력 관리",
+      "en": "Manage your physical strength with high temperature and humidity and sightseeing mainly in the morning",
+      "ja": "高温多湿、午前中心観光で体力管理",
+      "zh": "高温多湿、以上午观光为主，管理体力"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 33°C로 더위에 주의",
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 33°C",
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "平均最高気温33°Cで暑さに注意",
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "平均最高气温33°C，请注意防暑",
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -367,20 +1230,69 @@
     "regionId": "mumbai",
     "month": 5,
     "rating": 4,
-    "summary": "몬순 직전 극심한 더위, 여행 비비추천",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "몬순 직전 극심한 더위, 여행 비비추천",
+      "en": "Extreme heat just before monsoon, travel BB recommendation",
+      "ja": "モンスーンの直前の激しい暑さ、旅行の雨の推薦",
+      "zh": "季风来临前酷暑，出行BB推荐"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -388,23 +1300,81 @@
     "regionId": "mumbai",
     "month": 6,
     "rating": 1,
-    "summary": "몬순 시작, 아라비아해 거대 파도와 침수",
-    "highlights": [
-      "몬순 우기, 폭우와 도시 침수",
-      "따뜻한 날씨로 해변 활동에 적합",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 412mm로 우기에 해당",
-      "월 26.6일 비가 와 야외 일정에 유의",
-      "습도 84%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "몬순 시작, 아라비아해 거대 파도와 침수",
+      "en": "Monsoon begins, huge waves and flooding in Arabian Sea",
+      "ja": "モンスーンの始まり、アラビア海の巨大な波と浸水",
+      "zh": "季风开始，阿拉伯海巨浪和洪水"
+    },
+    "highlights": {
+      "ko": [
+        "몬순 우기, 폭우와 도시 침수",
+        "따뜻한 날씨로 해변 활동에 적합",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Monsoon rains, heavy rains and urban flooding",
+        "Warm weather perfect for beach activities",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "モンスーン雨期、大雨、都市浸水",
+        "暖かい天候でビーチアクティビティに最適",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "季风雨、暴雨和城市洪水",
+        "温暖的天气非常适合海滩活动",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 412mm로 우기에 해당",
+        "월 26.6일 비가 와 야외 일정에 유의",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 412mm, corresponding to the rainy season",
+        "About 27 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 84%"
+      ],
+      "ja": [
+        "月降水量412mmで雨季に対応",
+        "月26.6日雨と屋外のスケジュールに注意してください",
+        "湿度84％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量412毫米，对应雨季",
+        "月均约27天降雨，注意安排户外行程",
+        "湿度84%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -412,23 +1382,81 @@
     "regionId": "mumbai",
     "month": 7,
     "rating": 1,
-    "summary": "몬순 절정, 도시 곳곳 침수 — 여행 비추",
-    "highlights": [
-      "몬순 우기, 폭우와 도시 침수",
-      "쾌적한 기온",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 927mm로 우기에 해당",
-      "월 30.8일 비가 와 야외 일정에 유의",
-      "습도 89%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "몬순 절정, 도시 곳곳 침수 — 여행 비추",
+      "en": "At the peak of monsoon, many parts of the city are flooded — travel advice",
+      "ja": "モンスーンの頂上、都市のあちこちに浸水 — 旅行の照り出し",
+      "zh": "在季风高峰期，城市许多地方都被洪水淹没——旅行建议"
+    },
+    "highlights": {
+      "ko": [
+        "몬순 우기, 폭우와 도시 침수",
+        "쾌적한 기온",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Monsoon rains, heavy rains and urban flooding",
+        "Comfortable temperature",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "モンスーン雨期、大雨、都市浸水",
+        "快適な気温",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "季风雨、暴雨和城市洪水",
+        "舒适温度",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 927mm로 우기에 해당",
+        "월 30.8일 비가 와 야외 일정에 유의",
+        "습도 89%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 927mm, corresponding to the rainy season",
+        "About 31 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 89%"
+      ],
+      "ja": [
+        "月降水量927mmで雨季に対応",
+        "月30.8日雨と屋外のスケジュールに注意",
+        "湿度89％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量927毫米，对应雨季",
+        "月均约31天降雨，注意安排户外行程",
+        "湿度89%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -436,23 +1464,81 @@
     "regionId": "mumbai",
     "month": 8,
     "rating": 1,
-    "summary": "몬순 지속, 가네샤 차투르티 축제 (8~9월)",
-    "highlights": [
-      "몬순 우기, 폭우와 도시 침수",
-      "쾌적한 기온",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 476mm로 우기에 해당",
-      "월 29.6일 비가 와 야외 일정에 유의",
-      "습도 87%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "몬순 지속, 가네샤 차투르티 축제 (8~9월)",
+      "en": "Monsoon continues, Ganesha Chaturthi Festival (August-September)",
+      "ja": "モンスーン持続、ガネーシャチャトルティフェスティバル（8～9月）",
+      "zh": "季风继续，Ganesha Chaturthi Festival（八月至九月）"
+    },
+    "highlights": {
+      "ko": [
+        "몬순 우기, 폭우와 도시 침수",
+        "쾌적한 기온",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Monsoon rains, heavy rains and urban flooding",
+        "Comfortable temperature",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "モンスーン雨期、大雨、都市浸水",
+        "快適な気温",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "季风雨、暴雨和城市洪水",
+        "舒适温度",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 476mm로 우기에 해당",
+        "월 29.6일 비가 와 야외 일정에 유의",
+        "습도 87%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 476mm, corresponding to the rainy season",
+        "About 30 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 87%"
+      ],
+      "ja": [
+        "月降水量476mmで雨季に対応",
+        "月29.6日雨と屋外のスケジュールに注意",
+        "湿度87％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量476毫米，对应雨季",
+        "月均约30天降雨，注意安排户外行程",
+        "湿度87%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -460,23 +1546,81 @@
     "regionId": "mumbai",
     "month": 9,
     "rating": 1,
-    "summary": "몬순 마무리, 가네샤 축제 클라이맥스",
-    "highlights": [
-      "몬순 우기, 폭우와 도시 침수",
-      "쾌적한 기온",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 455mm로 우기에 해당",
-      "월 28.8일 비가 와 야외 일정에 유의",
-      "습도 88%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "몬순 마무리, 가네샤 축제 클라이맥스",
+      "en": "End of monsoon, climax of Ganesha festival",
+      "ja": "モンスーン仕上げ、カネシャ祭りクライマックス",
+      "zh": "季风结束，甘尼萨节的高潮"
+    },
+    "highlights": {
+      "ko": [
+        "몬순 우기, 폭우와 도시 침수",
+        "쾌적한 기온",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Monsoon rains, heavy rains and urban flooding",
+        "Comfortable temperature",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "モンスーン雨期、大雨、都市浸水",
+        "快適な気温",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "季风雨、暴雨和城市洪水",
+        "舒适温度",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 455mm로 우기에 해당",
+        "월 28.8일 비가 와 야외 일정에 유의",
+        "습도 88%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 455mm, corresponding to the rainy season",
+        "About 29 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 88%"
+      ],
+      "ja": [
+        "月降水量455mmで雨季に対応",
+        "月28.8日雨と屋外のスケジュールに注意",
+        "湿度88％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量455毫米，对应雨季",
+        "月均约29天降雨，注意安排户外行程",
+        "湿度88%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -484,20 +1628,69 @@
     "regionId": "mumbai",
     "month": 10,
     "rating": 3,
-    "summary": "건기 시작, 쾌청해진 뭄바이",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 12.4일로 실내 대안 준비 권장",
-      "습도 80%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "건기 시작, 쾌청해진 뭄바이",
+      "en": "The dry season begins, Mumbai becomes brighter",
+      "ja": "乾期開始、快晴になったムンバイ",
+      "zh": "旱季开始，孟买变得更加明亮"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.4일로 실내 대안 준비 권장",
+        "습도 80%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 12.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 80%"
+      ],
+      "ja": [
+        "雨の日が12.4日で屋内代替準備を推奨",
+        "湿度80％で不快指数が高い"
+      ],
+      "zh": [
+        "12.4阴雨天，建议室内替代准备",
+        "湿度80%不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -505,22 +1698,77 @@
     "regionId": "mumbai",
     "month": 11,
     "rating": 5,
-    "summary": "건기 성수기 재개, 쾌적한 해안 도시 탐방",
-    "highlights": [
-      "건기 뭄바이, 발리우드·해안 산책 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "건기 성수기 재개, 쾌적한 해안 도시 탐방",
+      "en": "Peak dry season resumes, exploring pleasant coastal cities",
+      "ja": "乾期ピークシーズンの再開、快適な沿岸都市探訪",
+      "zh": "旱季高峰恢复，探索宜人的沿海城市"
+    },
+    "highlights": {
+      "ko": [
+        "건기 뭄바이, 발리우드·해안 산책 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season in Mumbai, best time for Bollywood and coastal walks",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ムンバイ、バリウッド・海岸散策最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "孟买的旱季，宝莱坞和沿海散步的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "가네샤 차투르티 (8~9월)",
-      "뭄바이 마라톤 (1월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "가네샤 차투르티 (8~9월)",
+        "뭄바이 마라톤 (1월)"
+      ],
+      "en": [
+        "Ganesha Chaturthi (August-September)",
+        "Mumbai Marathon (January)"
+      ],
+      "ja": [
+        "ガネーシャチャトルティ（8～9月）",
+        "ムンバイマラソン（1月）"
+      ],
+      "zh": [
+        "Ganesha Chaturthi（八月至九月）",
+        "孟买马拉松（一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -528,22 +1776,77 @@
     "regionId": "mumbai",
     "month": 12,
     "rating": 5,
-    "summary": "연말 성수기, 크리스마스 콜라바 거리 분위기",
-    "highlights": [
-      "건기 뭄바이, 발리우드·해안 산책 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "연말 성수기, 크리스마스 콜라바 거리 분위기",
+      "en": "Year-end peak season, Christmas Colaba street atmosphere",
+      "ja": "年末のハイシーズン、クリスマスコラバストリートムード",
+      "zh": "年终旺季，圣诞克拉巴街头气氛"
+    },
+    "highlights": {
+      "ko": [
+        "건기 뭄바이, 발리우드·해안 산책 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season in Mumbai, best time for Bollywood and coastal walks",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ムンバイ、バリウッド・海岸散策最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "孟买的旱季，宝莱坞和沿海散步的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "가네샤 차투르티 (8~9월)",
-      "뭄바이 마라톤 (1월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "가네샤 차투르티 (8~9월)",
+        "뭄바이 마라톤 (1월)"
+      ],
+      "en": [
+        "Ganesha Chaturthi (August-September)",
+        "Mumbai Marathon (January)"
+      ],
+      "ja": [
+        "ガネーシャチャトルティ（8～9月）",
+        "ムンバイマラソン（1月）"
+      ],
+      "zh": [
+        "Ganesha Chaturthi（八月至九月）",
+        "孟买马拉松（一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   }

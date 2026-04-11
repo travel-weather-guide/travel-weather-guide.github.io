@@ -3,16 +3,48 @@
     "regionId": "madrid",
     "month": 1,
     "rating": 3,
-    "summary": "추운 겨울, 프라도 미술관 등 실내 관광 위주",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "추운 겨울, 프라도 미술관 등 실내 관광 위주",
+      "en": "Cold winter, focusing on indoor tourism such as the Prado Museum",
+      "ja": "寒い冬、プラド美術館などの屋内観光中心",
+      "zh": "寒冷的冬季，重点关注普拉多博物馆等室内旅游"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -20,17 +52,52 @@
     "regionId": "madrid",
     "month": 2,
     "rating": 3,
-    "summary": "아직 추운 겨울, 카니발 축제",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "아직 추운 겨울, 카니발 축제",
+      "en": "Still cold winter, carnival festival",
+      "ja": "まだ寒い冬、カーニバル祭り",
+      "zh": "冬天依然寒冷，狂欢节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -38,16 +105,48 @@
     "regionId": "madrid",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 레티로 공원에 꽃이 피는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 레티로 공원에 꽃이 피는 시기",
+      "en": "The beginning of spring, when flowers bloom in Retiro Park",
+      "ja": "春の始まり、レティーロ公園に咲く時期",
+      "zh": "春天的开始，丽池公园鲜花盛开"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -55,21 +154,73 @@
     "regionId": "madrid",
     "month": 4,
     "rating": 3,
-    "summary": "봄 한가운데, 야외 테라스 카페 시즌",
-    "highlights": [
-      "이사벨라 봄 축제 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "봄 한가운데, 야외 테라스 카페 시즌",
+      "en": "In the middle of spring, outdoor terrace cafe season",
+      "ja": "春の真ん中、屋外テラスカフェシーズン",
+      "zh": "仲春时节，户外露台咖啡馆季节"
+    },
+    "highlights": {
+      "ko": [
+        "이사벨라 봄 축제 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Isabella Spring Festival Season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "イザベラ春祭りシーズン",
+        "日照時間が長く、野外活動に良い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "伊莎贝拉春节季",
+        "日照时间长，适合户外活动",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "산 이시드로 축제 (5월)",
-      "레알 마드리드 홈 경기 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "산 이시드로 축제 (5월)",
+        "레알 마드리드 홈 경기 시즌"
+      ],
+      "en": [
+        "San Isidro Festival (May)",
+        "Real Madrid Home Match Season"
+      ],
+      "ja": [
+        "サンイシドロフェスティバル（5月）",
+        "レアルマドリードホームマッチシーズン"
+      ],
+      "zh": [
+        "圣伊西德罗节（五月）",
+        "皇马主场赛季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -77,23 +228,81 @@
     "regionId": "madrid",
     "month": 5,
     "rating": 5,
-    "summary": "봄꽃 만개, 산 이시드로 축제의 최적기",
-    "highlights": [
-      "이사벨라 봄 축제 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "봄꽃 만개, 산 이시드로 축제의 최적기",
+      "en": "Spring flowers in full bloom, the best time for the San Isidro Festival",
+      "ja": "春の花満開、サンイシドロフェスティバルの最適期",
+      "zh": "春暖花开，圣伊西德罗节最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "이사벨라 봄 축제 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Isabella Spring Festival Season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "イザベラ春祭りシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "伊莎贝拉春节季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "산 이시드로 축제 (5월)",
-      "레알 마드리드 홈 경기 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "산 이시드로 축제 (5월)",
+        "레알 마드리드 홈 경기 시즌"
+      ],
+      "en": [
+        "San Isidro Festival (May)",
+        "Real Madrid Home Match Season"
+      ],
+      "ja": [
+        "サンイシドロフェスティバル（5月）",
+        "レアルマドリードホームマッチシーズン"
+      ],
+      "zh": [
+        "圣伊西德罗节（五月）",
+        "皇马主场赛季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -101,19 +310,60 @@
     "regionId": "madrid",
     "month": 6,
     "rating": 5,
-    "summary": "더워지기 시작, 밤 산책이 매력인 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "더워지기 시작, 밤 산책이 매력인 시기",
+      "en": "It's starting to get hot, a time when walking at night is attractive",
+      "ja": "暑くなり始め、夜の散歩が魅力の時期",
+      "zh": "天开始热了，正是夜行魅力的时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -121,21 +371,73 @@
     "regionId": "madrid",
     "month": 7,
     "rating": 5,
-    "summary": "40°C 넘는 극심한 폭염, 낮에는 야외 불가",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [
-      "평균 최고기온 35°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "40°C 넘는 극심한 폭염, 낮에는 야외 불가",
+      "en": "Extreme heat wave exceeding 40°C, no outdoor activities allowed during the day",
+      "ja": "40°Cを超える極度の爆発、日中は屋外不可",
+      "zh": "极端热浪超过40℃，白天禁止户外活动"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 35°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 35°C"
+      ],
+      "ja": [
+        "平均最高気温35°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温35°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -143,21 +445,73 @@
     "regionId": "madrid",
     "month": 8,
     "rating": 5,
-    "summary": "폭염 지속, 현지인도 도시를 떠나는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [
-      "평균 최고기온 34°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "폭염 지속, 현지인도 도시를 떠나는 시기",
+      "en": "As the heat wave continues, even locals are leaving the city",
+      "ja": "猛烈な持続、地元の人も街を去る時期",
+      "zh": "随着热浪的持续，就连当地人也开始离开这座城市"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 34°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 34°C"
+      ],
+      "ja": [
+        "平均最高気温34°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温34°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -165,18 +519,56 @@
     "regionId": "madrid",
     "month": 9,
     "rating": 5,
-    "summary": "폭염이 물러간 쾌적한 가을 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "폭염이 물러간 쾌적한 가을 시작",
+      "en": "A pleasant start to fall after the heat wave has subsided",
+      "ja": "猛暑が退いた快適な秋の始まり",
+      "zh": "热浪消退后，愉快的秋天开始了"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -184,16 +576,48 @@
     "regionId": "madrid",
     "month": 10,
     "rating": 3,
-    "summary": "완벽한 가을 날씨, 미식 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "완벽한 가을 날씨, 미식 시즌",
+      "en": "Perfect fall weather, gourmet season",
+      "ja": "完璧な秋の天気、アメリカンシーズン",
+      "zh": "完美的秋季天气，美食季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -201,16 +625,48 @@
     "regionId": "madrid",
     "month": 11,
     "rating": 3,
-    "summary": "쌀쌀해지는 초겨울, 관광객 줄어드는 시기",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 80%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "쌀쌀해지는 초겨울, 관광객 줄어드는 시기",
+      "en": "Early winter gets chilly, a time when there are fewer tourists",
+      "ja": "肌寒くなる初冬、観光客が減る時期",
+      "zh": "初冬寒冷，游客较少"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 80%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 80%"
+      ],
+      "ja": [
+        "湿度80％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度80%不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -218,16 +674,48 @@
     "regionId": "madrid",
     "month": 12,
     "rating": 2,
-    "summary": "추운 겨울, 크리스마스 마켓과 연말 분위기",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "추운 겨울, 크리스마스 마켓과 연말 분위기",
+      "en": "Cold winter, Christmas markets and year-end atmosphere",
+      "ja": "寒い冬、クリスマスマーケットと年末の雰囲気",
+      "zh": "寒冷的冬天，圣诞集市和年末气氛"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -235,16 +723,48 @@
     "regionId": "barcelona",
     "month": 1,
     "rating": 3,
-    "summary": "겨울, 10°C 이하로 한산한 비수기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 10°C 이하로 한산한 비수기",
+      "en": "Winter, off-season with temperatures below 10°C",
+      "ja": "冬、10℃以下に寒い雨水期",
+      "zh": "冬季淡季，气温低于 10°C"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -252,19 +772,65 @@
     "regionId": "barcelona",
     "month": 2,
     "rating": 4,
-    "summary": "겨울이지만 온화, 관광객 적은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울이지만 온화, 관광객 적은 시기",
+      "en": "Winter, but mild, with few tourists",
+      "ja": "冬ですが穏やかで、観光客が少ない時期",
+      "zh": "冬天，但气候温和，游人稀少"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -272,18 +838,61 @@
     "regionId": "barcelona",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 산책과 가우디 건축 투어 좋은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 산책과 가우디 건축 투어 좋은 시기",
+      "en": "Spring begins, a good time for walks and Gaudí architectural tours.",
+      "ja": "春の始まり、散歩とガウディ建築ツアーの良い時期",
+      "zh": "春天来了，是散步和参观高迪建筑的好时机。"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -291,18 +900,61 @@
     "regionId": "barcelona",
     "month": 4,
     "rating": 3,
-    "summary": "따뜻한 봄, 람블라스 거리 산책 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "따뜻한 봄, 람블라스 거리 산책 최적기",
+      "en": "Warm spring, the best time to walk down Las Ramblas",
+      "ja": "暖かい春、ランブラス通りの散歩最適機",
+      "zh": "温暖的春天，漫步兰布拉大道的最佳时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -310,18 +962,61 @@
     "regionId": "barcelona",
     "month": 5,
     "rating": 4,
-    "summary": "지중해 봄, 해변 시즌 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "지중해 봄, 해변 시즌 시작",
+      "en": "Mediterranean spring, beach season begins",
+      "ja": "地中海春、ビーチシーズンスタート",
+      "zh": "地中海春天，海滩季节开始"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -329,24 +1024,90 @@
     "regionId": "barcelona",
     "month": 6,
     "rating": 5,
-    "summary": "본격 해변 시즌, 따뜻한 바다(22°C)",
-    "highlights": [
-      "해변+도시 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "성 후안 축제 (6월 23일)",
-      "그라시아 지구 축제 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "본격 해변 시즌, 따뜻한 바다(22°C)",
+      "en": "Beach season in full swing, warm sea (22°C)",
+      "ja": "本格的なビーチシーズン、暖かい海（22℃）",
+      "zh": "海滩季节如火如荼，温暖的海水 (22°C)"
+    },
+    "highlights": {
+      "ko": [
+        "해변+도시 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Beach + city peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ビーチ+都市ハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "海滩+城市旺季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "성 후안 축제 (6월 23일)",
+        "그라시아 지구 축제 (8월)"
+      ],
+      "en": [
+        "Saint Juan Festival (June 23)",
+        "Gracia District Festival (August)"
+      ],
+      "ja": [
+        "聖フアンフェスティバル（6月23日）",
+        "グラシア地区フェスティバル（8月）"
+      ],
+      "zh": [
+        "圣胡安节（6 月 23 日）",
+        "格拉西亚区节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -354,24 +1115,90 @@
     "regionId": "barcelona",
     "month": 7,
     "rating": 5,
-    "summary": "비치 피크 시즌, 바르셀로네타 해변 만석",
-    "highlights": [
-      "해변+도시 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 70%로 다소 높음"
-    ],
-    "events": [
-      "성 후안 축제 (6월 23일)",
-      "그라시아 지구 축제 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "비치 피크 시즌, 바르셀로네타 해변 만석",
+      "en": "Peak beach season, Barceloneta beach full",
+      "ja": "ビーチピークシーズン、バルセロネータビーチ満席",
+      "zh": "海滩旺季，巴塞罗那海滩爆满"
+    },
+    "highlights": {
+      "ko": [
+        "해변+도시 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Beach + city peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ビーチ+都市ハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "海滩+城市旺季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 70%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 70%"
+      ],
+      "ja": [
+        "湿度が70％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，70%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "성 후안 축제 (6월 23일)",
+        "그라시아 지구 축제 (8월)"
+      ],
+      "en": [
+        "Saint Juan Festival (June 23)",
+        "Gracia District Festival (August)"
+      ],
+      "ja": [
+        "聖フアンフェスティバル（6月23日）",
+        "グラシア地区フェスティバル（8月）"
+      ],
+      "zh": [
+        "圣胡安节（6 月 23 日）",
+        "格拉西亚区节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -379,23 +1206,86 @@
     "regionId": "barcelona",
     "month": 8,
     "rating": 5,
-    "summary": "여름 성수기, 그라시아 축제",
-    "highlights": [
-      "해변+도시 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
-    "events": [
-      "성 후안 축제 (6월 23일)",
-      "그라시아 지구 축제 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "여름 성수기, 그라시아 축제",
+      "en": "Peak summer season, Gracia Festival",
+      "ja": "夏のハイシーズン、グラシア祭り",
+      "zh": "夏季旺季，格拉西亚节"
+    },
+    "highlights": {
+      "ko": [
+        "해변+도시 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Beach + city peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ビーチ+都市ハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "海滩+城市旺季",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "성 후안 축제 (6월 23일)",
+        "그라시아 지구 축제 (8월)"
+      ],
+      "en": [
+        "Saint Juan Festival (June 23)",
+        "Gracia District Festival (August)"
+      ],
+      "ja": [
+        "聖フアンフェスティバル（6月23日）",
+        "グラシア地区フェスティバル（8月）"
+      ],
+      "zh": [
+        "圣胡安节（6 月 23 日）",
+        "格拉西亚区节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -403,20 +1293,69 @@
     "regionId": "barcelona",
     "month": 9,
     "rating": 4,
-    "summary": "관광객 줄고 바다 여전히 따뜻한 최적기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "관광객 줄고 바다 여전히 따뜻한 최적기",
+      "en": "Best time to visit with fewer tourists and still warm seas",
+      "ja": "観光客を減らす海まだ暖かい最適機",
+      "zh": "游客较少、海水依然温暖的最佳游览时间"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "With 10.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "雨の日が10.4日で屋内代替案を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "10.4阴雨天，建议室内替代准备",
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -424,19 +1363,65 @@
     "regionId": "barcelona",
     "month": 10,
     "rating": 4,
-    "summary": "가을의 바르셀로나, 쾌적한 산책 날씨",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을의 바르셀로나, 쾌적한 산책 날씨",
+      "en": "Barcelona in autumn, pleasant walking weather",
+      "ja": "秋のバルセロナ、快適な散歩の天気",
+      "zh": "秋天的巴塞罗那，散步的好天气"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -444,16 +1429,48 @@
     "regionId": "barcelona",
     "month": 11,
     "rating": 3,
-    "summary": "쌀쌀해지는 초겨울, 비수기 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쌀쌀해지는 초겨울, 비수기 시작",
+      "en": "Early winter gets chilly, off-season begins",
+      "ja": "肌寒くなる初冬、オフシーズン開始",
+      "zh": "初冬寒冷，淡季开始"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -461,16 +1478,48 @@
     "regionId": "barcelona",
     "month": 12,
     "rating": 3,
-    "summary": "겨울, 크리스마스 마켓과 해산물 시즌",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 크리스마스 마켓과 해산물 시즌",
+      "en": "Winter, Christmas markets and seafood season",
+      "ja": "冬、クリスマス マーケット、シーフードの季節",
+      "zh": "冬季、圣诞市场和海鲜季节"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -478,16 +1527,48 @@
     "regionId": "seville",
     "month": 1,
     "rating": 3,
-    "summary": "겨울, 비 잦지만 오렌지 나무가 아름다운 시기",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 비 잦지만 오렌지 나무가 아름다운 시기",
+      "en": "Winter, a time when it rains often but the orange trees are beautiful",
+      "ja": "冬、雨がよく降りますが、オレンジの木が美しい時期です",
+      "zh": "冬天，虽然经常下雨，但橘子树却很美"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -495,19 +1576,65 @@
     "regionId": "seville",
     "month": 2,
     "rating": 4,
-    "summary": "겨울 끝자락, 봄 축제 준비 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울 끝자락, 봄 축제 준비 시즌",
+      "en": "End of winter, spring festival preparation season",
+      "ja": "冬の終わり、春祭りの準備シーズン",
+      "zh": "冬末，春节准备季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -515,19 +1642,65 @@
     "regionId": "seville",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 세마나 산타(성주간) 축제",
-    "highlights": [
-      "플라멩코 축제 시즌",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 세마나 산타(성주간) 축제",
+      "en": "Spring begins, Semana Santa (Holy Week) festival",
+      "ja": "春の始まり、セマナサンタ（聖週間）祭り",
+      "zh": "春天开始，Semana Santa（圣周）节日"
+    },
+    "highlights": {
+      "ko": [
+        "플라멩코 축제 시즌",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Flamenco Festival Season",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "フラメンコフェスティバルシーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "弗拉明戈音乐节",
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "세마나 산타 (성주간)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "세마나 산타 (성주간)"
+      ],
+      "en": [
+        "Semana Santa (Holy Week)"
+      ],
+      "ja": [
+        "セマナサンタ（聖週間）"
+      ],
+      "zh": [
+        "圣诞老人周（圣周）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -535,22 +1708,77 @@
     "regionId": "seville",
     "month": 4,
     "rating": 5,
-    "summary": "페리아 축제, 오렌지 꽃 향기의 세비야 최적기",
-    "highlights": [
-      "세비야 4월 축제(페리아)",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "페리아 축제, 오렌지 꽃 향기의 세비야 최적기",
+      "en": "Feria Festival, the best time in Seville for the scent of orange blossoms",
+      "ja": "フェリアフェスティバル、オレンジ色の花の香りのセビリア最適機",
+      "zh": "Feria Festival，塞维利亚橙花芬芳的最佳时光"
+    },
+    "highlights": {
+      "ko": [
+        "세비야 4월 축제(페리아)",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Seville April Festival (Feria)",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "セビリア4月祭（フェリア）",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "塞维利亚四月节 (Feria)",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "세마나 산타 (3~4월)",
-      "세비야 페리아 데 아브릴 (4월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "세마나 산타 (3~4월)",
+        "세비야 페리아 데 아브릴 (4월)"
+      ],
+      "en": [
+        "Semana Santa (March-April)",
+        "Seville Feria de Abril (April)"
+      ],
+      "ja": [
+        "セマナサンタ（3〜4月）",
+        "セビリアのフェリア・デ・アブリル（4月）"
+      ],
+      "zh": [
+        "圣诞老人周（三月至四月）",
+        "塞维利亚四月节（四月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -558,19 +1786,60 @@
     "regionId": "seville",
     "month": 5,
     "rating": 5,
-    "summary": "봄 끝자락, 아직 폭염 전의 쾌적한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "봄 끝자락, 아직 폭염 전의 쾌적한 시기",
+      "en": "The end of spring, a pleasant time before the heat wave",
+      "ja": "春の終わり、まだ爆炎前の快適な時期",
+      "zh": "春末，热浪来临前的美好时光"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -578,19 +1847,60 @@
     "regionId": "seville",
     "month": 6,
     "rating": 5,
-    "summary": "더위 시작, 35°C 넘기 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "더위 시작, 35°C 넘기 시작",
+      "en": "The heat starts, starting to exceed 35°C",
+      "ja": "暑さが始まり、35℃を超え始める",
+      "zh": "开始发热，开始超过 35°C"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -598,22 +1908,77 @@
     "regionId": "seville",
     "month": 7,
     "rating": 5,
-    "summary": "45°C까지 오르는 유럽 최악의 폭염",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 38°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "45°C까지 오르는 유럽 최악의 폭염",
+      "en": "Europe's worst heat wave reaching up to 45°C",
+      "ja": "45℃に上がるヨーロッパの最悪の炎",
+      "zh": "欧洲最严重热浪高达45°C"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 38°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 38°C"
+      ],
+      "ja": [
+        "平均最高気温38°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温38°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -621,21 +1986,73 @@
     "regionId": "seville",
     "month": 8,
     "rating": 5,
-    "summary": "폭염 지속, 야외 활동 사실상 불가",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 37°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "폭염 지속, 야외 활동 사실상 불가",
+      "en": "Heatwave continues, outdoor activities virtually impossible",
+      "ja": "猛烈な持続、野外活動事実上不可能",
+      "zh": "热浪持续，户外活动几乎不可能"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 37°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 37°C"
+      ],
+      "ja": [
+        "平均最高気温37°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温37°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -643,19 +2060,60 @@
     "regionId": "seville",
     "month": 9,
     "rating": 5,
-    "summary": "폭염 물러가지만 아직 30°C대",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "폭염 물러가지만 아직 30°C대",
+      "en": "The heat wave is going away, but it's still in the 30°C range",
+      "ja": "猛暑を止めるが、まだ30℃C",
+      "zh": "热浪虽远去，但气温仍维持在30℃左右"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -663,20 +2121,69 @@
     "regionId": "seville",
     "month": 10,
     "rating": 4,
-    "summary": "선선한 가을, 플라멩코와 타파스의 계절",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 105mm로 우산 필수"
-    ],
+    "summary": {
+      "ko": "선선한 가을, 플라멩코와 타파스의 계절",
+      "en": "Cool fall, the season of flamenco and tapas",
+      "ja": "鮮やかな秋、フラメンコとタパスの季節",
+      "zh": "凉爽的秋天，弗拉门戈和小吃的季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 105mm로 우산 필수"
+      ],
+      "en": [
+        "With 105mm of precipitation, an umbrella is a must"
+      ],
+      "ja": [
+        "降水量が105mmで傘必須"
+      ],
+      "zh": [
+        "105毫米降水，雨伞必备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -684,18 +2191,61 @@
     "regionId": "seville",
     "month": 11,
     "rating": 4,
-    "summary": "가을 끝자락, 관광하기 좋은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을 끝자락, 관광하기 좋은 시기",
+      "en": "End of fall, a good time for sightseeing",
+      "ja": "秋の終わり、観光に良い時期",
+      "zh": "秋末，正是旅游观光的好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -703,16 +2253,48 @@
     "regionId": "seville",
     "month": 12,
     "rating": 3,
-    "summary": "겨울, 크리스마스 마켓과 오렌지 수확",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 크리스마스 마켓과 오렌지 수확",
+      "en": "Winter, Christmas markets and orange harvest",
+      "ja": "冬、クリスマス マーケットとオレンジの収穫",
+      "zh": "冬季、圣诞市场和橙子收获"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -720,16 +2302,48 @@
     "regionId": "granada",
     "month": 1,
     "rating": 3,
-    "summary": "겨울이지만 알함브라 한적한 관람 가능",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "겨울이지만 알함브라 한적한 관람 가능",
+      "en": "Although it is winter, you can enjoy a quiet view of the Alhambra",
+      "ja": "冬ですがアルハンブラの静かな観覧可能",
+      "zh": "虽然是冬天，但可以安静地欣赏阿尔罕布拉宫"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -737,18 +2351,56 @@
     "regionId": "granada",
     "month": 2,
     "rating": 4,
-    "summary": "겨울 끝자락, 시에라네바다 스키 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "겨울 끝자락, 시에라네바다 스키 시즌",
+      "en": "End of winter, Sierra Nevada ski season",
+      "ja": "冬の終わり、シエラネバダスキーシーズン",
+      "zh": "冬末，内华达山脉滑雪季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -756,23 +2408,86 @@
     "regionId": "granada",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 알함브라 정원 꽃 피기 시작",
-    "highlights": [
-      "봄 그라나다, 알함브라 궁전 관광 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 102mm로 우산 필수",
-      "비 오는 날이 12.6일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "세마나 산타 (3~4월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "봄 시작, 알함브라 정원 꽃 피기 시작",
+      "en": "Spring begins, Alhambra garden flowers begin to bloom",
+      "ja": "春の始まり、アルハンブラガーデンの花が咲き始める",
+      "zh": "春天来了，阿罕布拉花园里的花朵开始绽放"
+    },
+    "highlights": {
+      "ko": [
+        "봄 그라나다, 알함브라 궁전 관광 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Spring in Granada, the best time to visit the Alhambra Palace",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "春グラナダ、アルハンブラ宮殿の観光の最適化",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "格拉纳达的春天，参观阿罕布拉宫的最佳时间",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 102mm로 우산 필수",
+        "비 오는 날이 12.6일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "Rainfall is 102mm, so an umbrella is a must",
+        "With 12.6 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "降水量が102mmで傘必須",
+        "雨の日が12.6日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "降雨量102毫米，雨伞必备",
+        "12.6阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "세마나 산타 (3~4월)"
+      ],
+      "en": [
+        "Semana Santa (March-April)"
+      ],
+      "ja": [
+        "セマナサンタ（3〜4月）"
+      ],
+      "zh": [
+        "圣诞老人周（三月至四月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -780,20 +2495,69 @@
     "regionId": "granada",
     "month": 4,
     "rating": 4,
-    "summary": "세마나 산타(성주간), 그라나다 전통 행렬",
-    "highlights": [
-      "봄 그라나다, 알함브라 궁전 관광 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "세마나 산타(성주간), 그라나다 전통 행렬",
+      "en": "Semana Santa (Holy Week), Granada traditional procession",
+      "ja": "セマナサンタ（聖週間）、グラナダの伝統行列",
+      "zh": "Semana Santa（圣周），格拉纳达传统游行"
+    },
+    "highlights": {
+      "ko": [
+        "봄 그라나다, 알함브라 궁전 관광 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Spring in Granada, the best time to visit the Alhambra Palace",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "春グラナダ、アルハンブラ宮殿の観光の最適化",
+        "日照時間が長く、野外活動に良い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "格拉纳达的春天，参观阿罕布拉宫的最佳时间",
+        "日照时间长，适合户外活动",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "세마나 산타 (3~4월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "세마나 산타 (3~4월)"
+      ],
+      "en": [
+        "Semana Santa (March-April)"
+      ],
+      "ja": [
+        "セマナサンタ（3〜4月）"
+      ],
+      "zh": [
+        "圣诞老人周（三月至四月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -801,22 +2565,77 @@
     "regionId": "granada",
     "month": 5,
     "rating": 5,
-    "summary": "봄 절정, 알함브라·헤네랄리페 정원 최적기",
-    "highlights": [
-      "봄 그라나다, 알함브라 궁전 관광 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "봄 절정, 알함브라·헤네랄리페 정원 최적기",
+      "en": "Spring peak, the best time for the Alhambra and Generalife Gardens",
+      "ja": "春の絶頂、アルハンブラ・ヘネラリフェ庭園の最適期",
+      "zh": "春季高峰，阿尔罕布拉宫和赫内拉利费花园的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "봄 그라나다, 알함브라 궁전 관광 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Spring in Granada, the best time to visit the Alhambra Palace",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "春グラナダ、アルハンブラ宮殿の観光の最適化",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "格拉纳达的春天，参观阿罕布拉宫的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "세마나 산타 (3~4월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "세마나 산타 (3~4월)"
+      ],
+      "en": [
+        "Semana Santa (March-April)"
+      ],
+      "ja": [
+        "セマナサンタ（3〜4月）"
+      ],
+      "zh": [
+        "圣诞老人周（三月至四月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -824,19 +2643,60 @@
     "regionId": "granada",
     "month": 6,
     "rating": 5,
-    "summary": "더워지기 시작, 알바이신 지구 석양 감상",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "더워지기 시작, 알바이신 지구 석양 감상",
+      "en": "It's starting to get hot, watching the sunset in the Albaicín district",
+      "ja": "暑くなり始め、アルバイシン地球の夕日鑑賞",
+      "zh": "天开始热了，在阿尔拜辛区看日落"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -844,21 +2704,73 @@
     "regionId": "granada",
     "month": 7,
     "rating": 5,
-    "summary": "40°C 폭염, 오전 관광·오후 시에스타",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 36°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "40°C 폭염, 오전 관광·오후 시에스타",
+      "en": "40°C heat wave, morning sightseeing and afternoon siesta",
+      "ja": "40°C爆炎、午前観光・午後シエスタ",
+      "zh": "40℃热浪，早上观光下午午睡"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 36°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 36°C"
+      ],
+      "ja": [
+        "平均最高気温36°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温36°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -866,21 +2778,73 @@
     "regionId": "granada",
     "month": 8,
     "rating": 5,
-    "summary": "폭염 지속, 시에라네바다 산악 피서",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 35°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "폭염 지속, 시에라네바다 산악 피서",
+      "en": "Heat wave continues, Sierra Nevada mountain retreat",
+      "ja": "猛烈な持続、シエラネバダ山岳フィサー",
+      "zh": "热浪持续，内华达山脉撤退"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 35°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 35°C"
+      ],
+      "ja": [
+        "平均最高気温35°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温35°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -888,22 +2852,77 @@
     "regionId": "granada",
     "month": 9,
     "rating": 5,
-    "summary": "더위 가시기 시작, 가을 여행 재개",
-    "highlights": [
-      "가을 그라나다, 시에라네바다 전경의 황금빛",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "더위 가시기 시작, 가을 여행 재개",
+      "en": "Heat begins to subside, fall travel resumes",
+      "ja": "暑さの始まり、秋の旅行を再開",
+      "zh": "暑气开始消退，秋季出行恢复"
+    },
+    "highlights": {
+      "ko": [
+        "가을 그라나다, 시에라네바다 전경의 황금빛",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Autumn Granada, golden views of the Sierra Nevada",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "秋のグラナダ、シエラネバダの景色の黄金色",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "秋天的格拉纳达，内华达山脉的金色景色",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "그라나다 국제 재즈 페스티벌 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "그라나다 국제 재즈 페스티벌 (11월)"
+      ],
+      "en": [
+        "Granada International Jazz Festival (November)"
+      ],
+      "ja": [
+        "グラナダ国際ジャズフェスティバル（11月）"
+      ],
+      "zh": [
+        "格拉纳达国际爵士音乐节（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -911,22 +2930,77 @@
     "regionId": "granada",
     "month": 10,
     "rating": 5,
-    "summary": "쾌적한 가을, 알함브라 황금빛 가을 풍경",
-    "highlights": [
-      "가을 그라나다, 시에라네바다 전경의 황금빛",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "쾌적한 가을, 알함브라 황금빛 가을 풍경",
+      "en": "Pleasant autumn, Alhambra golden autumn scenery",
+      "ja": "快適な秋、アルハンブラの黄金の秋の風景",
+      "zh": "秋意宜人，阿罕布拉金色秋景"
+    },
+    "highlights": {
+      "ko": [
+        "가을 그라나다, 시에라네바다 전경의 황금빛",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Autumn Granada, golden views of the Sierra Nevada",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "秋のグラナダ、シエラネバダの景色の黄金色",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "秋天的格拉纳达，内华达山脉的金色景色",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "그라나다 국제 재즈 페스티벌 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "그라나다 국제 재즈 페스티벌 (11월)"
+      ],
+      "en": [
+        "Granada International Jazz Festival (November)"
+      ],
+      "ja": [
+        "グラナダ国際ジャズフェスティバル（11月）"
+      ],
+      "zh": [
+        "格拉纳达国际爵士音乐节（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -934,16 +3008,48 @@
     "regionId": "granada",
     "month": 11,
     "rating": 4,
-    "summary": "가을 끝자락, 타파스 바 투어 미식 여행",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "가을 끝자락, 타파스 바 투어 미식 여행",
+      "en": "End of fall, tapas bar tour gourmet trip",
+      "ja": "秋の終わり、タパスバーツアーグルメ旅行",
+      "zh": "秋末，tapas酒吧游美食之旅"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -951,14 +3057,35 @@
     "regionId": "granada",
     "month": 12,
     "rating": 3,
-    "summary": "겨울이지만 온화, 시에라네바다 스키 개장",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
+    "summary": {
+      "ko": "겨울이지만 온화, 시에라네바다 스키 개장",
+      "en": "Winter is mild, but Sierra Nevada skiing is open",
+      "ja": "冬ですが穏やか、シエラネバダスキーオープン",
+      "zh": "冬季温和，但内华达山脉滑雪场开放"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
     "cautions": [],
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   }

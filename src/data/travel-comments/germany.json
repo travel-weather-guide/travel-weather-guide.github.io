@@ -3,20 +3,69 @@
     "regionId": "berlin",
     "month": 1,
     "rating": 1,
-    "summary": "혹독한 베를린 겨울, 박물관섬 실내 관광",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 12.4일로 실내 대안 준비 권장",
-      "습도 85%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "혹독한 베를린 겨울, 박물관섬 실내 관광",
+      "en": "Harsh Berlin winter, indoor tour of Museum Island",
+      "ja": "厳しいベルリン冬、博物館島の屋内観光",
+      "zh": "柏林严冬，博物馆岛室内游"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.4일로 실내 대안 준비 권장",
+        "습도 85%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "With 12.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 85%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "雨の日が12.4日で屋内代替準備を推奨",
+        "湿度85％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "12.4阴雨天，建议室内替代准备",
+        "湿度85%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -24,19 +73,65 @@
     "regionId": "berlin",
     "month": 2,
     "rating": 1,
-    "summary": "겨울 끝자락, 베를린 영화제(베를리날레)",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "월 15.4일 비가 와 야외 일정에 유의",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 끝자락, 베를린 영화제(베를리날레)",
+      "en": "End of winter, Berlin Film Festival (Berlinale)",
+      "ja": "冬の終わり、ベルリン映画祭（ベルリナーレ）",
+      "zh": "冬末，柏林电影节（Berlinale）"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 15.4일 비가 와 야외 일정에 유의",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "月15.4日雨と屋外のスケジュールに注意してください",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "月均约15天降雨，注意安排户外行程",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -44,17 +139,52 @@
     "regionId": "berlin",
     "month": 3,
     "rating": 2,
-    "summary": "봄 기운, 브란덴부르크문 주변 꽃이 피는 시기",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "비 오는 날이 12.8일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 기운, 브란덴부르크문 주변 꽃이 피는 시기",
+      "en": "Spring vibes, when flowers bloom around the Brandenburg Gate",
+      "ja": "春のオーラ、ブランデンブルク門の周りの花が咲く時期",
+      "zh": "当勃兰登堡门周围鲜花盛开时，春天的气息"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.8일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "With 12.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "雨の日が12.8日で屋内代替準備を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "12.8阴雨天，建议室内替代准备",
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -62,17 +192,52 @@
     "regionId": "berlin",
     "month": 4,
     "rating": 3,
-    "summary": "봄, 티어가르텐 공원 산책과 야외 카페",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "봄, 티어가르텐 공원 산책과 야외 카페",
+      "en": "Spring, Tiergarten Park walk and outdoor cafe",
+      "ja": "春、ティアガルテン公園の散歩と屋外カフェ",
+      "zh": "春天，蒂尔加滕公园散步和户外咖啡馆"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -80,21 +245,73 @@
     "regionId": "berlin",
     "month": 5,
     "rating": 4,
-    "summary": "봄 절정, 자전거로 베를린 탐방하기 최적",
-    "highlights": [
-      "베를린 여름 축제와 야외 문화의 계절",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "봄 절정, 자전거로 베를린 탐방하기 최적",
+      "en": "Spring peak, perfect for exploring Berlin by bike",
+      "ja": "春の絶頂、自転車でベルリンを訪れるのに最適",
+      "zh": "春天的山峰，非常适合骑自行车游览柏林"
+    },
+    "highlights": {
+      "ko": [
+        "베를린 여름 축제와 야외 문화의 계절",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Berlin summer festivals and outdoor culture season",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "ベルリン夏祭りと野外文化の季節",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "柏林夏季节日和户外文化季节",
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "베를린 국제 영화제 (2월)",
-      "베를린 마라톤 (9월)",
-      "크리스토퍼 스트리트 데이 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "베를린 국제 영화제 (2월)",
+        "베를린 마라톤 (9월)",
+        "크리스토퍼 스트리트 데이 (7월)"
+      ],
+      "en": [
+        "Berlin International Film Festival (February)",
+        "Berlin Marathon (September)",
+        "Christopher Street Day (July)"
+      ],
+      "ja": [
+        "ベルリン国際映画祭（2月）",
+        "ベルリンマラソン（9月）",
+        "クリストファーストリートデー（7月）"
+      ],
+      "zh": [
+        "柏林国际电影节（二月）",
+        "柏林马拉松（九月）",
+        "克里斯托弗街日（七月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -102,22 +319,77 @@
     "regionId": "berlin",
     "month": 6,
     "rating": 4,
-    "summary": "베를린 여름 시작, 해 길고 야외 바 붐빔",
-    "highlights": [
-      "베를린 여름 축제와 야외 문화의 계절",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "베를린 여름 시작, 해 길고 야외 바 붐빔",
+      "en": "Summer begins in Berlin, the sun is long and outdoor bars are crowded",
+      "ja": "ベルリンの夏の始まり、太陽の長い屋外バーブームビーム",
+      "zh": "柏林入夏，日照长，户外酒吧人头攒动"
+    },
+    "highlights": {
+      "ko": [
+        "베를린 여름 축제와 야외 문화의 계절",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Berlin summer festivals and outdoor culture season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ベルリン夏祭りと野外文化の季節",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "柏林夏季节日和户外文化季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "베를린 국제 영화제 (2월)",
-      "베를린 마라톤 (9월)",
-      "크리스토퍼 스트리트 데이 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "베를린 국제 영화제 (2월)",
+        "베를린 마라톤 (9월)",
+        "크리스토퍼 스트리트 데이 (7월)"
+      ],
+      "en": [
+        "Berlin International Film Festival (February)",
+        "Berlin Marathon (September)",
+        "Christopher Street Day (July)"
+      ],
+      "ja": [
+        "ベルリン国際映画祭（2月）",
+        "ベルリンマラソン（9月）",
+        "クリストファーストリートデー（7月）"
+      ],
+      "zh": [
+        "柏林国际电影节（二月）",
+        "柏林马拉松（九月）",
+        "克里斯托弗街日（七月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -125,24 +397,90 @@
     "regionId": "berlin",
     "month": 7,
     "rating": 4,
-    "summary": "크리스토퍼 스트리트 데이(CSD), 야외 파티 시즌",
-    "highlights": [
-      "베를린 여름 축제와 야외 문화의 계절",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 11.8일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "베를린 국제 영화제 (2월)",
-      "베를린 마라톤 (9월)",
-      "크리스토퍼 스트리트 데이 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "크리스토퍼 스트리트 데이(CSD), 야외 파티 시즌",
+      "en": "Christopher Street Day (CSD), outdoor party season",
+      "ja": "クリストファーストリートデー（CSD）、アウトドアパーティーシーズン",
+      "zh": "克里斯托弗街日 (CSD)，户外派对季节"
+    },
+    "highlights": {
+      "ko": [
+        "베를린 여름 축제와 야외 문화의 계절",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Berlin summer festivals and outdoor culture season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ベルリン夏祭りと野外文化の季節",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "柏林夏季节日和户外文化季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.8일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 11.8 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が11.8日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "11.8阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "베를린 국제 영화제 (2월)",
+        "베를린 마라톤 (9월)",
+        "크리스토퍼 스트리트 데이 (7월)"
+      ],
+      "en": [
+        "Berlin International Film Festival (February)",
+        "Berlin Marathon (September)",
+        "Christopher Street Day (July)"
+      ],
+      "ja": [
+        "ベルリン国際映画祭（2月）",
+        "ベルリンマラソン（9月）",
+        "クリストファーストリートデー（7月）"
+      ],
+      "zh": [
+        "柏林国际电影节（二月）",
+        "柏林马拉松（九月）",
+        "克里斯托弗街日（七月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -150,24 +488,90 @@
     "regionId": "berlin",
     "month": 8,
     "rating": 5,
-    "summary": "여름 피크, 공원과 호수에서 수영하는 베를리너",
-    "highlights": [
-      "베를린 여름 축제와 야외 문화의 계절",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 10.2일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "베를린 국제 영화제 (2월)",
-      "베를린 마라톤 (9월)",
-      "크리스토퍼 스트리트 데이 (7월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 피크, 공원과 호수에서 수영하는 베를리너",
+      "en": "Summer peak, Berliners swimming in parks and lakes",
+      "ja": "夏のピーク、公園、湖で泳ぐベルリナー",
+      "zh": "夏季高峰，柏林人在公园和湖泊里游泳"
+    },
+    "highlights": {
+      "ko": [
+        "베를린 여름 축제와 야외 문화의 계절",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Berlin summer festivals and outdoor culture season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ベルリン夏祭りと野外文化の季節",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "柏林夏季节日和户外文化季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.2일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 10.2 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が10.2日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "10.2阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "베를린 국제 영화제 (2월)",
+        "베를린 마라톤 (9월)",
+        "크리스토퍼 스트리트 데이 (7월)"
+      ],
+      "en": [
+        "Berlin International Film Festival (February)",
+        "Berlin Marathon (September)",
+        "Christopher Street Day (July)"
+      ],
+      "ja": [
+        "ベルリン国際映画祭（2月）",
+        "ベルリンマラソン（9月）",
+        "クリストファーストリートデー（7月）"
+      ],
+      "zh": [
+        "柏林国际电影节（二月）",
+        "柏林马拉松（九月）",
+        "克里斯托弗街日（七月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -175,19 +579,65 @@
     "regionId": "berlin",
     "month": 9,
     "rating": 4,
-    "summary": "가을 시작, 베를린 마라톤과 쾌적한 도시",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 72%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을 시작, 베를린 마라톤과 쾌적한 도시",
+      "en": "Autumn begins, Berlin Marathon and pleasant city",
+      "ja": "秋の始まり、ベルリンマラソンと快適な街",
+      "zh": "秋天开始，柏林马拉松和宜人的城市"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，72%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -195,17 +645,52 @@
     "regionId": "berlin",
     "month": 10,
     "rating": 3,
-    "summary": "단풍의 베를린, 장벽 붕괴 기념일(11/9) 행사",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "단풍의 베를린, 장벽 붕괴 기념일(11/9) 행사",
+      "en": "Autumn Leaves in Berlin, Memorial Day of the Fall of the Wall (11/9)",
+      "ja": "紅葉のベルリン、バリア崩壊記念日（11/9）イベント",
+      "zh": "秋叶的色彩柏林秋叶，柏林墙倒塌纪念日 (11/9)"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 10.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "雨の日が10.4日で屋内代替案を推奨",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "10.4阴雨天，建议室内替代准备",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -213,16 +698,48 @@
     "regionId": "berlin",
     "month": 11,
     "rating": 2,
-    "summary": "초겨울, 크리스마스 마켓 시작되는 시기",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 87%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "초겨울, 크리스마스 마켓 시작되는 시기",
+      "en": "Early winter, when the Christmas market starts",
+      "ja": "初冬、クリスマスマーケットが始まる時期",
+      "zh": "初冬，圣诞市场开始"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 87%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 87%"
+      ],
+      "ja": [
+        "湿度87％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度87%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -230,26 +747,98 @@
     "regionId": "berlin",
     "month": 12,
     "rating": 1,
-    "summary": "크리스마스 마켓 절정, 카데베 백화점 연말 쇼핑",
-    "highlights": [
-      "베를린 크리스마스 마켓, 브란덴부르크 문 일루미네이션",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 12.6일로 실내 대안 준비 권장",
-      "습도 88%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
-    "events": [
-      "베를린 크리스마스 마켓 (12월)",
-      "실베스터 신년 파티"
-    ],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "크리스마스 마켓 절정, 카데베 백화점 연말 쇼핑",
+      "en": "Christmas market peak, year-end shopping at Kadebe Department Store",
+      "ja": "クリスマスマーケットのピーク、カデベデパートの年末ショッピング",
+      "zh": "圣诞市场高峰，卡德贝百货年终购物"
+    },
+    "highlights": {
+      "ko": [
+        "베를린 크리스마스 마켓, 브란덴부르크 문 일루미네이션",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Berlin Christmas Market, Brandenburg Gate Illumination",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "ベルリンクリスマスマーケット、ブランデンブルク門イルミネーション",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "柏林圣诞市场、勃兰登堡门灯饰",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.6일로 실내 대안 준비 권장",
+        "습도 88%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "With 12.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 88%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "雨の日が12.6日で屋内代替案を推奨",
+        "湿度88％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "12.6阴雨天，建议室内替代准备",
+        "湿度88%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
+    "events": {
+      "ko": [
+        "베를린 크리스마스 마켓 (12월)",
+        "실베스터 신년 파티"
+      ],
+      "en": [
+        "Berlin Christmas Market (December)",
+        "Sylvester New Year Party"
+      ],
+      "ja": [
+        "ベルリンクリスマスマーケット（12月）",
+        "シルベスター新年パーティー"
+      ],
+      "zh": [
+        "柏林圣诞市场（十二月）",
+        "西尔维斯特新年派对"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -257,20 +846,69 @@
     "regionId": "munich",
     "month": 1,
     "rating": 1,
-    "summary": "겨울, 마리엔광장 야경과 근교 알프스 스키",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -2°C로 방한 대비 필요",
-      "비 오는 날이 12.8일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 마리엔광장 야경과 근교 알프스 스키",
+      "en": "Winter, night view of Marienplatz and nearby Alpine skiing",
+      "ja": "冬、マリエン広場と近くのアルペン スキーの夜景",
+      "zh": "冬季玛利亚广场和附近高山滑雪场的夜景"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -2°C로 방한 대비 필요",
+        "비 오는 날이 12.8일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "The average minimum temperature is -2°C, so preparation for cold weather is necessary",
+        "With 12.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "平均最低気温-2℃で防寒コントラストが必要",
+        "雨の日が12.8日で屋内代替準備を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "平均最低气温为-2℃，做好防寒准备",
+        "12.8阴雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -278,19 +916,65 @@
     "regionId": "munich",
     "month": 2,
     "rating": 2,
-    "summary": "파싱(카니발) 시즌, 의상 축제의 뮌헨",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "파싱(카니발) 시즌, 의상 축제의 뮌헨",
+      "en": "Pasing (Carnival) season, Munich at the Costume Festival",
+      "ja": "パーシング（カーニバル）シーズン、衣装祭のミュンヘン",
+      "zh": "Pasing（狂欢节）季节，慕尼黑服装节"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "With 13.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "雨の日が13.6日で屋内代替案を推奨",
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "13.6阴雨天，建议室内替代准备",
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -298,19 +982,65 @@
     "regionId": "munich",
     "month": 3,
     "rating": 3,
-    "summary": "봄 기운, 영국 정원에 첫 야외 비어가든 오픈",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 12일로 실내 대안 준비 권장",
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 기운, 영국 정원에 첫 야외 비어가든 오픈",
+      "en": "Spring is in full swing, the first outdoor beer garden opens in a British garden",
+      "ja": "春のオーラ、イギリスの庭園に最初の屋外ビアガーデンをオープン",
+      "zh": "春天如火如荼，英国花园首家户外啤酒花园开业"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12일로 실내 대안 준비 권장",
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "As the rainy day is on the 12th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "雨の日が12日で屋内代替準備を推奨",
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "由于12号是雨天，建议室内替代准备",
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -318,18 +1048,61 @@
     "regionId": "munich",
     "month": 4,
     "rating": 2,
-    "summary": "봄, 님펜부르크 궁전 꽃밭 산책",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 13.8일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "봄, 님펜부르크 궁전 꽃밭 산책",
+      "en": "Spring, stroll through the flower fields of Nymphenburg Palace",
+      "ja": "春、ニンペンブルク宮殿の花畑の散歩",
+      "zh": "春天，漫步宁芬堡宫花田"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.8일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 13.8 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が13.8日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "13.8阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -337,21 +1110,73 @@
     "regionId": "munich",
     "month": 5,
     "rating": 2,
-    "summary": "봄 절정, 비어가든 본격 오픈과 쾌적한 날씨",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 121mm로 우산 필수",
-      "월 15.8일 비가 와 야외 일정에 유의",
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 절정, 비어가든 본격 오픈과 쾌적한 날씨",
+      "en": "Peak of spring, full-fledged opening of beer garden and pleasant weather",
+      "ja": "春の絶頂、ビアガーデン本格オープンと快適な天気",
+      "zh": "春意盎然，啤酒花园全面开放，气候宜人"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 121mm로 우산 필수",
+        "월 15.8일 비가 와 야외 일정에 유의",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 121mm, so an umbrella is a must",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "降水量が121mmで傘必須",
+        "月15.8日雨と屋外のスケジュールに注意",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "降雨量121毫米，雨伞必备",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -359,21 +1184,73 @@
     "regionId": "munich",
     "month": 6,
     "rating": 3,
-    "summary": "여름 시작, 영국 정원 수영과 맥주",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 강수량 160mm로 우기에 해당",
-      "월 15.2일 비가 와 야외 일정에 유의",
-      "습도가 72%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "여름 시작, 영국 정원 수영과 맥주",
+      "en": "Summer begins, British garden swimming and beer",
+      "ja": "夏の始まり、イギリスの庭の水泳とビール",
+      "zh": "夏天开始，英式花园游泳和啤酒"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 160mm로 우기에 해당",
+        "월 15.2일 비가 와 야외 일정에 유의",
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 160mm, corresponding to the rainy season",
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "月降水量160mmで雨季に対応",
+        "月15.2日雨と屋外のスケジュールに注意",
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "每月降雨量160mm，对应雨季",
+        "月均约15天降雨，注意安排户外行程",
+        "湿度有点高，72%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -381,20 +1258,69 @@
     "regionId": "munich",
     "month": 7,
     "rating": 4,
-    "summary": "뮌헨 여름, 근교 알프스 하이킹 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 15일로 실내 대안 준비 권장",
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "뮌헨 여름, 근교 알프스 하이킹 시즌",
+      "en": "Summer in Munich, hiking season in the nearby Alps",
+      "ja": "ミュンヘン夏、近郊アルプスハイキングシーズン",
+      "zh": "慕尼黑的夏天，附近阿尔卑斯山的徒步季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 15일로 실내 대안 준비 권장",
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "With 15 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "雨の日が15日で屋内代替案の準備を推奨",
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "15个阴雨天，建议室内替代准备",
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -402,22 +1328,77 @@
     "regionId": "munich",
     "month": 8,
     "rating": 3,
-    "summary": "여름 성수기, 보덴제 호수 여행",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 156mm로 우기에 해당",
-      "월 15.4일 비가 와 야외 일정에 유의",
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "여름 성수기, 보덴제 호수 여행",
+      "en": "Summer peak season, trip to Lake Constance",
+      "ja": "夏のハイシーズン、ボーデンゼ湖への旅行",
+      "zh": "夏季旺季，康斯坦茨湖之旅"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 156mm로 우기에 해당",
+        "월 15.4일 비가 와 야외 일정에 유의",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 156mm, corresponding to the rainy season",
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "月降水量156mmで雨季に対応",
+        "月15.4日雨と屋外のスケジュールに注意してください",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "月降水量156毫米，对应雨季",
+        "月均约15天降雨，注意安排户外行程",
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -425,25 +1406,94 @@
     "regionId": "munich",
     "month": 9,
     "rating": 2,
-    "summary": "옥토버페스트 개막, 세계 최대 맥주 축제",
-    "highlights": [
-      "옥토버페스트 — 세계 최대 맥주 축제",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 105mm로 우산 필수",
-      "비 오는 날이 12.6일로 실내 대안 준비 권장",
-      "습도가 80%로 다소 높음"
-    ],
-    "events": [
-      "옥토버페스트 (9월 말~10월 초)",
-      "바이에른 전통 복장 퍼레이드"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "옥토버페스트 개막, 세계 최대 맥주 축제",
+      "en": "Oktoberfest opens, the world's largest beer festival",
+      "ja": "オクトーバーフェスト開幕、世界最大のビールフェスティバル",
+      "zh": "世界上最大的啤酒节慕尼黑啤酒节开幕"
+    },
+    "highlights": {
+      "ko": [
+        "옥토버페스트 — 세계 최대 맥주 축제",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Oktoberfest — The World's Largest Beer Festival",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "オクトーバーフェスト - 世界最大のビール祭り",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "慕尼黑啤酒节 — 世界上最大的啤酒节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 105mm로 우산 필수",
+        "비 오는 날이 12.6일로 실내 대안 준비 권장",
+        "습도가 80%로 다소 높음"
+      ],
+      "en": [
+        "With 105mm of precipitation, an umbrella is a must",
+        "With 12.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 80%"
+      ],
+      "ja": [
+        "降水量が105mmで傘必須",
+        "雨の日が12.6日で屋内代替案を推奨",
+        "湿度が80％とやや高い"
+      ],
+      "zh": [
+        "105毫米降水，雨伞必备",
+        "12.6阴雨天，建议室内替代准备",
+        "湿度有点高，达到 80%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "옥토버페스트 (9월 말~10월 초)",
+        "바이에른 전통 복장 퍼레이드"
+      ],
+      "en": [
+        "Oktoberfest (late September - early October)",
+        "Bavarian traditional costume parade"
+      ],
+      "ja": [
+        "オクトーバーフェスト（9月末～10月上旬）",
+        "バイエルンの伝統的な衣装パレード"
+      ],
+      "zh": [
+        "慕尼黑啤酒节（九月底至十月初）",
+        "巴伐利亚传统服装游行"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -451,20 +1501,69 @@
     "regionId": "munich",
     "month": 10,
     "rating": 2,
-    "summary": "옥토버페스트 후반과 마무리, 가을 낙엽",
-    "highlights": [
-      "옥토버페스트 — 세계 최대 맥주 축제"
-    ],
-    "cautions": [
-      "비 오는 날이 12일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
-    "events": [
-      "옥토버페스트 (9월 말~10월 초)",
-      "바이에른 전통 복장 퍼레이드"
-    ],
+    "summary": {
+      "ko": "옥토버페스트 후반과 마무리, 가을 낙엽",
+      "en": "The second half and end of Oktoberfest, fall leaves",
+      "ja": "オクトーバーフェスト後半と仕上げ、秋の落葉",
+      "zh": "啤酒节下半场和尾声，秋叶"
+    },
+    "highlights": {
+      "ko": [
+        "옥토버페스트 — 세계 최대 맥주 축제"
+      ],
+      "en": [
+        "Oktoberfest — The World's Largest Beer Festival"
+      ],
+      "ja": [
+        "オクトーバーフェスト - 世界最大のビール祭り"
+      ],
+      "zh": [
+        "慕尼黑啤酒节 — 世界上最大的啤酒节"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "As the rainy day is on the 12th, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "雨の日が12日で屋内代替準備を推奨",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "由于12号是雨天，建议室内替代准备",
+        "湿度82%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "옥토버페스트 (9월 말~10월 초)",
+        "바이에른 전통 복장 퍼레이드"
+      ],
+      "en": [
+        "Oktoberfest (late September - early October)",
+        "Bavarian traditional costume parade"
+      ],
+      "ja": [
+        "オクトーバーフェスト（9月末～10月上旬）",
+        "バイエルンの伝統的な衣装パレード"
+      ],
+      "zh": [
+        "慕尼黑啤酒节（九月底至十月初）",
+        "巴伐利亚传统服装游行"
+      ]
+    },
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -472,17 +1571,52 @@
     "regionId": "munich",
     "month": 11,
     "rating": 1,
-    "summary": "쌀쌀한 초겨울, 크리스마스 마켓 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 12.8일로 실내 대안 준비 권장",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "쌀쌀한 초겨울, 크리스마스 마켓 시작",
+      "en": "Chilly early winter, Christmas market begins",
+      "ja": "肌寒い初冬、クリスマスマーケットスタート",
+      "zh": "初冬寒冷，圣诞集市开始"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.8일로 실내 대안 준비 권장",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 12.8 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "雨の日が12.8日で屋内代替準備を推奨",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "12.8阴雨天，建议室内替代准备",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -490,25 +1624,94 @@
     "regionId": "munich",
     "month": 12,
     "rating": 1,
-    "summary": "마리엔광장 크리스마스 마켓, 독일 연말의 정수",
-    "highlights": [
-      "마리엔 광장 크리스마스 마켓, 유럽 최고 수준",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -1°C로 방한 대비 필요",
-      "비 오는 날이 13.8일로 실내 대안 준비 권장",
-      "습도 84%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
-    "events": [
-      "뮌헨 크리스마스 마켓 (12월)",
-      "레지덴츠 앞 시장"
-    ],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "마리엔광장 크리스마스 마켓, 독일 연말의 정수",
+      "en": "Marienplatz Christmas Market, the essence of the German year-end",
+      "ja": "マリエン広場クリスマスマーケット、ドイツの年末の整数",
+      "zh": "玛利亚广场圣诞集市，德国年终精髓"
+    },
+    "highlights": {
+      "ko": [
+        "마리엔 광장 크리스마스 마켓, 유럽 최고 수준",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Marienplatz Christmas Market, one of the best in Europe",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "マリエン広場クリスマスマーケット、ヨーロッパトップレベル",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "玛利亚广场圣诞市场，欧洲最好的圣诞市场之一",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -1°C로 방한 대비 필요",
+        "비 오는 날이 13.8일로 실내 대안 준비 권장",
+        "습도 84%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "Need to prepare for cold weather with average minimum temperature -1°C",
+        "With 13.8 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 84%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-1℃で防寒コントラストが必要",
+        "雨の日が13.8日で屋内代替案を推奨",
+        "湿度84％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "需要做好应对平均最低气温-1°C的寒冷天气的准备",
+        "13.8阴雨天，建议室内替代准备",
+        "湿度84%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
+    "events": {
+      "ko": [
+        "뮌헨 크리스마스 마켓 (12월)",
+        "레지덴츠 앞 시장"
+      ],
+      "en": [
+        "Munich Christmas Market (December)",
+        "Market in front of Residenz"
+      ],
+      "ja": [
+        "ミュンヘンクリスマスマーケット（12月）",
+        "レジデンツ前市場"
+      ],
+      "zh": [
+        "慕尼黑圣诞市场（十二月）",
+        "皇宫前的市场"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

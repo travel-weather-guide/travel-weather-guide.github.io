@@ -4,73 +4,133 @@
     {
       "regionId": "abu-dhabi",
       "category": "culture",
-      "reason": "쾌적한 가을, F1 아부다비 그랑프리",
+      "reason": {
+        "ko": "쾌적한 가을, F1 아부다비 그랑프리",
+        "en": "Pleasant fall, F1 Abu Dhabi Grand Prix",
+        "ja": "快適な秋、F1アブダビグランプリ",
+        "zh": "宜人的秋天，F1阿布扎比大奖赛"
+      },
       "rating": 5
     },
     {
       "regionId": "cairo",
       "category": "culture",
-      "reason": "건기 여행 황금기, 이집트 박물관 & 유적 순례",
+      "reason": {
+        "ko": "건기 여행 황금기, 이집트 박물관 & 유적 순례",
+        "en": "The golden age of dry season travel, pilgrimage to Egyptian museums and ruins",
+        "ja": "乾期旅行黄金期、エジプト博物館＆遺跡巡礼",
+        "zh": "旱季旅行的黄金时代，朝圣埃及博物馆和遗址"
+      },
       "rating": 5
     },
     {
       "regionId": "dubai",
       "category": "city",
-      "reason": "겨울 시작, 두바이 마라톤과 쇼핑 시즌",
+      "reason": {
+        "ko": "겨울 시작, 두바이 마라톤과 쇼핑 시즌",
+        "en": "Winter begins, Dubai Marathon and shopping season",
+        "ja": "冬の始まり、ドバイマラソンとショッピングシーズン",
+        "zh": "冬天开始，迪拜马拉松和购物季"
+      },
       "rating": 5
     },
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": "우기 시작, 간간이 소나기가 오는 시기",
+      "reason": {
+        "ko": "우기 시작, 간간이 소나기가 오는 시기",
+        "en": "The beginning of the rainy season, with occasional showers",
+        "ja": "雨季の始まり、肝臓がシャワーが来る時期",
+        "zh": "雨季开始，偶有阵雨"
+      },
       "rating": 5
     },
     {
       "regionId": "los-angeles",
       "category": "city",
-      "reason": "가을 끝자락, 여전히 쾌적한 날씨",
+      "reason": {
+        "ko": "가을 끝자락, 여전히 쾌적한 날씨",
+        "en": "End of fall, still pleasant weather",
+        "ja": "秋の終わり、まだ快適な天気",
+        "zh": "秋末，天气依然宜人"
+      },
       "rating": 5
     },
     {
       "regionId": "luang-prabang",
       "category": "culture",
-      "reason": "건기 시작, 쾨청한 하늘과 탁발 투어",
+      "reason": {
+        "ko": "건기 시작, 쾨청한 하늘과 탁발 투어",
+        "en": "Dry season begins, clear skies and alms tour",
+        "ja": "乾季開始、明るい空と卓球ツアー",
+        "zh": "旱季开始，晴空布施之旅"
+      },
       "rating": 5
     },
     {
       "regionId": "luxor",
       "category": "culture",
-      "reason": "건기 여행 최적기, 카르낙 신전 야간 쇼 추천",
+      "reason": {
+        "ko": "건기 여행 최적기, 카르낙 신전 야간 쇼 추천",
+        "en": "The best time to travel during the dry season, Karnak Temple night show recommended",
+        "ja": "乾季旅行最適機、カルナック神殿夜間ショーおすすめ",
+        "zh": "旱季最佳旅行时间，卡纳克神庙夜景推荐"
+      },
       "rating": 5
     },
     {
       "regionId": "marrakech",
       "category": "culture",
-      "reason": "마라케시 국제 영화제, 쾌적한 가을 탐방",
+      "reason": {
+        "ko": "마라케시 국제 영화제, 쾌적한 가을 탐방",
+        "en": "Marrakech International Film Festival, a pleasant fall tour",
+        "ja": "マラケシュ国際映画祭、快適な秋を訪れる",
+        "zh": "马拉喀什国际电影节，愉快的秋季之旅"
+      },
       "rating": 5
     },
     {
       "regionId": "mumbai",
       "category": "city",
-      "reason": "건기 성수기 재개, 쾌적한 해안 도시 탐방",
+      "reason": {
+        "ko": "건기 성수기 재개, 쾌적한 해안 도시 탐방",
+        "en": "Peak dry season resumes, exploring pleasant coastal cities",
+        "ja": "乾期ピークシーズンの再開、快適な沿岸都市探訪",
+        "zh": "旱季高峰恢复，探索宜人的沿海城市"
+      },
       "rating": 5
     },
     {
       "regionId": "new-delhi",
       "category": "culture",
-      "reason": "쾌적한 건기, 뉴델리 여행 황금기",
+      "reason": {
+        "ko": "쾌적한 건기, 뉴델리 여행 황금기",
+        "en": "Pleasant dry season, golden season for traveling to New Delhi",
+        "ja": "快適な乾期、ニューデリー旅行黄金期",
+        "zh": "宜人的旱季，新德里旅游的黄金季节"
+      },
       "rating": 5
     },
     {
       "regionId": "santorini",
       "category": "beach",
-      "reason": "비수기 시작, 시설 폐업 시작",
+      "reason": {
+        "ko": "비수기 시작, 시설 폐업 시작",
+        "en": "Off-season begins, facility closures begin",
+        "ja": "オフシーズン開始、施設廃業開始",
+        "zh": "淡季开始，设施关闭开始"
+      },
       "rating": 5
     },
     {
       "regionId": "vientiane",
       "category": "culture",
-      "reason": "건기 시작, 탓루앙 인근 쾌청한 관광",
+      "reason": {
+        "ko": "건기 시작, 탓루앙 인근 쾌청한 관광",
+        "en": "Dry season begins, pleasant tourism near That Luang",
+        "ja": "乾期開始、タルアン近くの陽気な観光",
+        "zh": "旱季开始，塔銮附近旅游愉快"
+      },
       "rating": 5
     }
   ],
@@ -78,250 +138,545 @@
     {
       "regionId": "antalya",
       "category": "beach",
-      "reason": "해변 시즌 마무리, 쌀쌀해지는 시기",
+      "reason": {
+        "ko": "해변 시즌 마무리, 쌀쌀해지는 시기",
+        "en": "Beach season is over, it's getting chilly",
+        "ja": "ビーチシーズン仕上げ、肌寒くなる時期",
+        "zh": "海滩季节结束了，天气变冷"
+      },
       "rating": 4
     },
     {
       "regionId": "athens",
       "category": "culture",
-      "reason": "쌀쌀해지지만 관광객 적어 여유로운 시기",
+      "reason": {
+        "ko": "쌀쌀해지지만 관광객 적어 여유로운 시기",
+        "en": "It gets chilly, but there are fewer tourists so it’s a leisurely time",
+        "ja": "肌寒くなるが観光客少なくゆったりとした時期",
+        "zh": "天冷了，但是游客少了，很悠闲"
+      },
       "rating": 4
     },
     {
       "regionId": "chiang-mai",
       "category": "culture",
-      "reason": "이펑 축제, 건기 시작과 함께 환상적인 밤하늘",
+      "reason": {
+        "ko": "이펑 축제, 건기 시작과 함께 환상적인 밤하늘",
+        "en": "Yifeng Festival, fantastic night sky with the start of the dry season",
+        "ja": "イパンフェスティバル、乾季の始まりと素晴らしい夜空",
+        "zh": "宜风节，梦幻夜空伴随旱季开始"
+      },
       "rating": 4
     },
     {
       "regionId": "hanoi",
       "category": "culture",
-      "reason": "건기, 선선하고 맑은 하노이 여행 최적기",
+      "reason": {
+        "ko": "건기, 선선하고 맑은 하노이 여행 최적기",
+        "en": "Dry season, cool and clear, the best time to travel to Hanoi",
+        "ja": "乾季、涼しくて澄んだハノイ旅行最適機",
+        "zh": "旱季，凉爽晴朗，河内旅游最佳时节"
+      },
       "rating": 4
     },
     {
       "regionId": "kaohsiung",
       "category": "city",
-      "reason": "건기, 따뜻하고 쾌적한 여행 최적기",
+      "reason": {
+        "ko": "건기, 따뜻하고 쾌적한 여행 최적기",
+        "en": "The dry season is the best time to travel, warm and comfortable",
+        "ja": "乾季、暖かく快適な旅行最適機",
+        "zh": "旱季是最佳旅行时节，温暖舒适"
+      },
       "rating": 4
     }
   ],
   "avoidList": [
     {
       "regionId": "amalfi",
-      "reason": "비수기 시작, 시설 폐업 시작"
+      "reason": {
+        "ko": "비수기 시작, 시설 폐업 시작",
+        "en": "Off-season begins, facility closures begin",
+        "ja": "オフシーズン開始、施設廃業開始",
+        "zh": "淡季开始，设施关闭开始"
+      }
     },
     {
       "regionId": "amsterdam",
-      "reason": "서늘한 가을, 반 고흐 미술관 여유롭게 감상"
+      "reason": {
+        "ko": "서늘한 가을, 반 고흐 미술관 여유롭게 감상",
+        "en": "Cool autumn, leisurely viewing the Van Gogh Museum",
+        "ja": "涼しい秋、ゴッホ美術館のんびり鑑賞",
+        "zh": "凉爽秋日，悠闲观赏梵高博物馆"
+      }
     },
     {
       "regionId": "auckland",
-      "reason": "봄 끝자락, 여름 직전 쾌적한 시기"
+      "reason": {
+        "ko": "봄 끝자락, 여름 직전 쾌적한 시기",
+        "en": "Pleasant time at the end of spring, just before summer",
+        "ja": "春の終わり、夏の直前の快適な時期",
+        "zh": "春末夏初的美好时光"
+      }
     },
     {
       "regionId": "bali",
-      "reason": "우기 시작, 오후 스콜이 잦아지는 시기"
+      "reason": {
+        "ko": "우기 시작, 오후 스콜이 잦아지는 시기",
+        "en": "The beginning of the rainy season, the time when afternoon squalls become more frequent",
+        "ja": "雨期開始、午後のスコールが頻繁になる時期",
+        "zh": "雨季开始，午后狂风更加频繁的时候"
+      }
     },
     {
       "regionId": "berlin",
-      "reason": "초겨울, 크리스마스 마켓 시작되는 시기"
+      "reason": {
+        "ko": "초겨울, 크리스마스 마켓 시작되는 시기",
+        "en": "Early winter, when the Christmas market starts",
+        "ja": "初冬、クリスマスマーケットが始まる時期",
+        "zh": "初冬，圣诞市场开始"
+      }
     },
     {
       "regionId": "boracay",
-      "reason": "건기 시작, 바다가 잔잔해지는 시기"
+      "reason": {
+        "ko": "건기 시작, 바다가 잔잔해지는 시기",
+        "en": "The beginning of the dry season, the time when the sea becomes calm",
+        "ja": "乾き始め、海が穏やかになる時期",
+        "zh": "旱季开始，大海变得平静的时候"
+      }
     },
     {
       "regionId": "budapest",
-      "reason": "쌀쌀해지는 초겨울, 온천 시즌 시작"
+      "reason": {
+        "ko": "쌀쌀해지는 초겨울, 온천 시즌 시작",
+        "en": "Chilly early winter, hot spring season begins",
+        "ja": "肌寒くなる初冬、温泉シーズンスタート",
+        "zh": "寒冷的初冬，温泉季节开始"
+      }
     },
     {
       "regionId": "cebu",
-      "reason": "건기 시작, 다이빙 시야 회복"
+      "reason": {
+        "ko": "건기 시작, 다이빙 시야 회복",
+        "en": "Dry season begins, diving visibility recovers",
+        "ja": "乾季開始、ダイビング視野回復",
+        "zh": "旱季开始，潜水能见度恢复"
+      }
     },
     {
       "regionId": "colombo",
-      "reason": "북동 몬순 시작, 콜롬보는 쾌청해지는 시기"
+      "reason": {
+        "ko": "북동 몬순 시작, 콜롬보는 쾌청해지는 시기",
+        "en": "The beginning of the northeast monsoon, a sunny season in Colombo",
+        "ja": "北東モンスーン開始、コロンボは快晴になる時期",
+        "zh": "东北季风初起，科伦坡阳光灿烂的季节"
+      }
     },
     {
       "regionId": "copenhagen",
-      "reason": "초겨울, 티볼리 크리스마스 시즌 시작"
+      "reason": {
+        "ko": "초겨울, 티볼리 크리스마스 시즌 시작",
+        "en": "Early winter, Tivoli Christmas season begins",
+        "ja": "初冬、チボリのクリスマスシーズンスタート",
+        "zh": "初冬，蒂沃利圣诞季开始"
+      }
     },
     {
       "regionId": "da-nang",
-      "reason": "태풍 지속, 해수욕 불가능"
+      "reason": {
+        "ko": "태풍 지속, 해수욕 불가능",
+        "en": "Typhoon continues, no swimming possible",
+        "ja": "台風持続、海水浴不可能",
+        "zh": "台风持续，海滩游泳不可能"
+      }
     },
     {
       "regionId": "dubrovnik",
-      "reason": "비수기 시작, 한산한 성벽의 낭만"
+      "reason": {
+        "ko": "비수기 시작, 한산한 성벽의 낭만",
+        "en": "Off-season begins, romance of quiet castle walls",
+        "ja": "シーズンの始まり、寒い城壁のロマンチック",
+        "zh": "淡季开始，静谧城墙的浪漫"
+      }
     },
     {
       "regionId": "edinburgh",
-      "reason": "초겨울, 어둡고 비 잦은 시기"
+      "reason": {
+        "ko": "초겨울, 어둡고 비 잦은 시기",
+        "en": "Early winter, dark and rainy time",
+        "ja": "初冬、暗くて雨の多い時期",
+        "zh": "初冬，天黑多雨的时节"
+      }
     },
     {
       "regionId": "florence",
-      "reason": "올리브 수확 시즌, 맑은 날 주말 산책"
+      "reason": {
+        "ko": "올리브 수확 시즌, 맑은 날 주말 산책",
+        "en": "Olive harvest season, weekend walk on a sunny day",
+        "ja": "オリーブ収穫シーズン、晴れた日の週末の散歩",
+        "zh": "橄榄收获季节，周末阳光明媚的日子散步"
+      }
     },
     {
       "regionId": "guam",
-      "reason": "우기 마무리, 날씨 서서히 회복"
+      "reason": {
+        "ko": "우기 마무리, 날씨 서서히 회복",
+        "en": "Rainy season ends, weather gradually recovers",
+        "ja": "ウギ仕上げ、天気ゆっくり回復",
+        "zh": "雨季结束，天气逐渐恢复"
+      }
     },
     {
       "regionId": "harbin",
-      "reason": "초겨울, 빙설제 준비 시작되는 시기"
+      "reason": {
+        "ko": "초겨울, 빙설제 준비 시작되는 시기",
+        "en": "Early winter, when preparations for the ice and snow festival begin",
+        "ja": "初冬、氷雪祭の準備が始まる時期",
+        "zh": "初冬，冰雪节的准备工作开始"
+      }
     },
     {
       "regionId": "helsinki",
-      "reason": "초겨울 어둠, 크리스마스 준비 분위기"
+      "reason": {
+        "ko": "초겨울 어둠, 크리스마스 준비 분위기",
+        "en": "Early winter darkness, Christmas preparation atmosphere",
+        "ja": "初冬の闇、クリスマス準備の雰囲気",
+        "zh": "初冬的黑暗，圣诞节的准备气氛"
+      }
     },
     {
       "regionId": "ho-chi-minh",
-      "reason": "우기 마무리, 건기로 전환 중"
+      "reason": {
+        "ko": "우기 마무리, 건기로 전환 중",
+        "en": "Rainy season is over, transitioning to dry season",
+        "ja": "雨期仕上げ、乾期に切り替え中",
+        "zh": "雨季结束，进入旱季"
+      }
     },
     {
       "regionId": "hoi-an",
-      "reason": "홍수 리스크 여전, 날씨 회복 중"
+      "reason": {
+        "ko": "홍수 리스크 여전, 날씨 회복 중",
+        "en": "Flood risk still remains, weather recovering",
+        "ja": "洪水リスク相変わらず、天気回復中",
+        "zh": "洪水风险依然存在，天气正在恢复"
+      }
     },
     {
       "regionId": "hokkaido",
-      "reason": "초겨울, 첫 눈이 내리지만 스키장은 아직"
+      "reason": {
+        "ko": "초겨울, 첫 눈이 내리지만 스키장은 아직",
+        "en": "Early winter, the first snow falls, but the ski resort is still",
+        "ja": "初冬、初雪が降りますが、スキー場はまだ",
+        "zh": "初冬，第一场雪落下，但滑雪场依然"
+      }
     },
     {
       "regionId": "interlaken",
-      "reason": "스키 시즌 준비, 알프스에 눈 쌓이는 시기"
+      "reason": {
+        "ko": "스키 시즌 준비, 알프스에 눈 쌓이는 시기",
+        "en": "Preparing for ski season, when snow piles up in the Alps",
+        "ja": "スキーシーズン準備、アルプスに雪を積む時期",
+        "zh": "当阿尔卑斯山积雪时，为滑雪季节做准备"
+      }
     },
     {
       "regionId": "istanbul",
-      "reason": "쌀쌀해지고 비 시작, 하맘(터키 목욕) 시즌"
+      "reason": {
+        "ko": "쌀쌀해지고 비 시작, 하맘(터키 목욕) 시즌",
+        "en": "It gets chilly and rain begins, Hamam (Turkish Bath) season",
+        "ja": "寒くなって雨が降り、ハマム（トルコ風呂）シーズン",
+        "zh": "天气变冷，开始下雨，哈马姆（土耳其浴）季节"
+      }
     },
     {
       "regionId": "jakarta",
-      "reason": "우기 시작, 도로 침수 주의"
+      "reason": {
+        "ko": "우기 시작, 도로 침수 주의",
+        "en": "Rainy season begins, beware of road flooding",
+        "ja": "雨期開始、道路浸水注意",
+        "zh": "雨季来临，谨防道路淹水"
+      }
     },
     {
       "regionId": "koh-samui",
-      "reason": "몬순 절정, 해수욕 위험하고 페리 결항"
+      "reason": {
+        "ko": "몬순 절정, 해수욕 위험하고 페리 결항",
+        "en": "Monsoon peak, beach bathing dangerous, ferry cancellation",
+        "ja": "モンスーンのピーク、海水浴危険、フェリー欠航",
+        "zh": "季风高峰，海滩沐浴危险，渡轮取消"
+      }
     },
     {
       "regionId": "kota-kinabalu",
-      "reason": "건기 시작, 코타키나발루 최고의 선셋"
+      "reason": {
+        "ko": "건기 시작, 코타키나발루 최고의 선셋",
+        "en": "The beginning of the dry season, the best sunset in Kota Kinabalu",
+        "ja": "乾季開始、コタキナバルで最高のサンセット",
+        "zh": "旱季开始，亚庇最美日落"
+      }
     },
     {
       "regionId": "krabi",
-      "reason": "건기 재개, 라일레이 비치가 다시 열리는 시기"
+      "reason": {
+        "ko": "건기 재개, 라일레이 비치가 다시 열리는 시기",
+        "en": "Dry season resumes, when will Railay Beach reopen",
+        "ja": "乾季再開、ライレイビーチが再び開かれる時期",
+        "zh": "旱季恢复，莱利海滩何时重新开放"
+      }
     },
     {
       "regionId": "kuala-lumpur",
-      "reason": "몬순 본격화, 폭우와 침수 주의"
+      "reason": {
+        "ko": "몬순 본격화, 폭우와 침수 주의",
+        "en": "Monsoon in full swing, beware of heavy rain and flooding",
+        "ja": "モンスーン本格化、大雨と浸水注意",
+        "zh": "季风如火如荼，谨防暴雨洪水"
+      }
     },
     {
       "regionId": "langkawi",
-      "reason": "건기 시작, 맑아지는 안다만해"
+      "reason": {
+        "ko": "건기 시작, 맑아지는 안다만해",
+        "en": "Dry season begins, Andaman Sea becomes clear",
+        "ja": "乾き始め、澄んでいるアンダマンヘ",
+        "zh": "旱季开始，安达曼海变得清澈"
+      }
     },
     {
       "regionId": "lombok",
-      "reason": "우기 시작, 야외 활동 제한"
+      "reason": {
+        "ko": "우기 시작, 야외 활동 제한",
+        "en": "Rainy season begins, outdoor activities are limited",
+        "ja": "雨期開始、野外活動制限",
+        "zh": "雨季开始，户外活动有限"
+      }
     },
     {
       "regionId": "london",
-      "reason": "초겨울, 16시면 어두워지는 짧은 해"
+      "reason": {
+        "ko": "초겨울, 16시면 어두워지는 짧은 해",
+        "en": "Early winter, a short year when it gets dark at 16:00",
+        "ja": "初冬、16時は暗くなる短年",
+        "zh": "初冬，16:00天黑时短暂的一年"
+      }
     },
     {
       "regionId": "male",
-      "reason": "건기 시작, 잔잔한 라군과 석양"
+      "reason": {
+        "ko": "건기 시작, 잔잔한 라군과 석양",
+        "en": "Dry season begins, calm lagoon and sunset",
+        "ja": "乾季開始、穏やかなラグーンと夕日",
+        "zh": "旱季开始，平静的泻湖和日落"
+      }
     },
     {
       "regionId": "manila",
-      "reason": "건기 시작, 날씨 회복 중"
+      "reason": {
+        "ko": "건기 시작, 날씨 회복 중",
+        "en": "Dry season begins, weather recovering",
+        "ja": "乾季開始、天気回復中",
+        "zh": "旱季开始，天气恢复"
+      }
     },
     {
       "regionId": "munich",
-      "reason": "쌀쌀한 초겨울, 크리스마스 마켓 시작"
+      "reason": {
+        "ko": "쌀쌀한 초겨울, 크리스마스 마켓 시작",
+        "en": "Chilly early winter, Christmas market begins",
+        "ja": "肌寒い初冬、クリスマスマーケットスタート",
+        "zh": "初冬寒冷，圣诞集市开始"
+      }
     },
     {
       "regionId": "nara",
-      "reason": "단풍 절정, 사슴과 단풍의 인생샷 포인트"
+      "reason": {
+        "ko": "단풍 절정, 사슴과 단풍의 인생샷 포인트",
+        "en": "The peak of fall foliage, the best photo opportunity of deer and fall foliage",
+        "ja": "紅葉のピーク、鹿と紅葉の人生ショットポイント",
+        "zh": "红叶高峰期，鹿与红叶最佳拍照时机"
+      }
     },
     {
       "regionId": "new-york",
-      "reason": "추워지지만 추수감사절·홀리데이 시즌 시작"
+      "reason": {
+        "ko": "추워지지만 추수감사절·홀리데이 시즌 시작",
+        "en": "It's getting colder, but the Thanksgiving/holiday season has begun",
+        "ja": "寒いけど感謝祭・ホリデーシーズンスタート",
+        "zh": "天气越来越冷，但感恩节/假期已经开始"
+      }
     },
     {
       "regionId": "nha-trang",
-      "reason": "태풍 시즌 막바지, 날씨 회복 시작"
+      "reason": {
+        "ko": "태풍 시즌 막바지, 날씨 회복 시작",
+        "en": "Typhoon season ends, weather begins to recover",
+        "ja": "台風シーズンの終わり、天気回復を開始",
+        "zh": "台风季节结束，天气开始恢复"
+      }
     },
     {
       "regionId": "palawan",
-      "reason": "건기 시작, 바다가 잔잔해지는 시기"
+      "reason": {
+        "ko": "건기 시작, 바다가 잔잔해지는 시기",
+        "en": "The beginning of the dry season, the time when the sea becomes calm",
+        "ja": "乾き始め、海が穏やかになる時期",
+        "zh": "旱季开始，大海变得平静的时候"
+      }
     },
     {
       "regionId": "paris",
-      "reason": "쌀쌀해지고 해가 짧아지는 초겨울"
+      "reason": {
+        "ko": "쌀쌀해지고 해가 짧아지는 초겨울",
+        "en": "Early winter when it gets chilly and the days get shorter",
+        "ja": "寒くなって太陽が短くなる初冬",
+        "zh": "初冬，天气变冷，白天变短"
+      }
     },
     {
       "regionId": "penang",
-      "reason": "건기 재개, 다시 쾌청해진 조지타운"
+      "reason": {
+        "ko": "건기 재개, 다시 쾌청해진 조지타운",
+        "en": "Dry season resumes, Georgetown becomes sunny again",
+        "ja": "乾季再開、再び元気になったジョージタウン",
+        "zh": "旱季恢复，乔治城再次阳光明媚"
+      }
     },
     {
       "regionId": "phnom-penh",
-      "reason": "물축제(본오움 투크), 건기 시작과 함께 축제"
+      "reason": {
+        "ko": "물축제(본오움 투크), 건기 시작과 함께 축제",
+        "en": "Water Festival (Bon Oum Touk), a festival with the start of the dry season",
+        "ja": "ウォーターフェスティバル（ボンオウムツーク）、乾季開始と一緒にフェスティバル",
+        "zh": "送水节（Bon Oum Touk），一个伴随着旱季开始的节日"
+      }
     },
     {
       "regionId": "phuket",
-      "reason": "건기 시작, 바다가 잔잔해지는 시기"
+      "reason": {
+        "ko": "건기 시작, 바다가 잔잔해지는 시기",
+        "en": "The beginning of the dry season, the time when the sea becomes calm",
+        "ja": "乾き始め、海が穏やかになる時期",
+        "zh": "旱季开始，大海变得平静的时候"
+      }
     },
     {
       "regionId": "porto",
-      "reason": "비수기 시작, 겨울 비와 포트와인의 매력"
+      "reason": {
+        "ko": "비수기 시작, 겨울 비와 포트와인의 매력",
+        "en": "The off-season begins, the charm of winter rain and port wine",
+        "ja": "オフシーズン開始、冬の雨とポートワインの魅力",
+        "zh": "淡季开始，冬雨与波特酒的魅力"
+      }
     },
     {
       "regionId": "prague",
-      "reason": "쌀쌀해지는 초겨울, 크리스마스 마켓 준비"
+      "reason": {
+        "ko": "쌀쌀해지는 초겨울, 크리스마스 마켓 준비",
+        "en": "It's getting chilly in early winter, getting ready for the Christmas market",
+        "ja": "肌寒くなる初冬、クリスマスマーケット準備",
+        "zh": "初冬渐凉，准备圣诞集市"
+      }
     },
     {
       "regionId": "reykjavik",
-      "reason": "겨울 시작, 얼음동굴 투어 시즌 오픈"
+      "reason": {
+        "ko": "겨울 시작, 얼음동굴 투어 시즌 오픈",
+        "en": "Winter begins, ice cave tour season opens",
+        "ja": "冬の始まり、氷の洞窟ツアーシーズンオープン",
+        "zh": "冬季来临，冰洞旅游季开启"
+      }
     },
     {
       "regionId": "rome",
-      "reason": "쌀쌀해지지만 관광객 적어 여유로운 시기"
+      "reason": {
+        "ko": "쌀쌀해지지만 관광객 적어 여유로운 시기",
+        "en": "It gets chilly, but there are fewer tourists so it’s a leisurely time",
+        "ja": "肌寒くなるが観光客少なくゆったりとした時期",
+        "zh": "天冷了，但是游客少了，很悠闲"
+      }
     },
     {
       "regionId": "salzburg",
-      "reason": "초겨울, 쌀쌀하지만 성탄 준비 분위기"
+      "reason": {
+        "ko": "초겨울, 쌀쌀하지만 성탄 준비 분위기",
+        "en": "Early winter, chilly but ready for Christmas",
+        "ja": "初冬、肌寒いがクリスマス準備雰囲気",
+        "zh": "初冬，寒冷，但准备迎接圣诞节"
+      }
     },
     {
       "regionId": "singapore",
-      "reason": "북동 몬순 시작, 비 많아지는 시기"
+      "reason": {
+        "ko": "북동 몬순 시작, 비 많아지는 시기",
+        "en": "The beginning of the northeast monsoon, the time when rain increases",
+        "ja": "北東モンスーンの始まり、雨が多い時期",
+        "zh": "东北季风初起，雨水增多之时"
+      }
     },
     {
       "regionId": "split",
-      "reason": "비수기 시작, 페리 감편 시작"
+      "reason": {
+        "ko": "비수기 시작, 페리 감편 시작",
+        "en": "Off-season begins, ferry service begins to decrease",
+        "ja": "オフシーズン開始、フェリーフェロースタート",
+        "zh": "淡季开始，轮渡服务开始减少"
+      }
     },
     {
       "regionId": "toronto",
-      "reason": "추워지기 시작, 실내 박물관·푸드마켓 투어"
+      "reason": {
+        "ko": "추워지기 시작, 실내 박물관·푸드마켓 투어",
+        "en": "Starting to get cold, indoor museum and food market tour",
+        "ja": "寒くなり始め、室内博物館・フードマーケットツアー",
+        "zh": "开始变冷，室内博物馆和菜市场之旅"
+      }
     },
     {
       "regionId": "vancouver",
-      "reason": "가을비 시작, 아쿠아리움·박물관 실내 탐방"
+      "reason": {
+        "ko": "가을비 시작, 아쿠아리움·박물관 실내 탐방",
+        "en": "Autumn rain begins, indoor visit to aquarium and museum",
+        "ja": "秋雨開始、水族館・博物館屋内探訪",
+        "zh": "秋雨初起，室内参观水族馆和博物馆"
+      }
     },
     {
       "regionId": "venice",
-      "reason": "아쿠아 알타(침수) 최빈 시즌, 산마르코 광장 잠김"
+      "reason": {
+        "ko": "아쿠아 알타(침수) 최빈 시즌, 산마르코 광장 잠김",
+        "en": "Aqua Alta (flooded) Best season, St. Mark's Square flooded",
+        "ja": "アクアアルタ（浸水）チェビンシーズン、サンマルコ広場ロック",
+        "zh": "Aqua Alta（被淹） 最佳季节，圣马可广场被淹"
+      }
     },
     {
       "regionId": "vienna",
-      "reason": "서늘한 가을, 쇼핑 & 카페 문화 즐기기"
+      "reason": {
+        "ko": "서늘한 가을, 쇼핑 & 카페 문화 즐기기",
+        "en": "Enjoying cool fall, shopping & cafe culture",
+        "ja": "涼しい秋、ショッピング＆カフェ文化を楽しむ",
+        "zh": "享受凉爽的秋天，购物和咖啡馆文化"
+      }
     },
     {
       "regionId": "yogyakarta",
-      "reason": "우기 중반, 바틱 쇼핑과 실내 문화 탐방"
+      "reason": {
+        "ko": "우기 중반, 바틱 쇼핑과 실내 문화 탐방",
+        "en": "Mid-rainy season, batik shopping and indoor cultural exploration",
+        "ja": "雨期半ば、バティックショッピングと屋内文化を探訪",
+        "zh": "雨季中期，蜡染购物和室内文化探索"
+      }
     },
     {
       "regionId": "zurich",
-      "reason": "초겨울, 세계 최고 수준의 크리스마스 마켓 시작"
+      "reason": {
+        "ko": "초겨울, 세계 최고 수준의 크리스마스 마켓 시작",
+        "en": "Early winter, world-class Christmas market begins",
+        "ja": "初冬、世界最高水準のクリスマスマーケットをスタート",
+        "zh": "初冬，世界级圣诞集市拉开"
+      }
     }
   ]
 }

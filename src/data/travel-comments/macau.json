@@ -3,19 +3,65 @@
     "regionId": "macau",
     "month": 1,
     "rating": 4,
-    "summary": "쾌적한 겨울, 세나도 광장과 카지노 투어",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쾌적한 겨울, 세나도 광장과 카지노 투어",
+      "en": "Pleasant Winter, Senado Square and Casino Tour",
+      "ja": "快適な冬、セナド広場とカジノツアー",
+      "zh": "愉快的冬天，议事亭前地和赌场之旅"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -23,16 +69,48 @@
     "regionId": "macau",
     "month": 2,
     "rating": 4,
-    "summary": "춘절 분위기, 관음당·마조묘 축제",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "춘절 분위기, 관음당·마조묘 축제",
+      "en": "Lunar New Year atmosphere, Gwaneumdang·Majomyo Festival",
+      "ja": "春節の雰囲気、観音堂・まぞみお祭り",
+      "zh": "新年气氛、观音堂·马城庙"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -40,20 +118,69 @@
     "regionId": "macau",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 세계유산 성바울 성당 산책",
-    "highlights": [
-      "봄 마카오, 세나도 광장 산책 좋은 시기",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 12일로 실내 대안 준비 권장",
-      "습도 85%로 불쾌지수 높음"
-    ],
-    "events": [
-      "마카오 예술 페스티벌 (5월)"
-    ],
+    "summary": {
+      "ko": "봄 시작, 세계유산 성바울 성당 산책",
+      "en": "Spring begins, a walk around the World Heritage Site, St. Paul's Cathedral",
+      "ja": "春の始まり、世界遺産の聖パウロ大聖堂の散歩",
+      "zh": "春天来了，漫步世界遗产圣保罗大教堂"
+    },
+    "highlights": {
+      "ko": [
+        "봄 마카오, 세나도 광장 산책 좋은 시기",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Spring is a good time to walk around Senado Square in Macau",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "春のマカオ、セナド広場の散歩良い時期",
+        "快適な気温"
+      ],
+      "zh": [
+        "春天正是逛澳门议事亭前地的好时节",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12일로 실내 대안 준비 권장",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "As the rainy day is on the 12th, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "雨の日が12日で屋内代替準備を推奨",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "由于12号是雨天，建议室内替代准备",
+        "湿度85%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "마카오 예술 페스티벌 (5월)"
+      ],
+      "en": [
+        "Macau Arts Festival (May)"
+      ],
+      "ja": [
+        "マカオアートフェスティバル（5月）"
+      ],
+      "zh": [
+        "澳门艺术节（五月）"
+      ]
+    },
     "tips": [],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -61,25 +188,94 @@
     "regionId": "macau",
     "month": 4,
     "rating": 3,
-    "summary": "온화한 봄, 콜로안 해변과 에그타르트",
-    "highlights": [
-      "봄 마카오, 세나도 광장 산책 좋은 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 131mm로 우산 필수",
-      "월 15.4일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
-    "events": [
-      "마카오 예술 페스티벌 (5월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "온화한 봄, 콜로안 해변과 에그타르트",
+      "en": "Mild spring, Coloane Beach and egg tarts",
+      "ja": "穏やかな春、コロアンビーチとエグタルト",
+      "zh": "温和的春天，路环海滩和蛋挞"
+    },
+    "highlights": {
+      "ko": [
+        "봄 마카오, 세나도 광장 산책 좋은 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Spring is a good time to walk around Senado Square in Macau",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "春のマカオ、セナド広場の散歩良い時期",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "春天正是逛澳门议事亭前地的好时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 131mm로 우산 필수",
+        "월 15.4일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 131mm, so an umbrella is a must",
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "降水量は 131mm なので傘は必須です",
+        "月15.4日雨と屋外のスケジュールに注意してください",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量131毫米，雨伞必备",
+        "月均约15天降雨，注意安排户外行程",
+        "湿度85%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "마카오 예술 페스티벌 (5월)"
+      ],
+      "en": [
+        "Macau Arts Festival (May)"
+      ],
+      "ja": [
+        "マカオアートフェスティバル（5月）"
+      ],
+      "zh": [
+        "澳门艺术节（五月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -87,22 +283,77 @@
     "regionId": "macau",
     "month": 5,
     "rating": 2,
-    "summary": "우기 전환기, 더워지기 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 258mm로 우기에 해당",
-      "월 20.8일 비가 와 야외 일정에 유의",
-      "습도 87%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 전환기, 더워지기 시작",
+      "en": "Rainy season transition, starting to get hot",
+      "ja": "雨季の切り替え、暑くなり始める",
+      "zh": "雨季过渡，开始变热"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 258mm로 우기에 해당",
+        "월 20.8일 비가 와 야외 일정에 유의",
+        "습도 87%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 258mm, corresponding to the rainy season",
+        "About 21 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 87%"
+      ],
+      "ja": [
+        "月降水量258mmで雨季に対応",
+        "月20.8日雨と屋外のスケジュールに注意",
+        "湿度87％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量258毫米，对应雨季",
+        "月均约21天降雨，注意安排户外行程",
+        "湿度87%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -110,25 +361,89 @@
     "regionId": "macau",
     "month": 6,
     "rating": 2,
-    "summary": "우기 시작, 태풍 시즌 전 마지막 관광기",
-    "highlights": [
-      "태풍·고온다습, 야외 관광 힘든 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 299mm로 우기에 해당",
-      "월 25.6일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 시작, 태풍 시즌 전 마지막 관광기",
+      "en": "Rainy season begins, last tourist season before typhoon season",
+      "ja": "雨期開始、台風シーズン前の最後の観光",
+      "zh": "雨季开始，台风季节前的最后一个旅游季节"
+    },
+    "highlights": {
+      "ko": [
+        "태풍·고온다습, 야외 관광 힘든 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Typhoon, high temperature and humidity, difficult time for outdoor tourism",
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "台風・高温多湿、野外観光大変な時期",
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "台风、高温高湿，户外旅游困难时期",
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 299mm로 우기에 해당",
+        "월 25.6일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 299mm, corresponding to the rainy season",
+        "About 26 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "月降水量299mmで雨季に対応",
+        "月25.6日雨と屋外のスケジュールに注意",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量299毫米，对应雨季",
+        "月均约26天降雨，注意安排户外行程",
+        "湿度86%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -136,23 +451,81 @@
     "regionId": "macau",
     "month": 7,
     "rating": 1,
-    "summary": "태풍 시즌, 고온다습하고 비 잦음",
-    "highlights": [
-      "태풍·고온다습, 야외 관광 힘든 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "월 강수량 238mm로 우기에 해당",
-      "월 21.4일 비가 와 야외 일정에 유의",
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "태풍 시즌, 고온다습하고 비 잦음",
+      "en": "Typhoon season, high temperature and humidity and frequent rain",
+      "ja": "台風シーズン、高温多湿と雨の頻度",
+      "zh": "台风季节，高温高湿多雨"
+    },
+    "highlights": {
+      "ko": [
+        "태풍·고온다습, 야외 관광 힘든 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Typhoon, high temperature and humidity, difficult time for outdoor tourism",
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "台風・高温多湿、野外観光大変な時期",
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "台风、高温高湿，户外旅游困难时期",
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 238mm로 우기에 해당",
+        "월 21.4일 비가 와 야외 일정에 유의",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 238mm, corresponding to the rainy season",
+        "About 21 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "月降水量238mmで雨季に対応",
+        "月21.4日雨と屋外のスケジュールに注意",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量238毫米，对应雨季",
+        "月均约21天降雨，注意安排户外行程",
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -160,25 +533,89 @@
     "regionId": "macau",
     "month": 8,
     "rating": 1,
-    "summary": "태풍 절정기, 실내 카지노·호텔 위주",
-    "highlights": [
-      "태풍·고온다습, 야외 관광 힘든 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 385mm로 우기에 해당",
-      "월 27.6일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "태풍 절정기, 실내 카지노·호텔 위주",
+      "en": "Typhoon peak season, mainly indoor casinos and hotels",
+      "ja": "台風絶頂期、屋内カジノ・ホテル中心",
+      "zh": "台风旺季，主要是室内赌场和酒店"
+    },
+    "highlights": {
+      "ko": [
+        "태풍·고온다습, 야외 관광 힘든 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Typhoon, high temperature and humidity, difficult time for outdoor tourism",
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "台風・高温多湿、野外観光大変な時期",
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "台风、高温高湿，户外旅游困难时期",
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 385mm로 우기에 해당",
+        "월 27.6일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 385mm, corresponding to the rainy season.",
+        "About 28 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "月降水量385mmで雨季に対応",
+        "月27.6日雨と屋外のスケジュールに注意",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量为385毫米，对应雨季。",
+        "月均约28天降雨，注意安排户外行程",
+        "湿度86%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -186,25 +623,89 @@
     "regionId": "macau",
     "month": 9,
     "rating": 1,
-    "summary": "태풍 막바지, 여전히 덥고 습한 시기",
-    "highlights": [
-      "태풍·고온다습, 야외 관광 힘든 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 351mm로 우기에 해당",
-      "월 25일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "태풍 막바지, 여전히 덥고 습한 시기",
+      "en": "At the end of the typhoon, it is still hot and humid",
+      "ja": "台風の終わり、まだ暑くて湿った時期",
+      "zh": "台风结束，依然湿热"
+    },
+    "highlights": {
+      "ko": [
+        "태풍·고온다습, 야외 관광 힘든 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Typhoon, high temperature and humidity, difficult time for outdoor tourism",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "台風・高温多湿、野外観光大変な時期",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "台风、高温高湿，户外旅游困难时期",
+        "日照时间长，适合户外活动",
+        "舒适温度",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 351mm로 우기에 해당",
+        "월 25일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 351mm, corresponding to the rainy season",
+        "It rains on the 25th of the month, so be careful about outdoor schedules.",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "月降水量351mmで雨季に対応",
+        "月25日雨と屋外のスケジュールに注意",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量351毫米，对应雨季",
+        "25日有雨，请注意户外行程。",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -212,26 +713,98 @@
     "regionId": "macau",
     "month": 10,
     "rating": 3,
-    "summary": "쾌적한 가을 시작, 마카오 여행 최적기",
-    "highlights": [
-      "쾌적한 가을~초겨울, 카지노와 세계유산 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 224mm로 우기에 해당",
-      "비 오는 날이 11.4일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "마카오 그랑프리 (11월)",
-      "마카오 라이트 페스티벌 (12월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "쾌적한 가을 시작, 마카오 여행 최적기",
+      "en": "A pleasant start to autumn, the best time to travel to Macau",
+      "ja": "快適な秋の始まり、マカオ旅行の最適機",
+      "zh": "秋天的美好开始，澳门旅游的最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 가을~초겨울, 카지노와 세계유산 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Pleasant fall to early winter, the right time for casinos and world heritage sites",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "快適な秋〜初冬、カジノと世界遺産の赤旗",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "宜人的秋天到初冬，正是游览赌场和世界遗产的好时机",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 224mm로 우기에 해당",
+        "비 오는 날이 11.4일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 224mm, corresponding to the rainy season",
+        "With 11.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "月降水量224mmで雨季に対応",
+        "雨の日が11.4日で屋内代替準備を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "月降水量224毫米，对应雨季",
+        "11.4阴雨天，建议室内替代准备",
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "마카오 그랑프리 (11월)",
+        "마카오 라이트 페스티벌 (12월)"
+      ],
+      "en": [
+        "Macau Grand Prix (November)",
+        "Macau Light Festival (December)"
+      ],
+      "ja": [
+        "マカオグランプリ（11月）",
+        "マカオライトフェスティバル（12月）"
+      ],
+      "zh": [
+        "澳门格兰披治大赛车（十一月）",
+        "澳门光影节（十二月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -239,23 +812,86 @@
     "regionId": "macau",
     "month": 11,
     "rating": 4,
-    "summary": "마카오 그랑프리, 시가지 레이싱 축제",
-    "highlights": [
-      "쾌적한 가을~초겨울, 카지노와 세계유산 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "마카오 그랑프리 (11월)",
-      "마카오 라이트 페스티벌 (12월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "마카오 그랑프리, 시가지 레이싱 축제",
+      "en": "Macau Grand Prix, urban racing festival",
+      "ja": "マカオグランプリ、市街地レーシングフェスティバル",
+      "zh": "澳门格兰披治大赛车，城市赛车节"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 가을~초겨울, 카지노와 세계유산 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Pleasant fall to early winter, the right time for casinos and world heritage sites",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "快適な秋〜初冬、カジノと世界遺産の赤旗",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "宜人的秋天到初冬，正是游览赌场和世界遗产的好时机",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "마카오 그랑프리 (11월)",
+        "마카오 라이트 페스티벌 (12월)"
+      ],
+      "en": [
+        "Macau Grand Prix (November)",
+        "Macau Light Festival (December)"
+      ],
+      "ja": [
+        "マカオグランプリ（11月）",
+        "マカオライトフェスティバル（12月）"
+      ],
+      "zh": [
+        "澳门格兰披治大赛车（十一月）",
+        "澳门光影节（十二月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -263,21 +899,73 @@
     "regionId": "macau",
     "month": 12,
     "rating": 5,
-    "summary": "라이트 페스티벌, 세계유산 야경 조명",
-    "highlights": [
-      "쾌적한 가을~초겨울, 카지노와 세계유산 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "라이트 페스티벌, 세계유산 야경 조명",
+      "en": "Light Festival, World Heritage Night View Illumination",
+      "ja": "ライトフェスティバル、世界遺産の夜景ライト",
+      "zh": "灯光节、世界遗产夜景灯光"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 가을~초겨울, 카지노와 세계유산 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Pleasant fall to early winter, the right time for casinos and world heritage sites",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "快適な秋〜初冬、カジノと世界遺産の赤旗",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "宜人的秋天到初冬，正是游览赌场和世界遗产的好时机",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "마카오 그랑프리 (11월)",
-      "마카오 라이트 페스티벌 (12월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "마카오 그랑프리 (11월)",
+        "마카오 라이트 페스티벌 (12월)"
+      ],
+      "en": [
+        "Macau Grand Prix (November)",
+        "Macau Light Festival (December)"
+      ],
+      "ja": [
+        "マカオグランプリ（11月）",
+        "マカオライトフェスティバル（12月）"
+      ],
+      "zh": [
+        "澳门格兰披治大赛车（十一月）",
+        "澳门光影节（十二月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   }

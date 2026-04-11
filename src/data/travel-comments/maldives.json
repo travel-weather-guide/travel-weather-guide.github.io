@@ -3,24 +3,90 @@
     "regionId": "male",
     "month": 1,
     "rating": 4,
-    "summary": "NE 몬순 건기, 파도 잔잔하고 시야 맑은 스노클링",
-    "highlights": [
-      "건기 몰디브, 맑은 바다와 완벽한 산호초",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 11.4일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "건기 스노클링·다이빙 시즌",
-      "몰디브 서핑 시즌 (3~10월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "NE 몬순 건기, 파도 잔잔하고 시야 맑은 스노클링",
+      "en": "NE monsoon dry season, snorkeling with calm waves and clear visibility",
+      "ja": "NE モンスーン乾季、波の穏やかで視界澄んだシュノーケリング",
+      "zh": "东北季风旱季，浮潜时海浪平静，能见度清晰"
+    },
+    "highlights": {
+      "ko": [
+        "건기 몰디브, 맑은 바다와 완벽한 산호초",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season Maldives, clear seas and perfect coral reefs",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期モルディブ、澄んだ海と完璧なサンゴ礁",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季的马尔代夫，清澈的海水和完美的珊瑚礁",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.4일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "With 11.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "雨の日が11.4日で屋内代替準備を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "11.4阴雨天，建议室内替代准备",
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "건기 스노클링·다이빙 시즌",
+        "몰디브 서핑 시즌 (3~10월)"
+      ],
+      "en": [
+        "Dry season snorkeling and diving season",
+        "Maldives surfing season (March-October)"
+      ],
+      "ja": [
+        "乾季シュノーケリング・ダイビングシーズン",
+        "モルディブサーフィンシーズン（3〜10月）"
+      ],
+      "zh": [
+        "旱季浮潜和潜水季节",
+        "马尔代夫冲浪季节（3月至10月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -28,24 +94,90 @@
     "regionId": "male",
     "month": 2,
     "rating": 4,
-    "summary": "건기 절정, 몰디브 최고의 다이빙 시즌",
-    "highlights": [
-      "건기 몰디브, 맑은 바다와 완벽한 산호초",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "건기 스노클링·다이빙 시즌",
-      "몰디브 서핑 시즌 (3~10월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 절정, 몰디브 최고의 다이빙 시즌",
+      "en": "The peak of the dry season, the best diving season in Maldives",
+      "ja": "乾季ピーク、モルディブで最高のダイビングシーズン",
+      "zh": "旱季高峰，马尔代夫最佳潜水季节"
+    },
+    "highlights": {
+      "ko": [
+        "건기 몰디브, 맑은 바다와 완벽한 산호초",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season Maldives, clear seas and perfect coral reefs",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期モルディブ、澄んだ海と完璧なサンゴ礁",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季的马尔代夫，清澈的海水和完美的珊瑚礁",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "건기 스노클링·다이빙 시즌",
+        "몰디브 서핑 시즌 (3~10월)"
+      ],
+      "en": [
+        "Dry season snorkeling and diving season",
+        "Maldives surfing season (March-October)"
+      ],
+      "ja": [
+        "乾季シュノーケリング・ダイビングシーズン",
+        "モルディブサーフィンシーズン（3〜10月）"
+      ],
+      "zh": [
+        "旱季浮潜和潜水季节",
+        "马尔代夫冲浪季节（3月至10月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -53,24 +185,90 @@
     "regionId": "male",
     "month": 3,
     "rating": 3,
-    "summary": "건기, 하얀 모래와 투명한 바다의 절정",
-    "highlights": [
-      "건기 몰디브, 맑은 바다와 완벽한 산호초",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 12.4일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "건기 스노클링·다이빙 시즌",
-      "몰디브 서핑 시즌 (3~10월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기, 하얀 모래와 투명한 바다의 절정",
+      "en": "Dry season, peak of white sand and clear sea",
+      "ja": "乾期、白い砂と透明な海のピーク",
+      "zh": "旱季，白沙碧海"
+    },
+    "highlights": {
+      "ko": [
+        "건기 몰디브, 맑은 바다와 완벽한 산호초",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dry season Maldives, clear seas and perfect coral reefs",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期モルディブ、澄んだ海と完璧なサンゴ礁",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季的马尔代夫，清澈的海水和完美的珊瑚礁",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.4일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "With 12.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "雨の日が12.4日で屋内代替準備を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "12.4阴雨天，建议室内替代准备",
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "건기 스노클링·다이빙 시즌",
+        "몰디브 서핑 시즌 (3~10월)"
+      ],
+      "en": [
+        "Dry season snorkeling and diving season",
+        "Maldives surfing season (March-October)"
+      ],
+      "ja": [
+        "乾季シュノーケリング・ダイビングシーズン",
+        "モルディブサーフィンシーズン（3〜10月）"
+      ],
+      "zh": [
+        "旱季浮潜和潜水季节",
+        "马尔代夫冲浪季节（3月至10月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -78,26 +276,98 @@
     "regionId": "male",
     "month": 4,
     "rating": 3,
-    "summary": "건기 막바지, 아직 쾌청한 환초 리조트",
-    "highlights": [
-      "건기 몰디브, 맑은 바다와 완벽한 산호초",
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "강수량이 132mm로 우산 필수",
-      "월 18일 비가 와 야외 일정에 유의",
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "건기 스노클링·다이빙 시즌",
-      "몰디브 서핑 시즌 (3~10월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기 막바지, 아직 쾌청한 환초 리조트",
+      "en": "At the end of the dry season, the atoll resort is still sunny",
+      "ja": "乾期の最後、まだ楽しい環礁リゾート",
+      "zh": "旱季结束，环礁度假村依然阳光明媚"
+    },
+    "highlights": {
+      "ko": [
+        "건기 몰디브, 맑은 바다와 완벽한 산호초",
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Dry season Maldives, clear seas and perfect coral reefs",
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "乾期モルディブ、澄んだ海と完璧なサンゴ礁",
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "旱季的马尔代夫，清澈的海水和完美的珊瑚礁",
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 132mm로 우산 필수",
+        "월 18일 비가 와 야외 일정에 유의",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 132mm, so an umbrella is a must",
+        "It's raining on the 18th, so be careful about outdoor schedules",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "降水量は 132mm なので傘は必須です",
+        "月18日雨と屋外のスケジュールに注意",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "降雨量132毫米，雨伞必备",
+        "18号有雨，户外行程要注意",
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "건기 스노클링·다이빙 시즌",
+        "몰디브 서핑 시즌 (3~10월)"
+      ],
+      "en": [
+        "Dry season snorkeling and diving season",
+        "Maldives surfing season (March-October)"
+      ],
+      "ja": [
+        "乾季シュノーケリング・ダイビングシーズン",
+        "モルディブサーフィンシーズン（3〜10月）"
+      ],
+      "zh": [
+        "旱季浮潜和潜水季节",
+        "马尔代夫冲浪季节（3月至10月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -105,22 +375,77 @@
     "regionId": "male",
     "month": 5,
     "rating": 2,
-    "summary": "SW 몬순 우기 시작, 파도 높아지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "월 강수량 288mm로 우기에 해당",
-      "월 24.2일 비가 와 야외 일정에 유의",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "SW 몬순 우기 시작, 파도 높아지는 시기",
+      "en": "SW monsoon rainy season begins, the time when waves rise",
+      "ja": "SW モンスーン雨期開始、波が上がる時期",
+      "zh": "西南季风雨季开始，海浪高涨之时"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 288mm로 우기에 해당",
+        "월 24.2일 비가 와 야외 일정에 유의",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 288mm, corresponding to the rainy season",
+        "About 24 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "月降水量288mmで雨季に対応",
+        "月24.2日雨と屋外のスケジュールに注意",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "每月降雨量288毫米，对应雨季",
+        "月均约24天降雨，注意安排户外行程",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -128,20 +453,69 @@
     "regionId": "male",
     "month": 6,
     "rating": 3,
-    "summary": "우기 본격화, 비 잦지만 서핑 시즌 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "비 오는 날이 13.8일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기 본격화, 비 잦지만 서핑 시즌 시작",
+      "en": "The rainy season is in full swing, and although it rains frequently, the surfing season begins",
+      "ja": "ウギ本格化、雨が多いがサーフィンシーズンスタート",
+      "zh": "雨季如火如荼，虽然经常下雨，但冲浪季节开始"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.8일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "With 13.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "雨の日が13.8日で屋内代替案を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "13.8阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -149,22 +523,77 @@
     "regionId": "male",
     "month": 7,
     "rating": 2,
-    "summary": "우기, 파도 거칠고 시야 낮아지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 178mm로 우기에 해당",
-      "월 18.8일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기, 파도 거칠고 시야 낮아지는 시기",
+      "en": "Rainy season, when the waves are rough and visibility is low",
+      "ja": "雨季、波が荒く、視界が低くなる時期",
+      "zh": "雨季，海浪汹涌，能见度低"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 178mm로 우기에 해당",
+        "월 18.8일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 178mm, corresponding to the rainy season",
+        "About 19 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "月降水量178mmで雨季に対応",
+        "月18.8日雨と屋外のスケジュールに注意",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "月降水量178毫米，对应雨季",
+        "月均约19天降雨，注意安排户外行程",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -172,22 +601,77 @@
     "regionId": "male",
     "month": 8,
     "rating": 2,
-    "summary": "우기 지속, 비 많지만 수중 생물 풍부",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 198mm로 우기에 해당",
-      "월 17.2일 비가 와 야외 일정에 유의",
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기 지속, 비 많지만 수중 생물 풍부",
+      "en": "Rainy season continues, although there is a lot of rain, aquatic life is abundant",
+      "ja": "雨期の持続、雨が多いが水中生物豊富",
+      "zh": "雨季持续，虽然雨水较多，但水生生物丰富"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 198mm로 우기에 해당",
+        "월 17.2일 비가 와 야외 일정에 유의",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 198mm, corresponding to the rainy season",
+        "About 17 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "月降水量198mmで雨季に対応",
+        "月17.2日雨と屋外のスケジュールに注意",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "月降水量198毫米，对应雨季",
+        "月均约17天降雨，注意安排户外行程",
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -195,22 +679,77 @@
     "regionId": "male",
     "month": 9,
     "rating": 2,
-    "summary": "우기 끝자락, 만타가오리 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 215mm로 우기에 해당",
-      "월 19.6일 비가 와 야외 일정에 유의",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기 끝자락, 만타가오리 시즌",
+      "en": "At the end of the rainy season, manta ray season",
+      "ja": "雨期の終わり、マンタガオリシーズン",
+      "zh": "雨季结束，蝠鲼季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 215mm로 우기에 해당",
+        "월 19.6일 비가 와 야외 일정에 유의",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 215mm, corresponding to the rainy season",
+        "About 20 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "月降水量215mmで雨季に対応",
+        "月19.6日雨と屋外のスケジュールに注意",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "每月降雨量215毫米，对应雨季",
+        "月均约20天降雨，注意安排户外行程",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -218,22 +757,77 @@
     "regionId": "male",
     "month": 10,
     "rating": 2,
-    "summary": "우기 마무리, 날씨 서서히 회복",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 197mm로 우기에 해당",
-      "월 20.4일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기 마무리, 날씨 서서히 회복",
+      "en": "Rainy season ends, weather gradually recovers",
+      "ja": "ウギ仕上げ、天気ゆっくり回復",
+      "zh": "雨季结束，天气逐渐恢复"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 197mm로 우기에 해당",
+        "월 20.4일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 197mm, corresponding to the rainy season",
+        "About 20 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "月降水量197mmで雨季に対応",
+        "月20.4日雨と屋外のスケジュールに注意",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "每月降雨量197毫米，对应雨季",
+        "月均约20天降雨，注意安排户外行程",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -241,22 +835,77 @@
     "regionId": "male",
     "month": 11,
     "rating": 2,
-    "summary": "건기 시작, 잔잔한 라군과 석양",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 254mm로 우기에 해당",
-      "월 20.4일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "건기 시작, 잔잔한 라군과 석양",
+      "en": "Dry season begins, calm lagoon and sunset",
+      "ja": "乾季開始、穏やかなラグーンと夕日",
+      "zh": "旱季开始，平静的泻湖和日落"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 254mm로 우기에 해당",
+        "월 20.4일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 254mm, corresponding to the rainy season",
+        "About 20 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "月降水量254mmで雨季に対応",
+        "月20.4日雨と屋外のスケジュールに注意",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "每月降雨量254毫米，对应雨季",
+        "月均约20天降雨，注意安排户外行程",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -264,25 +913,94 @@
     "regionId": "male",
     "month": 12,
     "rating": 2,
-    "summary": "건기, 크리스마스 시즌의 몰디브 리조트",
-    "highlights": [
-      "크리스마스·신년 시즌 리조트 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 247mm로 우기에 해당",
-      "월 19.6일 비가 와 야외 일정에 유의",
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "신년 카운트다운 리조트 파티"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "건기, 크리스마스 시즌의 몰디브 리조트",
+      "en": "Maldives resorts during dry season and Christmas season",
+      "ja": "乾季、クリスマスシーズンのモルディブリゾート",
+      "zh": "旱季和圣诞节期间的马尔代夫度假村"
+    },
+    "highlights": {
+      "ko": [
+        "크리스마스·신년 시즌 리조트 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Christmas/New Year season resort peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "クリスマス・新年シーズンリゾートハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "圣诞节/新年度假旺季",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 247mm로 우기에 해당",
+        "월 19.6일 비가 와 야외 일정에 유의",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 247mm, corresponding to the rainy season",
+        "About 20 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "月降水量247mmで雨季に対応",
+        "月19.6日雨と屋外のスケジュールに注意",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "月降水量247毫米，对应雨季",
+        "月均约20天降雨，注意安排户外行程",
+        "湿度有点高，77%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "신년 카운트다운 리조트 파티"
+      ],
+      "en": [
+        "New Year Countdown Resort Party"
+      ],
+      "ja": [
+        "新年カウントダウンリゾートパーティー"
+      ],
+      "zh": [
+        "新年倒计时度假村派对"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

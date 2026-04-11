@@ -3,17 +3,52 @@
     "regionId": "istanbul",
     "month": 1,
     "rating": 1,
-    "summary": "겨울 비, 보스포루스 강풍이 부는 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 12.4일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울 비, 보스포루스 강풍이 부는 시기",
+      "en": "Winter rain, Bosphorus strong wind blowing",
+      "ja": "冬の雨、ボスポルスの強風が吹く時期",
+      "zh": "冬天下雨，博斯普鲁斯海峡大风吹"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.4일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "With 12.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "雨の日が12.4日で屋内代替準備を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "12.4阴雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -21,16 +56,48 @@
     "regionId": "istanbul",
     "month": 2,
     "rating": 2,
-    "summary": "겨울 끝자락, 터키식 차 한잔의 여유",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울 끝자락, 터키식 차 한잔의 여유",
+      "en": "At the end of winter, a leisurely cup of Turkish tea",
+      "ja": "冬の終わり、トルコのお茶のカップの余裕",
+      "zh": "冬末，悠闲地喝一杯土耳其茶"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -38,17 +105,52 @@
     "regionId": "istanbul",
     "month": 3,
     "rating": 2,
-    "summary": "봄 시작, 튤립이 피기 시작하는 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 13일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 튤립이 피기 시작하는 시기",
+      "en": "The beginning of spring, the time when tulips begin to bloom",
+      "ja": "春の始まり、チューリップが咲き始める時期",
+      "zh": "立春，郁金香开始绽放的时节"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "As the rainy day is the 13th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "雨の日が13日で屋内代替準備を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "由于13号是雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -56,22 +158,82 @@
     "regionId": "istanbul",
     "month": 4,
     "rating": 3,
-    "summary": "튤립 축제, 봄꽃과 온화한 날씨",
-    "highlights": [
-      "봄 이스탄불, 쾌적한 날씨",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "이스탄불 튤립 축제 (4월)",
-      "이스탄불 영화제 (4월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "튤립 축제, 봄꽃과 온화한 날씨",
+      "en": "Tulip Festival, spring flowers and mild weather",
+      "ja": "チューリップフェスティバル、春の花と穏やかな天気",
+      "zh": "郁金香节，春天的花朵和温和的天气"
+    },
+    "highlights": {
+      "ko": [
+        "봄 이스탄불, 쾌적한 날씨",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Spring Istanbul, pleasant weather",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "春のイスタンブール、快適な天気",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "春天的伊斯坦布尔，气候宜人",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "이스탄불 튤립 축제 (4월)",
+        "이스탄불 영화제 (4월)"
+      ],
+      "en": [
+        "Istanbul Tulip Festival (April)",
+        "Istanbul Film Festival (April)"
+      ],
+      "ja": [
+        "イスタンブールチューリップフェスティバル（4月）",
+        "イスタンブール映画祭（4月）"
+      ],
+      "zh": [
+        "伊斯坦布尔郁金香节（四月）",
+        "伊斯坦布尔电影节（四月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -79,22 +241,82 @@
     "regionId": "istanbul",
     "month": 5,
     "rating": 4,
-    "summary": "봄 절정, 보스포루스 크루즈 최적기",
-    "highlights": [
-      "봄 이스탄불, 쾌적한 날씨",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "이스탄불 튤립 축제 (4월)",
-      "이스탄불 영화제 (4월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "봄 절정, 보스포루스 크루즈 최적기",
+      "en": "Spring peak, the best time for a Bosphorus cruise",
+      "ja": "春の絶頂、ボスフォールスクルーズ最適機",
+      "zh": "春季高峰期，博斯普鲁斯海峡游船的最佳时机"
+    },
+    "highlights": {
+      "ko": [
+        "봄 이스탄불, 쾌적한 날씨",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Spring Istanbul, pleasant weather",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "春のイスタンブール、快適な天気",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "春天的伊斯坦布尔，气候宜人",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "이스탄불 튤립 축제 (4월)",
+        "이스탄불 영화제 (4월)"
+      ],
+      "en": [
+        "Istanbul Tulip Festival (April)",
+        "Istanbul Film Festival (April)"
+      ],
+      "ja": [
+        "イスタンブールチューリップフェスティバル（4月）",
+        "イスタンブール映画祭（4月）"
+      ],
+      "zh": [
+        "伊斯坦布尔郁金香节（四月）",
+        "伊斯坦布尔电影节（四月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -102,19 +324,65 @@
     "regionId": "istanbul",
     "month": 6,
     "rating": 4,
-    "summary": "여름 시작, 야외 레스토랑과 루프탑 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "여름 시작, 야외 레스토랑과 루프탑 시즌",
+      "en": "Summer begins, outdoor restaurant and rooftop season",
+      "ja": "夏の始まり、屋外レストランとルーフトップシーズン",
+      "zh": "夏季开始，户外餐厅和屋顶季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -122,20 +390,69 @@
     "regionId": "istanbul",
     "month": 7,
     "rating": 5,
-    "summary": "여름 더위, 그랜드바자르와 실내 관광",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 70%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "여름 더위, 그랜드바자르와 실내 관광",
+      "en": "Summer heat, Grand Bazaar and indoor tourism",
+      "ja": "夏の暑さ、グランドバザールと屋内観光",
+      "zh": "夏日炎热、大巴扎和室内旅游"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 70%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 70%"
+      ],
+      "ja": [
+        "湿度が70％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，70%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -143,20 +460,69 @@
     "regionId": "istanbul",
     "month": 8,
     "rating": 5,
-    "summary": "더위 지속, 아이스크림(돈두르마)의 계절",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "더위 지속, 아이스크림(돈두르마)의 계절",
+      "en": "The heat continues, the season of ice cream (Dondurma)",
+      "ja": "暑さ持続、アイスクリーム（ドンドゥルマ）の季節",
+      "zh": "炎热的天气仍在继续，冰淇淋的季节（Dondurma）"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -164,24 +530,90 @@
     "regionId": "istanbul",
     "month": 9,
     "rating": 5,
-    "summary": "더위 물러간 쾌적한 가을 시작",
-    "highlights": [
-      "가을 이스탄불, 붐비지 않는 여행",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 71%로 다소 높음"
-    ],
-    "events": [
-      "이스탄불 재즈 페스티벌 (7월)",
-      "보스포러스 마라톤 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "더위 물러간 쾌적한 가을 시작",
+      "en": "A pleasant start to fall with the heat gone",
+      "ja": "暑さを落ちた快適な秋の始まり",
+      "zh": "随着炎热的消退，秋天的一个愉快的开始"
+    },
+    "highlights": {
+      "ko": [
+        "가을 이스탄불, 붐비지 않는 여행",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn Istanbul, uncrowded travel",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "秋のイスタンブール、混雑していない旅行",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋天的伊斯坦布尔，不拥挤的旅行",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，71%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "이스탄불 재즈 페스티벌 (7월)",
+        "보스포러스 마라톤 (11월)"
+      ],
+      "en": [
+        "Istanbul Jazz Festival (July)",
+        "Bosphorus Marathon (November)"
+      ],
+      "ja": [
+        "イスタンブールジャズフェスティバル（7月）",
+        "ボスポラスマラソン（11月）"
+      ],
+      "zh": [
+        "伊斯坦布尔爵士音乐节（七月）",
+        "博斯普鲁斯海峡马拉松（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -189,23 +621,86 @@
     "regionId": "istanbul",
     "month": 10,
     "rating": 4,
-    "summary": "황금빛 가을, 보스포루스의 가장 아름다운 시기",
-    "highlights": [
-      "가을 이스탄불, 붐비지 않는 여행",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "이스탄불 재즈 페스티벌 (7월)",
-      "보스포러스 마라톤 (11월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "황금빛 가을, 보스포루스의 가장 아름다운 시기",
+      "en": "Golden autumn, the most beautiful time of the Bosporus",
+      "ja": "黄金の秋、ボスポルスの最も美しい時期",
+      "zh": "金秋，博斯普鲁斯海峡最美的时光"
+    },
+    "highlights": {
+      "ko": [
+        "가을 이스탄불, 붐비지 않는 여행",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Autumn Istanbul, uncrowded travel",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "秋のイスタンブール、混雑していない旅行",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "秋天的伊斯坦布尔，不拥挤的旅行",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "이스탄불 재즈 페스티벌 (7월)",
+        "보스포러스 마라톤 (11월)"
+      ],
+      "en": [
+        "Istanbul Jazz Festival (July)",
+        "Bosphorus Marathon (November)"
+      ],
+      "ja": [
+        "イスタンブールジャズフェスティバル（7月）",
+        "ボスポラスマラソン（11月）"
+      ],
+      "zh": [
+        "伊斯坦布尔爵士音乐节（七月）",
+        "博斯普鲁斯海峡马拉松（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -213,16 +708,48 @@
     "regionId": "istanbul",
     "month": 11,
     "rating": 2,
-    "summary": "쌀쌀해지고 비 시작, 하맘(터키 목욕) 시즌",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쌀쌀해지고 비 시작, 하맘(터키 목욕) 시즌",
+      "en": "It gets chilly and rain begins, Hamam (Turkish Bath) season",
+      "ja": "寒くなって雨が降り、ハマム（トルコ風呂）シーズン",
+      "zh": "天气变冷，开始下雨，哈马姆（土耳其浴）季节"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -230,17 +757,52 @@
     "regionId": "istanbul",
     "month": 12,
     "rating": 2,
-    "summary": "겨울, 비 잦지만 따뜻한 터키 음식의 매력",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 11.6일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 비 잦지만 따뜻한 터키 음식의 매력",
+      "en": "Winter, frequent rain, but the charm of warm Turkish food",
+      "ja": "冬、雨が多いけど、温かいトルコ料理の魅力",
+      "zh": "冬天，经常下雨，但土耳其美食的温暖魅力"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.6일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 11.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "雨の日が11.6日で屋内代替案を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "11.6阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -248,18 +810,61 @@
     "regionId": "cappadocia",
     "month": 1,
     "rating": 2,
-    "summary": "폭설로 열기구 대부분 결항, 겨울왕국 풍경",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -4°C로 방한 대비 필요"
-    ],
+    "summary": {
+      "ko": "폭설로 열기구 대부분 결항, 겨울왕국 풍경",
+      "en": "Most hot air balloon flights are canceled due to heavy snow, a frozen landscape",
+      "ja": "大雪炉の熱気球のほとんど欠航、冬の王国の風景",
+      "zh": "由于大雪、冰冻景观，大多数热气球航班被取消"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -4°C로 방한 대비 필요"
+      ],
+      "en": [
+        "The average minimum temperature is -4°C, so preparation for cold weather is necessary"
+      ],
+      "ja": [
+        "平均最低気温-4℃で防寒コントラストが必要"
+      ],
+      "zh": [
+        "平均最低气温为-4℃，做好防寒准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -267,21 +872,73 @@
     "regionId": "cappadocia",
     "month": 2,
     "rating": 3,
-    "summary": "겨울, 열기구 결항 빈번하지만 설경이 환상적",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -4°C로 방한 대비 필요"
-    ],
+    "summary": {
+      "ko": "겨울, 열기구 결항 빈번하지만 설경이 환상적",
+      "en": "In winter, hot air balloon flights are often canceled, but the snow scenery is fantastic",
+      "ja": "冬は熱気球が欠航することも多いですが、雪景色は素晴らしいです",
+      "zh": "冬天，热气球航班经常取消，但雪景却美极了"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -4°C로 방한 대비 필요"
+      ],
+      "en": [
+        "The average minimum temperature is -4°C, so preparation for cold weather is necessary"
+      ],
+      "ja": [
+        "平均最低気温-4℃で防寒コントラストが必要"
+      ],
+      "zh": [
+        "平均最低气温为-4℃，做好防寒准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -289,21 +946,73 @@
     "regionId": "cappadocia",
     "month": 3,
     "rating": 2,
-    "summary": "봄 시작, 열기구 비행 재개되는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -1°C로 방한 대비 필요",
-      "비 오는 날이 11.8일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "봄 시작, 열기구 비행 재개되는 시기",
+      "en": "Spring begins, when hot air balloon flights resume",
+      "ja": "春の始まり、熱気球飛行再開時期",
+      "zh": "春天来了，热气球飞行恢复"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -1°C로 방한 대비 필요",
+        "비 오는 날이 11.8일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "Need to prepare for cold weather with average minimum temperature -1°C",
+        "With 11.8 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "平均最低気温-1℃で防寒コントラストが必要",
+        "雨の日が11.8日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "需要做好应对平均最低气温-1°C的寒冷天气的准备",
+        "11.8阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -311,21 +1020,73 @@
     "regionId": "cappadocia",
     "month": 4,
     "rating": 4,
-    "summary": "야생화 만개, 열기구 최적 조건의 시작",
-    "highlights": [
-      "열기구 비행 최적 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "야생화 만개, 열기구 최적 조건의 시작",
+      "en": "Wildflowers in full bloom, optimal conditions for hot air ballooning",
+      "ja": "野生の花満開、熱気球最適条件の始まり",
+      "zh": "野花盛开，热气球最佳条件"
+    },
+    "highlights": {
+      "ko": [
+        "열기구 비행 최적 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best season for hot air balloon flight",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "熱気球飛行最適シーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "热气球飞行最佳季节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "카파도키아 열기구 시즌 (봄·가을)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "카파도키아 열기구 시즌 (봄·가을)"
+      ],
+      "en": [
+        "Cappadocia hot air balloon season (spring and fall)"
+      ],
+      "ja": [
+        "カッパドキア熱気球シーズン（春・秋）"
+      ],
+      "zh": [
+        "卡帕多西亚热气球季节（春季和秋季）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -333,23 +1094,86 @@
     "regionId": "cappadocia",
     "month": 5,
     "rating": 4,
-    "summary": "열기구 완벽, 봄꽃과 쾌적한 기온",
-    "highlights": [
-      "열기구 비행 최적 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [
-      "비 오는 날이 10.8일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "카파도키아 열기구 시즌 (봄·가을)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "열기구 완벽, 봄꽃과 쾌적한 기온",
+      "en": "Hot air balloon perfection, spring flowers and comfortable temperatures",
+      "ja": "熱気球完璧、春の花と快適な気温",
+      "zh": "完美的热气球、春天的花朵和舒适的温度"
+    },
+    "highlights": {
+      "ko": [
+        "열기구 비행 최적 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best season for hot air balloon flight",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "熱気球飛行最適シーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "热气球飞行最佳季节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.8일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 10.8 rainy days, indoor alternative preparations are recommended."
+      ],
+      "ja": [
+        "雨の日が10.8日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "10.8阴雨天，建议室内替代准备。"
+      ]
+    },
+    "events": {
+      "ko": [
+        "카파도키아 열기구 시즌 (봄·가을)"
+      ],
+      "en": [
+        "Cappadocia hot air balloon season (spring and fall)"
+      ],
+      "ja": [
+        "カッパドキア熱気球シーズン（春・秋）"
+      ],
+      "zh": [
+        "卡帕多西亚热气球季节（春季和秋季）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -357,19 +1181,60 @@
     "regionId": "cappadocia",
     "month": 6,
     "rating": 5,
-    "summary": "따뜻한 초여름, 하이킹과 열기구",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "따뜻한 초여름, 하이킹과 열기구",
+      "en": "Warm early summer, hiking and hot air ballooning",
+      "ja": "暖かい初夏、ハイキング、熱気球",
+      "zh": "温暖的初夏，徒步旅行和热气球"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -377,19 +1242,60 @@
     "regionId": "cappadocia",
     "month": 7,
     "rating": 5,
-    "summary": "40°C 폭염, 열기구 조건 악화",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "40°C 폭염, 열기구 조건 악화",
+      "en": "40°C heat wave worsens hot air balloon conditions",
+      "ja": "40°C爆炎、熱気球条件の悪化",
+      "zh": "40°C热浪使热气球条件恶化"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -397,19 +1303,60 @@
     "regionId": "cappadocia",
     "month": 8,
     "rating": 5,
-    "summary": "폭염 지속, 야외 활동 힘든 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "폭염 지속, 야외 활동 힘든 시기",
+      "en": "Heat wave continues, difficult time for outdoor activities",
+      "ja": "猛烈な持続、野外活動の困難な時期",
+      "zh": "热浪持续，户外活动艰难"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -417,22 +1364,77 @@
     "regionId": "cappadocia",
     "month": 9,
     "rating": 5,
-    "summary": "더위 물러간 가을, 열기구 최적 시즌 재개",
-    "highlights": [
-      "열기구 비행 최적 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "더위 물러간 가을, 열기구 최적 시즌 재개",
+      "en": "Autumn, when the heat has subsided, the best hot air balloon season resumes",
+      "ja": "暑さを落とした秋、熱気球最適シーズン再開",
+      "zh": "秋天，炎热退去，最佳热气球季节又开始"
+    },
+    "highlights": {
+      "ko": [
+        "열기구 비행 최적 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best season for hot air balloon flight",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "熱気球飛行最適シーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "热气球飞行最佳季节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "카파도키아 열기구 시즌 (봄·가을)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "카파도키아 열기구 시즌 (봄·가을)"
+      ],
+      "en": [
+        "Cappadocia hot air balloon season (spring and fall)"
+      ],
+      "ja": [
+        "カッパドキア熱気球シーズン（春・秋）"
+      ],
+      "zh": [
+        "卡帕多西亚热气球季节（春季和秋季）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -440,21 +1442,73 @@
     "regionId": "cappadocia",
     "month": 10,
     "rating": 5,
-    "summary": "가을 단풍과 열기구, 카파도키아 최고의 시기",
-    "highlights": [
-      "열기구 비행 최적 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "가을 단풍과 열기구, 카파도키아 최고의 시기",
+      "en": "Fall foliage and hot air balloons, the best time in Cappadocia",
+      "ja": "秋の紅葉と熱気球、カッパドキアで最高の時期",
+      "zh": "秋叶和热气球，卡帕多西亚最美好的时光"
+    },
+    "highlights": {
+      "ko": [
+        "열기구 비행 최적 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best season for hot air balloon flight",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "熱気球飛行最適シーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "热气球飞行最佳季节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "카파도키아 열기구 시즌 (봄·가을)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "카파도키아 열기구 시즌 (봄·가을)"
+      ],
+      "en": [
+        "Cappadocia hot air balloon season (spring and fall)"
+      ],
+      "ja": [
+        "カッパドキア熱気球シーズン（春・秋）"
+      ],
+      "zh": [
+        "卡帕多西亚热气球季节（春季和秋季）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -462,14 +1516,35 @@
     "regionId": "cappadocia",
     "month": 11,
     "rating": 3,
-    "summary": "쌀쌀해지는 늦가을, 열기구 아직 가능",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "쌀쌀해지는 늦가을, 열기구 아직 가능",
+      "en": "In the chilly late fall, hot air ballooning is still possible",
+      "ja": "寒くなる遅い秋、熱気球はまだ可能",
+      "zh": "寒冷的深秋，热气球还是可以的"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -477,20 +1552,69 @@
     "regionId": "cappadocia",
     "month": 12,
     "rating": 2,
-    "summary": "폭설과 혹한, 열기구 결항 빈번",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -1°C로 방한 대비 필요",
-      "습도가 72%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "폭설과 혹한, 열기구 결항 빈번",
+      "en": "Heavy snow and extreme cold, frequent cancellation of hot air balloon flights",
+      "ja": "大雪と酷い、熱気球欠航頻繁",
+      "zh": "大雪严寒，热气球航班频繁取消"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "降水少，晴天多",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -1°C로 방한 대비 필요",
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Need to prepare for cold weather with average minimum temperature -1°C",
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "平均最低気温-1℃で防寒コントラストが必要",
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "需要做好应对平均最低气温-1°C的寒冷天气的准备",
+        "湿度有点高，72%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -498,18 +1622,61 @@
     "regionId": "antalya",
     "month": 1,
     "rating": 2,
-    "summary": "겨울 비, 해변 부적합하지만 유적지 관광 가능",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 146mm로 우산 필수"
-    ],
+    "summary": {
+      "ko": "겨울 비, 해변 부적합하지만 유적지 관광 가능",
+      "en": "Winter rain, unsuitable for beaches, but tours of historic sites possible",
+      "ja": "冬の雨、ビーチには適していませんが、遺跡の観光が可能",
+      "zh": "冬天下雨，不适合海滩，但可以游览古迹"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 146mm로 우산 필수"
+      ],
+      "en": [
+        "Rainfall is 146mm, so an umbrella is a must"
+      ],
+      "ja": [
+        "降水量は 146 mm なので傘は必須です"
+      ],
+      "zh": [
+        "降雨量146毫米，雨伞必备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -517,16 +1684,48 @@
     "regionId": "antalya",
     "month": 2,
     "rating": 3,
-    "summary": "겨울 끝자락, 아직 해변 시즌 아님",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "겨울 끝자락, 아직 해변 시즌 아님",
+      "en": "End of winter, not yet beach season",
+      "ja": "冬の終わり、まだビーチシーズンではありません",
+      "zh": "冬末，海滩季节尚未到来"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -534,16 +1733,48 @@
     "regionId": "antalya",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 해안 산책이 쾌적해지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 해안 산책이 쾌적해지는 시기",
+      "en": "Spring begins, a time when coastal walks become more pleasant",
+      "ja": "春の始まり、海岸の散歩が快適になる時期",
+      "zh": "春天来了，海边散步变得更加怡人"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -551,17 +1782,52 @@
     "regionId": "antalya",
     "month": 4,
     "rating": 5,
-    "summary": "따뜻해지는 봄, 수영 시작 가능한 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "따뜻해지는 봄, 수영 시작 가능한 시기",
+      "en": "Spring is getting warmer, when can you start swimming",
+      "ja": "暖かい春、水泳開始可能な時期",
+      "zh": "春天渐暖，什么时候可以开始游泳"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -569,21 +1835,73 @@
     "regionId": "antalya",
     "month": 5,
     "rating": 5,
-    "summary": "해변 시즌 시작, 수온 22°C",
-    "highlights": [
-      "지중해 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "해변 시즌 시작, 수온 22°C",
+      "en": "Beach season begins, water temperature 22°C",
+      "ja": "ビーチシーズン開始、水温22°C",
+      "zh": "海滩季节开始，水温22°C"
+    },
+    "highlights": {
+      "ko": [
+        "지중해 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time for Mediterranean beaches",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "地中海ビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "地中海海滩的最佳时间",
+        "日照时间长，适合户外活动",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "안탈리아 영화제 (10월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "안탈리아 영화제 (10월)"
+      ],
+      "en": [
+        "Antalya Film Festival (October)"
+      ],
+      "ja": [
+        "アンタルヤ映画祭（10月）"
+      ],
+      "zh": [
+        "安塔利亚电影节（十月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -591,22 +1909,77 @@
     "regionId": "antalya",
     "month": 6,
     "rating": 5,
-    "summary": "본격 해변 시즌, 수온 25°C",
-    "highlights": [
-      "지중해 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "본격 해변 시즌, 수온 25°C",
+      "en": "Beach season in full swing, water temperature 25°C",
+      "ja": "本格的なビーチシーズン、水温25°C",
+      "zh": "海滩季节如火如荼，水温25°C"
+    },
+    "highlights": {
+      "ko": [
+        "지중해 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time for Mediterranean beaches",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "地中海ビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "地中海海滩的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "안탈리아 영화제 (10월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "안탈리아 영화제 (10월)"
+      ],
+      "en": [
+        "Antalya Film Festival (October)"
+      ],
+      "ja": [
+        "アンタルヤ映画祭（10月）"
+      ],
+      "zh": [
+        "安塔利亚电影节（十月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -614,25 +1987,94 @@
     "regionId": "antalya",
     "month": 7,
     "rating": 5,
-    "summary": "비치 피크 시즌, 수온 27°C의 뜨거운 여름",
-    "highlights": [
-      "성수기 해변 (매우 더움)",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 38°C로 더위에 주의"
-    ],
-    "events": [
-      "안탈리아 해변 성수기"
-    ],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "summary": {
+      "ko": "비치 피크 시즌, 수온 27°C의 뜨거운 여름",
+      "en": "Peak beach season, hot summer with water temperature of 27°C",
+      "ja": "ビーチピークシーズン、水温27℃の暑い夏",
+      "zh": "海滩旺季，炎热夏季，水温27°C"
+    },
+    "highlights": {
+      "ko": [
+        "성수기 해변 (매우 더움)",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "High season beaches (very hot)",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "ハイシーズンビーチ（とても暑い）",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "旺季海滩（非常热）",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 38°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 38°C"
+      ],
+      "ja": [
+        "平均最高気温38°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温38°C，请注意防暑"
+      ]
+    },
+    "events": {
+      "ko": [
+        "안탈리아 해변 성수기"
+      ],
+      "en": [
+        "Antalya beach peak season"
+      ],
+      "ja": [
+        "アンタルヤビーチハイシーズン"
+      ],
+      "zh": [
+        "安塔利亚海滩旺季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -640,24 +2082,90 @@
     "regionId": "antalya",
     "month": 8,
     "rating": 5,
-    "summary": "수온 최고(29°C), 지중해 해변의 절정",
-    "highlights": [
-      "성수기 해변 (매우 더움)",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 36°C로 더위에 주의"
-    ],
-    "events": [
-      "안탈리아 해변 성수기"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "수온 최고(29°C), 지중해 해변의 절정",
+      "en": "Highest water temperature (29°C), the pinnacle of Mediterranean beaches",
+      "ja": "水温最高（29℃）、地中海ビーチのピーク",
+      "zh": "最高水温（29℃），地中海海滩的巅峰之作"
+    },
+    "highlights": {
+      "ko": [
+        "성수기 해변 (매우 더움)",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "High season beaches (very hot)",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "ハイシーズンビーチ（とても暑い）",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "旺季海滩（非常热）",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 36°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 36°C"
+      ],
+      "ja": [
+        "平均最高気温36°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温36°C，请注意防暑"
+      ]
+    },
+    "events": {
+      "ko": [
+        "안탈리아 해변 성수기"
+      ],
+      "en": [
+        "Antalya beach peak season"
+      ],
+      "ja": [
+        "アンタルヤビーチハイシーズン"
+      ],
+      "zh": [
+        "安塔利亚海滩旺季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -665,22 +2173,77 @@
     "regionId": "antalya",
     "month": 9,
     "rating": 5,
-    "summary": "바다 따뜻하고 관광객 줄어든 최적기",
-    "highlights": [
-      "지중해 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "바다 따뜻하고 관광객 줄어든 최적기",
+      "en": "Best time to go when the sea is warm and there are fewer tourists",
+      "ja": "海暖かく観光客が減った最適機",
+      "zh": "最佳出游时间是海水温暖、游客较少的时候"
+    },
+    "highlights": {
+      "ko": [
+        "지중해 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time for Mediterranean beaches",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "地中海ビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "地中海海滩的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "안탈리아 영화제 (10월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "안탈리아 영화제 (10월)"
+      ],
+      "en": [
+        "Antalya Film Festival (October)"
+      ],
+      "ja": [
+        "アンタルヤ映画祭（10月）"
+      ],
+      "zh": [
+        "安塔利亚电影节（十月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -688,22 +2251,77 @@
     "regionId": "antalya",
     "month": 10,
     "rating": 5,
-    "summary": "지중해 가을, 수온 23°C로 아직 해수욕 가능",
-    "highlights": [
-      "지중해 해변 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "지중해 가을, 수온 23°C로 아직 해수욕 가능",
+      "en": "Mediterranean autumn, sea bathing still possible with water temperature of 23°C",
+      "ja": "地中海の秋、水温23℃でまだ海水浴可能",
+      "zh": "地中海秋季，水温23℃仍可海水浴"
+    },
+    "highlights": {
+      "ko": [
+        "지중해 해변 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Best time for Mediterranean beaches",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "地中海ビーチ最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "地中海海滩的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "안탈리아 영화제 (10월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "안탈리아 영화제 (10월)"
+      ],
+      "en": [
+        "Antalya Film Festival (October)"
+      ],
+      "ja": [
+        "アンタルヤ映画祭（10月）"
+      ],
+      "zh": [
+        "安塔利亚电影节（十月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -711,16 +2329,48 @@
     "regionId": "antalya",
     "month": 11,
     "rating": 4,
-    "summary": "해변 시즌 마무리, 쌀쌀해지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "해변 시즌 마무리, 쌀쌀해지는 시기",
+      "en": "Beach season is over, it's getting chilly",
+      "ja": "ビーチシーズン仕上げ、肌寒くなる時期",
+      "zh": "海滩季节结束了，天气变冷"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -728,20 +2378,69 @@
     "regionId": "antalya",
     "month": 12,
     "rating": 2,
-    "summary": "겨울 비, 해변 부적합",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 214mm로 우기에 해당",
-      "비 오는 날이 12.4일로 실내 대안 준비 권장",
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울 비, 해변 부적합",
+      "en": "Winter rain, beach unsuitable",
+      "ja": "冬の雨、ビーチの不適切",
+      "zh": "冬天多雨，海滩不宜"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 214mm로 우기에 해당",
+        "비 오는 날이 12.4일로 실내 대안 준비 권장",
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 214mm, corresponding to the rainy season",
+        "With 12.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "月降水量214mmで雨季に対応",
+        "雨の日が12.4日で屋内代替準備を推奨",
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "月降水量214毫米，对应雨季",
+        "12.4阴雨天，建议室内替代准备",
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

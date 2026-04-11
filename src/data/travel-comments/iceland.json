@@ -3,26 +3,93 @@
     "regionId": "reykjavik",
     "month": 1,
     "rating": 1,
-    "summary": "극야 시즌, 오로라와 블루라군 온천",
-    "highlights": [
-      "혹독한 추위와 짧은 낮, 여행 체력 소모 큼",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -3°C로 방한 대비 필요",
-      "월 강수량 157mm로 우기에 해당",
-      "월 18.2일 비가 와 야외 일정에 유의",
-      "습도가 77%로 다소 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "극야 시즌, 오로라와 블루라군 온천",
+      "en": "Polar night season, Aurora and Blue Lagoon hot springs",
+      "ja": "極夜シーズン、オーロラとブルーラグーン温泉",
+      "zh": "极夜季节，极光和蓝湖温泉"
+    },
+    "highlights": {
+      "ko": [
+        "혹독한 추위와 짧은 낮, 여행 체력 소모 큼",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Severe cold and short daylight, travel consumes a lot of stamina",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "過酷な寒さと短い昼間、旅行体力の消費が大きい",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "严寒日照短，出行消耗大量体力",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -3°C로 방한 대비 필요",
+        "월 강수량 157mm로 우기에 해당",
+        "월 18.2일 비가 와 야외 일정에 유의",
+        "습도가 77%로 다소 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "The average minimum temperature is -3°C, so preparation for cold weather is necessary",
+        "Monthly precipitation is 157mm, corresponding to the rainy season",
+        "About 18 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 77%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-3℃で防寒コントラストが必要",
+        "月降水量157mmで雨季に対応",
+        "月18.2日雨と屋外のスケジュールに注意",
+        "湿度が77％でやや高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "平均最低气温为-3℃，做好防寒准备",
+        "月降水量157毫米，对应雨季",
+        "月均约18天降雨，注意安排户外行程",
+        "湿度有点高，77%",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+      "en": "Winter clothes, padding, hot packs. Preparation for extreme cold is essential",
+      "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
+      "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -30,28 +97,106 @@
     "regionId": "reykjavik",
     "month": 2,
     "rating": 1,
-    "summary": "겨울 아이슬란드, 얼음동굴 투어 막바지",
-    "highlights": [
-      "오로라 시즌, 밤하늘의 장관",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -2°C로 방한 대비 필요",
-      "강수량이 121mm로 우산 필수",
-      "월 16.6일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
-    "events": [
-      "오로라 관측 시즌 (9~3월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "summary": {
+      "ko": "겨울 아이슬란드, 얼음동굴 투어 막바지",
+      "en": "Winter Iceland, end of ice cave tour",
+      "ja": "冬のアイスランド、氷の洞窟ツアーの終わり",
+      "zh": "冬季冰岛，冰洞之旅结束"
+    },
+    "highlights": {
+      "ko": [
+        "오로라 시즌, 밤하늘의 장관",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Aurora season, spectacular night sky",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "オーロラシーズン、夜空の壮観",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "极光季节，壮观的夜空",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -2°C로 방한 대비 필요",
+        "강수량이 121mm로 우산 필수",
+        "월 16.6일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "The average minimum temperature is -2°C, so preparation for cold weather is necessary",
+        "Rainfall is 121mm, so an umbrella is a must",
+        "About 17 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 78%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-2℃で防寒コントラストが必要",
+        "降水量が121mmで傘必須",
+        "月16.6日雨と屋外のスケジュールに注意",
+        "湿度が78％でやや高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "平均最低气温为-2℃，做好防寒准备",
+        "降雨量121毫米，雨伞必备",
+        "月均约17天降雨，注意安排户外行程",
+        "湿度有点高，78%",
+        "由于日照时间短，阴天较多"
+      ]
+    },
+    "events": {
+      "ko": [
+        "오로라 관측 시즌 (9~3월)"
+      ],
+      "en": [
+        "Aurora observation season (September to March)"
+      ],
+      "ja": [
+        "オーロラ観測シーズン（9～3月）"
+      ],
+      "zh": [
+        "极光观测季（九月至三月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+      "en": "Winter clothes, padding, hot packs. Preparation for extreme cold is essential",
+      "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
+      "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -59,25 +204,94 @@
     "regionId": "reykjavik",
     "month": 3,
     "rating": 1,
-    "summary": "봄 시작, 오로라 시즌 막바지·해 길어짐",
-    "highlights": [
-      "오로라 시즌, 밤하늘의 장관",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -2°C로 방한 대비 필요",
-      "강수량이 134mm로 우산 필수",
-      "비 오는 날이 15일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "오로라 관측 시즌 (9~3월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "봄 시작, 오로라 시즌 막바지·해 길어짐",
+      "en": "Beginning of spring, end of aurora season, longer days",
+      "ja": "春の始まり、オーロラシーズンの終わり・太陽が長くなる",
+      "zh": "春天开始，极光季节结束，白昼变长"
+    },
+    "highlights": {
+      "ko": [
+        "오로라 시즌, 밤하늘의 장관",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Aurora season, spectacular night sky",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "オーロラシーズン、夜空の壮観",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "极光季节，壮观的夜空",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -2°C로 방한 대비 필요",
+        "강수량이 134mm로 우산 필수",
+        "비 오는 날이 15일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "The average minimum temperature is -2°C, so preparation for cold weather is necessary",
+        "Rainfall is 134mm, so an umbrella is a must",
+        "With 15 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "平均最低気温-2℃で防寒コントラストが必要",
+        "降水量は 134mm なので傘は必須です",
+        "雨の日が15日で屋内代替案の準備を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "平均最低气温为-2℃，做好防寒准备",
+        "降雨量134毫米，雨伞必备",
+        "15个阴雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "오로라 관측 시즌 (9~3월)"
+      ],
+      "en": [
+        "Aurora observation season (September to March)"
+      ],
+      "ja": [
+        "オーロラ観測シーズン（9～3月）"
+      ],
+      "zh": [
+        "极光观测季（九月至三月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -85,21 +299,73 @@
     "regionId": "reykjavik",
     "month": 4,
     "rating": 1,
-    "summary": "봄 해빙, 골든서클 투어 재개 시기",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "강수량이 130mm로 우산 필수",
-      "월 15.4일 비가 와 야외 일정에 유의",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 해빙, 골든서클 투어 재개 시기",
+      "en": "Spring thaw, golden circle tour resumption time",
+      "ja": "春の海氷、ゴールデンサークルツアーの再開時期",
+      "zh": "春季解冻，黄金圈旅游恢复时间"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 130mm로 우산 필수",
+        "월 15.4일 비가 와 야외 일정에 유의",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 130mm, so an umbrella is a must",
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "降水量は 130mm なので傘は必須です",
+        "月15.4日雨と屋外のスケジュールに注意してください",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "降雨量130mm，雨伞必备",
+        "月均约15天降雨，注意安排户外行程",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -107,21 +373,73 @@
     "regionId": "reykjavik",
     "month": 5,
     "rating": 1,
-    "summary": "봄 새들이 돌아오는 시기, 퍼핀 관찰 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 136mm로 우산 필수",
-      "월 19.6일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 새들이 돌아오는 시기, 퍼핀 관찰 시작",
+      "en": "When spring birds return, puffin watching begins",
+      "ja": "春の鳥が戻ってくる時期、パフィン観察開始",
+      "zh": "当春天的鸟儿回来时，观赏海雀就开始了"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 136mm로 우산 필수",
+        "월 19.6일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 136mm, so an umbrella is a must",
+        "About 20 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "降水量は 136 mm なので傘は必須です",
+        "月19.6日雨と屋外のスケジュールに注意",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "降雨量136毫米，雨伞必备",
+        "月均约20天降雨，注意安排户外行程",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -129,25 +447,94 @@
     "regionId": "reykjavik",
     "month": 6,
     "rating": 1,
-    "summary": "백야 시작, 골든서클·빙하 트레킹 최적기",
-    "highlights": [
-      "백야 시즌, 골든서클과 빙하 트레킹 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 110mm로 우산 필수",
-      "월 17.2일 비가 와 야외 일정에 유의",
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [
-      "백야 시즌 (6~8월)",
-      "아이슬란드 독립기념일 (6월 17일)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "summary": {
+      "ko": "백야 시작, 골든서클·빙하 트레킹 최적기",
+      "en": "The midnight sun begins, the best time for Golden Circle and glacier trekking",
+      "ja": "白夜スタート、ゴールデンサークル・氷河トレッキング最適機",
+      "zh": "午夜阳光开始，黄金圈和冰川徒步的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "백야 시즌, 골든서클과 빙하 트레킹 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Midnight sun season, the best time for Golden Circle and glacier trekking",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "白夜シーズン、ゴールデンサークルと氷河トレッキング最適機",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "午夜阳光季节，黄金圈和冰川徒步的最佳时间",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 110mm로 우산 필수",
+        "월 17.2일 비가 와 야외 일정에 유의",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 110mm, so umbrella is required",
+        "About 17 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "降水量が110mmで傘必須",
+        "月17.2日雨と屋外のスケジュールに注意",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量110毫米，需要带伞",
+        "月均约17天降雨，注意安排户外行程",
+        "湿度81%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "백야 시즌 (6~8월)",
+        "아이슬란드 독립기념일 (6월 17일)"
+      ],
+      "en": [
+        "Midnight sun season (June-August)",
+        "Icelandic Independence Day (June 17)"
+      ],
+      "ja": [
+        "白夜シーズン（6～8月）",
+        "アイスランド独立記念日（6月17日）"
+      ],
+      "zh": [
+        "午夜阳光季节（六月至八月）",
+        "冰岛独立日（6 月 17 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -155,23 +542,86 @@
     "regionId": "reykjavik",
     "month": 7,
     "rating": 2,
-    "summary": "백야 절정, 가장 따뜻하고(12°C) 활동적 시기",
-    "highlights": [
-      "백야 시즌, 골든서클과 빙하 트레킹 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 14.4일로 실내 대안 준비 권장",
-      "습도 83%로 불쾌지수 높음"
-    ],
-    "events": [
-      "백야 시즌 (6~8월)",
-      "아이슬란드 독립기념일 (6월 17일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "백야 절정, 가장 따뜻하고(12°C) 활동적 시기",
+      "en": "Midnight Sun peak, warmest (12°C) and most active period",
+      "ja": "白夜のピーク、最も暖かい（12°C）活動的な時期",
+      "zh": "午夜太阳高峰、最热 (12°C) 和最活跃的时期"
+    },
+    "highlights": {
+      "ko": [
+        "백야 시즌, 골든서클과 빙하 트레킹 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Midnight sun season, the best time for Golden Circle and glacier trekking",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "白夜シーズン、ゴールデンサークルと氷河トレッキング最適機",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "午夜阳光季节，黄金圈和冰川徒步的最佳时间",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 14.4일로 실내 대안 준비 권장",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 14.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "雨の日が14.4日で屋内代替案を推奨",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "14.4阴雨天，建议室内替代准备",
+        "湿度83%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "백야 시즌 (6~8월)",
+        "아이슬란드 독립기념일 (6월 17일)"
+      ],
+      "en": [
+        "Midnight sun season (June-August)",
+        "Icelandic Independence Day (June 17)"
+      ],
+      "ja": [
+        "白夜シーズン（6～8月）",
+        "アイスランド独立記念日（6月17日）"
+      ],
+      "zh": [
+        "午夜阳光季节（六月至八月）",
+        "冰岛独立日（6 月 17 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -179,23 +629,86 @@
     "regionId": "reykjavik",
     "month": 8,
     "rating": 2,
-    "summary": "여름 끝자락, 아이슬란드 문화의 밤 축제",
-    "highlights": [
-      "백야 시즌, 골든서클과 빙하 트레킹 최적기"
-    ],
-    "cautions": [
-      "강수량이 128mm로 우산 필수",
-      "월 15.8일 비가 와 야외 일정에 유의",
-      "습도 84%로 불쾌지수 높음"
-    ],
-    "events": [
-      "백야 시즌 (6~8월)",
-      "아이슬란드 독립기념일 (6월 17일)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "여름 끝자락, 아이슬란드 문화의 밤 축제",
+      "en": "End of summer, Icelandic cultural night festival",
+      "ja": "夏の終わり、アイスランド文化の夜祭り",
+      "zh": "夏末，冰岛文化之夜节"
+    },
+    "highlights": {
+      "ko": [
+        "백야 시즌, 골든서클과 빙하 트레킹 최적기"
+      ],
+      "en": [
+        "Midnight sun season, the best time for Golden Circle and glacier trekking"
+      ],
+      "ja": [
+        "白夜シーズン、ゴールデンサークルと氷河トレッキング最適機"
+      ],
+      "zh": [
+        "午夜阳光季节，黄金圈和冰川徒步的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 128mm로 우산 필수",
+        "월 15.8일 비가 와 야외 일정에 유의",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 128mm, so an umbrella is a must",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 84%"
+      ],
+      "ja": [
+        "降水量は 128 mm なので傘は必須です",
+        "月15.8日雨と屋外のスケジュールに注意",
+        "湿度84％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量128毫米，雨伞必备",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度84%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "백야 시즌 (6~8월)",
+        "아이슬란드 독립기념일 (6월 17일)"
+      ],
+      "en": [
+        "Midnight sun season (June-August)",
+        "Icelandic Independence Day (June 17)"
+      ],
+      "ja": [
+        "白夜シーズン（6～8月）",
+        "アイスランド独立記念日（6月17日）"
+      ],
+      "zh": [
+        "午夜阳光季节（六月至八月）",
+        "冰岛独立日（6 月 17 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -203,20 +716,69 @@
     "regionId": "reykjavik",
     "month": 9,
     "rating": 1,
-    "summary": "가을 시작, 오로라 시즌 재개·단풍",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 140mm로 우산 필수",
-      "월 17.4일 비가 와 야외 일정에 유의",
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "가을 시작, 오로라 시즌 재개·단풍",
+      "en": "Autumn begins, aurora season resumes, autumn leaves",
+      "ja": "秋始まり、オーロラシーズン再開・紅葉",
+      "zh": "秋天开始，极光季节恢复，秋叶"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 140mm로 우산 필수",
+        "월 17.4일 비가 와 야외 일정에 유의",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 140mm, so umbrella is required",
+        "About 17 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "降水量は140mmなので傘は必須です",
+        "月17.4日雨と屋外のスケジュールに注意",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量140mm，需要带伞",
+        "月均约17天降雨，注意安排户外行程",
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -224,26 +786,98 @@
     "regionId": "reykjavik",
     "month": 10,
     "rating": 1,
-    "summary": "오로라 시즌, 밤하늘의 장관 시작",
-    "highlights": [
-      "오로라 시즌, 밤하늘의 장관",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "강수량이 134mm로 우산 필수",
-      "월 16일 비가 와 야외 일정에 유의",
-      "습도 83%로 불쾌지수 높음"
-    ],
-    "events": [
-      "오로라 관측 시즌 (9~3월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "오로라 시즌, 밤하늘의 장관 시작",
+      "en": "Aurora season begins, spectacular night sky",
+      "ja": "オーロラシーズン、夜空の大臣の始まり",
+      "zh": "极光季节开始，壮观的夜空"
+    },
+    "highlights": {
+      "ko": [
+        "오로라 시즌, 밤하늘의 장관",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Aurora season, spectacular night sky",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "オーロラシーズン、夜空の壮観",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "极光季节，壮观的夜空",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 134mm로 우산 필수",
+        "월 16일 비가 와 야외 일정에 유의",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 134mm, so an umbrella is a must",
+        "It's raining on the 16th, so be careful about outdoor schedules",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "降水量は 134mm なので傘は必須です",
+        "月16日雨と屋外のスケジュールに注意",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量134毫米，雨伞必备",
+        "16号有雨，户外行程要注意",
+        "湿度83%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "오로라 관측 시즌 (9~3월)"
+      ],
+      "en": [
+        "Aurora observation season (September to March)"
+      ],
+      "ja": [
+        "オーロラ観測シーズン（9～3月）"
+      ],
+      "zh": [
+        "极光观测季（九月至三月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -251,27 +885,102 @@
     "regionId": "reykjavik",
     "month": 11,
     "rating": 1,
-    "summary": "겨울 시작, 얼음동굴 투어 시즌 오픈",
-    "highlights": [
-      "오로라 시즌, 밤하늘의 장관",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "강수량이 135mm로 우산 필수",
-      "월 15.8일 비가 와 야외 일정에 유의",
-      "습도가 80%로 다소 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
-    "events": [
-      "오로라 관측 시즌 (9~3월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "겨울 시작, 얼음동굴 투어 시즌 오픈",
+      "en": "Winter begins, ice cave tour season opens",
+      "ja": "冬の始まり、氷の洞窟ツアーシーズンオープン",
+      "zh": "冬季来临，冰洞旅游季开启"
+    },
+    "highlights": {
+      "ko": [
+        "오로라 시즌, 밤하늘의 장관",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Aurora season, spectacular night sky",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "オーロラシーズン、夜空の壮観",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "极光季节，壮观的夜空",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 135mm로 우산 필수",
+        "월 15.8일 비가 와 야외 일정에 유의",
+        "습도가 80%로 다소 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "Rainfall is 135mm, so an umbrella is a must",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 80%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "降水量は 135mm なので傘は必須です",
+        "月15.8日雨と屋外のスケジュールに注意",
+        "湿度が80％とやや高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "降雨量135毫米，雨伞必备",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度有点高，达到 80%",
+        "由于日照时间短，阴天较多"
+      ]
+    },
+    "events": {
+      "ko": [
+        "오로라 관측 시즌 (9~3월)"
+      ],
+      "en": [
+        "Aurora observation season (September to March)"
+      ],
+      "ja": [
+        "オーロラ観測シーズン（9～3月）"
+      ],
+      "zh": [
+        "极光观测季（九月至三月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -279,26 +988,93 @@
     "regionId": "reykjavik",
     "month": 12,
     "rating": 1,
-    "summary": "극야, 크리스마스 13명의 유르 산타",
-    "highlights": [
-      "혹독한 추위와 짧은 낮, 여행 체력 소모 큼",
-      "겨울 스포츠에 적합한 시기",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -3°C로 방한 대비 필요",
-      "강수량이 131mm로 우산 필수",
-      "월 16.2일 비가 와 야외 일정에 유의",
-      "습도가 77%로 다소 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "극야, 크리스마스 13명의 유르 산타",
+      "en": "Polar Night, Christmas 13 Yur Santas",
+      "ja": "極夜、クリスマス13人のユールサンタ",
+      "zh": "极夜，圣诞节 13 你的圣诞老人"
+    },
+    "highlights": {
+      "ko": [
+        "혹독한 추위와 짧은 낮, 여행 체력 소모 큼",
+        "겨울 스포츠에 적합한 시기",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Severe cold and short daylight, travel consumes a lot of stamina",
+        "Best time for winter sports",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "過酷な寒さと短い昼間、旅行体力の消費が大きい",
+        "ウィンタースポーツに適した時期",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "严寒日照短，出行消耗大量体力",
+        "冬季运动的最佳时间",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -3°C로 방한 대비 필요",
+        "강수량이 131mm로 우산 필수",
+        "월 16.2일 비가 와 야외 일정에 유의",
+        "습도가 77%로 다소 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "The average minimum temperature is -3°C, so preparation for cold weather is necessary",
+        "Rainfall is 131mm, so an umbrella is a must",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 77%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-3℃で防寒コントラストが必要",
+        "降水量は 131mm なので傘は必須です",
+        "月16.2日雨と屋外のスケジュールに注意",
+        "湿度が77％でやや高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "平均最低气温为-3℃，做好防寒准备",
+        "降雨量131毫米，雨伞必备",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度有点高，77%",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "방한복, 패딩, 핫팩. 극한 방한 준비 필수",
+      "en": "Winter clothes, padding, hot packs. Preparation for extreme cold is essential",
+      "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
+      "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

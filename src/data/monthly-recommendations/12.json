@@ -4,91 +4,166 @@
     {
       "regionId": "abu-dhabi",
       "category": "culture",
-      "reason": "겨울 완벽, 그랜드 모스크 야경과 선선한 사막",
+      "reason": {
+        "ko": "겨울 완벽, 그랜드 모스크 야경과 선선한 사막",
+        "en": "Perfect winter, night view of the Grand Mosque and cool desert",
+        "ja": "冬の完璧、グランドモスクの夜景と鮮やかな砂漠",
+        "zh": "完美的冬天，大清真寺的夜景和凉爽的沙漠"
+      },
       "rating": 5
     },
     {
       "regionId": "bangkok",
       "category": "culture",
-      "reason": "건기의 선선한 바람, 연말 분위기의 여행 최적기",
+      "reason": {
+        "ko": "건기의 선선한 바람, 연말 분위기의 여행 최적기",
+        "en": "The cool breeze of the dry season, the best time to travel with the end-of-year atmosphere",
+        "ja": "乾季の涼しい風、年末の雰囲気の旅最適機",
+        "zh": "旱季凉风习习，年末气息出游最佳时节"
+      },
       "rating": 5
     },
     {
       "regionId": "cairo",
       "category": "culture",
-      "reason": "겨울 성수기, 나일강 크루즈 + 유적 패키지 인기",
+      "reason": {
+        "ko": "겨울 성수기, 나일강 크루즈 + 유적 패키지 인기",
+        "en": "Winter peak season, Nile River cruise + ruins package popular",
+        "ja": "冬のハイシーズン、ナイル川クルーズ+遺跡パッケージ人気",
+        "zh": "冬季旺季，尼罗河游船+遗址套餐人气"
+      },
       "rating": 5
     },
     {
       "regionId": "chiang-mai",
       "category": "culture",
-      "reason": "건기, 서늘하고 맑은 날씨로 트레킹 최적기",
+      "reason": {
+        "ko": "건기, 서늘하고 맑은 날씨로 트레킹 최적기",
+        "en": "The dry season is the best time for trekking with cool, clear weather",
+        "ja": "乾季、涼しく澄んだ天気でトレッキング最適機",
+        "zh": "旱季气候凉爽、晴朗，是徒步旅行的最佳时间"
+      },
       "rating": 5
     },
     {
       "regionId": "dubai",
       "category": "city",
-      "reason": "겨울 완벽, 두바이 쇼핑 페스티벌의 성수기",
+      "reason": {
+        "ko": "겨울 완벽, 두바이 쇼핑 페스티벌의 성수기",
+        "en": "Winter is perfect, peak season for the Dubai Shopping Festival",
+        "ja": "冬の完璧、ドバイショッピングフェスティバルのピークシーズン",
+        "zh": "冬天是完美的，迪拜购物节的旺季"
+      },
       "rating": 5
     },
     {
       "regionId": "kaohsiung",
       "category": "city",
-      "reason": "건기, 크리스마스 야시장과 따뜻한 겨울",
+      "reason": {
+        "ko": "건기, 크리스마스 야시장과 따뜻한 겨울",
+        "en": "Dry season, Christmas night market and warm winter",
+        "ja": "乾季、クリスマスナイトマーケットと暖かい冬",
+        "zh": "旱季、圣诞夜市和暖冬"
+      },
       "rating": 5
     },
     {
       "regionId": "luang-prabang",
       "category": "culture",
-      "reason": "건기, 서늘하고 맑은 루앙프라방 최적기",
+      "reason": {
+        "ko": "건기, 서늘하고 맑은 루앙프라방 최적기",
+        "en": "Dry season, cool and clear, best time for Luang Prabang",
+        "ja": "乾季、涼しく澄んだルアンパバーン最適機",
+        "zh": "旱季，凉爽晴朗，琅勃拉邦最佳时节"
+      },
       "rating": 5
     },
     {
       "regionId": "luxor",
       "category": "culture",
-      "reason": "성수기 절정, 나일강 크루즈와 유적 탐방 러시",
+      "reason": {
+        "ko": "성수기 절정, 나일강 크루즈와 유적 탐방 러시",
+        "en": "Peak season, rush to take Nile River cruises and explore ruins",
+        "ja": "ピークシーズン、ナイル川クルーズと遺跡探検ラッシュ",
+        "zh": "旺季，赶紧乘坐尼罗河游船，探索遗迹"
+      },
       "rating": 5
     },
     {
       "regionId": "macau",
       "category": "city",
-      "reason": "라이트 페스티벌, 세계유산 야경 조명",
+      "reason": {
+        "ko": "라이트 페스티벌, 세계유산 야경 조명",
+        "en": "Light Festival, World Heritage Night View Illumination",
+        "ja": "光の祭典、世界遺産夜景ライトアップ",
+        "zh": "灯光节、世界遗产夜景灯光"
+      },
       "rating": 5
     },
     {
       "regionId": "marrakech",
       "category": "culture",
-      "reason": "겨울 성수기, 사막 별빛 캠핑과 메디나 야경",
+      "reason": {
+        "ko": "겨울 성수기, 사막 별빛 캠핑과 메디나 야경",
+        "en": "Winter peak season, desert starlight camping and medina night view",
+        "ja": "冬のハイシーズン、砂漠のスターライトキャンプとメディナの夜景",
+        "zh": "冬季旺季，沙漠星光露营和麦地那夜景"
+      },
       "rating": 5
     },
     {
       "regionId": "mumbai",
       "category": "city",
-      "reason": "연말 성수기, 크리스마스 콜라바 거리 분위기",
+      "reason": {
+        "ko": "연말 성수기, 크리스마스 콜라바 거리 분위기",
+        "en": "Year-end peak season, Christmas Colaba street atmosphere",
+        "ja": "年末のハイシーズン、クリスマスコラバストリート雰囲気",
+        "zh": "年末旺季，圣诞克拉巴街头气氛"
+      },
       "rating": 5
     },
     {
       "regionId": "pattaya",
       "category": "beach",
-      "reason": "성수기 재개, 카운트다운 파티로 붐비는 해변",
+      "reason": {
+        "ko": "성수기 재개, 카운트다운 파티로 붐비는 해변",
+        "en": "High season resumes, beaches crowded with countdown parties",
+        "ja": "ピークシーズンの再開、カウントダウンパーティーで混雑したビーチ",
+        "zh": "旺季恢复，海滩挤满倒计时派对"
+      },
       "rating": 5
     },
     {
       "regionId": "shenzhen",
       "category": "city",
-      "reason": "쾌적한 겨울, 홍콩 연계 여행 최적기",
+      "reason": {
+        "ko": "쾌적한 겨울, 홍콩 연계 여행 최적기",
+        "en": "Pleasant winter, the best time to travel to Hong Kong",
+        "ja": "快適な冬、香港連携旅行最適機",
+        "zh": "冬日宜人，去香港旅游的最佳时节"
+      },
       "rating": 5
     },
     {
       "regionId": "siem-reap",
       "category": "culture",
-      "reason": "건기, 선선한 날씨의 앙코르 여행 최적기",
+      "reason": {
+        "ko": "건기, 선선한 날씨의 앙코르 여행 최적기",
+        "en": "Dry season, the best time to travel to Angkor in cool weather",
+        "ja": "乾季、涼しい天気のアンコール旅行最適機",
+        "zh": "旱季，天气凉爽去吴哥旅游最佳时间"
+      },
       "rating": 5
     },
     {
       "regionId": "vientiane",
       "category": "culture",
-      "reason": "건기, 선선하고 여유로운 비엔티안",
+      "reason": {
+        "ko": "건기, 선선하고 여유로운 비엔티안",
+        "en": "Dry season, cool and leisurely Vientiane",
+        "ja": "乾季、善良でゆったりとしたビエンチャン",
+        "zh": "旱季万象清凉悠闲"
+      },
       "rating": 5
     }
   ],
@@ -96,266 +171,581 @@
     {
       "regionId": "hanoi",
       "category": "culture",
-      "reason": "건기 지속, 쌀쌀하지만 맑은 겨울",
+      "reason": {
+        "ko": "건기 지속, 쌀쌀하지만 맑은 겨울",
+        "en": "Dry season continues, chilly but clear winter",
+        "ja": "乾期持続、肌寒いが澄んだ冬",
+        "zh": "旱季仍在继续，冬季寒冷但晴朗"
+      },
       "rating": 4
     },
     {
       "regionId": "ho-chi-minh",
       "category": "city",
-      "reason": "건기 시작, 선선한 바람이 부는 여행 적기",
+      "reason": {
+        "ko": "건기 시작, 선선한 바람이 부는 여행 적기",
+        "en": "The dry season has begun, a good time to travel when the cool breeze blows",
+        "ja": "乾季開始、懐かしい風が吹く旅が少ない",
+        "zh": "旱季已至，凉风习习，正是出游的好时节"
+      },
       "rating": 4
     },
     {
       "regionId": "melbourne",
       "category": "culture",
-      "reason": "여름 시작, 크리스마스와 야외 문화",
+      "reason": {
+        "ko": "여름 시작, 크리스마스와 야외 문화",
+        "en": "Summer begins, Christmas and outdoor culture",
+        "ja": "夏の始まり、クリスマスと野外文化",
+        "zh": "夏天开始，圣诞节和户外文化"
+      },
       "rating": 4
     },
     {
       "regionId": "new-delhi",
       "category": "culture",
-      "reason": "선선한 겨울, 크리스마스 분위기와 관광 성수기",
+      "reason": {
+        "ko": "선선한 겨울, 크리스마스 분위기와 관광 성수기",
+        "en": "Cool winter, Christmas atmosphere and peak tourist season",
+        "ja": "涼しい冬、クリスマスの雰囲気と観光ハイシーズン",
+        "zh": "冬季凉爽，圣诞气氛浓厚，旅游旺季"
+      },
       "rating": 4
     },
     {
       "regionId": "phnom-penh",
       "category": "city",
-      "reason": "건기, 선선하고 쾌적한 여행 최적기",
+      "reason": {
+        "ko": "건기, 선선하고 쾌적한 여행 최적기",
+        "en": "The dry season is cool and comfortable, the best time to travel",
+        "ja": "乾季、善良で快適な旅行最適機",
+        "zh": "旱季凉爽舒适，旅游最佳时节"
+      },
       "rating": 4
     }
   ],
   "avoidList": [
     {
       "regionId": "amalfi",
-      "reason": "겨울, 대부분 폐업"
+      "reason": {
+        "ko": "겨울, 대부분 폐업",
+        "en": "Winter, most businesses closed",
+        "ja": "冬、ほとんど閉業",
+        "zh": "冬天，大多数企业关门"
+      }
     },
     {
       "regionId": "amsterdam",
-      "reason": "크리스마스 마켓과 운하 일루미네이션 축제"
+      "reason": {
+        "ko": "크리스마스 마켓과 운하 일루미네이션 축제",
+        "en": "Christmas Market and Canal Illumination Festival",
+        "ja": "クリスマスマーケットと運河イルミネーションフェスティバル",
+        "zh": "圣诞市场和运河灯光节"
+      }
     },
     {
       "regionId": "antalya",
-      "reason": "겨울 비, 해변 부적합"
+      "reason": {
+        "ko": "겨울 비, 해변 부적합",
+        "en": "Winter rain, beach unsuitable",
+        "ja": "冬の雨、ビーチの不適切",
+        "zh": "冬天多雨，海滩不宜"
+      }
     },
     {
       "regionId": "athens",
-      "reason": "겨울, 비 잦지만 크리스마스 분위기"
+      "reason": {
+        "ko": "겨울, 비 잦지만 크리스마스 분위기",
+        "en": "Winter, frequent rain, but Christmas atmosphere",
+        "ja": "冬、雨が多いがクリスマスの雰囲気",
+        "zh": "冬天，经常下雨，却有圣诞气氛"
+      }
     },
     {
       "regionId": "bali",
-      "reason": "우기, 연말 성수기라 비에도 관광객 많은 시기"
+      "reason": {
+        "ko": "우기, 연말 성수기라 비에도 관광객 많은 시기",
+        "en": "It is the rainy season and the peak season at the end of the year, so there are many tourists even in the rain",
+        "ja": "雨期、年末のピークシーズン、雨にも観光客が多い時期",
+        "zh": "年底正是雨季和旺季，所以即使下雨也有很多游客"
+      }
     },
     {
       "regionId": "berlin",
-      "reason": "크리스마스 마켓 절정, 카데베 백화점 연말 쇼핑"
+      "reason": {
+        "ko": "크리스마스 마켓 절정, 카데베 백화점 연말 쇼핑",
+        "en": "Christmas market peak, year-end shopping at Kadebe Department Store",
+        "ja": "クリスマスマーケットのピーク、カデベデパートの年末ショッピング",
+        "zh": "圣诞市场高峰，卡德贝百货年终购物"
+      }
     },
     {
       "regionId": "boracay",
-      "reason": "건기, 화이트비치가 빛나는 크리스마스 시즌"
+      "reason": {
+        "ko": "건기, 화이트비치가 빛나는 크리스마스 시즌",
+        "en": "Dry season, Christmas season when White Beach shines",
+        "ja": "乾季、ホワイトビーチが輝くクリスマスシーズン",
+        "zh": "旱季，圣诞节，白沙滩闪耀"
+      }
     },
     {
       "regionId": "budapest",
-      "reason": "보로슈마르티 크리스마스 마켓, 유럽 최고"
+      "reason": {
+        "ko": "보로슈마르티 크리스마스 마켓, 유럽 최고",
+        "en": "Voroshmarti Christmas Market, the best in Europe",
+        "ja": "ボロシュマルティクリスマスマーケット、ヨーロッパトップ",
+        "zh": "Voroshmarti 圣诞市场，欧洲最好的"
+      }
     },
     {
       "regionId": "cairns",
-      "reason": "우기 시작, 해파리 등장·바다 주의"
+      "reason": {
+        "ko": "우기 시작, 해파리 등장·바다 주의",
+        "en": "Rainy season begins, jellyfish appear, be careful in the sea",
+        "ja": "雨期開始、クラゲ登場・海の注意",
+        "zh": "雨季开始，水母出现，出海要小心"
+      }
     },
     {
       "regionId": "cappadocia",
-      "reason": "폭설과 혹한, 열기구 결항 빈번"
+      "reason": {
+        "ko": "폭설과 혹한, 열기구 결항 빈번",
+        "en": "Heavy snow and extreme cold, frequent cancellation of hot air balloon flights",
+        "ja": "大雪と酷い、熱気球欠航頻繁",
+        "zh": "大雪严寒，热气球航班频繁取消"
+      }
     },
     {
       "regionId": "cebu",
-      "reason": "건기, 크리스마스 분위기의 세부"
+      "reason": {
+        "ko": "건기, 크리스마스 분위기의 세부",
+        "en": "Dry season, Christmas atmosphere details",
+        "ja": "乾期、クリスマスの雰囲気の詳細",
+        "zh": "旱季，圣诞气氛详情"
+      }
     },
     {
       "regionId": "colombo",
-      "reason": "건기 재개, 갈레 문학 축제 시즌"
+      "reason": {
+        "ko": "건기 재개, 갈레 문학 축제 시즌",
+        "en": "Dry season resumes, Galle Literary Festival season",
+        "ja": "乾季再開、ガレ文学祭シーズン",
+        "zh": "旱季恢复，加勒文学节季"
+      }
     },
     {
       "regionId": "copenhagen",
-      "reason": "티볼리 크리스마스 마켓, 휘게의 절정"
+      "reason": {
+        "ko": "티볼리 크리스마스 마켓, 휘게의 절정",
+        "en": "Tivoli Christmas Market, the pinnacle of hygge",
+        "ja": "チボリのクリスマスマーケット、曲げのピーク",
+        "zh": "蒂沃利圣诞市场，hygge 的顶峰"
+      }
     },
     {
       "regionId": "da-nang",
-      "reason": "우기 끝자락, 점차 날씨 회복 중"
+      "reason": {
+        "ko": "우기 끝자락, 점차 날씨 회복 중",
+        "en": "At the end of the rainy season, the weather is gradually recovering",
+        "ja": "雨期の終わり、徐々に天気回復中",
+        "zh": "雨季结束，天气逐渐回暖"
+      }
     },
     {
       "regionId": "dubrovnik",
-      "reason": "겨울, 보라 바람과 조용한 구시가지"
+      "reason": {
+        "ko": "겨울, 보라 바람과 조용한 구시가지",
+        "en": "Winter, Bora wind and quiet old town",
+        "ja": "冬、紫風と静かな旧市街",
+        "zh": "冬天，波拉风和安静的老城"
+      }
     },
     {
       "regionId": "edinburgh",
-      "reason": "호그마니(새해 축제), 추위 속 연말 분위기"
+      "reason": {
+        "ko": "호그마니(새해 축제), 추위 속 연말 분위기",
+        "en": "Hogmany (New Year Festival), end-of-year atmosphere in the cold",
+        "ja": "ホグマニ（新年祭）、寒い中の年末の雰囲気",
+        "zh": "Hogmany（新年节），年终气氛寒冷"
+      }
     },
     {
       "regionId": "florence",
-      "reason": "크리스마스 마켓, 산타 크로체 광장 축제"
+      "reason": {
+        "ko": "크리스마스 마켓, 산타 크로체 광장 축제",
+        "en": "Christmas Market, Piazza Santa Croce Festival",
+        "ja": "クリスマスマーケット、サンタクローチェ広場フェスティバル",
+        "zh": "圣诞市场，圣十字广场节日"
+      }
     },
     {
       "regionId": "fukuoka",
-      "reason": "연말 일루미네이션과 캐널 시티 크리스마스"
+      "reason": {
+        "ko": "연말 일루미네이션과 캐널 시티 크리스마스",
+        "en": "Year-end illuminations and Canal City Christmas",
+        "ja": "年末イルミネーションとキャナルシティクリスマス",
+        "zh": "年终彩灯和运河城圣诞节"
+      }
     },
     {
       "regionId": "helsinki",
-      "reason": "크리스마스 마켓, 산타클로스의 나라 분위기"
+      "reason": {
+        "ko": "크리스마스 마켓, 산타클로스의 나라 분위기",
+        "en": "Christmas market, Santa Claus country atmosphere",
+        "ja": "クリスマスマーケット、サンタクロースの国の雰囲気",
+        "zh": "圣诞集市，圣诞老人乡村氛围"
+      }
     },
     {
       "regionId": "hoi-an",
-      "reason": "건기 시작, 다시 맑아지는 호이안"
+      "reason": {
+        "ko": "건기 시작, 다시 맑아지는 호이안",
+        "en": "Dry season begins, Hoi An becomes clear again",
+        "ja": "乾季開始、再び澄まれるホイアン",
+        "zh": "旱季开始，会安再次晴朗"
+      }
     },
     {
       "regionId": "hokkaido",
-      "reason": "스키 시즌 개막, 겨울왕국의 시작"
+      "reason": {
+        "ko": "스키 시즌 개막, 겨울왕국의 시작",
+        "en": "Ski season opens, winter wonderland begins",
+        "ja": "スキーシーズン開幕、冬王国の始まり",
+        "zh": "滑雪季开启，冬季仙境开始"
+      }
     },
     {
       "regionId": "interlaken",
-      "reason": "스키 시즌 시작, 설원의 크리스마스"
+      "reason": {
+        "ko": "스키 시즌 시작, 설원의 크리스마스",
+        "en": "Ski season begins, Christmas in the snow",
+        "ja": "スキーシーズン開始、雪原のクリスマス",
+        "zh": "滑雪季节开始，雪中圣诞节"
+      }
     },
     {
       "regionId": "istanbul",
-      "reason": "겨울, 비 잦지만 따뜻한 터키 음식의 매력"
+      "reason": {
+        "ko": "겨울, 비 잦지만 따뜻한 터키 음식의 매력",
+        "en": "Winter, frequent rain, but the charm of warm Turkish food",
+        "ja": "冬、雨が多いが暖かいトルコ料理の魅力",
+        "zh": "冬天，经常下雨，但土耳其美食的温暖魅力"
+      }
     },
     {
       "regionId": "jakarta",
-      "reason": "우기, 침수 위험 증가하는 시기"
+      "reason": {
+        "ko": "우기, 침수 위험 증가하는 시기",
+        "en": "Rainy season, a time when the risk of flooding increases",
+        "ja": "雨期、浸水リスクの増加時期",
+        "zh": "雨季，洪水风险增加的时期"
+      }
     },
     {
       "regionId": "koh-samui",
-      "reason": "몬순 끝자락, 날씨 회복 시작"
+      "reason": {
+        "ko": "몬순 끝자락, 날씨 회복 시작",
+        "en": "End of monsoon, weather recovery begins",
+        "ja": "モンスーンの終わり、天気回復を開始",
+        "zh": "季风结束，天气开始恢复"
+      }
     },
     {
       "regionId": "kota-kinabalu",
-      "reason": "건기, 열대 해변의 크리스마스"
+      "reason": {
+        "ko": "건기, 열대 해변의 크리스마스",
+        "en": "Dry season, Christmas on a tropical beach",
+        "ja": "乾季、熱帯のビーチのクリスマス",
+        "zh": "旱季，热带海滩的圣诞节"
+      }
     },
     {
       "regionId": "krabi",
-      "reason": "건기 성수기, 에메랄드빛 바다로 돌아온 크라비"
+      "reason": {
+        "ko": "건기 성수기, 에메랄드빛 바다로 돌아온 크라비",
+        "en": "Krabi returns to the emerald sea during the peak dry season",
+        "ja": "乾期ハイシーズン、エメラルドの海に戻ったクラビ",
+        "zh": "甲米在旱季重回翡翠海"
+      }
     },
     {
       "regionId": "kuala-lumpur",
-      "reason": "몬순 피크, 연말 세일과 쇼핑 시즌"
+      "reason": {
+        "ko": "몬순 피크, 연말 세일과 쇼핑 시즌",
+        "en": "Monsoon peak, year-end sales and shopping season",
+        "ja": "モンスーンピーク、年末セールとショッピングシーズン",
+        "zh": "季风高峰，年终销售购物季"
+      }
     },
     {
       "regionId": "langkawi",
-      "reason": "건기, 면세 쇼핑과 해변의 연말"
+      "reason": {
+        "ko": "건기, 면세 쇼핑과 해변의 연말",
+        "en": "Dry season, tax-free shopping and the end of the year at the beach",
+        "ja": "乾期、免税ショッピング、ビーチの年末",
+        "zh": "旱季、免税购物和年底海滩"
+      }
     },
     {
       "regionId": "lisbon",
-      "reason": "겨울 비, 크리스마스 로시우 광장 분위기"
+      "reason": {
+        "ko": "겨울 비, 크리스마스 로시우 광장 분위기",
+        "en": "Winter rain, Christmas Rossio Square atmosphere",
+        "ja": "冬の雨、クリスマスのロシウ広場の雰囲気",
+        "zh": "冬天的雨，罗西奥广场的圣诞气氛"
+      }
     },
     {
       "regionId": "lombok",
-      "reason": "우기, 해양 활동 어려운 시기"
+      "reason": {
+        "ko": "우기, 해양 활동 어려운 시기",
+        "en": "Rainy season, difficult time for marine activities",
+        "ja": "雨期、海洋活動難しい時期",
+        "zh": "雨季，海上活动困难时期"
+      }
     },
     {
       "regionId": "london",
-      "reason": "크리스마스 마켓, 연말 분위기이지만 추움"
+      "reason": {
+        "ko": "크리스마스 마켓, 연말 분위기이지만 추움",
+        "en": "Christmas market, end-of-year atmosphere but cold",
+        "ja": "クリスマスマーケット、年末の雰囲気ですが寒さ",
+        "zh": "圣诞市场，年末气氛却冷"
+      }
     },
     {
       "regionId": "madrid",
-      "reason": "추운 겨울, 크리스마스 마켓과 연말 분위기"
+      "reason": {
+        "ko": "추운 겨울, 크리스마스 마켓과 연말 분위기",
+        "en": "Cold winter, Christmas markets and year-end atmosphere",
+        "ja": "寒い冬、クリスマスマーケットと年末の雰囲気",
+        "zh": "寒冷的冬天、圣诞市场和年末气氛"
+      }
     },
     {
       "regionId": "male",
-      "reason": "건기, 크리스마스 시즌의 몰디브 리조트"
+      "reason": {
+        "ko": "건기, 크리스마스 시즌의 몰디브 리조트",
+        "en": "Maldives resorts during dry season and Christmas season",
+        "ja": "乾季、クリスマスシーズンのモルディブリゾート",
+        "zh": "旱季和圣诞节期间的马尔代夫度假村"
+      }
     },
     {
       "regionId": "marseille",
-      "reason": "겨울이지만 온화, 크리스마스 마르셰"
+      "reason": {
+        "ko": "겨울이지만 온화, 크리스마스 마르셰",
+        "en": "Winter but mild, Christmas Marche",
+        "ja": "冬だが穏やかで、クリスマスマルシェ",
+        "zh": "冬天但温和，圣诞马尔凯"
+      }
     },
     {
       "regionId": "munich",
-      "reason": "마리엔광장 크리스마스 마켓, 독일 연말의 정수"
+      "reason": {
+        "ko": "마리엔광장 크리스마스 마켓, 독일 연말의 정수",
+        "en": "Marienplatz Christmas Market, the essence of the German year-end",
+        "ja": "マリエン広場クリスマスマーケット、ドイツの年末の整数",
+        "zh": "玛利亚广场圣诞集市，德国年终精髓"
+      }
     },
     {
       "regionId": "new-york",
-      "reason": "록펠러 트리, 홀리데이 쇼핑의 연말 분위기"
+      "reason": {
+        "ko": "록펠러 트리, 홀리데이 쇼핑의 연말 분위기",
+        "en": "Rockefeller Tree, the end-of-year atmosphere of holiday shopping",
+        "ja": "ロックフェラー ツリー、ホリデー ショッピングの年末の雰囲気",
+        "zh": "洛克菲勒树，年末假日购物氛围"
+      }
     },
     {
       "regionId": "nha-trang",
-      "reason": "날씨 회복 중이지만 아직 불안정한 시기"
+      "reason": {
+        "ko": "날씨 회복 중이지만 아직 불안정한 시기",
+        "en": "Weather is recovering, but still unstable",
+        "ja": "天気回復中だがまだ不安定な時期",
+        "zh": "天气正在好转，但仍不稳定"
+      }
     },
     {
       "regionId": "nice",
-      "reason": "겨울이지만 온화, 크리스마스 마켓"
+      "reason": {
+        "ko": "겨울이지만 온화, 크리스마스 마켓",
+        "en": "Winter but mild, Christmas market",
+        "ja": "冬ですが穏やかで、クリスマスマーケット",
+        "zh": "冬天但温和，圣诞市场"
+      }
     },
     {
       "regionId": "okinawa",
-      "reason": "겨울이지만 온화, 관광객 적어 여유로운 시기"
+      "reason": {
+        "ko": "겨울이지만 온화, 관광객 적어 여유로운 시기",
+        "en": "Although it is winter, it is mild and there are few tourists so it is a leisurely time",
+        "ja": "冬ですが穏やかで、観光客が少なくゆったりとした時期",
+        "zh": "虽然是冬天，但气候温和，游客很少，很悠闲"
+      }
     },
     {
       "regionId": "palawan",
-      "reason": "건기 피크, 크리스마스 시즌 해변 휴양"
+      "reason": {
+        "ko": "건기 피크, 크리스마스 시즌 해변 휴양",
+        "en": "Peak dry season, Christmas season beach holidays",
+        "ja": "乾季ピーク、クリスマスシーズンビーチレクリエーション",
+        "zh": "旱季高峰、圣诞季海滩假期"
+      }
     },
     {
       "regionId": "paris",
-      "reason": "크리스마스 마켓과 일루미네이션의 연말 분위기"
+      "reason": {
+        "ko": "크리스마스 마켓과 일루미네이션의 연말 분위기",
+        "en": "The end-of-year atmosphere of Christmas markets and illuminations",
+        "ja": "クリスマスマーケットとイルミネーションの年末の雰囲気",
+        "zh": "圣诞市场和灯饰的年末气氛"
+      }
     },
     {
       "regionId": "penang",
-      "reason": "건기 성수기, 연말 연휴 페낭 음식 축제"
+      "reason": {
+        "ko": "건기 성수기, 연말 연휴 페낭 음식 축제",
+        "en": "Penang Food Festival during peak dry season and year-end holidays",
+        "ja": "乾期ハイシーズン、年末連休ペナンフードフェスティバル",
+        "zh": "旱季高峰和年终假期期间的槟城美食节"
+      }
     },
     {
       "regionId": "porto",
-      "reason": "겨울, 동루이스 다리 크리스마스 일루미네이션"
+      "reason": {
+        "ko": "겨울, 동루이스 다리 크리스마스 일루미네이션",
+        "en": "Winter, East Louis Bridge Christmas Illumination",
+        "ja": "冬、東ルイス橋クリスマスイルミネーション",
+        "zh": "冬天，东路易斯桥圣诞灯饰"
+      }
     },
     {
       "regionId": "prague",
-      "reason": "구시가지 크리스마스 마켓, 유럽 최고의 연말"
+      "reason": {
+        "ko": "구시가지 크리스마스 마켓, 유럽 최고의 연말",
+        "en": "Old Town Christmas Market, Europe's best year-end market",
+        "ja": "旧市街のクリスマスマーケット、ヨーロッパで最高の年末",
+        "zh": "老城圣诞市场，欧洲最好的年终市场"
+      }
     },
     {
       "regionId": "reykjavik",
-      "reason": "극야, 크리스마스 13명의 유르 산타"
+      "reason": {
+        "ko": "극야, 크리스마스 13명의 유르 산타",
+        "en": "Polar Night, Christmas 13 Yur Santas",
+        "ja": "極夜、クリスマス13人のユールサンタ",
+        "zh": "极夜，圣诞节 13 你的圣诞老人"
+      }
     },
     {
       "regionId": "rome",
-      "reason": "겨울 비, 크리스마스의 바티칸"
+      "reason": {
+        "ko": "겨울 비, 크리스마스의 바티칸",
+        "en": "Winter Rain, Vatican at Christmas",
+        "ja": "冬の雨、クリスマスのバチカン",
+        "zh": "冬雨，梵蒂冈圣诞节"
+      }
     },
     {
       "regionId": "salzburg",
-      "reason": "크리스마스 마켓과 크람푸스 퍼레이드"
+      "reason": {
+        "ko": "크리스마스 마켓과 크람푸스 퍼레이드",
+        "en": "Christmas Market and Krampus Parade",
+        "ja": "クリスマスマーケットとクランプスパレード",
+        "zh": "圣诞市场和坎卜斯游行"
+      }
     },
     {
       "regionId": "san-francisco",
-      "reason": "겨울 비, 유니언스퀘어 크리스마스 트리"
+      "reason": {
+        "ko": "겨울 비, 유니언스퀘어 크리스마스 트리",
+        "en": "Winter Rain, Union Square Christmas Tree",
+        "ja": "冬の雨、ユニオンスクエアクリスマスツリー",
+        "zh": "冬雨，联合广场圣诞树"
+      }
     },
     {
       "regionId": "singapore",
-      "reason": "몬순 피크, 크리스마스 일루미네이션"
+      "reason": {
+        "ko": "몬순 피크, 크리스마스 일루미네이션",
+        "en": "Monsoon Peak, Christmas Illumination",
+        "ja": "モンスーンピーク、クリスマスイルミネーション",
+        "zh": "季风高峰，圣诞灯饰"
+      }
     },
     {
       "regionId": "split",
-      "reason": "겨울, 한산한 궁전 도시의 조용한 매력"
+      "reason": {
+        "ko": "겨울, 한산한 궁전 도시의 조용한 매력",
+        "en": "The quiet charm of a quiet palace city in winter",
+        "ja": "冬、寒い宮殿都市の静かな魅力",
+        "zh": "冬日静谧宫城的静谧韵味"
+      }
     },
     {
       "regionId": "taipei",
-      "reason": "건기 지속, 쌀쌀하지만 야시장과 온천 매력"
+      "reason": {
+        "ko": "건기 지속, 쌀쌀하지만 야시장과 온천 매력",
+        "en": "The dry season continues, chilly but attractive with night markets and hot springs",
+        "ja": "乾季持続、肌寒いがナイトマーケットと温泉魅力",
+        "zh": "旱季仍在继续，寒冷但夜市和温泉极具吸引力"
+      }
     },
     {
       "regionId": "toronto",
-      "reason": "크리스마스 성수기, 나이아가라 윈터 페스티벌"
+      "reason": {
+        "ko": "크리스마스 성수기, 나이아가라 윈터 페스티벌",
+        "en": "Peak Christmas season, Niagara Winter Festival",
+        "ja": "クリスマスハイシーズン、ナイアガラウィンターフェスティバル",
+        "zh": "圣诞节高峰期，尼亚加拉冬季节"
+      }
     },
     {
       "regionId": "vancouver",
-      "reason": "크리스마스 시즌, 휘슬러 스키 리조트 오픈"
+      "reason": {
+        "ko": "크리스마스 시즌, 휘슬러 스키 리조트 오픈",
+        "en": "Christmas season, Whistler ski resort opens",
+        "ja": "クリスマスシーズン、ウィスラースキーリゾートオープン",
+        "zh": "圣诞节期间，惠斯勒滑雪胜地开业"
+      }
     },
     {
       "regionId": "venice",
-      "reason": "겨울, 안개와 침수 위험 지속"
+      "reason": {
+        "ko": "겨울, 안개와 침수 위험 지속",
+        "en": "Winter continues, risk of fog and flooding",
+        "ja": "冬、霧、浸水リスクの持続",
+        "zh": "冬天仍在继续，有雾和洪水的危险"
+      }
     },
     {
       "regionId": "vienna",
-      "reason": "빈 크리스마스 마켓 — 유럽 최고, 신년 카운트다운"
+      "reason": {
+        "ko": "빈 크리스마스 마켓 — 유럽 최고, 신년 카운트다운",
+        "en": "Vienna Christmas Market — Europe's Best, Countdown to the New Year",
+        "ja": "空のクリスマスマーケット - ヨーロッパ最高、新年のカウントダウン",
+        "zh": "维也纳圣诞市场——欧洲最佳，新年倒计时"
+      }
     },
     {
       "regionId": "yogyakarta",
-      "reason": "우기, 보로부두르 새벽 운해 사진 시도해볼 시기"
+      "reason": {
+        "ko": "우기, 보로부두르 새벽 운해 사진 시도해볼 시기",
+        "en": "Rainy season, time to try early morning cloud sea photography in Borobudur",
+        "ja": "ウギ、ボロブドゥールの夜明けの雲海の写真を試してみる時期",
+        "zh": "雨季，婆罗浮屠清晨尝试云海摄影"
+      }
     },
     {
       "regionId": "zurich",
-      "reason": "크리스마스 마켓 절정, 눈 덮인 구시가지"
+      "reason": {
+        "ko": "크리스마스 마켓 절정, 눈 덮인 구시가지",
+        "en": "Christmas market peak, snow-covered old town",
+        "ja": "クリスマスマーケットのピーク、雪に覆われた旧市街",
+        "zh": "圣诞集市高峰，白雪覆盖的老城区"
+      }
     }
   ]
 }

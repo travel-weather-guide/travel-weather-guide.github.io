@@ -3,16 +3,48 @@
     "regionId": "lisbon",
     "month": 1,
     "rating": 3,
-    "summary": "겨울 비, 파두 공연과 따뜻한 파스텔 드 나타",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 비, 파두 공연과 따뜻한 파스텔 드 나타",
+      "en": "Winter rain, fado performances and warm pastels de nata",
+      "ja": "冬の雨、波打ちと暖かいパステルデナタ",
+      "zh": "冬雨、法多表演和温暖的蛋彩画"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -20,19 +52,65 @@
     "regionId": "lisbon",
     "month": 2,
     "rating": 3,
-    "summary": "겨울 끝자락, 카니발과 서퍼들의 코스타 다 카파리카",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울 끝자락, 카니발과 서퍼들의 코스타 다 카파리카",
+      "en": "End of winter, Costa da Caparica with carnival and surfers",
+      "ja": "冬の終わり、カーニバルとサーファーのコスタダカパリカ",
+      "zh": "冬末，卡帕里卡海岸狂欢节和冲浪者"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -40,18 +118,61 @@
     "regionId": "lisbon",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 트램28 창문으로 보는 봄꽃",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 트램28 창문으로 보는 봄꽃",
+      "en": "Spring begins, spring flowers seen through Tram 28 window",
+      "ja": "春の始まり、トラム28の窓から見る春の花",
+      "zh": "春天来了，透过有轨电车28号车窗看到春天的花朵"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -59,22 +180,82 @@
     "regionId": "lisbon",
     "month": 4,
     "rating": 3,
-    "summary": "봄 절정, 알파마 골목과 테라스 카페",
-    "highlights": [
-      "봄 리스본, 산투 안토니우 축제와 파두의 계절",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "산투 안토니우 축제 (6월 13일)",
-      "리스본 서머 파티 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "봄 절정, 알파마 골목과 테라스 카페",
+      "en": "Peak of spring, Alfama Alley and Terrace Cafe",
+      "ja": "春のピーク、アルファマ路地とテラスカフェ",
+      "zh": "春天的高峰，阿法玛巷和露台咖啡馆"
+    },
+    "highlights": {
+      "ko": [
+        "봄 리스본, 산투 안토니우 축제와 파두의 계절",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Spring Lisbon, Santo Antonio Festival and Fado season",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "春のリスボン、サントゥアントニウ祭りとパードの季節",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "春天里斯本、圣安东尼奥节和法多季节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "산투 안토니우 축제 (6월 13일)",
+        "리스본 서머 파티 시즌"
+      ],
+      "en": [
+        "Santo Antonio Festival (June 13)",
+        "Lisbon Summer Party Season"
+      ],
+      "ja": [
+        "サントゥアントニウ祭り（6月13日）",
+        "リスボンサマーパーティーシーズン"
+      ],
+      "zh": [
+        "圣安东尼奥节（6 月 13 日）",
+        "里斯本夏日派对季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -82,22 +263,77 @@
     "regionId": "lisbon",
     "month": 5,
     "rating": 5,
-    "summary": "리스본 여행 최적기, 선선하고 맑은 날씨",
-    "highlights": [
-      "봄 리스본, 산투 안토니우 축제와 파두의 계절",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "리스본 여행 최적기, 선선하고 맑은 날씨",
+      "en": "Best time to travel to Lisbon, cool and clear weather",
+      "ja": "リスボン旅行の最適期、涼しい、晴れの天気",
+      "zh": "里斯本最佳旅游时间，天气凉爽"
+    },
+    "highlights": {
+      "ko": [
+        "봄 리스본, 산투 안토니우 축제와 파두의 계절",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Spring Lisbon, Santo Antonio Festival and Fado season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "春のリスボン、サントゥアントニウ祭りとパードの季節",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "春天里斯本、圣安东尼奥节和法多季节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "산투 안토니우 축제 (6월 13일)",
-      "리스본 서머 파티 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "산투 안토니우 축제 (6월 13일)",
+        "리스본 서머 파티 시즌"
+      ],
+      "en": [
+        "Santo Antonio Festival (June 13)",
+        "Lisbon Summer Party Season"
+      ],
+      "ja": [
+        "サントゥアントニウ祭り（6月13日）",
+        "リスボンサマーパーティーシーズン"
+      ],
+      "zh": [
+        "圣安东尼奥节（6 月 13 日）",
+        "里斯本夏日派对季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -105,24 +341,90 @@
     "regionId": "lisbon",
     "month": 6,
     "rating": 5,
-    "summary": "성 안토니오 축제(6/13), 정어리 구이와 파티",
-    "highlights": [
-      "봄 리스본, 산투 안토니우 축제와 파두의 계절",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "산투 안토니우 축제 (6월 13일)",
-      "리스본 서머 파티 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "성 안토니오 축제(6/13), 정어리 구이와 파티",
+      "en": "St. Anthony's Festival (6/13), grilled sardines and party",
+      "ja": "聖アントニオフェスティバル（6/13）、イワシの焼きとパーティー",
+      "zh": "圣安东尼节（6/13），烤沙丁鱼和派对"
+    },
+    "highlights": {
+      "ko": [
+        "봄 리스본, 산투 안토니우 축제와 파두의 계절",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Spring Lisbon, Santo Antonio Festival and Fado season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "春のリスボン、サントゥアントニウ祭りとパードの季節",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "春天里斯本、圣安东尼奥节和法多季节",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "산투 안토니우 축제 (6월 13일)",
+        "리스본 서머 파티 시즌"
+      ],
+      "en": [
+        "Santo Antonio Festival (June 13)",
+        "Lisbon Summer Party Season"
+      ],
+      "ja": [
+        "サントゥアントニウ祭り（6月13日）",
+        "リスボンサマーパーティーシーズン"
+      ],
+      "zh": [
+        "圣安东尼奥节（6 月 13 日）",
+        "里斯本夏日派对季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -130,18 +432,56 @@
     "regionId": "lisbon",
     "month": 7,
     "rating": 5,
-    "summary": "여름 성수기, 더위지만 해안 바람으로 버틸 만",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "여름 성수기, 더위지만 해안 바람으로 버틸 만",
+      "en": "Summer peak season, hot but bearable due to coastal breeze",
+      "ja": "夏のハイシーズン、暑いが海岸の風に耐えるだけ",
+      "zh": "夏季旺季，炎热但沿海微风尚可"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -149,18 +489,56 @@
     "regionId": "lisbon",
     "month": 8,
     "rating": 5,
-    "summary": "여름 피크, 해변 리조트 세투발·카스카이스",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "여름 피크, 해변 리조트 세투발·카스카이스",
+      "en": "Summer peak, beach resort Setúbal·Cascais",
+      "ja": "夏のピーク、ビーチリゾートのセトゥーバル・カスカイス",
+      "zh": "夏季高峰，塞图巴尔·卡斯卡伊斯海滩度假胜地"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -168,23 +546,86 @@
     "regionId": "lisbon",
     "month": 9,
     "rating": 5,
-    "summary": "가을 시작, 관광객 줄고 날씨 여전히 좋은 황금기",
-    "highlights": [
-      "가을 리스본, 황금빛 빛과 와인 수확철",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
-    "events": [
-      "리스본 국제 영화제 (11월)",
-      "포르투갈 와인 수확 시즌 (9월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "가을 시작, 관광객 줄고 날씨 여전히 좋은 황금기",
+      "en": "Autumn begins, golden age with fewer tourists and still good weather",
+      "ja": "秋の始まり、観光客が減って天気まだ良い黄金期",
+      "zh": "入秋了，黄金时节，游客少，天气依然好"
+    },
+    "highlights": {
+      "ko": [
+        "가을 리스본, 황금빛 빛과 와인 수확철",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn Lisbon, golden light and wine harvest season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "秋のリスボン、黄金色の光とワインの収穫鉄",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋天的里斯本，金光与美酒的收获季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "리스본 국제 영화제 (11월)",
+        "포르투갈 와인 수확 시즌 (9월)"
+      ],
+      "en": [
+        "Lisbon International Film Festival (November)",
+        "Portuguese Wine Harvest Season (September)"
+      ],
+      "ja": [
+        "リスボン国際映画祭（11月）",
+        "ポルトガルワイン収穫シーズン（9月）"
+      ],
+      "zh": [
+        "里斯本国际电影节（十一月）",
+        "葡萄牙葡萄酒收获季节（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -192,24 +633,90 @@
     "regionId": "lisbon",
     "month": 10,
     "rating": 3,
-    "summary": "가을, 파두와 와인의 리스본",
-    "highlights": [
-      "가을 리스본, 황금빛 빛과 와인 수확철",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 10.8일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "리스본 국제 영화제 (11월)",
-      "포르투갈 와인 수확 시즌 (9월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "가을, 파두와 와인의 리스본",
+      "en": "Autumn, Lisbon of fado and wine",
+      "ja": "秋、波とワインのリスボン",
+      "zh": "秋天，法多与葡萄酒的里斯本"
+    },
+    "highlights": {
+      "ko": [
+        "가을 리스본, 황금빛 빛과 와인 수확철",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn Lisbon, golden light and wine harvest season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "秋のリスボン、黄金色の光とワインの収穫鉄",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋天的里斯本，金光与美酒的收获季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.8일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "With 10.8 rainy days, indoor alternative preparations are recommended.",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "雨の日が10.8日で屋内代替案を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "10.8阴雨天，建议室内替代准备。",
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "리스본 국제 영화제 (11월)",
+        "포르투갈 와인 수확 시즌 (9월)"
+      ],
+      "en": [
+        "Lisbon International Film Festival (November)",
+        "Portuguese Wine Harvest Season (September)"
+      ],
+      "ja": [
+        "リスボン国際映画祭（11月）",
+        "ポルトガルワイン収穫シーズン（9月）"
+      ],
+      "zh": [
+        "里斯本国际电影节（十一月）",
+        "葡萄牙葡萄酒收获季节（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -217,16 +724,48 @@
     "regionId": "lisbon",
     "month": 11,
     "rating": 3,
-    "summary": "쌀쌀해지는 초겨울, 비 잦아지는 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "쌀쌀해지는 초겨울, 비 잦아지는 시기",
+      "en": "Early winter becomes chilly, rain becomes more frequent",
+      "ja": "肌寒くなる初冬、雨が多い時期",
+      "zh": "初冬天气寒冷，雨水增多"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -234,16 +773,48 @@
     "regionId": "lisbon",
     "month": 12,
     "rating": 2,
-    "summary": "겨울 비, 크리스마스 로시우 광장 분위기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 비, 크리스마스 로시우 광장 분위기",
+      "en": "Winter rain, Christmas Rossio Square atmosphere",
+      "ja": "冬の雨、クリスマスのロシウ広場の雰囲気",
+      "zh": "冬天的雨，罗西奥广场的圣诞气氛"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -251,20 +822,69 @@
     "regionId": "porto",
     "month": 1,
     "rating": 2,
-    "summary": "겨울 비, 동루이스 다리 위 빗속 산책",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 176mm로 우기에 해당",
-      "비 오는 날이 11일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울 비, 동루이스 다리 위 빗속 산책",
+      "en": "Winter rain, a walk in the rain on the East Louis Bridge",
+      "ja": "冬の雨、東ルイス橋の上の雨の中を歩く",
+      "zh": "冬天的雨，东路易桥雨中漫步"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 176mm로 우기에 해당",
+        "비 오는 날이 11일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 176mm, corresponding to the rainy season",
+        "As the rainy day is the 11th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "月降水量176mmで雨季に対応",
+        "雨の日が11日で屋内代替準備を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "每月降雨量176毫米，对应雨季",
+        "由于11号是雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -272,17 +892,52 @@
     "regionId": "porto",
     "month": 2,
     "rating": 2,
-    "summary": "겨울, 셀라 노바 와이너리 방문과 포트와인",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 셀라 노바 와이너리 방문과 포트와인",
+      "en": "Winter, visit to Sella Nova Winery and enjoy port wine",
+      "ja": "冬はセラ ノヴァ ワイナリーを訪れ、ポートワインを楽しみましょう",
+      "zh": "冬季，参观Sella Nova酒庄，品尝波特酒"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "With 10.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "雨の日が10.4日で屋内代替案を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "10.4阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -290,21 +945,73 @@
     "regionId": "porto",
     "month": 3,
     "rating": 2,
-    "summary": "봄 기운, 두로강변 라벨루 보트 투어",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 139mm로 우산 필수",
-      "비 오는 날이 14.2일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 기운, 두로강변 라벨루 보트 투어",
+      "en": "Spring spirit, Labellu boat tour along the Duro River",
+      "ja": "春のオーラ、ドゥーロ川沿いのラベロボートツアー",
+      "zh": "春意盎然，Labellu 乘船游览杜罗河"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 139mm로 우산 필수",
+        "비 오는 날이 14.2일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 139mm, so an umbrella is a must",
+        "With 14.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "降水量は 139mm なので傘は必須です",
+        "雨の日が14.2日で屋内代替準備を推奨",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "降雨量139毫米，雨伞必备",
+        "14.2阴雨天，建议室内替代准备",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -312,21 +1019,73 @@
     "regionId": "porto",
     "month": 4,
     "rating": 3,
-    "summary": "봄 절정, 아줄레주 타일과 골목 탐방",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 109mm로 우산 필수",
-      "비 오는 날이 11.8일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 절정, 아줄레주 타일과 골목 탐방",
+      "en": "The peak of spring, exploring azulejo tiles and alleys",
+      "ja": "春のピーク、アジュレ州のタイルと路地を訪れる",
+      "zh": "春天的巅峰，探索阿苏莱霍瓷砖和小巷"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 109mm로 우산 필수",
+        "비 오는 날이 11.8일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 109mm, so an umbrella is a must",
+        "With 11.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "降水量が109mmで傘必須",
+        "雨の日が11.8日で屋内代替案を推奨",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "降雨量109毫米，雨伞必备",
+        "11.8阴雨天，建议室内替代准备",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -334,19 +1093,65 @@
     "regionId": "porto",
     "month": 5,
     "rating": 3,
-    "summary": "봄 최적기, 두로밸리 와이너리 당일치기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.6일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 최적기, 두로밸리 와이너리 당일치기",
+      "en": "Best time for spring, day trip to Duro Valley Winery",
+      "ja": "春最適機、ドゥロバレーワイナリー日帰り",
+      "zh": "春季最佳时节，杜罗谷酒庄一日游"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.6일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "With 10.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "雨の日が10.6日で屋内代替準備を推奨",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "10.6阴雨天，建议室内替代准备",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -354,23 +1159,86 @@
     "regionId": "porto",
     "month": 6,
     "rating": 4,
-    "summary": "상 주앙 축제(6/24), 망치와 마늘로 서로 치는 유쾌한 축제",
-    "highlights": [
-      "상 주앙 축제 — 포르투 최대 여름 축제",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도 82%로 불쾌지수 높음"
-    ],
-    "events": [
-      "상 주앙 축제 (6월 23~24일)",
-      "도우루 강변 파티"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "상 주앙 축제(6/24), 망치와 마늘로 서로 치는 유쾌한 축제",
+      "en": "Sao Joao Festival (6/24), a fun festival where people hit each other with hammers and garlic",
+      "ja": "サンジュアンフェスティバル（6/24）、ハンマーとニンニクで叩く楽しいフェスティバル",
+      "zh": "圣若昂节（6/24），一个有趣的节日，人们用锤子和大蒜互相敲击"
+    },
+    "highlights": {
+      "ko": [
+        "상 주앙 축제 — 포르투 최대 여름 축제",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "São Joao Festival — Porto’s biggest summer festival",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "サンジュアン祭り - ポルト最大夏祭り",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "圣若昂节 — 波尔图最大的夏季节日",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度82%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "상 주앙 축제 (6월 23~24일)",
+        "도우루 강변 파티"
+      ],
+      "en": [
+        "Sao Joao Festival (June 23-24)",
+        "Douro Riverside Party"
+      ],
+      "ja": [
+        "サンジュアンフェスティバル（6月23〜24日）",
+        "ドウルリバーパーティー"
+      ],
+      "zh": [
+        "圣若昂节（6 月 23 日至 24 日）",
+        "杜罗河畔派对"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -378,24 +1246,90 @@
     "regionId": "porto",
     "month": 7,
     "rating": 5,
-    "summary": "여름 성수기, 포트와인 셀러 투어",
-    "highlights": [
-      "도우루 강변 와이너리와 해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "포르투 와인 투어 성수기",
-      "도우루 와인 수확 (9월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 성수기, 포트와인 셀러 투어",
+      "en": "Summer peak season, port wine cellar tour",
+      "ja": "夏のハイシーズン、ポートワインセラーツアー",
+      "zh": "夏日旺季，波特酒窖之旅"
+    },
+    "highlights": {
+      "ko": [
+        "도우루 강변 와이너리와 해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "High season for wineries and beaches along the Douro River",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ドウル川沿いのワイナリーとビーチハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "杜罗河沿岸酒庄和海滩的旺季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "포르투 와인 투어 성수기",
+        "도우루 와인 수확 (9월)"
+      ],
+      "en": [
+        "Porto wine tour peak season",
+        "Douro wine harvest (September)"
+      ],
+      "ja": [
+        "ポルトワインツアーピークシーズン",
+        "ドウルワイン収穫（9月）"
+      ],
+      "zh": [
+        "波尔图葡萄酒之旅旺季",
+        "杜罗河葡萄酒收获期（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -403,24 +1337,90 @@
     "regionId": "porto",
     "month": 8,
     "rating": 5,
-    "summary": "여름 피크, 해변 마토시뉴스로 당일치기",
-    "highlights": [
-      "도우루 강변 와이너리와 해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 80%로 다소 높음"
-    ],
-    "events": [
-      "포르투 와인 투어 성수기",
-      "도우루 와인 수확 (9월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 피크, 해변 마토시뉴스로 당일치기",
+      "en": "Summer peak, day trip to the beach Matoshi News",
+      "ja": "夏のピーク、ビーチマトシニュースで日帰り",
+      "zh": "夏季高峰，海滩一日游 Matoshi 新闻"
+    },
+    "highlights": {
+      "ko": [
+        "도우루 강변 와이너리와 해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "High season for wineries and beaches along the Douro River",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ドウル川沿いのワイナリーとビーチハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "杜罗河沿岸酒庄和海滩的旺季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 80%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 80%"
+      ],
+      "ja": [
+        "湿度が80％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，达到 80%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "포르투 와인 투어 성수기",
+        "도우루 와인 수확 (9월)"
+      ],
+      "en": [
+        "Porto wine tour peak season",
+        "Douro wine harvest (September)"
+      ],
+      "ja": [
+        "ポルトワインツアーピークシーズン",
+        "ドウルワイン収穫（9月）"
+      ],
+      "zh": [
+        "波尔图葡萄酒之旅旺季",
+        "杜罗河葡萄酒收获期（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -428,23 +1428,86 @@
     "regionId": "porto",
     "month": 9,
     "rating": 4,
-    "summary": "가을 시작, 두로밸리 포도 수확의 계절",
-    "highlights": [
-      "도우루 강변 와이너리와 해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "포르투 와인 투어 성수기",
-      "도우루 와인 수확 (9월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "가을 시작, 두로밸리 포도 수확의 계절",
+      "en": "Autumn begins, the season of grape harvest in Duro Valley",
+      "ja": "秋の始まり、ドゥロバレーのビンテージの季節",
+      "zh": "秋天开始，杜罗河谷葡萄收获的季节"
+    },
+    "highlights": {
+      "ko": [
+        "도우루 강변 와이너리와 해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "High season for wineries and beaches along the Douro River",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ドウル川沿いのワイナリーとビーチハイシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "杜罗河沿岸酒庄和海滩的旺季",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "포르투 와인 투어 성수기",
+        "도우루 와인 수확 (9월)"
+      ],
+      "en": [
+        "Porto wine tour peak season",
+        "Douro wine harvest (September)"
+      ],
+      "ja": [
+        "ポルトワインツアーピークシーズン",
+        "ドウルワイン収穫（9月）"
+      ],
+      "zh": [
+        "波尔图葡萄酒之旅旺季",
+        "杜罗河葡萄酒收获期（九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -452,20 +1515,69 @@
     "regionId": "porto",
     "month": 10,
     "rating": 2,
-    "summary": "포도주 수확 축제, 두로강 크루즈 단풍",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 237mm로 우기에 해당",
-      "월 15.6일 비가 와 야외 일정에 유의",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "포도주 수확 축제, 두로강 크루즈 단풍",
+      "en": "Wine Harvest Festival, Duro River Cruise Fall Foliage",
+      "ja": "ビンテージフェスティバル、ドゥーロ川クルーズ紅葉",
+      "zh": "葡萄酒丰收节、杜罗河游船秋叶"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 237mm로 우기에 해당",
+        "월 15.6일 비가 와 야외 일정에 유의",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 237mm, corresponding to the rainy season",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "月降水量237mmで雨季に対応",
+        "月15.6日雨と屋外のスケジュールに注意",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量237毫米，对应雨季",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -473,20 +1585,69 @@
     "regionId": "porto",
     "month": 11,
     "rating": 2,
-    "summary": "비수기 시작, 겨울 비와 포트와인의 매력",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 156mm로 우기에 해당",
-      "비 오는 날이 13.8일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "비수기 시작, 겨울 비와 포트와인의 매력",
+      "en": "The off-season begins, the charm of winter rain and port wine",
+      "ja": "オフシーズン開始、冬の雨とポートワインの魅力",
+      "zh": "淡季开始，冬雨与波特酒的魅力"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 156mm로 우기에 해당",
+        "비 오는 날이 13.8일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 156mm, corresponding to the rainy season",
+        "With 13.8 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "月降水量156mmで雨季に対応",
+        "雨の日が13.8日で屋内代替案を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量156毫米，对应雨季",
+        "13.8阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -494,20 +1655,69 @@
     "regionId": "porto",
     "month": 12,
     "rating": 1,
-    "summary": "겨울, 동루이스 다리 크리스마스 일루미네이션",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 209mm로 우기에 해당",
-      "월 16.4일 비가 와 야외 일정에 유의",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 동루이스 다리 크리스마스 일루미네이션",
+      "en": "Winter, East Louis Bridge Christmas Illumination",
+      "ja": "冬、イーストルイブリッジのクリスマスイルミネーション",
+      "zh": "冬天，东路易斯桥圣诞灯饰"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 209mm로 우기에 해당",
+        "월 16.4일 비가 와 야외 일정에 유의",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 209mm, corresponding to the rainy season",
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "月降水量209mmで雨季に対応",
+        "月16.4日雨と屋外のスケジュールに注意",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量209毫米，对应雨季",
+        "月均约16天降雨，注意安排户外行程",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

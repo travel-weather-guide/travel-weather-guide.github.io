@@ -3,24 +3,90 @@
     "regionId": "luang-prabang",
     "month": 1,
     "rating": 5,
-    "summary": "건기, 새벽 탁발 행렬과 서늘한 메콩강변",
-    "highlights": [
-      "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "라오스 국경일 (12월 2일)",
-      "탁발 공양 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "건기, 새벽 탁발 행렬과 서늘한 메콩강변",
+      "en": "Dry season, dawn alms procession and cool Mekong Riverside",
+      "ja": "乾季、夜明けの施しの行列、涼しいメコン川沿い",
+      "zh": "旱季、黎明施舍游行和凉爽的湄公河畔"
+    },
+    "highlights": {
+      "ko": [
+        "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "The dry season in Luang Prabang is the most beautiful time for the alms offering ceremony",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ルアンパバーン、卓抜供養意識が最も美しい時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "琅勃拉邦的旱季是布施仪式最美的时刻",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "라오스 국경일 (12월 2일)",
+        "탁발 공양 시즌"
+      ],
+      "en": [
+        "Laos National Day (December 2)",
+        "Alms offering season"
+      ],
+      "ja": [
+        "ラオス国境日（12月2日）",
+        "卓抜供養シーズン"
+      ],
+      "zh": [
+        "老挝国庆节（12 月 2 日）",
+        "布施季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -28,22 +94,77 @@
     "regionId": "luang-prabang",
     "month": 2,
     "rating": 5,
-    "summary": "건기 절정, 황금빛 사원과 쾌청한 하늘",
-    "highlights": [
-      "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "건기 절정, 황금빛 사원과 쾌청한 하늘",
+      "en": "Peak of the dry season, golden temples and clear skies",
+      "ja": "乾季絶頂、黄金色の寺院と陽気な空",
+      "zh": "旱季高峰期，金色的寺庙和晴朗的天空"
+    },
+    "highlights": {
+      "ko": [
+        "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "The dry season in Luang Prabang is the most beautiful time for the alms offering ceremony",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ルアンパバーン、卓抜供養意識が最も美しい時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "琅勃拉邦的旱季是布施仪式最美的时刻",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "라오스 국경일 (12월 2일)",
-      "탁발 공양 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "라오스 국경일 (12월 2일)",
+        "탁발 공양 시즌"
+      ],
+      "en": [
+        "Laos National Day (December 2)",
+        "Alms offering season"
+      ],
+      "ja": [
+        "ラオス国境日（12月2日）",
+        "卓抜供養シーズン"
+      ],
+      "zh": [
+        "老挝国庆节（12 月 2 日）",
+        "布施季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -51,20 +172,69 @@
     "regionId": "luang-prabang",
     "month": 3,
     "rating": 4,
-    "summary": "건기 막바지, 더위 시작되는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "평균 최고기온 34°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "건기 막바지, 더위 시작되는 시기",
+      "en": "The end of the dry season, the beginning of the heat",
+      "ja": "乾期最後、暑さの始まり",
+      "zh": "旱季结束，炎热开始"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 34°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 34°C"
+      ],
+      "ja": [
+        "平均最高気温34°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温34°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -72,24 +242,90 @@
     "regionId": "luang-prabang",
     "month": 4,
     "rating": 4,
-    "summary": "라오스 신년 물축제, 폭염 속 씻겨주는 물",
-    "highlights": [
-      "라오스 설날 분피마이 물 축제",
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 34°C로 더위에 주의",
-      "비 오는 날이 10.2일로 실내 대안 준비 권장",
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "분피마이 — 라오스 새해 (4월 13~15일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "라오스 신년 물축제, 폭염 속 씻겨주는 물",
+      "en": "Laos New Year Water Festival, water to wash away during the heat wave",
+      "ja": "ラオス新年水まつり、猛暑の中で洗ってくれる水",
+      "zh": "老挝新年送水节，热浪期间用水冲走"
+    },
+    "highlights": {
+      "ko": [
+        "라오스 설날 분피마이 물 축제",
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Laos New Year Bunphimai Water Festival",
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "ラオスお正月ブンピマイ水まつり",
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "老挝新年Bunphimai送水节",
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 34°C로 더위에 주의",
+        "비 오는 날이 10.2일로 실내 대안 준비 권장",
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 34°C",
+        "With 10.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "平均最高気温34°Cで暑さに注意",
+        "雨の日が10.2日で屋内代替案を推奨",
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "平均最高气温34°C，请注意防暑",
+        "10.2阴雨天，建议室内替代准备",
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "분피마이 — 라오스 새해 (4월 13~15일)"
+      ],
+      "en": [
+        "Bunphimai — Laos New Year (April 13-15)"
+      ],
+      "ja": [
+        "ブンピマイ — ラオス新年（4月13～15日）"
+      ],
+      "zh": [
+        "Bunphimai — 老挝新年（4 月 13 日至 15 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -97,23 +333,81 @@
     "regionId": "luang-prabang",
     "month": 5,
     "rating": 2,
-    "summary": "우기 시작, 폭포 수량 늘어나는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 34°C로 더위에 주의",
-      "월 강수량 197mm로 우기에 해당",
-      "월 19.4일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기 시작, 폭포 수량 늘어나는 시기",
+      "en": "The beginning of the rainy season, the time when the number of waterfalls increases",
+      "ja": "雨期の始まり、滝の数が増える時期",
+      "zh": "雨季开始，瀑布数量增多的时候"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 34°C로 더위에 주의",
+        "월 강수량 197mm로 우기에 해당",
+        "월 19.4일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 34°C",
+        "Monthly rainfall is 197mm, corresponding to the rainy season",
+        "About 19 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "平均最高気温34°Cで暑さに注意",
+        "月降水量197mmで雨季に対応",
+        "月19.4日雨と屋外のスケジュールに注意してください",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "平均最高气温34°C，请注意防暑",
+        "每月降雨量197毫米，对应雨季",
+        "月均约19天降雨，注意安排户外行程",
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -121,22 +415,77 @@
     "regionId": "luang-prabang",
     "month": 6,
     "rating": 2,
-    "summary": "우기, 쾅시 폭포 최대 수량으로 장관",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "월 강수량 238mm로 우기에 해당",
-      "월 23.2일 비가 와 야외 일정에 유의",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기, 쾅시 폭포 최대 수량으로 장관",
+      "en": "In the rainy season, Kuang Si Falls is spectacular with maximum water volume",
+      "ja": "ウギ、ケルシー滝最大数量で壮観",
+      "zh": "雨季关西瀑布水量最大，景色壮观"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 238mm로 우기에 해당",
+        "월 23.2일 비가 와 야외 일정에 유의",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 238mm, corresponding to the rainy season",
+        "About 23 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "月降水量238mmで雨季に対応",
+        "月23.2日雨と屋外のスケジュールに注意",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量238毫米，对应雨季",
+        "月均约23天降雨，注意安排户外行程",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -144,22 +493,77 @@
     "regionId": "luang-prabang",
     "month": 7,
     "rating": 2,
-    "summary": "우기 지속, 메콩강 수위 오르는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "월 강수량 248mm로 우기에 해당",
-      "월 24.6일 비가 와 야외 일정에 유의",
-      "습도 84%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 지속, 메콩강 수위 오르는 시기",
+      "en": "Rainy season continues, Mekong River water level rises",
+      "ja": "雨期継続、メコン川の水位上昇時期",
+      "zh": "雨季持续，湄公河水位上涨"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 248mm로 우기에 해당",
+        "월 24.6일 비가 와 야외 일정에 유의",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 248mm, corresponding to the rainy season",
+        "About 25 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 84%"
+      ],
+      "ja": [
+        "月降水量248mmで雨季に対応",
+        "月24.6日雨と屋外のスケジュールに注意",
+        "湿度84％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量248毫米，对应雨季",
+        "月均约25天降雨，注意安排户外行程",
+        "湿度84%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -167,20 +571,69 @@
     "regionId": "luang-prabang",
     "month": 8,
     "rating": 1,
-    "summary": "우기, 홍수 주의와 폭우",
-    "highlights": [
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 361mm로 우기에 해당",
-      "월 27.4일 비가 와 야외 일정에 유의",
-      "습도 89%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기, 홍수 주의와 폭우",
+      "en": "Rainy season, flood warning and heavy rain",
+      "ja": "雨期、洪水主義と大雨",
+      "zh": "雨季、洪水警报和大雨"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "快適な気温"
+      ],
+      "zh": [
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 361mm로 우기에 해당",
+        "월 27.4일 비가 와 야외 일정에 유의",
+        "습도 89%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 361mm, corresponding to the rainy season",
+        "About 27 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 89%"
+      ],
+      "ja": [
+        "月降水量361mmで雨季に対応",
+        "月27.4日雨と屋外のスケジュールに注意",
+        "湿度89％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量361毫米，对应雨季",
+        "月均约27天降雨，注意安排户外行程",
+        "湿度89%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -188,22 +641,77 @@
     "regionId": "luang-prabang",
     "month": 9,
     "rating": 1,
-    "summary": "우기 끝자락, 홍수 리스크 남아있음",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 276mm로 우기에 해당",
-      "월 24.8일 비가 와 야외 일정에 유의",
-      "습도 90%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 끝자락, 홍수 리스크 남아있음",
+      "en": "End of rainy season, flood risk remains",
+      "ja": "雨期の終わり、洪水リスクが残ります",
+      "zh": "雨季结束，洪水风险依然存在"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 276mm로 우기에 해당",
+        "월 24.8일 비가 와 야외 일정에 유의",
+        "습도 90%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 276mm, corresponding to the rainy season",
+        "About 25 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with 90% humidity"
+      ],
+      "ja": [
+        "月降水量276mmで雨季に対応",
+        "月24.8日雨と屋外のスケジュールに注意",
+        "湿度90％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量276毫米，对应雨季",
+        "月均约25天降雨，注意安排户外行程",
+        "湿度90%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -211,22 +719,77 @@
     "regionId": "luang-prabang",
     "month": 10,
     "rating": 3,
-    "summary": "우기 마무리, 메콩강 낚시 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 103mm로 우산 필수",
-      "비 오는 날이 12.2일로 실내 대안 준비 권장",
-      "습도 84%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 마무리, 메콩강 낚시 시즌",
+      "en": "Rainy season ends, Mekong River fishing season",
+      "ja": "ウギ仕上げ、メコン川釣りシーズン",
+      "zh": "雨季结束，湄公河捕鱼季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 103mm로 우산 필수",
+        "비 오는 날이 12.2일로 실내 대안 준비 권장",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 103mm of precipitation, an umbrella is a must",
+        "With 12.2 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 84%"
+      ],
+      "ja": [
+        "降水量が103mmで傘必須",
+        "雨の日が12.2日で屋内代替案を推奨",
+        "湿度84％で不快指数が高い"
+      ],
+      "zh": [
+        "103毫米降水量，雨伞必备",
+        "12.2阴雨天，建议室内替代准备",
+        "湿度84%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -234,24 +797,90 @@
     "regionId": "luang-prabang",
     "month": 11,
     "rating": 5,
-    "summary": "건기 시작, 쾨청한 하늘과 탁발 투어",
-    "highlights": [
-      "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "라오스 국경일 (12월 2일)",
-      "탁발 공양 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "건기 시작, 쾨청한 하늘과 탁발 투어",
+      "en": "Dry season begins, clear skies and alms tour",
+      "ja": "乾季開始、明るい空と卓球ツアー",
+      "zh": "旱季开始，晴空布施之旅"
+    },
+    "highlights": {
+      "ko": [
+        "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "The dry season in Luang Prabang is the most beautiful time for the alms offering ceremony",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ルアンパバーン、卓抜供養意識が最も美しい時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "琅勃拉邦的旱季是布施仪式最美的时刻",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "라오스 국경일 (12월 2일)",
+        "탁발 공양 시즌"
+      ],
+      "en": [
+        "Laos National Day (December 2)",
+        "Alms offering season"
+      ],
+      "ja": [
+        "ラオス国境日（12月2日）",
+        "卓抜供養シーズン"
+      ],
+      "zh": [
+        "老挝国庆节（12 月 2 日）",
+        "布施季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -259,24 +888,90 @@
     "regionId": "luang-prabang",
     "month": 12,
     "rating": 5,
-    "summary": "건기, 서늘하고 맑은 루앙프라방 최적기",
-    "highlights": [
-      "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "라오스 국경일 (12월 2일)",
-      "탁발 공양 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "건기, 서늘하고 맑은 루앙프라방 최적기",
+      "en": "Dry season, cool and clear, best time for Luang Prabang",
+      "ja": "乾季、涼しく晴れ、ルアンパバーンのベストシーズン",
+      "zh": "旱季，凉爽晴朗，琅勃拉邦最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "건기 루앙프라방, 탁발 공양 의식이 가장 아름다운 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "The dry season in Luang Prabang is the most beautiful time for the alms offering ceremony",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ルアンパバーン、卓抜供養意識が最も美しい時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "琅勃拉邦的旱季是布施仪式最美的时刻",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "라오스 국경일 (12월 2일)",
+        "탁발 공양 시즌"
+      ],
+      "en": [
+        "Laos National Day (December 2)",
+        "Alms offering season"
+      ],
+      "ja": [
+        "ラオス国境日（12月2日）",
+        "卓抜供養シーズン"
+      ],
+      "zh": [
+        "老挝国庆节（12 月 2 日）",
+        "布施季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -284,22 +979,77 @@
     "regionId": "vientiane",
     "month": 1,
     "rating": 5,
-    "summary": "건기, 탓루앙 황금 탑과 선선한 날씨",
-    "highlights": [
-      "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "건기, 탓루앙 황금 탑과 선선한 날씨",
+      "en": "Dry season, That Luang Golden Pagoda and cool weather",
+      "ja": "乾期、タルアンゴールデンタワーと涼しい天気",
+      "zh": "旱季，塔銮金塔和凉爽的天气"
+    },
+    "highlights": {
+      "ko": [
+        "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best time to travel to Vientiane during the dry season, before and after That Luang Festival",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ビエンチャン、タルアンフェスティバルの前後の旅行の赤字",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季、塔銮节前后前往万象的最佳旅行时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "탓루앙 축제 (11월 보름)",
-      "라오스 국경일 (12월 2일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "탓루앙 축제 (11월 보름)",
+        "라오스 국경일 (12월 2일)"
+      ],
+      "en": [
+        "That Luang Festival (November full moon)",
+        "Laos National Day (December 2)"
+      ],
+      "ja": [
+        "タルアンフェスティバル（11月）",
+        "ラオス国境日（12月2日）"
+      ],
+      "zh": [
+        "那銮节（十一月满月）",
+        "老挝国庆节（12 月 2 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -307,22 +1057,77 @@
     "regionId": "vientiane",
     "month": 2,
     "rating": 5,
-    "summary": "건기 지속, 메콩강변 선셋 산책",
-    "highlights": [
-      "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "건기 지속, 메콩강변 선셋 산책",
+      "en": "Dry season continues, sunset walk along the Mekong River",
+      "ja": "乾季持続、メコン川辺サンセット散歩",
+      "zh": "旱季继续，日落时沿着湄公河散步"
+    },
+    "highlights": {
+      "ko": [
+        "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best time to travel to Vientiane during the dry season, before and after That Luang Festival",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ビエンチャン、タルアンフェスティバルの前後の旅行の赤字",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季、塔銮节前后前往万象的最佳旅行时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "탓루앙 축제 (11월 보름)",
-      "라오스 국경일 (12월 2일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "탓루앙 축제 (11월 보름)",
+        "라오스 국경일 (12월 2일)"
+      ],
+      "en": [
+        "That Luang Festival (November full moon)",
+        "Laos National Day (December 2)"
+      ],
+      "ja": [
+        "タルアンフェスティバル（11月）",
+        "ラオス国境日（12月2日）"
+      ],
+      "zh": [
+        "那銮节（十一月满月）",
+        "老挝国庆节（12 月 2 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -330,17 +1135,52 @@
     "regionId": "vientiane",
     "month": 3,
     "rating": 4,
-    "summary": "더위 시작, 사원 투어는 오전에",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "더위 시작, 사원 투어는 오전에",
+      "en": "The heat begins, the temple tour begins in the morning",
+      "ja": "暑さの始まり、寺院ツアーは午前に",
+      "zh": "炎热开始，早上寺庙之旅开始"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -348,22 +1188,82 @@
     "regionId": "vientiane",
     "month": 4,
     "rating": 3,
-    "summary": "라오스 신년(분피마이), 물축제와 폭염",
-    "highlights": [
-      "라오스 새해 물 축제",
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 34°C로 더위에 주의"
-    ],
-    "events": [
-      "분피마이 — 라오스 새해 (4월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "라오스 신년(분피마이), 물축제와 폭염",
+      "en": "Laos New Year (Bun Phi Mai), water festival and heat wave",
+      "ja": "ラオス新年（ブンピマイ）、水まつりと爆炎",
+      "zh": "老挝新年 (Bun Phi Mai)、泼水节和热浪"
+    },
+    "highlights": {
+      "ko": [
+        "라오스 새해 물 축제",
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Laos New Year Water Festival",
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "ラオス新年水まつり",
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "老挝新年送水节",
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 34°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 34°C"
+      ],
+      "ja": [
+        "平均最高気温34°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温34°C，请注意防暑"
+      ]
+    },
+    "events": {
+      "ko": [
+        "분피마이 — 라오스 새해 (4월)"
+      ],
+      "en": [
+        "Bunphimai — Lao New Year (April)"
+      ],
+      "ja": [
+        "ブンピマイ - ラオス新年（4月）"
+      ],
+      "zh": [
+        "Bunphimai — 老挝新年（四月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -371,23 +1271,81 @@
     "regionId": "vientiane",
     "month": 5,
     "rating": 2,
-    "summary": "우기 시작, 오후 스콜이 잦아지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 33°C로 더위에 주의",
-      "월 강수량 219mm로 우기에 해당",
-      "월 21.2일 비가 와 야외 일정에 유의",
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기 시작, 오후 스콜이 잦아지는 시기",
+      "en": "The beginning of the rainy season, the time when afternoon squalls become more frequent",
+      "ja": "雨期開始、午後のスコールが頻繁になる時期",
+      "zh": "雨季开始，午后狂风更加频繁的时候"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 33°C로 더위에 주의",
+        "월 강수량 219mm로 우기에 해당",
+        "월 21.2일 비가 와 야외 일정에 유의",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 33°C",
+        "Monthly precipitation is 219mm, corresponding to the rainy season",
+        "About 21 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "平均最高気温33°Cで暑さに注意",
+        "月降水量219mmで雨季に対応",
+        "月21.2日雨と屋外のスケジュールに注意",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "平均最高气温33°C，请注意防暑",
+        "月降水量219毫米，对应雨季",
+        "月均约21天降雨，注意安排户外行程",
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -395,22 +1353,77 @@
     "regionId": "vientiane",
     "month": 6,
     "rating": 2,
-    "summary": "우기 본격화, 메콩강변 산책 후 소나기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "월 강수량 324mm로 우기에 해당",
-      "월 25.2일 비가 와 야외 일정에 유의",
-      "습도 84%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 본격화, 메콩강변 산책 후 소나기",
+      "en": "The rainy season is in full swing, a shower after a walk along the Mekong River",
+      "ja": "雨期本格化、メコン川沿いの散歩後のシャワー",
+      "zh": "雨季如火如荼，湄公河散步后阵雨"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 324mm로 우기에 해당",
+        "월 25.2일 비가 와 야외 일정에 유의",
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 324mm, corresponding to the rainy season",
+        "About 25 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 84%"
+      ],
+      "ja": [
+        "月降水量324mmで雨季に対応",
+        "月25.2日雨と屋外のスケジュールに注意",
+        "湿度84％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量324毫米，对应雨季",
+        "月均约25天降雨，注意安排户外行程",
+        "湿度84%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -418,22 +1431,77 @@
     "regionId": "vientiane",
     "month": 7,
     "rating": 2,
-    "summary": "우기, 라오스 전통 시장 탐방 추천",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 361mm로 우기에 해당",
-      "월 27일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기, 라오스 전통 시장 탐방 추천",
+      "en": "Rainy season, recommended to visit Laos traditional market",
+      "ja": "ウギ、ラオスの伝統市場探訪おすすめ",
+      "zh": "雨季，推荐逛老挝传统市场"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 361mm로 우기에 해당",
+        "월 27일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 361mm, corresponding to the rainy season",
+        "It will rain on the 27th of March so be careful about outdoor schedules",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "月降水量361mmで雨季に対応",
+        "月27日雨と屋外のスケジュールに注意",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量361毫米，对应雨季",
+        "3月27日有雨，注意户外行程",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -441,22 +1509,77 @@
     "regionId": "vientiane",
     "month": 8,
     "rating": 1,
-    "summary": "우기 절정, 메콩강 범람 위험",
-    "highlights": [
-      "쾌적한 기온",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 423mm로 우기에 해당",
-      "월 26.8일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "우기 절정, 메콩강 범람 위험",
+      "en": "Peak of the rainy season, risk of Mekong River flooding",
+      "ja": "雨季のピーク、メコン川の洪水の危険",
+      "zh": "雨季高峰，湄公河洪水风险"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Comfortable temperature",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "快適な気温",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "舒适温度",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 423mm로 우기에 해당",
+        "월 26.8일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 423mm, corresponding to the rainy season",
+        "About 27 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "月降水量423mmで雨季に対応",
+        "月26.8日雨と屋外のスケジュールに注意",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量423毫米，对应雨季",
+        "月均约27天降雨，注意安排户外行程",
+        "湿度86%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -464,22 +1587,77 @@
     "regionId": "vientiane",
     "month": 9,
     "rating": 1,
-    "summary": "홍수 리스크 지속, 비 많은 시기",
-    "highlights": [
-      "쾌적한 기온",
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 442mm로 우기에 해당",
-      "월 28.4일 비가 와 야외 일정에 유의",
-      "습도 87%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "홍수 리스크 지속, 비 많은 시기",
+      "en": "Flood risk continues, heavy rain season",
+      "ja": "洪水リスクの継続、雨の時期",
+      "zh": "洪水风险持续，暴雨季节"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온",
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "Comfortable temperature",
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "快適な気温",
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "舒适温度",
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 442mm로 우기에 해당",
+        "월 28.4일 비가 와 야외 일정에 유의",
+        "습도 87%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 442mm, corresponding to the rainy season",
+        "About 28 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 87%"
+      ],
+      "ja": [
+        "月降水量442mmで雨季に対応",
+        "月28.4日雨と屋外のスケジュールに注意",
+        "湿度87％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量442毫米，对应雨季",
+        "月均约28天降雨，注意安排户外行程",
+        "湿度87%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -487,22 +1665,77 @@
     "regionId": "vientiane",
     "month": 10,
     "rating": 2,
-    "summary": "우기 마무리, 탓루앙 축제(뻔탓루앙)",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 163mm로 우기에 해당",
-      "월 15.4일 비가 와 야외 일정에 유의",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "우기 마무리, 탓루앙 축제(뻔탓루앙)",
+      "en": "End of the rainy season, That Luang Festival (Pem That Luang)",
+      "ja": "ウギ仕上げ、タルアンフェスティバル（ペットルアン）",
+      "zh": "雨季结束，塔銮节（Pem That Luang）"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 163mm로 우기에 해당",
+        "월 15.4일 비가 와 야외 일정에 유의",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 163mm, corresponding to the rainy season",
+        "About 15 rainy days per month, plan outdoor activities accordingly",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "月降水量163mmで雨季に対応",
+        "月15.4日雨と屋外のスケジュールに注意してください",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "月降水量163毫米，对应雨季",
+        "月均约15天降雨，注意安排户外行程",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -510,22 +1743,77 @@
     "regionId": "vientiane",
     "month": 11,
     "rating": 5,
-    "summary": "건기 시작, 탓루앙 인근 쾌청한 관광",
-    "highlights": [
-      "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "건기 시작, 탓루앙 인근 쾌청한 관광",
+      "en": "Dry season begins, pleasant tourism near That Luang",
+      "ja": "乾期開始、タルアン近くの陽気な観光",
+      "zh": "旱季开始，塔銮附近旅游愉快"
+    },
+    "highlights": {
+      "ko": [
+        "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best time to travel to Vientiane during the dry season, before and after That Luang Festival",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ビエンチャン、タルアンフェスティバルの前後の旅行の赤字",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季、塔銮节前后前往万象的最佳旅行时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "탓루앙 축제 (11월 보름)",
-      "라오스 국경일 (12월 2일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "탓루앙 축제 (11월 보름)",
+        "라오스 국경일 (12월 2일)"
+      ],
+      "en": [
+        "That Luang Festival (November full moon)",
+        "Laos National Day (December 2)"
+      ],
+      "ja": [
+        "タルアンフェスティバル（11月）",
+        "ラオス国境日（12月2日）"
+      ],
+      "zh": [
+        "那銮节（十一月满月）",
+        "老挝国庆节（12 月 2 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -533,22 +1821,77 @@
     "regionId": "vientiane",
     "month": 12,
     "rating": 5,
-    "summary": "건기, 선선하고 여유로운 비엔티안",
-    "highlights": [
-      "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "건기, 선선하고 여유로운 비엔티안",
+      "en": "Dry season, cool and leisurely Vientiane",
+      "ja": "乾季、涼しくのんびりとしたビエンチャン",
+      "zh": "旱季万象清凉悠闲"
+    },
+    "highlights": {
+      "ko": [
+        "건기 비엔티안, 탓루앙 축제 전후 여행 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Best time to travel to Vientiane during the dry season, before and after That Luang Festival",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "乾期ビエンチャン、タルアンフェスティバルの前後の旅行の赤字",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "旱季、塔銮节前后前往万象的最佳旅行时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "탓루앙 축제 (11월 보름)",
-      "라오스 국경일 (12월 2일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "탓루앙 축제 (11월 보름)",
+        "라오스 국경일 (12월 2일)"
+      ],
+      "en": [
+        "That Luang Festival (November full moon)",
+        "Laos National Day (December 2)"
+      ],
+      "ja": [
+        "タルアンフェスティバル（11月）",
+        "ラオス国境日（12月2日）"
+      ],
+      "zh": [
+        "那銮节（十一月满月）",
+        "老挝国庆节（12 月 2 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   }

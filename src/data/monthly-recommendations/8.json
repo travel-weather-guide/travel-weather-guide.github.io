@@ -4,151 +4,276 @@
     {
       "regionId": "antalya",
       "category": "beach",
-      "reason": "수온 최고(29°C), 지중해 해변의 절정",
+      "reason": {
+        "ko": "수온 최고(29°C), 지중해 해변의 절정",
+        "en": "Highest water temperature (29°C), the pinnacle of Mediterranean beaches",
+        "ja": "水温最高（29℃）、地中海ビーチのピーク",
+        "zh": "最高水温（29℃），地中海海滩的巅峰之作"
+      },
       "rating": 5
     },
     {
       "regionId": "athens",
       "category": "culture",
-      "reason": "폭염 지속, 40°C 이상 빈번하고 산불 위험",
+      "reason": {
+        "ko": "폭염 지속, 40°C 이상 빈번하고 산불 위험",
+        "en": "Continued heat waves, frequent temperatures above 40°C and risk of forest fires",
+        "ja": "炎の持続、40℃以上の頻繁で山火事の危険",
+        "zh": "持续热浪、气温频繁超过 40°C 以及森林火灾风险"
+      },
       "rating": 5
     },
     {
       "regionId": "barcelona",
       "category": "city",
-      "reason": "여름 성수기, 그라시아 축제",
+      "reason": {
+        "ko": "여름 성수기, 그라시아 축제",
+        "en": "Peak summer season, Gracia Festival",
+        "ja": "夏のハイシーズン、グラシア祭り",
+        "zh": "夏季旺季，格拉西亚节"
+      },
       "rating": 5
     },
     {
       "regionId": "berlin",
       "category": "city",
-      "reason": "여름 피크, 공원과 호수에서 수영하는 베를리너",
+      "reason": {
+        "ko": "여름 피크, 공원과 호수에서 수영하는 베를리너",
+        "en": "Summer peak, Berliners swimming in parks and lakes",
+        "ja": "夏のピーク、公園、湖で泳ぐベルリナー",
+        "zh": "Summer peak, Berliners swimming in parks and lakes"
+      },
       "rating": 5
     },
     {
       "regionId": "budapest",
       "category": "culture",
-      "reason": "시게트 페스티벌, 유럽 최대 음악 축제",
+      "reason": {
+        "ko": "시게트 페스티벌, 유럽 최대 음악 축제",
+        "en": "Sziget Festival, Europe's largest music festival",
+        "ja": "シーゲットフェスティバル、ヨーロッパ最大の音楽祭",
+        "zh": "Sziget Festival，欧洲最大的音乐节"
+      },
       "rating": 5
     },
     {
       "regionId": "cairo",
       "category": "culture",
-      "reason": "폭염 지속, 해질 무렵 나일강 유람선 추천",
+      "reason": {
+        "ko": "폭염 지속, 해질 무렵 나일강 유람선 추천",
+        "en": "As the heat wave continues, a cruise on the Nile River at dusk is recommended",
+        "ja": "爆炎持続、日没頃ナイル川クルーズ船おすすめ",
+        "zh": "热浪持续，推荐黄昏尼罗河游船"
+      },
       "rating": 5
     },
     {
       "regionId": "cappadocia",
       "category": "adventure",
-      "reason": "폭염 지속, 야외 활동 힘든 시기",
+      "reason": {
+        "ko": "폭염 지속, 야외 활동 힘든 시기",
+        "en": "Heat wave continues, difficult time for outdoor activities",
+        "ja": "猛烈な持続、野外活動の困難な時期",
+        "zh": "持续酷暑，不宜户外活动"
+      },
       "rating": 5
     },
     {
       "regionId": "dubrovnik",
       "category": "culture",
-      "reason": "절대 성수기, 성벽 투어 예약 필수",
+      "reason": {
+        "ko": "절대 성수기, 성벽 투어 예약 필수",
+        "en": "Absolutely peak season, castle wall tour reservation required",
+        "ja": "絶対ピークシーズン、城壁ツアー予約必須",
+        "zh": "绝对旺季，城墙游览需预约"
+      },
       "rating": 5
     },
     {
       "regionId": "granada",
       "category": "culture",
-      "reason": "폭염 지속, 시에라네바다 산악 피서",
+      "reason": {
+        "ko": "폭염 지속, 시에라네바다 산악 피서",
+        "en": "Heat wave continues, Sierra Nevada mountain retreat",
+        "ja": "猛烈な持続、シエラネバダ山岳フィサー",
+        "zh": "热浪持续，内华达山脉撤退"
+      },
       "rating": 5
     },
     {
       "regionId": "hawaii",
       "category": "beach",
-      "reason": "여름 성수기, 서핑·다이빙 최적",
+      "reason": {
+        "ko": "여름 성수기, 서핑·다이빙 최적",
+        "en": "Summer peak season, perfect for surfing and diving",
+        "ja": "夏のハイシーズン、サーフィン、ダイビングに最適",
+        "zh": "夏季旺季，非常适合冲浪和潜水"
+      },
       "rating": 5
     },
     {
       "regionId": "istanbul",
       "category": "culture",
-      "reason": "더위 지속, 아이스크림(돈두르마)의 계절",
+      "reason": {
+        "ko": "더위 지속, 아이스크림(돈두르마)의 계절",
+        "en": "The heat continues, the season of ice cream (Dondurma)",
+        "ja": "暑さが続く、アイスクリーム（ドンドルマ）の季節",
+        "zh": "炎热的天气仍在继续，冰淇淋的季节（Dondurma）"
+      },
       "rating": 5
     },
     {
       "regionId": "lisbon",
       "category": "city",
-      "reason": "여름 피크, 해변 리조트 세투발·카스카이스",
+      "reason": {
+        "ko": "여름 피크, 해변 리조트 세투발·카스카이스",
+        "en": "Summer peak, beach resort Setúbal·Cascais",
+        "ja": "夏のピーク、ビーチリゾートのセトゥーバル・カスカイス",
+        "zh": "夏季高峰，塞图巴尔·卡斯卡伊斯海滩度假胜地"
+      },
       "rating": 5
     },
     {
       "regionId": "los-angeles",
       "category": "city",
-      "reason": "여름 피크, 더위지만 해변은 최고",
+      "reason": {
+        "ko": "여름 피크, 더위지만 해변은 최고",
+        "en": "Summer peak, hot but the beach is the best",
+        "ja": "夏のピーク、暑いがビーチは最高",
+        "zh": "夏季高峰，炎热但海滩最好"
+      },
       "rating": 5
     },
     {
       "regionId": "madrid",
       "category": "city",
-      "reason": "폭염 지속, 현지인도 도시를 떠나는 시기",
+      "reason": {
+        "ko": "폭염 지속, 현지인도 도시를 떠나는 시기",
+        "en": "As the heat wave continues, even locals are leaving the city",
+        "ja": "猛烈な持続、地元の人も街を去る時期",
+        "zh": "随着热浪的持续，就连当地人也开始离开这座城市"
+      },
       "rating": 5
     },
     {
       "regionId": "marrakech",
       "category": "culture",
-      "reason": "폭염 지속, 산악 지역 아이트벤하두로 피서",
+      "reason": {
+        "ko": "폭염 지속, 산악 지역 아이트벤하두로 피서",
+        "en": "As the heat wave continues, retreat to the mountainous region of Ait Ben Haddou",
+        "ja": "猛烈な持続、山岳地帯のアイトベンハドゥーロピサー",
+        "zh": "随着热浪的持续，撤退到阿伊特·本·哈杜 (Ait Ben Haddou) 山区"
+      },
       "rating": 5
     },
     {
       "regionId": "marseille",
       "category": "city",
-      "reason": "여름 피크, 뜨거운 지중해 해변 휴양",
+      "reason": {
+        "ko": "여름 피크, 뜨거운 지중해 해변 휴양",
+        "en": "Summer peak, hot Mediterranean beach vacation",
+        "ja": "夏のピーク、熱い地中海のビーチレクリエーション",
+        "zh": "夏季高峰，炎热的地中海海滩度假"
+      },
       "rating": 5
     },
     {
       "regionId": "mykonos",
       "category": "beach",
-      "reason": "절대 피크, 나이트라이프 최고조",
+      "reason": {
+        "ko": "절대 피크, 나이트라이프 최고조",
+        "en": "Absolute peak, nightlife at its peak",
+        "ja": "絶対ピーク、ナイトライフ最高潮",
+        "zh": "绝对巅峰，夜生活巅峰"
+      },
       "rating": 5
     },
     {
       "regionId": "nice",
       "category": "beach",
-      "reason": "여름 피크, 해변 혼잡하지만 바다 최고",
+      "reason": {
+        "ko": "여름 피크, 해변 혼잡하지만 바다 최고",
+        "en": "Summer peak, beach crowded but sea best",
+        "ja": "夏のピーク、ビーチが混雑しているが海の最高",
+        "zh": "夏季高峰，海滩拥挤但海水最好"
+      },
       "rating": 5
     },
     {
       "regionId": "porto",
       "category": "culture",
-      "reason": "여름 피크, 해변 마토시뉴스로 당일치기",
+      "reason": {
+        "ko": "여름 피크, 해변 마토시뉴스로 당일치기",
+        "en": "Summer peak, day trip to the beach Matoshi News",
+        "ja": "夏のピーク、ビーチマトシニュースで日帰り",
+        "zh": "夏季高峰，海滩一日游 Matoshi 新闻"
+      },
       "rating": 5
     },
     {
       "regionId": "rome",
       "category": "culture",
-      "reason": "폭염 지속, 현지인은 떠나고 관광객이 채우는 시기",
+      "reason": {
+        "ko": "폭염 지속, 현지인은 떠나고 관광객이 채우는 시기",
+        "en": "As the heat wave continues, the time when locals leave and tourists fill up",
+        "ja": "猛烈な持続、地元の人は去って観光客が満たされる時期",
+        "zh": "随着热浪的持续，当地人离开、游客挤满的时间"
+      },
       "rating": 5
     },
     {
       "regionId": "san-francisco",
       "category": "city",
-      "reason": "여전히 서늘하고 안개, 겉옷 필수",
+      "reason": {
+        "ko": "여전히 서늘하고 안개, 겉옷 필수",
+        "en": "Still cool and foggy, outerwear required",
+        "ja": "まだ涼しくて霧、アウター必須",
+        "zh": "仍然凉爽多雾，需要外套"
+      },
       "rating": 5
     },
     {
       "regionId": "santorini",
       "category": "beach",
-      "reason": "절대 피크, 300만 관광객의 극심한 혼잡",
+      "reason": {
+        "ko": "절대 피크, 300만 관광객의 극심한 혼잡",
+        "en": "Absolute peak, extreme congestion of 3 million tourists",
+        "ja": "絶対ピーク、300万観光客の激しい混雑",
+        "zh": "绝对高峰，极度拥堵300万游客"
+      },
       "rating": 5
     },
     {
       "regionId": "seville",
       "category": "culture",
-      "reason": "폭염 지속, 야외 활동 사실상 불가",
+      "reason": {
+        "ko": "폭염 지속, 야외 활동 사실상 불가",
+        "en": "Heat wave continues, outdoor activities virtually impossible",
+        "ja": "爆炎持続、野外活動事実上不可",
+        "zh": "热浪持续，户外活动几乎不可能"
+      },
       "rating": 5
     },
     {
       "regionId": "split",
       "category": "beach",
-      "reason": "여름 절정, 해변과 파티 섬의 최고조",
+      "reason": {
+        "ko": "여름 절정, 해변과 파티 섬의 최고조",
+        "en": "Peak of summer, peak of beaches and party islands",
+        "ja": "夏のピーク、ビーチとパーティー島の最高潮",
+        "zh": "夏季高峰，海滩和派对岛屿的高峰"
+      },
       "rating": 5
     },
     {
       "regionId": "venice",
       "category": "culture",
-      "reason": "더위와 혼잡, 운하 악취 주의",
+      "reason": {
+        "ko": "더위와 혼잡, 운하 악취 주의",
+        "en": "Beware of heat, congestion, and canal odor",
+        "ja": "暑さ、渋滞、運河の臭いに注意",
+        "zh": "谨防炎热、拥堵和运河异味"
+      },
       "rating": 5
     }
   ],
@@ -156,226 +281,491 @@
     {
       "regionId": "abu-dhabi",
       "category": "culture",
-      "reason": "폭염 지속, 실내 리조트 휴가",
+      "reason": {
+        "ko": "폭염 지속, 실내 리조트 휴가",
+        "en": "Heat wave continues, indoor resort vacation",
+        "ja": "爆炎継続、屋内リゾートの休暇",
+        "zh": "热浪持续，室内度假村度假"
+      },
       "rating": 4
     },
     {
       "regionId": "amalfi",
       "category": "beach",
-      "reason": "가장 혼잡한 시기, 인파와 더위",
+      "reason": {
+        "ko": "가장 혼잡한 시기, 인파와 더위",
+        "en": "The busiest time, crowds and heat",
+        "ja": "最も混雑した時期、人波と暑さ",
+        "zh": "最繁忙的时间，人群和炎热"
+      },
       "rating": 4
     },
     {
       "regionId": "jakarta",
       "category": "city",
-      "reason": "건기, 독립기념일(8/17) 행사 시즌",
+      "reason": {
+        "ko": "건기, 독립기념일(8/17) 행사 시즌",
+        "en": "Dry season, Independence Day (8/17) event season",
+        "ja": "乾期、独立記念日（8/17）イベントシーズン",
+        "zh": "旱季、独立日 (8/17) 活动季节"
+      },
       "rating": 4
     },
     {
       "regionId": "lombok",
       "category": "beach",
-      "reason": "건기 지속, 해양 액티비티 최고",
+      "reason": {
+        "ko": "건기 지속, 해양 액티비티 최고",
+        "en": "Dry season continues, best marine activities",
+        "ja": "乾季継続、海洋アクティビティ最高",
+        "zh": "旱季持续，最佳海上活动"
+      },
       "rating": 4
     },
     {
       "regionId": "toronto",
       "category": "city",
-      "reason": "여름 절정, 토론토 아이랜드 페리·레이크쇼어 산책",
+      "reason": {
+        "ko": "여름 절정, 토론토 아이랜드 페리·레이크쇼어 산책",
+        "en": "Peak of summer, stroll along Toronto Island Ferry and Lakeshore",
+        "ja": "夏絶頂、トロントアイランドフェリー・レイクショア散歩",
+        "zh": "盛夏季节，漫步多伦多岛渡轮和湖畔"
+      },
       "rating": 4
     }
   ],
   "avoidList": [
     {
       "regionId": "auckland",
-      "reason": "겨울 끝자락, 봄이 오기 전 야생화 준비"
+      "reason": {
+        "ko": "겨울 끝자락, 봄이 오기 전 야생화 준비",
+        "en": "End of winter, preparing for wildflowers before spring comes",
+        "ja": "冬の終わり、春が来る前に野生の花の準備",
+        "zh": "冬末，为春天来临前准备野花"
+      }
     },
     {
       "regionId": "bali",
-      "reason": "건기, 우붓 예술축제와 해변 시즌"
+      "reason": {
+        "ko": "건기, 우붓 예술축제와 해변 시즌",
+        "en": "Dry season, Ubud art festival and beach season",
+        "ja": "乾季、ウブドアートフェスティバルとビーチシーズン",
+        "zh": "旱季、乌布艺术节和海滩季"
+      }
     },
     {
       "regionId": "bangkok",
-      "reason": "우기와 높은 습도, 야외 관광이 힘든 시기"
+      "reason": {
+        "ko": "우기와 높은 습도, 야외 관광이 힘든 시기",
+        "en": "Rainy season and high humidity, difficult time for outdoor tourism",
+        "ja": "雨季と高湿度、屋外観光が難しい時期",
+        "zh": "雨季湿度大，户外旅游困难时期"
+      }
     },
     {
       "regionId": "boracay",
-      "reason": "우기 지속, 해변 활동 어려운 시기"
+      "reason": {
+        "ko": "우기 지속, 해변 활동 어려운 시기",
+        "en": "Rainy season continues, difficult time for beach activities",
+        "ja": "雨期継続、ビーチ活動の困難な時期",
+        "zh": "雨季持续，海滩活动困难时期"
+      }
     },
     {
       "regionId": "cancun",
-      "reason": "허리케인 시즌 시작, 여행자보험 필수"
+      "reason": {
+        "ko": "허리케인 시즌 시작, 여행자보험 필수",
+        "en": "Hurricane season begins, travel insurance required",
+        "ja": "ハリケーンシーズン開始、旅行保険必須",
+        "zh": "飓风季节开始，需要旅行保险"
+      }
     },
     {
       "regionId": "cebu",
-      "reason": "우기, 해양 활동 제한되는 시기"
+      "reason": {
+        "ko": "우기, 해양 활동 제한되는 시기",
+        "en": "Rainy season, a time when marine activities are restricted",
+        "ja": "雨期、海洋活動 制限される時期",
+        "zh": "雨季，海上活动受到限制"
+      }
     },
     {
       "regionId": "chengdu",
-      "reason": "한여름 더위, 러산 대불·어메이산 피서"
+      "reason": {
+        "ko": "한여름 더위, 러산 대불·어메이산 피서",
+        "en": "Midsummer heat, summer vacation at Leshan Giant Buddha and Emei Mountain",
+        "ja": "真夏の暑さ、ラサン大仏・アメイサンフィサー",
+        "zh": "盛夏酷暑，乐山大佛、峨眉山避暑"
+      }
     },
     {
       "regionId": "chiang-mai",
-      "reason": "우기, 산길이 미끄럽고 트레킹 주의"
+      "reason": {
+        "ko": "우기, 산길이 미끄럽고 트레킹 주의",
+        "en": "Rainy season, mountain paths are slippery, so be careful when trekking",
+        "ja": "雨期、山道が滑りやすいトレッキング注意",
+        "zh": "雨季山路湿滑，徒步需小心"
+      }
     },
     {
       "regionId": "colombo",
-      "reason": "우기, 서퍼들이 찾는 우기 전용 파도 시즌"
+      "reason": {
+        "ko": "우기, 서퍼들이 찾는 우기 전용 파도 시즌",
+        "en": "Rainy season, the only wave season for the rainy season",
+        "ja": "ウギ、サーファーたちが探すウギ専用波シーズン",
+        "zh": "雨季，雨季唯一的浪季"
+      }
     },
     {
       "regionId": "fukuoka",
-      "reason": "더운 여름, 바다와 포장마차의 도시"
+      "reason": {
+        "ko": "더운 여름, 바다와 포장마차의 도시",
+        "en": "Hot summer, city of sea and food stalls",
+        "ja": "暑い夏、海と屋台の街",
+        "zh": "炎热的夏天，海城和大排档"
+      }
     },
     {
       "regionId": "guam",
-      "reason": "우기 지속, 하늘이 흐린 날 많은 시기"
+      "reason": {
+        "ko": "우기 지속, 하늘이 흐린 날 많은 시기",
+        "en": "Rainy season continues, many days with cloudy skies",
+        "ja": "雨期が続く、空が曇った日の多くの時期",
+        "zh": "雨季持续，多日阴天"
+      }
     },
     {
       "regionId": "guilin",
-      "reason": "고온다습, 녹색 물든 카르스트 산수"
+      "reason": {
+        "ko": "고온다습, 녹색 물든 카르스트 산수",
+        "en": "High temperature and humidity, green karst landscape",
+        "ja": "高温多湿、緑色の色のカルスト山水",
+        "zh": "高温高湿，绿色喀斯特景观"
+      }
     },
     {
       "regionId": "hangzhou",
-      "reason": "한여름 폭염, 서호 야경 유람 추천"
+      "reason": {
+        "ko": "한여름 폭염, 서호 야경 유람 추천",
+        "en": "Midsummer heat wave, West Lake night view tour recommended",
+        "ja": "真夏の猛暑、西湖の夜景遊覧おすすめ",
+        "zh": "盛夏热浪，西湖夜景游推荐"
+      }
     },
     {
       "regionId": "hanoi",
-      "reason": "우기 지속, 태풍 영향 가능"
+      "reason": {
+        "ko": "우기 지속, 태풍 영향 가능",
+        "en": "Rainy season continues, typhoon effects possible",
+        "ja": "雨季の継続、台風の影響可能",
+        "zh": "雨季持续，可能受台风影响"
+      }
     },
     {
       "regionId": "hiroshima",
-      "reason": "평화기념식, 8월 6일 히로시마 원폭 추모"
+      "reason": {
+        "ko": "평화기념식, 8월 6일 히로시마 원폭 추모",
+        "en": "Peace Memorial Ceremony, Hiroshima Atomic Bomb Memorial on August 6",
+        "ja": "平和記念式、8月6日広島原爆追悼",
+        "zh": "8 月 6 日广岛原子弹爆炸纪念馆和平纪念仪式"
+      }
     },
     {
       "regionId": "ho-chi-minh",
-      "reason": "우기, 비와 습도가 극심한 시기"
+      "reason": {
+        "ko": "우기, 비와 습도가 극심한 시기",
+        "en": "Rainy season, a period of extreme rain and humidity",
+        "ja": "雨季、雨、湿度が極端な時期",
+        "zh": "雨季，极端降雨和潮湿的时期"
+      }
     },
     {
       "regionId": "hong-kong",
-      "reason": "태풍 절정기, 호텔에 갇히는 날도 있는 시기"
+      "reason": {
+        "ko": "태풍 절정기, 호텔에 갇히는 날도 있는 시기",
+        "en": "The peak season of typhoons, a time when there are days when you are stuck in a hotel",
+        "ja": "台風絶頂期、ホテルに閉じ込められる日もある時期",
+        "zh": "台风高峰期，有时会被困在酒店"
+      }
     },
     {
       "regionId": "kaohsiung",
-      "reason": "태풍 시즌 절정, 폭염과 폭우"
+      "reason": {
+        "ko": "태풍 시즌 절정, 폭염과 폭우",
+        "en": "Peak of typhoon season, heat wave and heavy rain",
+        "ja": "台風シーズンのピーク、猛暑と大雨",
+        "zh": "台风高峰期，热浪大雨"
+      }
     },
     {
       "regionId": "kobe",
-      "reason": "한여름 더위, 롯코산 피서와 야경 투어"
+      "reason": {
+        "ko": "한여름 더위, 롯코산 피서와 야경 투어",
+        "en": "Summer heat, Mt. Rokko summer getaway and night view tour",
+        "ja": "真夏の暑さ、六甲山フィサーと夜景ツアー",
+        "zh": "夏日炎炎，六甲山避暑夜景之旅"
+      }
     },
     {
       "regionId": "kota-kinabalu",
-      "reason": "우기 지속, 선셋 대신 비 구름"
+      "reason": {
+        "ko": "우기 지속, 선셋 대신 비 구름",
+        "en": "Rainy season continues, rain clouds instead of sunset",
+        "ja": "雨季の継続、日没の代わりに雨雲",
+        "zh": "雨季继续，雨云代替日落"
+      }
     },
     {
       "regionId": "krabi",
-      "reason": "우기 지속, 저가 숙박 시즌"
+      "reason": {
+        "ko": "우기 지속, 저가 숙박 시즌",
+        "en": "Rainy season continues, budget accommodation season",
+        "ja": "雨期継続、低価格宿泊シーズン",
+        "zh": "雨季持续，经济型住宿旺季"
+      }
     },
     {
       "regionId": "kuala-lumpur",
-      "reason": "우기 지속, 헤이즈 가능성 있는 시기"
+      "reason": {
+        "ko": "우기 지속, 헤이즈 가능성 있는 시기",
+        "en": "Rainy season continues, haze is possible",
+        "ja": "雨期持続、ヘイズの可能性のある時期",
+        "zh": "雨季持续，雾霾有可能"
+      }
     },
     {
       "regionId": "langkawi",
-      "reason": "우기 지속, 비와 흐린 날 많은 시기"
+      "reason": {
+        "ko": "우기 지속, 비와 흐린 날 많은 시기",
+        "en": "Rainy season continues, many rainy and cloudy days",
+        "ja": "雨季、雨と曇りの日の多くの時期",
+        "zh": "雨季持续，阴雨天多"
+      }
     },
     {
       "regionId": "luang-prabang",
-      "reason": "우기, 홍수 주의와 폭우"
+      "reason": {
+        "ko": "우기, 홍수 주의와 폭우",
+        "en": "Rainy season, flood warning and heavy rain",
+        "ja": "雨期、洪水主義と大雨",
+        "zh": "雨季、洪水警报和大雨"
+      }
     },
     {
       "regionId": "macau",
-      "reason": "태풍 절정기, 실내 카지노·호텔 위주"
+      "reason": {
+        "ko": "태풍 절정기, 실내 카지노·호텔 위주",
+        "en": "Typhoon peak season, mainly indoor casinos and hotels",
+        "ja": "台風絶頂期、屋内カジノ・ホテル中心",
+        "zh": "台风旺季，主要是室内赌场和酒店"
+      }
     },
     {
       "regionId": "male",
-      "reason": "우기 지속, 비 많지만 수중 생물 풍부"
+      "reason": {
+        "ko": "우기 지속, 비 많지만 수중 생물 풍부",
+        "en": "Rainy season continues, although there is a lot of rain, aquatic life is abundant",
+        "ja": "雨期の持続、雨が多いが水中生物豊富",
+        "zh": "雨季持续，虽然雨水较多，但水生生物丰富"
+      }
     },
     {
       "regionId": "manila",
-      "reason": "태풍 절정기, 가장 위험한 시기"
+      "reason": {
+        "ko": "태풍 절정기, 가장 위험한 시기",
+        "en": "Typhoon peak, the most dangerous time",
+        "ja": "台風クライマー、最も危険な時期",
+        "zh": "台风高峰，最危险的时候"
+      }
     },
     {
       "regionId": "mumbai",
-      "reason": "몬순 지속, 가네샤 차투르티 축제 (8~9월)"
+      "reason": {
+        "ko": "몬순 지속, 가네샤 차투르티 축제 (8~9월)",
+        "en": "Monsoon continues, Ganesha Chaturthi Festival (August-September)",
+        "ja": "モンスーン持続、ガネーシャチャトルティフェスティバル（8～9月）",
+        "zh": "季风继续，Ganesha Chaturthi Festival（八月至九月）"
+      }
     },
     {
       "regionId": "nagasaki",
-      "reason": "평화기념일(8/9), 정령유 축제의 감동적 밤"
+      "reason": {
+        "ko": "평화기념일(8/9), 정령유 축제의 감동적 밤",
+        "en": "Peace Memorial Day (8/9), a touching night at the Jeongryeongyu Festival",
+        "ja": "平和記念日（8/9）、精霊油まつりの感動的な夜",
+        "zh": "和平纪念日（8/9），静岭祭的感人之夜"
+      }
     },
     {
       "regionId": "nagoya",
-      "reason": "한여름 폭염, 나가시마 스파랜드 워터파크 피서"
+      "reason": {
+        "ko": "한여름 폭염, 나가시마 스파랜드 워터파크 피서",
+        "en": "Summer heatwave, summer escape at Nagashima Spa Land Water Park",
+        "ja": "真夏の猛暑、長島スパランドウォーターパークフィッサー",
+        "zh": "Summer heatwave, summer escape at Nagashima Spa Land Water Park"
+      }
     },
     {
       "regionId": "new-delhi",
-      "reason": "우기 지속, 독립기념일(15일) 분위기"
+      "reason": {
+        "ko": "우기 지속, 독립기념일(15일) 분위기",
+        "en": "Rainy season continues, Independence Day (15th) atmosphere",
+        "ja": "雨期持続、独立記念日（15日）雰囲気",
+        "zh": "雨季持续，独立日（15日）气氛"
+      }
     },
     {
       "regionId": "okinawa",
-      "reason": "태풍 절정기, 여행 일정이 틀어질 위험 큼"
+      "reason": {
+        "ko": "태풍 절정기, 여행 일정이 틀어질 위험 큼",
+        "en": "During the peak season of typhoons, there is a high risk of your travel itinerary being disrupted",
+        "ja": "台風絶頂期、旅程が間違っている危険が大きい",
+        "zh": "台风高峰期，行程变动风险大"
+      }
     },
     {
       "regionId": "palawan",
-      "reason": "우기 지속, 해양 액티비티 제한적"
+      "reason": {
+        "ko": "우기 지속, 해양 액티비티 제한적",
+        "en": "Rainy season continues, marine activities limited",
+        "ja": "雨期継続、海洋活動制限",
+        "zh": "雨季持续，海上活动有限"
+      }
     },
     {
       "regionId": "pattaya",
-      "reason": "우기 중반, 성수기 대비 항공권·숙박 저렴"
+      "reason": {
+        "ko": "우기 중반, 성수기 대비 항공권·숙박 저렴",
+        "en": "Mid-rainy season, cheaper flights and lodging compared to peak season",
+        "ja": "雨期半ば、ピークシーズンに比べて航空券・宿泊格安",
+        "zh": "雨季中期，航班和住宿比旺季便宜"
+      }
     },
     {
       "regionId": "penang",
-      "reason": "우기 지속, 음식의 도시 특성상 실내 탐방 지속"
+      "reason": {
+        "ko": "우기 지속, 음식의 도시 특성상 실내 탐방 지속",
+        "en": "As the rainy season continues, indoor exploration continues due to the nature of the city of food.",
+        "ja": "雨期持続、食品の都市特性上、室内探訪持続",
+        "zh": "随着雨季的持续，由于美食之城的性质，室内探索仍在继续。"
+      }
     },
     {
       "regionId": "phnom-penh",
-      "reason": "우기 지속, 도로 침수 빈번한 시기"
+      "reason": {
+        "ko": "우기 지속, 도로 침수 빈번한 시기",
+        "en": "Rainy season continues, frequent road flooding",
+        "ja": "雨期継続、道路浸水頻繁な時期",
+        "zh": "雨季持续，道路水浸频繁"
+      }
     },
     {
       "regionId": "phuket",
-      "reason": "우기 지속, 다이빙 시야가 떨어지는 시기"
+      "reason": {
+        "ko": "우기 지속, 다이빙 시야가 떨어지는 시기",
+        "en": "Rainy season continues, diving visibility decreases",
+        "ja": "雨期継続、ダイビング視界が落ちる時期",
+        "zh": "雨季持续，潜水能见度下降"
+      }
     },
     {
       "regionId": "qingdao",
-      "reason": "칭다오 맥주 축제, 해변의 황금 시즌"
+      "reason": {
+        "ko": "칭다오 맥주 축제, 해변의 황금 시즌",
+        "en": "Qingdao Beer Festival, golden season on the beach",
+        "ja": "青島ビール祭り、ビーチのゴールデンシーズン",
+        "zh": "青岛啤酒节，上海滩黄金季节"
+      }
     },
     {
       "regionId": "queenstown",
-      "reason": "스키 피크 시즌, 설원 액티비티 총집합"
+      "reason": {
+        "ko": "스키 피크 시즌, 설원 액티비티 총집합",
+        "en": "Peak ski season, a comprehensive collection of snowy activities",
+        "ja": "スキーピークシーズン、雪原アクティビティ総集合",
+        "zh": "滑雪旺季，雪上活动全面集合"
+      }
     },
     {
       "regionId": "reykjavik",
-      "reason": "여름 끝자락, 아이슬란드 문화의 밤 축제"
+      "reason": {
+        "ko": "여름 끝자락, 아이슬란드 문화의 밤 축제",
+        "en": "End of summer, Icelandic cultural night festival",
+        "ja": "夏の終わり、アイスランド文化の夜祭り",
+        "zh": "夏末，冰岛文化之夜节"
+      }
     },
     {
       "regionId": "salzburg",
-      "reason": "잘츠부르크 페스티벌 절정, 세계적 공연"
+      "reason": {
+        "ko": "잘츠부르크 페스티벌 절정, 세계적 공연",
+        "en": "Salzburg Festival peak, world-class performance",
+        "ja": "ザルツブルクフェスティバルのピーク、世界的なパフォーマンス",
+        "zh": "萨尔茨堡音乐节巅峰，世界级表演"
+      }
     },
     {
       "regionId": "shanghai",
-      "reason": "무더위 절정, 도시 쇼핑몰 탈출 시즌"
+      "reason": {
+        "ko": "무더위 절정, 도시 쇼핑몰 탈출 시즌",
+        "en": "The peak of the heat wave, the season to escape from city shopping malls",
+        "ja": "暑さのピーク、都市ショッピングモール脱出シーズン",
+        "zh": "热浪高峰，逃离城市商场的季节"
+      }
     },
     {
       "regionId": "shenzhen",
-      "reason": "태풍·폭우 주의, 실내 쇼핑몰 위주"
+      "reason": {
+        "ko": "태풍·폭우 주의, 실내 쇼핑몰 위주",
+        "en": "Beware of typhoons and heavy rain, focus on indoor shopping malls",
+        "ja": "台風・大雨主義、屋内ショッピングモールを中心",
+        "zh": "谨防台风大雨，重点关注室内商场"
+      }
     },
     {
       "regionId": "siem-reap",
-      "reason": "우기, 탕레사프 호수 수위 최고조"
+      "reason": {
+        "ko": "우기, 탕레사프 호수 수위 최고조",
+        "en": "Rainy season, Tanglesap Lake water level peaks",
+        "ja": "ウギ、タンレサフ湖の水位最高潮",
+        "zh": "雨季，Tanglesap湖水位达到峰值"
+      }
     },
     {
       "regionId": "singapore",
-      "reason": "국경일 시즌, 축제 분위기"
+      "reason": {
+        "ko": "국경일 시즌, 축제 분위기",
+        "en": "National Day season, festive atmosphere",
+        "ja": "ボーダーデーシーズン、祭りの雰囲気",
+        "zh": "国庆时节，节日气氛"
+      }
     },
     {
       "regionId": "taipei",
-      "reason": "태풍 시즌 절정, 35°C 폭염"
+      "reason": {
+        "ko": "태풍 시즌 절정, 35°C 폭염",
+        "en": "Typhoon season peaks, 35°C heat wave",
+        "ja": "台風シーズンのピーク、35℃の爆炎",
+        "zh": "台风季节高峰，35℃热浪"
+      }
     },
     {
       "regionId": "vientiane",
-      "reason": "우기 절정, 메콩강 범람 위험"
+      "reason": {
+        "ko": "우기 절정, 메콩강 범람 위험",
+        "en": "Peak of the rainy season, risk of Mekong River flooding",
+        "ja": "雨季のピーク、メコン川の洪水の危険",
+        "zh": "雨季高峰，湄公河洪水风险"
+      }
     },
     {
       "regionId": "zhangjiajie",
-      "reason": "고온다습, 구름 아래 숨은 봉우리 신비로운 풍경"
+      "reason": {
+        "ko": "고온다습, 구름 아래 숨은 봉우리 신비로운 풍경",
+        "en": "High temperature and humidity, peaks hidden under clouds, mysterious scenery",
+        "ja": "高温多湿、雲の下に隠れたピークの神秘的な風景",
+        "zh": "高温高湿，峰峦掩映，景色神秘"
+      }
     }
   ]
 }

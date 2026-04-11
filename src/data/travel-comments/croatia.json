@@ -3,19 +3,65 @@
     "regionId": "dubrovnik",
     "month": 1,
     "rating": 1,
-    "summary": "비수기, 크루즈 없는 여유로운 성벽 투어",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 222mm로 우기에 해당",
-      "비 오는 날이 12.8일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "비수기, 크루즈 없는 여유로운 성벽 투어",
+      "en": "Off-season, leisurely castle wall tour without cruise",
+      "ja": "シーズン、クルーズのないリラックスした城壁ツアー",
+      "zh": "淡季，悠闲的城墙之旅，无需游船"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 222mm로 우기에 해당",
+        "비 오는 날이 12.8일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "Monthly precipitation is 222mm, corresponding to the rainy season",
+        "With 12.8 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "月降水量222mmで雨季に対応",
+        "雨の日が12.8日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "月降水量222毫米，对应雨季",
+        "12.8阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -23,20 +69,69 @@
     "regionId": "dubrovnik",
     "month": 2,
     "rating": 2,
-    "summary": "겨울, 관광객 거의 없어 숙소 저렴",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 137mm로 우산 필수",
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 관광객 거의 없어 숙소 저렴",
+      "en": "In winter, there are few tourists so accommodation is cheap.",
+      "ja": "冬、観光客はほとんどいません。",
+      "zh": "冬季游客较少，住宿价格便宜。"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 137mm로 우산 필수",
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 137mm, so an umbrella is a must",
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "降水量は 137mm なので傘は必須です",
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "降雨量137毫米，雨伞必备",
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -44,20 +139,69 @@
     "regionId": "dubrovnik",
     "month": 3,
     "rating": 2,
-    "summary": "봄 시작, 아드리아해 산책 쾌적해지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 강수량 152mm로 우기에 해당",
-      "비 오는 날이 11.8일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "봄 시작, 아드리아해 산책 쾌적해지는 시기",
+      "en": "The beginning of spring, a pleasant time to walk along the Adriatic Sea",
+      "ja": "春の始まり、アドリア海の散歩快適になる時期",
+      "zh": "初春，亚得里亚海漫步的好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 152mm로 우기에 해당",
+        "비 오는 날이 11.8일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "Monthly precipitation is 152mm, corresponding to the rainy season",
+        "With 11.8 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "月降水量152mmで雨季に対応",
+        "雨の日が11.8日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "月降水量152毫米，对应雨季",
+        "11.8阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -65,20 +209,69 @@
     "regionId": "dubrovnik",
     "month": 4,
     "rating": 3,
-    "summary": "봄, 성벽 위 아드리아해 파노라마 최적",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 138mm로 우산 필수",
-      "비 오는 날이 11.2일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "봄, 성벽 위 아드리아해 파노라마 최적",
+      "en": "Spring, the best panorama of the Adriatic Sea from the castle walls",
+      "ja": "春、城壁の上のアドリア海のパノラマ最適",
+      "zh": "春天，从城堡墙壁上欣赏亚得里亚海的最佳全景"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 138mm로 우산 필수",
+        "비 오는 날이 11.2일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "Rainfall is 138mm, so an umbrella is a must",
+        "With 11.2 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "降水量は 138 mm なので傘は必須です",
+        "雨の日が11.2日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "降雨量138毫米，雨伞必备",
+        "11.2阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -86,26 +279,98 @@
     "regionId": "dubrovnik",
     "month": 5,
     "rating": 4,
-    "summary": "성수기 전, 완벽한 날씨와 한산한 성벽",
-    "highlights": [
-      "성수기 전후 여유로운 두브로브니크",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 133mm로 우산 필수",
-      "비 오는 날이 11.6일로 실내 대안 준비 권장",
-      "습도가 70%로 다소 높음"
-    ],
-    "events": [
-      "두브로브니크 여름 페스티벌 (7~8월)",
-      "게임 오브 스론즈 투어"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "성수기 전, 완벽한 날씨와 한산한 성벽",
+      "en": "Before the peak season, perfect weather and quiet castle walls",
+      "ja": "ピークシーズン前、完璧な天気と穏やかな城壁",
+      "zh": "旺季来临之前，完美的天气和安静的城墙"
+    },
+    "highlights": {
+      "ko": [
+        "성수기 전후 여유로운 두브로브니크",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Leisurely Dubrovnik before and after peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ハイシーズン前後のリラックスしたドゥブロヴニク",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "悠闲的杜布罗夫尼克旺季前后",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 133mm로 우산 필수",
+        "비 오는 날이 11.6일로 실내 대안 준비 권장",
+        "습도가 70%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 133mm, so an umbrella is a must",
+        "With 11.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 70%"
+      ],
+      "ja": [
+        "降水量は 133mm なので傘は必須です",
+        "雨の日が11.6日で屋内代替案を推奨",
+        "湿度が70％とやや高い"
+      ],
+      "zh": [
+        "降雨量133毫米，雨伞必备",
+        "11.6阴雨天，建议室内替代准备",
+        "湿度有点高，70%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "두브로브니크 여름 페스티벌 (7~8월)",
+        "게임 오브 스론즈 투어"
+      ],
+      "en": [
+        "Dubrovnik Summer Festival (July-August)",
+        "Game of Thrones Tour"
+      ],
+      "ja": [
+        "ドゥブロヴニクサマーフェスティバル（7〜8月）",
+        "ゲームオブスロンズツアー"
+      ],
+      "zh": [
+        "杜布罗夫尼克夏季音乐节（七月至八月）",
+        "权力的游戏之旅"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -113,21 +378,73 @@
     "regionId": "dubrovnik",
     "month": 6,
     "rating": 5,
-    "summary": "여름 시작, 크루즈 관광객 급증",
-    "highlights": [
-      "성수기 전후 여유로운 두브로브니크",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "여름 시작, 크루즈 관광객 급증",
+      "en": "Summer begins, cruise tourists surge",
+      "ja": "夏の始まり、クルーズ観光客の急増",
+      "zh": "夏季来临，邮轮游客激增"
+    },
+    "highlights": {
+      "ko": [
+        "성수기 전후 여유로운 두브로브니크",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Leisurely Dubrovnik before and after peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ハイシーズン前後のリラックスしたドゥブロヴニク",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "悠闲的杜布罗夫尼克旺季前后",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "두브로브니크 여름 페스티벌 (7~8월)",
-      "게임 오브 스론즈 투어"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "두브로브니크 여름 페스티벌 (7~8월)",
+        "게임 오브 스론즈 투어"
+      ],
+      "en": [
+        "Dubrovnik Summer Festival (July-August)",
+        "Game of Thrones Tour"
+      ],
+      "ja": [
+        "ドゥブロヴニクサマーフェスティバル（7〜8月）",
+        "ゲームオブスロンズツアー"
+      ],
+      "zh": [
+        "杜布罗夫尼克夏季音乐节（七月至八月）",
+        "权力的游戏之旅"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -135,22 +452,77 @@
     "regionId": "dubrovnik",
     "month": 7,
     "rating": 5,
-    "summary": "왕좌의게임 성지 순례, 폭염과 극심한 인파",
-    "highlights": [
-      "아드리아해 성수기 (매우 붐빔)",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "왕좌의게임 성지 순례, 폭염과 극심한 인파",
+      "en": "Game of Thrones pilgrimage, heat wave and extreme crowds",
+      "ja": "王座のゲーム聖地巡礼、爆炎と激しい人波",
+      "zh": "权力的游戏朝圣、热浪和极端人群"
+    },
+    "highlights": {
+      "ko": [
+        "아드리아해 성수기 (매우 붐빔)",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Adriatic peak season (very crowded)",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "アドリア海のハイシーズン（非常に混雑）",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "亚得里亚海旺季（非常拥挤）",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "두브로브니크 여름 페스티벌 (7~8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "두브로브니크 여름 페스티벌 (7~8월)"
+      ],
+      "en": [
+        "Dubrovnik Summer Festival (July-August)"
+      ],
+      "ja": [
+        "ドゥブロヴニクサマーフェスティバル（7〜8月）"
+      ],
+      "zh": [
+        "杜布罗夫尼克夏季音乐节（七月至八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -158,20 +530,69 @@
     "regionId": "dubrovnik",
     "month": 8,
     "rating": 5,
-    "summary": "절대 성수기, 성벽 투어 예약 필수",
-    "highlights": [
-      "아드리아해 성수기 (매우 붐빔)",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "절대 성수기, 성벽 투어 예약 필수",
+      "en": "Absolutely peak season, castle wall tour reservation required",
+      "ja": "絶対ピークシーズン、城壁ツアー予約必須",
+      "zh": "绝对旺季，城墙游览需预约"
+    },
+    "highlights": {
+      "ko": [
+        "아드리아해 성수기 (매우 붐빔)",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Adriatic peak season (very crowded)",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "アドリア海のハイシーズン（非常に混雑）",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "亚得里亚海旺季（非常拥挤）",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "두브로브니크 여름 페스티벌 (7~8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "두브로브니크 여름 페스티벌 (7~8월)"
+      ],
+      "en": [
+        "Dubrovnik Summer Festival (July-August)"
+      ],
+      "ja": [
+        "ドゥブロヴニクサマーフェスティバル（7〜8月）"
+      ],
+      "zh": [
+        "杜布罗夫尼克夏季音乐节（七月至八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -179,24 +600,90 @@
     "regionId": "dubrovnik",
     "month": 9,
     "rating": 4,
-    "summary": "크루즈 줄고 날씨 쾌적, 두브로브니크 최적기",
-    "highlights": [
-      "성수기 전후 여유로운 두브로브니크",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 177mm로 우기에 해당"
-    ],
-    "events": [
-      "두브로브니크 여름 페스티벌 (7~8월)",
-      "게임 오브 스론즈 투어"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "크루즈 줄고 날씨 쾌적, 두브로브니크 최적기",
+      "en": "Fewer cruises and pleasant weather, the best time to visit Dubrovnik",
+      "ja": "クルーズを減らす天気快適、ドゥブロヴニク最適機",
+      "zh": "游船较少，天气宜人，是游览杜布罗夫尼克的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "성수기 전후 여유로운 두브로브니크",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Leisurely Dubrovnik before and after peak season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ハイシーズン前後のリラックスしたドゥブロヴニク",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "悠闲的杜布罗夫尼克旺季前后",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 177mm로 우기에 해당"
+      ],
+      "en": [
+        "Monthly rainfall is 177mm, corresponding to the rainy season."
+      ],
+      "ja": [
+        "月降水量177mmで雨季に対応"
+      ],
+      "zh": [
+        "月降雨量177毫米，对应雨季。"
+      ]
+    },
+    "events": {
+      "ko": [
+        "두브로브니크 여름 페스티벌 (7~8월)",
+        "게임 오브 스론즈 투어"
+      ],
+      "en": [
+        "Dubrovnik Summer Festival (July-August)",
+        "Game of Thrones Tour"
+      ],
+      "ja": [
+        "ドゥブロヴニクサマーフェスティバル（7〜8月）",
+        "ゲームオブスロンズツアー"
+      ],
+      "zh": [
+        "杜布罗夫尼克夏季音乐节（七月至八月）",
+        "权力的游戏之旅"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -204,20 +691,69 @@
     "regionId": "dubrovnik",
     "month": 10,
     "rating": 3,
-    "summary": "가을, 바다 아직 따뜻하고 여유로운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 강수량 204mm로 우기에 해당",
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을, 바다 아직 따뜻하고 여유로운 시기",
+      "en": "Autumn, a time when the sea is still warm and leisurely",
+      "ja": "秋、海 まだ暖かくてゆったりとした時期",
+      "zh": "秋天，大海依然温暖悠闲"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 204mm로 우기에 해당",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 204mm, corresponding to the rainy season",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "月降水量204mmで雨季に対応",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "月降水量204毫米，对应雨季",
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -225,20 +761,69 @@
     "regionId": "dubrovnik",
     "month": 11,
     "rating": 1,
-    "summary": "비수기 시작, 한산한 성벽의 낭만",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 303mm로 우기에 해당",
-      "비 오는 날이 13.4일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "비수기 시작, 한산한 성벽의 낭만",
+      "en": "Off-season begins, romance of quiet castle walls",
+      "ja": "シーズンの始まり、寒い城壁のロマンチック",
+      "zh": "淡季开始，静谧城墙的浪漫"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 303mm로 우기에 해당",
+        "비 오는 날이 13.4일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 303mm, corresponding to the rainy season",
+        "With 13.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "月降水量303mmで雨季に対応",
+        "雨の日が13.4日で屋内代替案を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "月降水量303毫米，对应雨季",
+        "13.4阴雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -246,20 +831,69 @@
     "regionId": "dubrovnik",
     "month": 12,
     "rating": 1,
-    "summary": "겨울, 보라 바람과 조용한 구시가지",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 283mm로 우기에 해당",
-      "비 오는 날이 14.8일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 보라 바람과 조용한 구시가지",
+      "en": "Winter, Bora wind and quiet old town",
+      "ja": "冬、ボラ島の風と静かな旧市街",
+      "zh": "冬天，波拉风和安静的老城"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 283mm로 우기에 해당",
+        "비 오는 날이 14.8일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 283mm, corresponding to the rainy season",
+        "With 14.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "月降水量283mmで雨季に対応",
+        "雨の日が14.8日で屋内代替準備を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "每月降雨量283毫米，对应雨季",
+        "14.8阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -267,18 +901,61 @@
     "regionId": "split",
     "month": 1,
     "rating": 2,
-    "summary": "비수기, 디오클레티아누스 궁전 독차지",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 145mm로 우산 필수"
-    ],
+    "summary": {
+      "ko": "비수기, 디오클레티아누스 궁전 독차지",
+      "en": "Off-season, Diocletian's Palace is all to yourself",
+      "ja": "シーズン、ディオクレティアヌス宮殿の独占",
+      "zh": "淡季，戴克里先宫完全属于你自己"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 145mm로 우산 필수"
+      ],
+      "en": [
+        "Rainfall is 145mm, so an umbrella is a must"
+      ],
+      "ja": [
+        "降水量は 145mm なので傘は必須です"
+      ],
+      "zh": [
+        "降雨量145毫米，雨伞必备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -286,14 +963,35 @@
     "regionId": "split",
     "month": 2,
     "rating": 3,
-    "summary": "겨울, 관광객 없어 현지 식당 저렴",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
+    "summary": {
+      "ko": "겨울, 관광객 없어 현지 식당 저렴",
+      "en": "Winter, no tourists, cheap local restaurants",
+      "ja": "冬、観光客はいない、安い地元のレストラン",
+      "zh": "冬天，没有游客，当地餐馆便宜"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
     "cautions": [],
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -301,16 +999,48 @@
     "regionId": "split",
     "month": 3,
     "rating": 3,
-    "summary": "봄 기운, 아드리아해 해변 산책 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "봄 기운, 아드리아해 해변 산책 시작",
+      "en": "Spring energy begins with a walk on the Adriatic Sea",
+      "ja": "春のオーラ、アドリア海のビーチを散策開始",
+      "zh": "春天的能量从亚得里亚海漫步开始"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -318,16 +1048,48 @@
     "regionId": "split",
     "month": 4,
     "rating": 3,
-    "summary": "봄, 궁전 내부 탐방과 노천 카페",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "봄, 궁전 내부 탐방과 노천 카페",
+      "en": "Spring, palace interior tour and open-air cafe",
+      "ja": "春、宮殿内部探訪と露天カフェ",
+      "zh": "春天，宫殿内部游览和露天咖啡馆"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -335,19 +1097,65 @@
     "regionId": "split",
     "month": 5,
     "rating": 4,
-    "summary": "성수기 전 최적기, 완벽한 날씨와 한산함",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 10.4일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "성수기 전 최적기, 완벽한 날씨와 한산함",
+      "en": "Best time before peak season, perfect weather and quiet.",
+      "ja": "ピークシーズン前に最適期、完璧な天気と寒さ",
+      "zh": "旺季前的最佳时间，天气完美且安静。"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.4일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 10.4 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が10.4日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "10.4阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -355,21 +1163,73 @@
     "regionId": "split",
     "month": 6,
     "rating": 5,
-    "summary": "여름 시작, 해변과 페리로 섬 투어",
-    "highlights": [
-      "달마티아 해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "여름 시작, 해변과 페리로 섬 투어",
+      "en": "Summer begins, island tour by beach and ferry",
+      "ja": "夏の始まり、ビーチとフェリーで島ツアー",
+      "zh": "夏天开始，海滩和渡轮海岛之旅"
+    },
+    "highlights": {
+      "ko": [
+        "달마티아 해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dalmatia Beach High Season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ダルマチアビーチピークシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "达尔马提亚海滩旺季",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "울트라 유럽 뮤직 페스티벌 (7월)",
-      "스플리트 여름 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "울트라 유럽 뮤직 페스티벌 (7월)",
+        "스플리트 여름 축제"
+      ],
+      "en": [
+        "Ultra Europe Music Festival (July)",
+        "Split Summer Festival"
+      ],
+      "ja": [
+        "ウルトラヨーロッパミュージックフェスティバル（7月）",
+        "スプリトサマーフェスティバル"
+      ],
+      "zh": [
+        "Ultra 欧洲音乐节（七月）",
+        "斯普利特夏季音乐节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -377,23 +1237,81 @@
     "regionId": "split",
     "month": 7,
     "rating": 5,
-    "summary": "피크 시즌, 브라체 섬·흐바르 섬 페리 붐빔",
-    "highlights": [
-      "달마티아 해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "피크 시즌, 브라체 섬·흐바르 섬 페리 붐빔",
+      "en": "Peak season, ferries to Brace Island and Hvar Island are crowded",
+      "ja": "ピークシーズン、ブラチ島・フヴァル島フェリー大混雑",
+      "zh": "旺季，前往布雷斯岛和赫瓦尔岛的渡轮拥挤"
+    },
+    "highlights": {
+      "ko": [
+        "달마티아 해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Dalmatia Beach High Season",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "ダルマチアビーチピークシーズン",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "达尔马提亚海滩旺季",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "울트라 유럽 뮤직 페스티벌 (7월)",
-      "스플리트 여름 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "울트라 유럽 뮤직 페스티벌 (7월)",
+        "스플리트 여름 축제"
+      ],
+      "en": [
+        "Ultra Europe Music Festival (July)",
+        "Split Summer Festival"
+      ],
+      "ja": [
+        "ウルトラヨーロッパミュージックフェスティバル（7月）",
+        "スプリトサマーフェスティバル"
+      ],
+      "zh": [
+        "Ultra 欧洲音乐节（七月）",
+        "斯普利特夏季音乐节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -401,22 +1319,77 @@
     "regionId": "split",
     "month": 8,
     "rating": 5,
-    "summary": "여름 절정, 해변과 파티 섬의 최고조",
-    "highlights": [
-      "달마티아 해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "여름 절정, 해변과 파티 섬의 최고조",
+      "en": "Peak of summer, peak of beaches and party islands",
+      "ja": "夏のピーク、ビーチとパーティー島の最高潮",
+      "zh": "夏季高峰，海滩和派对岛屿的高峰"
+    },
+    "highlights": {
+      "ko": [
+        "달마티아 해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Dalmatia Beach High Season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "ダルマチアビーチピークシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "达尔马提亚海滩旺季",
+        "日照时间长，适合户外活动",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "울트라 유럽 뮤직 페스티벌 (7월)",
-      "스플리트 여름 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "events": {
+      "ko": [
+        "울트라 유럽 뮤직 페스티벌 (7월)",
+        "스플리트 여름 축제"
+      ],
+      "en": [
+        "Ultra Europe Music Festival (July)",
+        "Split Summer Festival"
+      ],
+      "ja": [
+        "ウルトラヨーロッパミュージックフェスティバル（7月）",
+        "スプリトサマーフェスティバル"
+      ],
+      "zh": [
+        "Ultra 欧洲音乐节（七月）",
+        "斯普利特夏季音乐节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -424,24 +1397,90 @@
     "regionId": "split",
     "month": 9,
     "rating": 4,
-    "summary": "바다 따뜻하고 인파 줄어든 황금기",
-    "highlights": [
-      "달마티아 해변 성수기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 143mm로 우산 필수"
-    ],
-    "events": [
-      "울트라 유럽 뮤직 페스티벌 (7월)",
-      "스플리트 여름 축제"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "바다 따뜻하고 인파 줄어든 황금기",
+      "en": "The golden age of warm seas and fewer crowds",
+      "ja": "海の暖かくて人波が減った黄金期",
+      "zh": "温暖的海洋和更少的人群的黄金时代"
+    },
+    "highlights": {
+      "ko": [
+        "달마티아 해변 성수기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dalmatia Beach High Season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ダルマチアビーチピークシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "达尔马提亚海滩旺季",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 143mm로 우산 필수"
+      ],
+      "en": [
+        "Rainfall is 143mm, so an umbrella is a must"
+      ],
+      "ja": [
+        "降水量は 143 mm なので傘は必須です"
+      ],
+      "zh": [
+        "降雨量143毫米，雨伞必备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "울트라 유럽 뮤직 페스티벌 (7월)",
+        "스플리트 여름 축제"
+      ],
+      "en": [
+        "Ultra Europe Music Festival (July)",
+        "Split Summer Festival"
+      ],
+      "ja": [
+        "ウルトラヨーロッパミュージックフェスティバル（7月）",
+        "スプリトサマーフェスティバル"
+      ],
+      "zh": [
+        "Ultra 欧洲音乐节（七月）",
+        "斯普利特夏季音乐节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -449,20 +1488,69 @@
     "regionId": "split",
     "month": 10,
     "rating": 3,
-    "summary": "가을 아드리아, 여유로운 섬 투어",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 123mm로 우산 필수",
-      "습도가 70%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "가을 아드리아, 여유로운 섬 투어",
+      "en": "Autumn Adriatic, leisurely island tour",
+      "ja": "秋のアドリア、ゆったりとした島ツアー",
+      "zh": "秋季亚得里亚海，悠闲海岛游"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 123mm로 우산 필수",
+        "습도가 70%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 123mm, so an umbrella is a must",
+        "Humidity is somewhat high at 70%"
+      ],
+      "ja": [
+        "降水量が123mmで傘必須",
+        "湿度が70％とやや高い"
+      ],
+      "zh": [
+        "降雨量123毫米，雨伞必备",
+        "湿度有点高，70%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -470,20 +1558,69 @@
     "regionId": "split",
     "month": 11,
     "rating": 2,
-    "summary": "비수기 시작, 페리 감편 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 216mm로 우기에 해당",
-      "비 오는 날이 11일로 실내 대안 준비 권장",
-      "습도가 71%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "비수기 시작, 페리 감편 시작",
+      "en": "Off-season begins, ferry service begins to decrease",
+      "ja": "オフシーズン開始、フェリーフェロースタート",
+      "zh": "淡季开始，轮渡服务开始减少"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 216mm로 우기에 해당",
+        "비 오는 날이 11일로 실내 대안 준비 권장",
+        "습도가 71%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 216mm, corresponding to the rainy season",
+        "As the rainy day is the 11th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 71%"
+      ],
+      "ja": [
+        "月降水量216mmで雨季に対応",
+        "雨の日が11日で屋内代替準備を推奨",
+        "湿度が71％でやや高い"
+      ],
+      "zh": [
+        "月降水量216毫米，对应雨季",
+        "由于11号是雨天，建议室内替代准备",
+        "湿度有点高，71%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -491,21 +1628,73 @@
     "regionId": "split",
     "month": 12,
     "rating": 1,
-    "summary": "겨울, 한산한 궁전 도시의 조용한 매력",
-    "highlights": [
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 강수량 226mm로 우기에 해당",
-      "비 오는 날이 14.2일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 한산한 궁전 도시의 조용한 매력",
+      "en": "The quiet charm of a quiet palace city in winter",
+      "ja": "冬の静かな宮殿都市の静かな魅力",
+      "zh": "冬日静谧宫城的静谧魅力"
+    },
+    "highlights": {
+      "ko": [
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 226mm로 우기에 해당",
+        "비 오는 날이 14.2일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 226mm, corresponding to the rainy season",
+        "With 14.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "月降水量226mmで雨季に対応",
+        "雨の日が14.2日で屋内代替準備を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "月降水量226毫米，对应雨季",
+        "14.2阴雨天，建议室内替代准备",
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

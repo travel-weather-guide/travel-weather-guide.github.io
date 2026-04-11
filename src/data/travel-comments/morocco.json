@@ -3,18 +3,56 @@
     "regionId": "marrakech",
     "month": 1,
     "rating": 4,
-    "summary": "겨울 쾌적, 제마 엘프나 광장 야시장 & 수크 탐방",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "겨울 쾌적, 제마 엘프나 광장 야시장 & 수크 탐방",
+      "en": "Comfortable winter, visit Jemaa El Fna Square Night Market & Souq",
+      "ja": "冬の快適さ、ジェマエルフナ広場ナイトマーケット＆スーク探訪",
+      "zh": "舒适的冬天，参观杰马广场夜市和集市"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -22,18 +60,56 @@
     "regionId": "marrakech",
     "month": 2,
     "rating": 5,
-    "summary": "온화한 겨울 마라케시, 사막 투어 출발점으로 최적",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "온화한 겨울 마라케시, 사막 투어 출발점으로 최적",
+      "en": "Mild winter in Marrakech, perfect as a starting point for desert tours",
+      "ja": "穏やかな冬のマラケシュ、砂漠ツアーの出発点として最適",
+      "zh": "马拉喀什温和的冬季，非常适合作为沙漠之旅的起点"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -41,21 +117,73 @@
     "regionId": "marrakech",
     "month": 3,
     "rating": 4,
-    "summary": "봄 시작, 아틀라스 산맥 당일 트레킹 가능",
-    "highlights": [
-      "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "봄 시작, 아틀라스 산맥 당일 트레킹 가능",
+      "en": "Spring begins, day trekking in the Atlas Mountains is possible",
+      "ja": "春の始まり、アトラス山脈の日にトレッキング可能",
+      "zh": "春天来了，可以在阿特拉斯山脉进行日间徒步"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Pleasant temperature, best time to visit Souq Market and Jemaa El Fna Square",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "快適な気温、スーク市場・ジェマエルフや広場探訪最適機",
+        "日照時間が長く、野外活動に良い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "气温宜人，是参观集市市场和杰马广场的最佳时间",
+        "日照时间长，适合户外活动",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "마라케시 국제 영화제 (11월)",
-      "모로코 문화 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "마라케시 국제 영화제 (11월)",
+        "모로코 문화 축제"
+      ],
+      "en": [
+        "Marrakech International Film Festival (November)",
+        "Moroccan Cultural Festival"
+      ],
+      "ja": [
+        "マラケシュ国際映画祭（11月）",
+        "モロッコ文化祭"
+      ],
+      "zh": [
+        "马拉喀什国际电影节（十一月）",
+        "摩洛哥文化节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -63,23 +191,81 @@
     "regionId": "marrakech",
     "month": 4,
     "rating": 5,
-    "summary": "봄 절정, 수크·메디나 탐방 & 타데르트 계곡",
-    "highlights": [
-      "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "봄 절정, 수크·메디나 탐방 & 타데르트 계곡",
+      "en": "Peak of spring, visit to Souq and Medina & Tadert Valley",
+      "ja": "春絶頂、スーク・メディナ探訪＆タデルト渓谷",
+      "zh": "春天的高峰期，参观集市、麦地那和塔德特谷"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Pleasant temperature, best time to visit Souq Market and Jemaa El Fna Square",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "快適な気温、スーク市場・ジェマエルフや広場探訪最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "气温宜人，是参观集市市场和杰马广场的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "마라케시 국제 영화제 (11월)",
-      "모로코 문화 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "마라케시 국제 영화제 (11월)",
+        "모로코 문화 축제"
+      ],
+      "en": [
+        "Marrakech International Film Festival (November)",
+        "Moroccan Cultural Festival"
+      ],
+      "ja": [
+        "マラケシュ国際映画祭（11月）",
+        "モロッコ文化祭"
+      ],
+      "zh": [
+        "马拉喀什国际电影节（十一月）",
+        "摩洛哥文化节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -87,19 +273,60 @@
     "regionId": "marrakech",
     "month": 5,
     "rating": 5,
-    "summary": "더워지기 시작, 이른 아침·저녁 위주 시장 투어",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "더워지기 시작, 이른 아침·저녁 위주 시장 투어",
+      "en": "Starting to get hot, early morning and evening market tours",
+      "ja": "暑くなり始め、早朝・夕方中心市場ツアー",
+      "zh": "开始热了，早晚集市游览"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -107,21 +334,73 @@
     "regionId": "marrakech",
     "month": 6,
     "rating": 5,
-    "summary": "기온 상승, 리야드 수영장 중심 리조트 여행",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [
-      "평균 최고기온 33°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "기온 상승, 리야드 수영장 중심 리조트 여행",
+      "en": "Rising temperatures, trip to Riyadh pool-centered resort",
+      "ja": "祇園の上昇、リヤドプール中心のリゾート旅行",
+      "zh": "气温上升，前往利雅得以泳池为中心的度假村"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 33°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 33°C"
+      ],
+      "ja": [
+        "平均最高気温33°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温33°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -129,23 +408,81 @@
     "regionId": "marrakech",
     "month": 7,
     "rating": 5,
-    "summary": "40°C 극한 더위, 실내 전통 궁전 관람 위주",
-    "highlights": [
-      "40°C 이상 폭염, 야외 활동 힘든 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 40°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "40°C 극한 더위, 실내 전통 궁전 관람 위주",
+      "en": "Extreme heat of 40°C, focusing on indoor traditional palace viewing",
+      "ja": "40°C極端な暑さ、屋内の伝統的な宮殿の観覧中心",
+      "zh": "40℃酷暑，专注室内传统宫廷观赏"
+    },
+    "highlights": {
+      "ko": [
+        "40°C 이상 폭염, 야외 활동 힘든 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Heatwave over 40°C, difficult time for outdoor activities",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "40°C以上の猛暑、野外活動の困難な時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "40℃以上热浪，户外活动困难",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 40°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 40°C"
+      ],
+      "ja": [
+        "平均最高気温40℃で熱に注意"
+      ],
+      "zh": [
+        "平均最高气温40°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -153,23 +490,81 @@
     "regionId": "marrakech",
     "month": 8,
     "rating": 5,
-    "summary": "폭염 지속, 산악 지역 아이트벤하두로 피서",
-    "highlights": [
-      "40°C 이상 폭염, 야외 활동 힘든 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "평균 최고기온 39°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "폭염 지속, 산악 지역 아이트벤하두로 피서",
+      "en": "As the heat wave continues, retreat to the mountainous region of Ait Ben Haddou",
+      "ja": "猛烈な持続、山岳地帯のアイトベンハドゥーロピサー",
+      "zh": "随着热浪的持续，撤退到阿伊特·本·哈杜 (Ait Ben Haddou) 山区"
+    },
+    "highlights": {
+      "ko": [
+        "40°C 이상 폭염, 야외 활동 힘든 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Heatwave over 40°C, difficult time for outdoor activities",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "40°C以上の猛暑、野外活動の困難な時期",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "40℃以上热浪，户外活动困难",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 39°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 39°C."
+      ],
+      "ja": [
+        "平均最高気温39℃で暑さに注意"
+      ],
+      "zh": [
+        "请注意防暑，平均最高气温为 39°C。"
+      ]
+    },
     "events": [],
-    "tips": [
-      "냉방이 잘 되는 숙소 선택 권장",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+    "tips": {
+      "ko": [
+        "냉방이 잘 되는 숙소 선택 권장",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "We recommend choosing accommodation with good air conditioning",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "冷房の良い宿泊施設の選択を推奨",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "建议选择空调好的住宿",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 반바지, 가벼운 원피스. 통풍 잘 되는 소재 추천",
+      "en": "Short sleeves, shorts, light dress. Well-ventilated material recommended",
+      "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
+      "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -177,21 +572,73 @@
     "regionId": "marrakech",
     "month": 9,
     "rating": 5,
-    "summary": "더위 가시기 시작, 9월 중순부터 여행 재개",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [
-      "평균 최고기온 33°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "더위 가시기 시작, 9월 중순부터 여행 재개",
+      "en": "Heat begins to subside, travel resumes from mid-September",
+      "ja": "暑さが始まり、9月中旬から旅行を再開",
+      "zh": "炎热开始消退，旅行从九月中旬开始恢复"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 33°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 33°C"
+      ],
+      "ja": [
+        "平均最高気温33°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温33°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -199,23 +646,81 @@
     "regionId": "marrakech",
     "month": 10,
     "rating": 5,
-    "summary": "가을 황금기 시작, 사막·메디나 탐방 최적기",
-    "highlights": [
-      "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "가을 황금기 시작, 사막·메디나 탐방 최적기",
+      "en": "The golden season of fall begins, the best time to explore the desert and medina",
+      "ja": "秋黄金期開始、砂漠・メディナ探訪最適機",
+      "zh": "秋季黄金季节开始，探索沙漠和麦地那的最佳时机"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Pleasant temperature, best time to visit Souq Market and Jemaa El Fna Square",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "快適な気温、スーク市場・ジェマエルフや広場探訪最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "气温宜人，是参观集市市场和杰马广场的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "마라케시 국제 영화제 (11월)",
-      "모로코 문화 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "마라케시 국제 영화제 (11월)",
+        "모로코 문화 축제"
+      ],
+      "en": [
+        "Marrakech International Film Festival (November)",
+        "Moroccan Cultural Festival"
+      ],
+      "ja": [
+        "マラケシュ国際映画祭（11月）",
+        "モロッコ文化祭"
+      ],
+      "zh": [
+        "马拉喀什国际电影节（十一月）",
+        "摩洛哥文化节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -223,23 +728,81 @@
     "regionId": "marrakech",
     "month": 11,
     "rating": 5,
-    "summary": "마라케시 국제 영화제, 쾌적한 가을 탐방",
-    "highlights": [
-      "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "마라케시 국제 영화제, 쾌적한 가을 탐방",
+      "en": "Marrakech International Film Festival, a pleasant fall tour",
+      "ja": "マラケシュ国際映画祭、快適な秋を訪れる",
+      "zh": "马拉喀什国际电影节，愉快的秋季之旅"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온, 수크 시장·제마 엘프나 광장 탐방 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Pleasant temperature, best time to visit Souq Market and Jemaa El Fna Square",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "快適な気温、スーク市場・ジェマエルフや広場探訪最適機",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "气温宜人，是参观集市市场和杰马广场的最佳时间",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "마라케시 국제 영화제 (11월)",
-      "모로코 문화 축제"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "마라케시 국제 영화제 (11월)",
+        "모로코 문화 축제"
+      ],
+      "en": [
+        "Marrakech International Film Festival (November)",
+        "Moroccan Cultural Festival"
+      ],
+      "ja": [
+        "マラケシュ国際映画祭（11月）",
+        "モロッコ文化祭"
+      ],
+      "zh": [
+        "马拉喀什国际电影节（十一月）",
+        "摩洛哥文化节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -247,18 +810,56 @@
     "regionId": "marrakech",
     "month": 12,
     "rating": 5,
-    "summary": "겨울 성수기, 사막 별빛 캠핑과 메디나 야경",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "겨울 성수기, 사막 별빛 캠핑과 메디나 야경",
+      "en": "Winter peak season, desert starlight camping and medina night view",
+      "ja": "冬のハイシーズン、砂漠のスターライトキャンプとメディナの夜景",
+      "zh": "冬季旺季，沙漠星光露营和麦地那夜景"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   }

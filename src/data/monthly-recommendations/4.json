@@ -4,91 +4,166 @@
     {
       "regionId": "abu-dhabi",
       "category": "culture",
-      "reason": "더워지기 시작, 야외 관광 마지막 기회",
+      "reason": {
+        "ko": "더워지기 시작, 야외 관광 마지막 기회",
+        "en": "It's starting to get hot, last chance for outdoor tourism",
+        "ja": "暑くなり始め、屋外観光の最後のチャンス",
+        "zh": "天气开始变热，户外旅游最后机会"
+      },
       "rating": 5
     },
     {
       "regionId": "antalya",
       "category": "beach",
-      "reason": "따뜻해지는 봄, 수영 시작 가능한 시기",
+      "reason": {
+        "ko": "따뜻해지는 봄, 수영 시작 가능한 시기",
+        "en": "Spring is getting warmer, when can you start swimming",
+        "ja": "春は暖かくなってきました。いつから泳ぎ始められますか",
+        "zh": "春天渐暖，什么时候可以开始游泳"
+      },
       "rating": 5
     },
     {
       "regionId": "beijing",
       "category": "culture",
-      "reason": "벚꽃과 함께 봄이 오지만 황사 여전",
+      "reason": {
+        "ko": "벚꽃과 함께 봄이 오지만 황사 여전",
+        "en": "Spring comes with cherry blossoms, but yellow dust still remains",
+        "ja": "桜と一緒に春が来るが黄砂の旅",
+        "zh": "春天来了，樱花烂漫，黄尘犹存"
+      },
       "rating": 5
     },
     {
       "regionId": "cairo",
       "category": "culture",
-      "reason": "모래바람 시즌, 유적 관광은 가능하지만 눈·코 주의",
+      "reason": {
+        "ko": "모래바람 시즌, 유적 관광은 가능하지만 눈·코 주의",
+        "en": "During sandstorm season, it is possible to tour the ruins, but be careful of your eyes and nose",
+        "ja": "砂風シーズン、遺跡観光は可能だが雪・鼻注意",
+        "zh": "沙尘暴季节，可以游览遗址，但要小心你的眼睛和鼻子"
+      },
       "rating": 5
     },
     {
       "regionId": "dubai",
       "category": "city",
-      "reason": "점점 더워지는 과도기, 아직 버틸 만한 시기",
+      "reason": {
+        "ko": "점점 더워지는 과도기, 아직 버틸 만한 시기",
+        "en": "It's a transitional period that's getting hotter, but it's still a time to endure",
+        "ja": "どんどん暑くなる過渡期、まだバチルな時期",
+        "zh": "这是一个过渡期，天气越来越热，但仍然是一个要忍受的时期"
+      },
       "rating": 5
     },
     {
       "regionId": "kaohsiung",
       "category": "city",
-      "reason": "더워지기 시작하지만 아직 쾌적",
+      "reason": {
+        "ko": "더워지기 시작하지만 아직 쾌적",
+        "en": "It's starting to get hot, but it's still comfortable",
+        "ja": "暑くなり始めますが、まだ快適",
+        "zh": "虽然开始热了，但是还是很舒服"
+      },
       "rating": 5
     },
     {
       "regionId": "las-vegas",
       "category": "city",
-      "reason": "쾌적한 봄, 스트립 산책과 쇼 관람 최적기",
+      "reason": {
+        "ko": "쾌적한 봄, 스트립 산책과 쇼 관람 최적기",
+        "en": "Pleasant spring, the best time to walk the Strip and see shows",
+        "ja": "快適な春、ストリップの散歩とショーの観覧最適機",
+        "zh": "春意盎然，正是逛街看秀的最佳时节"
+      },
       "rating": 5
     },
     {
       "regionId": "los-angeles",
       "category": "city",
-      "reason": "봄 야생화와 쾌적한 기온, 하이킹 최적기",
+      "reason": {
+        "ko": "봄 야생화와 쾌적한 기온, 하이킹 최적기",
+        "en": "Spring wildflowers and comfortable temperatures, the best time for hiking",
+        "ja": "春の野生の花と快適な気温、ハイキング最適機",
+        "zh": "春天的野花和舒适的气温，徒步旅行的最佳时节"
+      },
       "rating": 5
     },
     {
       "regionId": "luxor",
       "category": "culture",
-      "reason": "더위 시작, 오전 유적 관광 필수",
+      "reason": {
+        "ko": "더위 시작, 오전 유적 관광 필수",
+        "en": "As the heat begins, a morning tour of the ruins is a must",
+        "ja": "暑さが始まると、午前中の遺跡ツアーは欠かせません",
+        "zh": "随着炎热的天气开始，早上游览废墟是必须的"
+      },
       "rating": 5
     },
     {
       "regionId": "marrakech",
       "category": "culture",
-      "reason": "봄 절정, 수크·메디나 탐방 & 타데르트 계곡",
+      "reason": {
+        "ko": "봄 절정, 수크·메디나 탐방 & 타데르트 계곡",
+        "en": "Peak of spring, visit to Souq and Medina & Tadert Valley",
+        "ja": "春絶頂、スーク・メディナ探訪＆タデルト渓谷",
+        "zh": "春天的高峰期，参观集市、麦地那和塔德特谷"
+      },
       "rating": 5
     },
     {
       "regionId": "mumbai",
       "category": "city",
-      "reason": "고온다습, 오전 위주 관광으로 체력 관리",
+      "reason": {
+        "ko": "고온다습, 오전 위주 관광으로 체력 관리",
+        "en": "Manage your physical strength with high temperature and humidity and sightseeing mainly in the morning",
+        "ja": "高温多湿、午前中心観光で体力管理",
+        "zh": "高温多湿，建议上午观光，注意体力管理"
+      },
       "rating": 5
     },
     {
       "regionId": "mykonos",
       "category": "beach",
-      "reason": "봄, 해변 산책과 여유로운 시기",
+      "reason": {
+        "ko": "봄, 해변 산책과 여유로운 시기",
+        "en": "Spring, time for beach walks and relaxation",
+        "ja": "春、ビーチの散歩とリラックスした時期",
+        "zh": "春天，海滩散步和放松的季节"
+      },
       "rating": 5
     },
     {
       "regionId": "new-delhi",
       "category": "culture",
-      "reason": "기온 급상승 시작, 야외 관광 아침·저녁만",
+      "reason": {
+        "ko": "기온 급상승 시작, 야외 관광 아침·저녁만",
+        "en": "Temperature begins to rise rapidly, outdoor tourism only in the morning and evening",
+        "ja": "祇園急上昇開始、野外観光朝・夕のみ",
+        "zh": "气温开始快速上升，户外旅游只在早晚"
+      },
       "rating": 5
     },
     {
       "regionId": "santorini",
       "category": "beach",
-      "reason": "봄, 관광객 적고 석양이 아름다운 시기",
+      "reason": {
+        "ko": "봄, 관광객 적고 석양이 아름다운 시기",
+        "en": "Spring, a time when there are fewer tourists and beautiful sunsets",
+        "ja": "春、観光客が少なく夕日が美しい時期",
+        "zh": "春天，一个游客较少、日落美丽的时节"
+      },
       "rating": 5
     },
     {
       "regionId": "seville",
       "category": "culture",
-      "reason": "페리아 축제, 오렌지 꽃 향기의 세비야 최적기",
+      "reason": {
+        "ko": "페리아 축제, 오렌지 꽃 향기의 세비야 최적기",
+        "en": "Feria Festival, the best time in Seville for the scent of orange blossoms",
+        "ja": "フェリアフェスティバル、オレンジ色の花の香りのセビリア最適機",
+        "zh": "Feria Festival，塞维利亚橙花芬芳的最佳时光"
+      },
       "rating": 5
     }
   ],
@@ -96,158 +171,338 @@
     {
       "regionId": "athens",
       "category": "culture",
-      "reason": "부활절 축제, 봄꽃과 쾌적한 유적지 관광",
+      "reason": {
+        "ko": "부활절 축제, 봄꽃과 쾌적한 유적지 관광",
+        "en": "Easter festival, spring flowers and pleasant historical site tours",
+        "ja": "イースターフェスティバル、春の花と快適な遺跡の観光",
+        "zh": "复活节、春天的花朵和愉快的历史古迹之旅"
+      },
       "rating": 4
     },
     {
       "regionId": "cappadocia",
       "category": "adventure",
-      "reason": "야생화 만개, 열기구 최적 조건의 시작",
+      "reason": {
+        "ko": "야생화 만개, 열기구 최적 조건의 시작",
+        "en": "Wildflowers in full bloom, optimal conditions for hot air ballooning",
+        "ja": "野生の花満開、熱気球最適条件の始まり",
+        "zh": "野花盛开，热气球最佳条件"
+      },
       "rating": 4
     },
     {
       "regionId": "chiang-mai",
       "category": "culture",
-      "reason": "산불 연무 절정, 세계 최악 수준의 대기질",
+      "reason": {
+        "ko": "산불 연무 절정, 세계 최악 수준의 대기질",
+        "en": "Forest fire haze peaks, air quality among world's worst",
+        "ja": "山火事の煙のピーク、世界最悪の大気質",
+        "zh": "森林火灾雾霾达到顶峰，空气质量位居全球最差"
+      },
       "rating": 4
     },
     {
       "regionId": "luang-prabang",
       "category": "culture",
-      "reason": "라오스 신년 물축제, 폭염 속 씻겨주는 물",
+      "reason": {
+        "ko": "라오스 신년 물축제, 폭염 속 씻겨주는 물",
+        "en": "Laos New Year Water Festival, water to wash away during the heat wave",
+        "ja": "ラオス新年の水祭り、熱波の中で洗い流す水",
+        "zh": "老挝新年泼水节，热浪期间用水冲刷"
+      },
       "rating": 4
     },
     {
       "regionId": "manila",
       "category": "city",
-      "reason": "극심한 더위, 40°C에 달하는 폭염",
+      "reason": {
+        "ko": "극심한 더위, 40°C에 달하는 폭염",
+        "en": "Extreme heat, heat wave reaching 40°C",
+        "ja": "極度の暑さ、40℃に達する爆炎",
+        "zh": "酷热难耐，热浪高达40℃"
+      },
       "rating": 4
     }
   ],
   "avoidList": [
     {
       "regionId": "bali",
-      "reason": "건기 시작, 녹음 짙은 우붓과 맑은 하늘"
+      "reason": {
+        "ko": "건기 시작, 녹음 짙은 우붓과 맑은 하늘",
+        "en": "The beginning of the dry season, lush green Ubud and clear skies",
+        "ja": "乾季開始、録音濃いウブドと澄んだ空",
+        "zh": "旱季开始，郁郁葱葱的乌布和晴朗的天空"
+      }
     },
     {
       "regionId": "cairns",
-      "reason": "우기 끝, 그레이트배리어리프 시야 개선 시작"
+      "reason": {
+        "ko": "우기 끝, 그레이트배리어리프 시야 개선 시작",
+        "en": "End of rainy season, visibility of Great Barrier Reef begins to improve",
+        "ja": "雨期末、グレートバリアリーフ視野改善開始",
+        "zh": "雨季结束，大堡礁的能见度开始改善"
+      }
     },
     {
       "regionId": "cebu",
-      "reason": "건기 끝자락, 아직 해변 좋은 시기"
+      "reason": {
+        "ko": "건기 끝자락, 아직 해변 좋은 시기",
+        "en": "The end of the dry season, still a good time for beaches",
+        "ja": "乾期の終わり、まだビーチ良い時期",
+        "zh": "旱季结束，依然是海滩的好时光"
+      }
     },
     {
       "regionId": "colombo",
-      "reason": "싱할라 새해 축제, 콜롬보 전통 문화 체험"
+      "reason": {
+        "ko": "싱할라 새해 축제, 콜롬보 전통 문화 체험",
+        "en": "Sinhala New Year Festival, Colombo Traditional Culture Experience",
+        "ja": "シンハラ新年祭り、コロンボの伝統文化体験",
+        "zh": "僧伽罗新年节，科伦坡传统文化体验"
+      }
     },
     {
       "regionId": "edinburgh",
-      "reason": "봄, 아서스시트 하이킹 시작"
+      "reason": {
+        "ko": "봄, 아서스시트 하이킹 시작",
+        "en": "Spring, Arthur's Seat hiking begins",
+        "ja": "春、アーサースシートハイキング開始",
+        "zh": "春天，亚瑟王座徒步旅行开始"
+      }
     },
     {
       "regionId": "guilin",
-      "reason": "봄 절정, 안개 낀 이강 수묵화 풍경 피크"
+      "reason": {
+        "ko": "봄 절정, 안개 낀 이강 수묵화 풍경 피크",
+        "en": "Spring peak, foggy Yi River ink painting landscape peak",
+        "ja": "春のピーク、霧のイガン水墨画風景ピーク",
+        "zh": "春峰，雾蒙蒙的沂水水墨山水峰"
+      }
     },
     {
       "regionId": "hiroshima",
-      "reason": "벚꽃 만개, 평화기념공원·미야지마 벚꽃 절경"
+      "reason": {
+        "ko": "벚꽃 만개, 평화기념공원·미야지마 벚꽃 절경",
+        "en": "Cherry blossoms in full bloom, Peace Memorial Park and Miyajima cherry blossoms superb view",
+        "ja": "桜満開、平和記念公園・宮島桜絶景",
+        "zh": "樱花盛开，和平纪念公园与宫岛樱花绝美景色"
+      }
     },
     {
       "regionId": "hokkaido",
-      "reason": "눈 녹는 진흙 시즌, 여행에 애매한 시기"
+      "reason": {
+        "ko": "눈 녹는 진흙 시즌, 여행에 애매한 시기",
+        "en": "Snow melting mud season, an uncertain time to travel",
+        "ja": "雪溶ける泥シーズン、旅行に曖昧な時期",
+        "zh": "融雪泥泞季节，出行时间不确定"
+      }
     },
     {
       "regionId": "hong-kong",
-      "reason": "따뜻한 봄, 란타우섬 하이킹과 야경"
+      "reason": {
+        "ko": "따뜻한 봄, 란타우섬 하이킹과 야경",
+        "en": "Warm spring, Lantau Island hiking and night view",
+        "ja": "暖かい春、ランタオ島のハイキングと夜景",
+        "zh": "暖春大屿山徒步夜景"
+      }
     },
     {
       "regionId": "interlaken",
-      "reason": "봄, 알프스 야생화 피기 시작하는 시기"
+      "reason": {
+        "ko": "봄, 알프스 야생화 피기 시작하는 시기",
+        "en": "Spring, when Alpine wildflowers begin to bloom",
+        "ja": "春、アルプスの野生の花が咲き始める時期",
+        "zh": "春天，高山野花开始绽放"
+      }
     },
     {
       "regionId": "jakarta",
-      "reason": "과도기, 비가 줄고 야외 관광 가능해지는 시기"
+      "reason": {
+        "ko": "과도기, 비가 줄고 야외 관광 가능해지는 시기",
+        "en": "Transition period, a time when rain decreases and outdoor tourism becomes possible",
+        "ja": "過渡期、雨が減って屋外観光可能になる時期",
+        "zh": "过渡期，雨水减少，户外旅游成为可能的时期"
+      }
     },
     {
       "regionId": "kota-kinabalu",
-      "reason": "건기 막바지, 아직 맑은 해변"
+      "reason": {
+        "ko": "건기 막바지, 아직 맑은 해변",
+        "en": "End of dry season, still clear beach",
+        "ja": "乾季の最後、まだ晴れたビーチ",
+        "zh": "旱季结束，海滩依然清澈"
+      }
     },
     {
       "regionId": "krabi",
-      "reason": "우기 직전 마지막 건기, 섬 투어 서두르기"
+      "reason": {
+        "ko": "우기 직전 마지막 건기, 섬 투어 서두르기",
+        "en": "The last dry season before the rainy season, hurry up for an island tour",
+        "ja": "雨期直前最後の乾期、島ツアー急いで",
+        "zh": "雨季前的最后一个旱季，赶紧来海岛游"
+      }
     },
     {
       "regionId": "kuala-lumpur",
-      "reason": "더워지지만 쾌적, 차이나타운과 야시장"
+      "reason": {
+        "ko": "더워지지만 쾌적, 차이나타운과 야시장",
+        "en": "It gets hot but comfortable, Chinatown and night market",
+        "ja": "暑いけど快適、中華街と夜市",
+        "zh": "天气炎热但舒适，唐人街和夜市"
+      }
     },
     {
       "regionId": "kyoto",
-      "reason": "벚꽃 만개, 일본 여행 중 교토는 이 시기가 최고"
+      "reason": {
+        "ko": "벚꽃 만개, 일본 여행 중 교토는 이 시기가 최고",
+        "en": "Cherry blossoms in full bloom, this is the best time to visit Kyoto while traveling in Japan",
+        "ja": "桜満開、日本旅行中京都はこの時期が最高",
+        "zh": "樱花盛开，这是日本旅游去京都的最佳时机"
+      }
     },
     {
       "regionId": "langkawi",
-      "reason": "건기 끝자락, 해변 컨디션 여전히 좋음"
+      "reason": {
+        "ko": "건기 끝자락, 해변 컨디션 여전히 좋음",
+        "en": "End of dry season, beach conditions still good",
+        "ja": "乾期の終わり、ビーチコンディションはまだ良い",
+        "zh": "旱季结束，海滩条件依然良好"
+      }
     },
     {
       "regionId": "lombok",
-      "reason": "건기 시작, 길리섬 다이빙 시야 회복"
+      "reason": {
+        "ko": "건기 시작, 길리섬 다이빙 시야 회복",
+        "en": "Dry season begins, Gili Island diving visibility recovers",
+        "ja": "乾季開始、ギリ島ダイビング視界回復",
+        "zh": "旱季开始，吉利岛潜水能见度恢复"
+      }
     },
     {
       "regionId": "munich",
-      "reason": "봄, 님펜부르크 궁전 꽃밭 산책"
+      "reason": {
+        "ko": "봄, 님펜부르크 궁전 꽃밭 산책",
+        "en": "Spring, stroll through the flower fields of Nymphenburg Palace",
+        "ja": "春、ニンペンブルク宮殿の花畑を歩く",
+        "zh": "春天，漫步宁芬堡宫的花田"
+      }
     },
     {
       "regionId": "nara",
-      "reason": "벚꽃 만개, 나라공원 사슴과 벚꽃의 환상 조합"
+      "reason": {
+        "ko": "벚꽃 만개, 나라공원 사슴과 벚꽃의 환상 조합",
+        "en": "Cherry blossoms in full bloom, Nara Park, a fantastic combination of deer and cherry blossoms",
+        "ja": "桜満開、奈良公園鹿と桜の幻想組合",
+        "zh": "樱花盛开的奈良公园，鹿与樱花的奇妙组合"
+      }
     },
     {
       "regionId": "new-york",
-      "reason": "센트럴파크에 봄꽃이 피는 시기"
+      "reason": {
+        "ko": "센트럴파크에 봄꽃이 피는 시기",
+        "en": "When spring flowers bloom in Central Park",
+        "ja": "セントラルパークに春の花が咲く時期",
+        "zh": "当中央公园春暖花开"
+      }
     },
     {
       "regionId": "penang",
-      "reason": "더워지지만 저녁 나이트마켓과 호커센터 활기"
+      "reason": {
+        "ko": "더워지지만 저녁 나이트마켓과 호커센터 활기",
+        "en": "Even though it gets hot, the evening night market and hawker center are lively",
+        "ja": "暑くなっても夜のナイトマーケットやホーカーセンターは賑わっています",
+        "zh": "尽管天气炎热，晚上的夜市和小贩中心却热闹"
+      }
     },
     {
       "regionId": "queenstown",
-      "reason": "가을 황금빛, 남섬 단풍 드라이브"
+      "reason": {
+        "ko": "가을 황금빛, 남섬 단풍 드라이브",
+        "en": "Autumn Golden Colors, South Island Foliage Drive",
+        "ja": "秋の黄金色、南島の紅葉ドライブ",
+        "zh": "秋天的金色，南岛树叶大道"
+      }
     },
     {
       "regionId": "reykjavik",
-      "reason": "봄 해빙, 골든서클 투어 재개 시기"
+      "reason": {
+        "ko": "봄 해빙, 골든서클 투어 재개 시기",
+        "en": "Spring thaw, golden circle tour resumption time",
+        "ja": "春の海氷、ゴールデンサークルツアーの再開時期",
+        "zh": "春季解冻，黄金圈旅游恢复时间"
+      }
     },
     {
       "regionId": "salzburg",
-      "reason": "봄 이스터 축제, 사운드 오브 뮤직 투어"
+      "reason": {
+        "ko": "봄 이스터 축제, 사운드 오브 뮤직 투어",
+        "en": "Spring Easter Festival, Sound of Music Tour",
+        "ja": "春イースターフェスティバル、音楽音楽ツアー",
+        "zh": "春季复活节音乐之声巡演"
+      }
     },
     {
       "regionId": "shanghai",
-      "reason": "봄 절정, 거리 카페와 프렌치 컨세션 산책"
+      "reason": {
+        "ko": "봄 절정, 거리 카페와 프렌치 컨세션 산책",
+        "en": "Peak of spring, strolling through street cafes and French concessions",
+        "ja": "春のピーク、ストリートカフェとフレンチコンセッションの散歩",
+        "zh": "春意盎然，漫步街边咖啡馆和法租界"
+      }
     },
     {
       "regionId": "singapore",
-      "reason": "건조한 시기, 야외 관광하기 좋은 시기"
+      "reason": {
+        "ko": "건조한 시기, 야외 관광하기 좋은 시기",
+        "en": "Dry season, good time for outdoor tourism",
+        "ja": "乾燥した時期、屋外観光に良い時期",
+        "zh": "旱季，户外旅游好时节"
+      }
     },
     {
       "regionId": "toronto",
-      "reason": "봄꽃 시작, 하이 파크 벚꽃 명소"
+      "reason": {
+        "ko": "봄꽃 시작, 하이 파크 벚꽃 명소",
+        "en": "Spring flowers begin, High Park cherry blossom spot",
+        "ja": "春の花の始まり、ハイパークの桜スポット",
+        "zh": "春暖花开，High Park赏樱胜地"
+      }
     },
     {
       "regionId": "vancouver",
-      "reason": "벚꽃 만개, 스탠리 파크 산책로 분홍빛"
+      "reason": {
+        "ko": "벚꽃 만개, 스탠리 파크 산책로 분홍빛",
+        "en": "Cherry blossoms in full bloom, Stanley Park promenade turns pink",
+        "ja": "桜満開、スタンレーパーク遊歩道ピンク",
+        "zh": "樱花盛开，斯坦利公园长廊变成粉色"
+      }
     },
     {
       "regionId": "yogyakarta",
-      "reason": "건기 시작, 프람바난 일출 사진 최적기"
+      "reason": {
+        "ko": "건기 시작, 프람바난 일출 사진 최적기",
+        "en": "The beginning of the dry season, the best time to take sunrise photos of Prambanan",
+        "ja": "乾季開始、フランバナン日の出写真最適機",
+        "zh": "旱季开始，普兰巴南拍摄日出照片的最佳时机"
+      }
     },
     {
       "regionId": "zhangjiajie",
-      "reason": "봄 절정, 맑은 날 천문산 유리다리 최적기"
+      "reason": {
+        "ko": "봄 절정, 맑은 날 천문산 유리다리 최적기",
+        "en": "The peak of spring, the best time for the Tianmen Mountain Glass Bridge on a clear day",
+        "ja": "春のピーク、晴れた日に天文山ガラス橋最適機",
+        "zh": "正值春意盎然，晴天去天门山玻璃桥最佳时节"
+      }
     },
     {
       "regionId": "zurich",
-      "reason": "봄, 구시가지 산책과 호수 보트 타기"
+      "reason": {
+        "ko": "봄, 구시가지 산책과 호수 보트 타기",
+        "en": "Spring, walking around the old town and boating on the lake",
+        "ja": "春、旧市街の散歩と湖のボートに乗る",
+        "zh": "春天，逛古城、泛舟湖"
+      }
     }
   ]
 }

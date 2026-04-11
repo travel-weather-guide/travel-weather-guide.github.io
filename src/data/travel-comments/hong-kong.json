@@ -3,23 +3,86 @@
     "regionId": "hong-kong",
     "month": 1,
     "rating": 4,
-    "summary": "건기, 맑고 선선한 홍콩 여행 최적기",
-    "highlights": [
-      "홍콩 구정 연휴, 빅토리아 항구 불꽃놀이",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "중국 설날 퍼레이드 (1~2월)",
-      "빅토리아 항구 불꽃놀이"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "건기, 맑고 선선한 홍콩 여행 최적기",
+      "en": "The dry season is clear and cool, the best time to travel to Hong Kong",
+      "ja": "乾季は空気が澄んで涼しく、香港への旅行に最適な時期です",
+      "zh": "旱季晴朗，去香港旅游最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "홍콩 구정 연휴, 빅토리아 항구 불꽃놀이",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Hong Kong Lunar New Year holiday, Victoria Harbor fireworks",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "香港旧正月連休、ビクトリアハーバー花火大会",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "香港农历新年假期，维多利亚港烟花",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "중국 설날 퍼레이드 (1~2월)",
+        "빅토리아 항구 불꽃놀이"
+      ],
+      "en": [
+        "Chinese New Year Parade (January-February)",
+        "Victoria Harbor Fireworks"
+      ],
+      "ja": [
+        "中国の旧正月パレード（1〜2月）",
+        "ビクトリアハーバー花火大会"
+      ],
+      "zh": [
+        "农历新年游行（一月至二月）",
+        "维多利亚港烟花"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -27,19 +90,65 @@
     "regionId": "hong-kong",
     "month": 2,
     "rating": 3,
-    "summary": "춘절 불꽃놀이, 겨울의 화려한 빅토리아항",
-    "highlights": [
-      "홍콩 구정 연휴, 빅토리아 항구 불꽃놀이"
-    ],
-    "cautions": [
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [
-      "중국 설날 퍼레이드 (1~2월)",
-      "빅토리아 항구 불꽃놀이"
-    ],
+    "summary": {
+      "ko": "춘절 불꽃놀이, 겨울의 화려한 빅토리아항",
+      "en": "Chinese New Year fireworks, colorful Victoria Harbor in winter",
+      "ja": "春節花火大会、冬のカラフルなビクトリア港",
+      "zh": "过年烟花，冬日维港五彩缤纷"
+    },
+    "highlights": {
+      "ko": [
+        "홍콩 구정 연휴, 빅토리아 항구 불꽃놀이"
+      ],
+      "en": [
+        "Hong Kong Lunar New Year holiday, Victoria Harbor fireworks"
+      ],
+      "ja": [
+        "香港旧正月連休、ビクトリアハーバー花火大会"
+      ],
+      "zh": [
+        "香港农历新年假期，维多利亚港烟花"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度81%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "중국 설날 퍼레이드 (1~2월)",
+        "빅토리아 항구 불꽃놀이"
+      ],
+      "en": [
+        "Chinese New Year Parade (January-February)",
+        "Victoria Harbor Fireworks"
+      ],
+      "ja": [
+        "中国の旧正月パレード（1〜2月）",
+        "ビクトリアハーバー花火大会"
+      ],
+      "zh": [
+        "农历新年游行（一月至二月）",
+        "维多利亚港烟花"
+      ]
+    },
     "tips": [],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -47,17 +156,52 @@
     "regionId": "hong-kong",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 쾌청한 날씨와 딤섬 브런치",
-    "highlights": [
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 14일로 실내 대안 준비 권장",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 쾌청한 날씨와 딤섬 브런치",
+      "en": "Spring begins, sunny weather and dim sum brunch",
+      "ja": "春の始まり、陽気な天気と点心ブランチ",
+      "zh": "春天来了，天气晴朗，点心早午餐"
+    },
+    "highlights": {
+      "ko": [
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "快適な気温"
+      ],
+      "zh": [
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 14일로 실내 대안 준비 권장",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 14 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "雨の日が14日で屋内代替準備を推奨",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "14个阴雨天，建议室内替代准备",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -65,22 +209,77 @@
     "regionId": "hong-kong",
     "month": 4,
     "rating": 2,
-    "summary": "따뜻한 봄, 란타우섬 하이킹과 야경",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 180mm로 우기에 해당",
-      "월 16.8일 비가 와 야외 일정에 유의",
-      "습도 86%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "따뜻한 봄, 란타우섬 하이킹과 야경",
+      "en": "Warm spring, Lantau Island hiking and night view",
+      "ja": "暖かい春、ランタウ島のハイキングと夜景",
+      "zh": "暖春大屿山徒步夜景"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 180mm로 우기에 해당",
+        "월 16.8일 비가 와 야외 일정에 유의",
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 180mm, corresponding to the rainy season",
+        "About 17 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "月降水量180mmで雨季に対応",
+        "月16.8日雨と屋外のスケジュールに注意",
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "每月降雨量180毫米，对应雨季",
+        "月均约17天降雨，注意安排户外行程",
+        "湿度86%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -88,22 +287,77 @@
     "regionId": "hong-kong",
     "month": 5,
     "rating": 2,
-    "summary": "점점 덥고 습해지는 과도기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 313mm로 우기에 해당",
-      "월 23.4일 비가 와 야외 일정에 유의",
-      "습도 89%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "점점 덥고 습해지는 과도기",
+      "en": "A transitional period where it becomes increasingly hot and humid",
+      "ja": "暑くて湿った過渡期",
+      "zh": "变得越来越炎热和潮湿的过渡时期"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 313mm로 우기에 해당",
+        "월 23.4일 비가 와 야외 일정에 유의",
+        "습도 89%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 313mm, corresponding to the rainy season",
+        "About 23 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 89%"
+      ],
+      "ja": [
+        "月降水量313mmで雨季に対応",
+        "月23.4日雨と屋外のスケジュールに注意",
+        "湿度89％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量313毫米，对应雨季",
+        "月均约23天降雨，注意安排户外行程",
+        "湿度89%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -111,25 +365,94 @@
     "regionId": "hong-kong",
     "month": 6,
     "rating": 1,
-    "summary": "태풍 시즌 시작, 무더위와 집중 호우",
-    "highlights": [
-      "드래곤보트 레이스 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 344mm로 우기에 해당",
-      "월 29.2일 비가 와 야외 일정에 유의",
-      "습도 90%로 불쾌지수 높음"
-    ],
-    "events": [
-      "드래곤 보트 페스티벌 (6월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "summary": {
+      "ko": "태풍 시즌 시작, 무더위와 집중 호우",
+      "en": "Typhoon season begins, sweltering heat and torrential rain",
+      "ja": "台風シーズン開始、暑さと集中豪雨",
+      "zh": "台风季来临，酷暑暴雨"
+    },
+    "highlights": {
+      "ko": [
+        "드래곤보트 레이스 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Dragon Boat Race Season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "ドラゴンボートレースシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "龙舟赛季",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 344mm로 우기에 해당",
+        "월 29.2일 비가 와 야외 일정에 유의",
+        "습도 90%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 344mm, corresponding to the rainy season",
+        "About 29 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with 90% humidity"
+      ],
+      "ja": [
+        "月降水量344mmで雨季に対応",
+        "月29.2日雨と屋外のスケジュールに注意",
+        "湿度90％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量344毫米，对应雨季",
+        "月均约29天降雨，注意安排户外行程",
+        "湿度90%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "드래곤 보트 페스티벌 (6월)"
+      ],
+      "en": [
+        "Dragon Boat Festival (June)"
+      ],
+      "ja": [
+        "ドラゴンボートフェスティバル（6月）"
+      ],
+      "zh": [
+        "端午节（六月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -137,22 +460,77 @@
     "regionId": "hong-kong",
     "month": 7,
     "rating": 1,
-    "summary": "태풍 빈발, 폭염과 폭우의 복합 위협",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "따뜻한 날씨로 해변 활동에 적합"
-    ],
-    "cautions": [
-      "월 강수량 269mm로 우기에 해당",
-      "월 26일 비가 와 야외 일정에 유의",
-      "습도 87%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "태풍 빈발, 폭염과 폭우의 복합 위협",
+      "en": "Frequent typhoons, combined threat of heat waves and heavy rain",
+      "ja": "台風の頻発、爆炎と大雨の複合脅威",
+      "zh": "台风频繁，热浪和暴雨双重威胁"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "따뜻한 날씨로 해변 활동에 적합"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Warm weather perfect for beach activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "暖かい天候でビーチアクティビティに最適"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "温暖的天气非常适合海滩活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 269mm로 우기에 해당",
+        "월 26일 비가 와 야외 일정에 유의",
+        "습도 87%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 269mm, corresponding to the rainy season",
+        "It will rain on the 26th of March so be careful about outdoor schedules",
+        "High discomfort index with humidity of 87%"
+      ],
+      "ja": [
+        "月降水量269mmで雨季に対応",
+        "月26日雨と屋外のスケジュールに注意",
+        "湿度87％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量269毫米，对应雨季",
+        "3月26日有雨，注意户外行程",
+        "湿度87%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -160,22 +538,77 @@
     "regionId": "hong-kong",
     "month": 8,
     "rating": 1,
-    "summary": "태풍 절정기, 호텔에 갇히는 날도 있는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 379mm로 우기에 해당",
-      "월 27.4일 비가 와 야외 일정에 유의",
-      "습도 89%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "태풍 절정기, 호텔에 갇히는 날도 있는 시기",
+      "en": "The peak season of typhoons, a time when there are days when you are stuck in a hotel",
+      "ja": "台風絶頂期、ホテルに閉じ込められる日もある時期",
+      "zh": "台风高峰期，有时会被困在酒店"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 379mm로 우기에 해당",
+        "월 27.4일 비가 와 야외 일정에 유의",
+        "습도 89%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 379mm, corresponding to the rainy season",
+        "About 27 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 89%"
+      ],
+      "ja": [
+        "月降水量379mmで雨季に対応",
+        "月27.4日雨と屋外のスケジュールに注意",
+        "湿度89％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量379毫米，对应雨季",
+        "月均约27天降雨，注意安排户外行程",
+        "湿度89%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -183,22 +616,77 @@
     "regionId": "hong-kong",
     "month": 9,
     "rating": 1,
-    "summary": "태풍 리스크 지속, 장마처럼 비 잦음",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 338mm로 우기에 해당",
-      "월 23.8일 비가 와 야외 일정에 유의",
-      "습도 87%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "태풍 리스크 지속, 장마처럼 비 잦음",
+      "en": "Typhoon risk continues, frequent rain like monsoon season",
+      "ja": "台風リスクの持続、梅雨のように雨が多い",
+      "zh": "台风风险持续，雨季频繁"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 338mm로 우기에 해당",
+        "월 23.8일 비가 와 야외 일정에 유의",
+        "습도 87%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly rainfall is 338mm, corresponding to the rainy season.",
+        "About 24 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 87%"
+      ],
+      "ja": [
+        "月降水量338mmで雨季に対応",
+        "月23.8日雨と屋外のスケジュールに注意",
+        "湿度87％で不快指数が高い"
+      ],
+      "zh": [
+        "月降雨量338毫米，对应雨季。",
+        "月均约24天降雨，注意安排户外行程",
+        "湿度87%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -206,26 +694,98 @@
     "regionId": "hong-kong",
     "month": 10,
     "rating": 2,
-    "summary": "태풍 마무리, 가을 맑은 하늘 시작",
-    "highlights": [
-      "가을 선선한 날씨, 홍콩 최고 여행 시기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "월 강수량 212mm로 우기에 해당",
-      "비 오는 날이 10.6일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
-    "events": [
-      "홍콩 와인 앤 다인 페스티벌 (10~11월)",
-      "홍콩 럭비 세번스 (11월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "태풍 마무리, 가을 맑은 하늘 시작",
+      "en": "Typhoon ends, autumn clear skies begin",
+      "ja": "台風仕上げ、秋の澄んだ空が始まります",
+      "zh": "台风结束，秋高气爽"
+    },
+    "highlights": {
+      "ko": [
+        "가을 선선한 날씨, 홍콩 최고 여행 시기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Cool weather in fall, the best time to travel to Hong Kong",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "秋の涼しい天気、香港の最高旅行時期",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋季天气凉爽，去香港旅游最佳时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 212mm로 우기에 해당",
+        "비 오는 날이 10.6일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 212mm, corresponding to the rainy season",
+        "With 10.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "月降水量212mmで雨季に対応",
+        "雨の日が10.6日で屋内代替準備を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "月降水量212毫米，对应雨季",
+        "10.6阴雨天，建议室内替代准备",
+        "湿度有点高，76%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "홍콩 와인 앤 다인 페스티벌 (10~11월)",
+        "홍콩 럭비 세번스 (11월)"
+      ],
+      "en": [
+        "Hong Kong Wine & Dine Festival (October-November)",
+        "Hong Kong Rugby Severns (November)"
+      ],
+      "ja": [
+        "香港ワイン＆ダインフェスティバル（10〜11月）",
+        "香港ラグビーセバンズ（11月）"
+      ],
+      "zh": [
+        "香港美酒佳肴节（十月至十一月）",
+        "香港赛文斯橄榄球赛（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -233,23 +793,86 @@
     "regionId": "hong-kong",
     "month": 11,
     "rating": 4,
-    "summary": "가을 절정, 빅토리아 피크 야경 최적기",
-    "highlights": [
-      "가을 선선한 날씨, 홍콩 최고 여행 시기",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 127mm로 우산 필수",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "홍콩 와인 앤 다인 페스티벌 (10~11월)",
-      "홍콩 럭비 세번스 (11월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "가을 절정, 빅토리아 피크 야경 최적기",
+      "en": "Autumn peak, the best time to view Victoria Peak at night",
+      "ja": "秋のピーク、ビクトリアピークの夜景最適期",
+      "zh": "秋峰，夜观太平山的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "가을 선선한 날씨, 홍콩 최고 여행 시기",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Cool weather in fall, the best time to travel to Hong Kong",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "秋の涼しい天気、香港の最高旅行時期",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋季天气凉爽，去香港旅游最佳时节",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 127mm로 우산 필수",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 127mm, so an umbrella is a must",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "降水量は 127mm なので傘は必須です",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "降雨量127毫米，雨伞必备",
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "홍콩 와인 앤 다인 페스티벌 (10~11월)",
+        "홍콩 럭비 세번스 (11월)"
+      ],
+      "en": [
+        "Hong Kong Wine & Dine Festival (October-November)",
+        "Hong Kong Rugby Severns (November)"
+      ],
+      "ja": [
+        "香港ワイン＆ダインフェスティバル（10〜11月）",
+        "香港ラグビーセバンズ（11月）"
+      ],
+      "zh": [
+        "香港美酒佳肴节（十月至十一月）",
+        "香港赛文斯橄榄球赛（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -257,14 +880,35 @@
     "regionId": "hong-kong",
     "month": 12,
     "rating": 4,
-    "summary": "크리스마스 일루미네이션, 홍콩 연말의 화려함",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "크리스마스 일루미네이션, 홍콩 연말의 화려함",
+      "en": "Christmas illuminations, Hong Kong’s year-end splendor",
+      "ja": "クリスマスイルミネーション、香港年末の華やかさ",
+      "zh": "圣诞灯饰，香港年末绚烂"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
     "events": [],
     "tips": [],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   }

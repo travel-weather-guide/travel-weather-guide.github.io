@@ -3,20 +3,69 @@
     "regionId": "amsterdam",
     "month": 1,
     "rating": 1,
-    "summary": "추운 겨울이지만 뮤지엄 투어(반고흐·국립) 적기",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도 86%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "추운 겨울이지만 뮤지엄 투어(반고흐·국립) 적기",
+      "en": "It's cold winter, but it's a good time for museum tours (Van Gogh, National)",
+      "ja": "寒い冬だがミュージアムツアー(バンゴッホ・国立) 赤旗",
+      "zh": "冬天虽冷，却正是参观博物馆的好时机（梵高、国立）"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도 86%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "With 13.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 86%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "雨の日が13.6日で屋内代替案を推奨",
+        "湿度86％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "13.6阴雨天，建议室内替代准备",
+        "湿度86%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -24,17 +73,52 @@
     "regionId": "amsterdam",
     "month": 2,
     "rating": 1,
-    "summary": "겨울 마지막, 운하 결빙 시 스케이팅 가능",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 16일 비가 와 야외 일정에 유의",
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 마지막, 운하 결빙 시 스케이팅 가능",
+      "en": "At the end of winter, skating is possible when the canals freeze",
+      "ja": "冬の終わり、運河の氷結時にスケート可能",
+      "zh": "冬末运河结冰时可以滑冰"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 16일 비가 와 야외 일정에 유의",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "It's raining on the 16th, so be careful about outdoor schedules",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "月16日雨と屋外のスケジュールに注意",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "16号有雨，户外行程要注意",
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -42,17 +126,52 @@
     "regionId": "amsterdam",
     "month": 3,
     "rating": 2,
-    "summary": "쿠켄호프 개장, 튤립 시즌 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 12일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "쿠켄호프 개장, 튤립 시즌 시작",
+      "en": "Keukenhof opens, tulip season begins",
+      "ja": "クッケンホフオープン、チューリップシーズンスタート",
+      "zh": "库肯霍夫公园开放，郁金香季节开始"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "As the rainy day is on the 12th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "雨の日が12日で屋内代替準備を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "由于12号是雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -60,23 +179,86 @@
     "regionId": "amsterdam",
     "month": 4,
     "rating": 3,
-    "summary": "킹스 데이·쿠켄호프 절정, 온 도시가 오렌지 물결",
-    "highlights": [
-      "쿠켄호프 튤립 시즌 — 세계 최대 꽃 공원",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 11.2일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "쿠켄호프 튤립 축제 (3~5월)",
-      "킹스 데이 (4월 27일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "summary": {
+      "ko": "킹스 데이·쿠켄호프 절정, 온 도시가 오렌지 물결",
+      "en": "King's Day, Keukenhof peak, the whole city is filled with orange waves",
+      "ja": "キングスデー・キューケンホフの最盛期、街中がオレンジ一色",
+      "zh": "国王节，库肯霍夫山顶，整个城市弥漫着橙色的波浪"
+    },
+    "highlights": {
+      "ko": [
+        "쿠켄호프 튤립 시즌 — 세계 최대 꽃 공원",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Keukenhof Tulip Season — The World's Largest Flower Park",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "クッケンホフチューリップシーズン - 世界最大の花公園",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "库肯霍夫郁金香季——世界上最大的花卉公园",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.2일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "With 11.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "雨の日が11.2日で屋内代替準備を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "11.2阴雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "쿠켄호프 튤립 축제 (3~5월)",
+        "킹스 데이 (4월 27일)"
+      ],
+      "en": [
+        "Keukenhof Tulip Festival (March-May)",
+        "King's Day (April 27)"
+      ],
+      "ja": [
+        "クッケンホフチューリップフェスティバル（3〜5月）",
+        "キングスデー（4月27日）"
+      ],
+      "zh": [
+        "库肯霍夫郁金香节（三月至五月）",
+        "国王节（4 月 27 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -84,23 +266,86 @@
     "regionId": "amsterdam",
     "month": 5,
     "rating": 3,
-    "summary": "쿠켄호프 마지막 & 쾌적한 봄, 자전거 투어 최적기",
-    "highlights": [
-      "쿠켄호프 튤립 시즌 — 세계 최대 꽃 공원",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 13.2일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "쿠켄호프 튤립 축제 (3~5월)",
-      "킹스 데이 (4월 27일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "쿠켄호프 마지막 & 쾌적한 봄, 자전거 투어 최적기",
+      "en": "Keukenhof Last & Pleasant Spring, Best Time for Bicycle Tour",
+      "ja": "クッケンホフ最後＆快適な春、自転車ツアー最適機",
+      "zh": "库肯霍夫最后一个宜人的春天，自行车之旅的最佳时间"
+    },
+    "highlights": {
+      "ko": [
+        "쿠켄호프 튤립 시즌 — 세계 최대 꽃 공원",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Keukenhof Tulip Season — The World's Largest Flower Park",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "クッケンホフチューリップシーズン - 世界最大の花公園",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "库肯霍夫郁金香季——世界上最大的花卉公园",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.2일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "With 13.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "雨の日が13.2日で屋内代替案を推奨",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "13.2阴雨天，建议室内替代准备",
+        "湿度有点高，78%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "쿠켄호프 튤립 축제 (3~5월)",
+        "킹스 데이 (4월 27일)"
+      ],
+      "en": [
+        "Keukenhof Tulip Festival (March-May)",
+        "King's Day (April 27)"
+      ],
+      "ja": [
+        "クッケンホフチューリップフェスティバル（3〜5月）",
+        "キングスデー（4月27日）"
+      ],
+      "zh": [
+        "库肯霍夫郁金香节（三月至五月）",
+        "国王节（4 月 27 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -108,23 +353,86 @@
     "regionId": "amsterdam",
     "month": 6,
     "rating": 3,
-    "summary": "초여름, 운하 보트 투어와 야외 테라스 시즌 개막",
-    "highlights": [
-      "운하 보트 투어와 야외 테라스 시즌",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 11.6일로 실내 대안 준비 권장",
-      "습도가 75%로 다소 높음"
-    ],
-    "events": [
-      "암스테르담 프라이드 (8월)",
-      "암스테르담 음악제 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "초여름, 운하 보트 투어와 야외 테라스 시즌 개막",
+      "en": "Early summer, canal boat tours and outdoor terrace season opens",
+      "ja": "初夏、運河ボートツアーと屋外テラスのシーズン開幕",
+      "zh": "初夏，运河游船和户外露台季节开启"
+    },
+    "highlights": {
+      "ko": [
+        "운하 보트 투어와 야외 테라스 시즌",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Canal Boat Tours and Outdoor Terrace Season",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "運河ボートツアーと屋外テラスシーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "运河游船之旅和户外露台季节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.6일로 실내 대안 준비 권장",
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "With 11.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "雨の日が11.6日で屋内代替案を推奨",
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "11.6阴雨天，建议室内替代准备",
+        "湿度有点高，为 75%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "암스테르담 프라이드 (8월)",
+        "암스테르담 음악제 (8월)"
+      ],
+      "en": [
+        "Amsterdam Pride (August)",
+        "Amsterdam Music Festival (August)"
+      ],
+      "ja": [
+        "アムステルダムプライド（8月）",
+        "アムステルダム音楽祭（8月）"
+      ],
+      "zh": [
+        "阿姆斯特丹骄傲节（八月）",
+        "阿姆斯特丹音乐节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -132,23 +440,86 @@
     "regionId": "amsterdam",
     "month": 7,
     "rating": 3,
-    "summary": "여름 성수기, 암스테르담 프라이드 퍼레이드",
-    "highlights": [
-      "운하 보트 투어와 야외 테라스 시즌",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "월 17일 비가 와 야외 일정에 유의",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "암스테르담 프라이드 (8월)",
-      "암스테르담 음악제 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 성수기, 암스테르담 프라이드 퍼레이드",
+      "en": "Summer peak season, Amsterdam Pride Parade",
+      "ja": "夏のハイシーズン、アムステルダムプライドパレード",
+      "zh": "夏季旺季，阿姆斯特丹骄傲游行"
+    },
+    "highlights": {
+      "ko": [
+        "운하 보트 투어와 야외 테라스 시즌",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Canal Boat Tours and Outdoor Terrace Season",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "運河ボートツアーと屋外テラスシーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "运河游船之旅和户外露台季节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 17일 비가 와 야외 일정에 유의",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "It's raining on the 17th, so be careful about outdoor schedules",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "月17日雨と屋外のスケジュールに注意",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "17号有雨，户外行程要注意",
+        "湿度有点高，78%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "암스테르담 프라이드 (8월)",
+        "암스테르담 음악제 (8월)"
+      ],
+      "en": [
+        "Amsterdam Pride (August)",
+        "Amsterdam Music Festival (August)"
+      ],
+      "ja": [
+        "アムステルダムプライド（8月）",
+        "アムステルダム音楽祭（8月）"
+      ],
+      "zh": [
+        "阿姆斯特丹骄傲节（八月）",
+        "阿姆斯特丹音乐节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -156,24 +527,90 @@
     "regionId": "amsterdam",
     "month": 8,
     "rating": 3,
-    "summary": "여름 절정, 운하 유람과 야외 마켓 전성기",
-    "highlights": [
-      "운하 보트 투어와 야외 테라스 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 13.6일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
-    "events": [
-      "암스테르담 프라이드 (8월)",
-      "암스테르담 음악제 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "여름 절정, 운하 유람과 야외 마켓 전성기",
+      "en": "The peak of summer, the heyday of canal cruises and outdoor markets",
+      "ja": "夏のピーク、運河クルーズと屋外マーケット全盛期",
+      "zh": "盛夏季节，运河游船和户外市场的鼎盛时期"
+    },
+    "highlights": {
+      "ko": [
+        "운하 보트 투어와 야외 테라스 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Canal Boat Tours and Outdoor Terrace Season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "運河ボートツアーと屋外テラスシーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "运河游船之旅和户外露台季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.6일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "With 13.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "雨の日が13.6日で屋内代替案を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "13.6阴雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "암스테르담 프라이드 (8월)",
+        "암스테르담 음악제 (8월)"
+      ],
+      "en": [
+        "Amsterdam Pride (August)",
+        "Amsterdam Music Festival (August)"
+      ],
+      "ja": [
+        "アムステルダムプライド（8月）",
+        "アムステルダム音楽祭（8月）"
+      ],
+      "zh": [
+        "阿姆斯特丹骄傲节（八月）",
+        "阿姆斯特丹音乐节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -181,19 +618,65 @@
     "regionId": "amsterdam",
     "month": 9,
     "rating": 3,
-    "summary": "선선한 초가을, 박물관 나이트 이벤트 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 12.2일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "선선한 초가을, 박물관 나이트 이벤트 시즌",
+      "en": "Cool early fall, museum night event season",
+      "ja": "涼しい初秋、博物館ナイトイベントシーズン",
+      "zh": "凉爽的初秋，博物馆之夜活动季节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.2일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "With 12.2 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "雨の日が12.2日で屋内代替案を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "12.2阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -201,20 +684,69 @@
     "regionId": "amsterdam",
     "month": 10,
     "rating": 1,
-    "summary": "가을비 시작, 실내 명소 & 브라운 카페 투어",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 119mm로 우산 필수",
-      "월 17.8일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "가을비 시작, 실내 명소 & 브라운 카페 투어",
+      "en": "Autumn rain begins, indoor attractions & Brown Cafe tour",
+      "ja": "秋雨開始、屋内スポット＆ブラウンカフェツアー",
+      "zh": "秋雨初起，室内景点&布朗咖啡馆之旅"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 119mm로 우산 필수",
+        "월 17.8일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 119mm, so an umbrella is a must",
+        "About 18 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "降水量が119mmで傘必須",
+        "月17.8日雨と屋外のスケジュールに注意",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量119毫米，雨伞必备",
+        "月均约18天降雨，注意安排户外行程",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -222,17 +754,52 @@
     "regionId": "amsterdam",
     "month": 11,
     "rating": 1,
-    "summary": "서늘한 가을, 반 고흐 미술관 여유롭게 감상",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 17일 비가 와 야외 일정에 유의",
-      "습도 87%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "서늘한 가을, 반 고흐 미술관 여유롭게 감상",
+      "en": "In the cool fall, enjoy the Van Gogh Museum leisurely",
+      "ja": "涼しい秋、ゴッホ美術館のんびり鑑賞",
+      "zh": "凉爽的秋天，悠闲地游览梵高博物馆"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 17일 비가 와 야외 일정에 유의",
+        "습도 87%로 불쾌지수 높음"
+      ],
+      "en": [
+        "It's raining on the 17th, so be careful about outdoor schedules",
+        "High discomfort index with humidity of 87%"
+      ],
+      "ja": [
+        "月17日雨と屋外のスケジュールに注意",
+        "湿度87％で不快指数が高い"
+      ],
+      "zh": [
+        "17号有雨，户外行程要注意",
+        "湿度87%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -240,19 +807,60 @@
     "regionId": "amsterdam",
     "month": 12,
     "rating": 1,
-    "summary": "크리스마스 마켓과 운하 일루미네이션 축제",
-    "highlights": [
-      "비수기로 관광객이 적어 여유로움",
-      "비수기 할인을 활용할 수 있는 시기"
-    ],
-    "cautions": [
-      "월 16.4일 비가 와 야외 일정에 유의",
-      "습도 89%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
+    "summary": {
+      "ko": "크리스마스 마켓과 운하 일루미네이션 축제",
+      "en": "Christmas Market and Canal Illumination Festival",
+      "ja": "クリスマスマーケットと運河イルミネーションフェスティバル",
+      "zh": "圣诞市场和运河灯光节"
+    },
+    "highlights": {
+      "ko": [
+        "비수기로 관광객이 적어 여유로움",
+        "비수기 할인을 활용할 수 있는 시기"
+      ],
+      "en": [
+        "There are fewer tourists in the off-season, so you can relax",
+        "When to Take Advantage of Off-Season Discounts"
+      ],
+      "ja": [
+        "オフシーズンで観光客が少なくてのんびり",
+        "オフシーズン割引を利用できる時期"
+      ],
+      "zh": [
+        "淡季游客较少，可以放松一下",
+        "何时利用淡季折扣"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 16.4일 비가 와 야외 일정에 유의",
+        "습도 89%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "About 16 rainy days per month, plan outdoor activities accordingly",
+        "High discomfort index with humidity of 89%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "月16.4日雨と屋外のスケジュールに注意",
+        "湿度89％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "月均约16天降雨，注意安排户外行程",
+        "湿度89%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

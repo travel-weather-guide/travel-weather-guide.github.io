@@ -3,16 +3,48 @@
     "regionId": "rome",
     "month": 1,
     "rating": 2,
-    "summary": "겨울 비, 콜로세움 줄이 짧은 비수기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도 80%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 비, 콜로세움 줄이 짧은 비수기",
+      "en": "Off-season with winter rain and short lines at the Colosseum",
+      "ja": "冬の雨、コロシアムラインが短いシーズン",
+      "zh": "淡季有冬雨，罗马斗兽场的排队时间很短"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 80%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 80%"
+      ],
+      "ja": [
+        "湿度80％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度80%不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -20,19 +52,65 @@
     "regionId": "rome",
     "month": 2,
     "rating": 3,
-    "summary": "겨울 끝자락, 카니발과 저렴한 항공권",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울 끝자락, 카니발과 저렴한 항공권",
+      "en": "End of winter, carnival and cheap flights",
+      "ja": "冬の終わり、カーニバルと格安航空券",
+      "zh": "冬末，嘉年华和廉价航班"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -40,18 +118,61 @@
     "regionId": "rome",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 로마 유적지 산책 좋은 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 로마 유적지 산책 좋은 시기",
+      "en": "Spring begins, a good time to walk through Roman ruins",
+      "ja": "春の始まり、ローマの遺跡の散歩良い時期",
+      "zh": "春天来了，正是漫步罗马废墟的好时机"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -59,22 +180,82 @@
     "regionId": "rome",
     "month": 4,
     "rating": 3,
-    "summary": "부활절 시즌, 봄꽃과 20°C의 완벽한 기온",
-    "highlights": [
-      "온화한 봄, 관광 적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 70%로 다소 높음"
-    ],
-    "events": [
-      "부활절 연휴 (3~4월)",
-      "로마 생일 (4월 21일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "부활절 시즌, 봄꽃과 20°C의 완벽한 기온",
+      "en": "Easter season, spring flowers and a perfect temperature of 20°C",
+      "ja": "イースターシーズン、春の花と20℃の完璧な気温",
+      "zh": "复活节季节，春天的花朵和 20°C 的完美温度"
+    },
+    "highlights": {
+      "ko": [
+        "온화한 봄, 관광 적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Mild spring, good time for tourism",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "穏やかな春、観光適期",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "春暖花开，旅游好时节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 70%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 70%"
+      ],
+      "ja": [
+        "湿度が70％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，70%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "부활절 연휴 (3~4월)",
+        "로마 생일 (4월 21일)"
+      ],
+      "en": [
+        "Easter Holidays (March~April)",
+        "Rome's Birthday (April 21)"
+      ],
+      "ja": [
+        "イースター連休（3～4月）",
+        "ローマの誕生日（4月21日）"
+      ],
+      "zh": [
+        "复活节假期（3月~4月）",
+        "罗马诞辰（4 月 21 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -82,23 +263,86 @@
     "regionId": "rome",
     "month": 5,
     "rating": 4,
-    "summary": "로마 봄의 절정, 관광 최적기",
-    "highlights": [
-      "온화한 봄, 관광 적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 11.2일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "부활절 연휴 (3~4월)",
-      "로마 생일 (4월 21일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "로마 봄의 절정, 관광 최적기",
+      "en": "The peak of spring in Rome, the best time for sightseeing",
+      "ja": "ローマ春の絶頂、観光最適機",
+      "zh": "罗马春意盎然，旅游最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "온화한 봄, 관광 적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Mild spring, good time for tourism",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "穏やかな春、観光適期",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "春暖花开，旅游好时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.2일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 11.2 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が11.2日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "11.2阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "부활절 연휴 (3~4월)",
+        "로마 생일 (4월 21일)"
+      ],
+      "en": [
+        "Easter Holidays (March~April)",
+        "Rome's Birthday (April 21)"
+      ],
+      "ja": [
+        "イースター連休（3～4月）",
+        "ローマの誕生日（4月21日）"
+      ],
+      "zh": [
+        "复活节假期（3月~4月）",
+        "罗马诞辰（4 月 21 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -106,18 +350,56 @@
     "regionId": "rome",
     "month": 6,
     "rating": 5,
-    "summary": "초여름, 긴 해와 야외 다이닝의 매력",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "초여름, 긴 해와 야외 다이닝의 매력",
+      "en": "Early summer, long days and the charm of outdoor dining",
+      "ja": "初夏、長年と屋外ダイニングの魅力",
+      "zh": "初夏，漫长的白天和户外用餐的魅力"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -125,21 +407,73 @@
     "regionId": "rome",
     "month": 7,
     "rating": 5,
-    "summary": "35°C 이상 더위, 혼잡하지만 관광은 가능",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
-    "cautions": [
-      "평균 최고기온 34°C로 더위에 주의"
-    ],
+    "summary": {
+      "ko": "35°C 이상 더위, 혼잡하지만 관광은 가능",
+      "en": "Heat above 35°C, crowded but sightseeing is possible",
+      "ja": "35℃以上の暑さ、混雑しているが観光は可能",
+      "zh": "35℃以上高温，人多但可观光"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최고기온 34°C로 더위에 주의"
+      ],
+      "en": [
+        "Be careful of the heat as the average maximum temperature is 34°C"
+      ],
+      "ja": [
+        "平均最高気温34°Cで暑さに注意"
+      ],
+      "zh": [
+        "平均最高气温34°C，请注意防暑"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -147,18 +481,56 @@
     "regionId": "rome",
     "month": 8,
     "rating": 5,
-    "summary": "폭염 지속, 현지인은 떠나고 관광객이 채우는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "폭염 지속, 현지인은 떠나고 관광객이 채우는 시기",
+      "en": "As the heat wave continues, the time when locals leave and tourists fill up",
+      "ja": "猛烈な持続、地元の人は去って観光客が満たされる時期",
+      "zh": "随着热浪的持续，当地人离开、游客挤满的时间"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -166,20 +538,69 @@
     "regionId": "rome",
     "month": 9,
     "rating": 4,
-    "summary": "관광객 줄고 25°C의 완벽한 가을",
-    "highlights": [
-      "가을 로마, 관광객 감소 쾌적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "관광객 줄고 25°C의 완벽한 가을",
+      "en": "Fewer tourists and perfect autumn at 25°C",
+      "ja": "観光客を減らし、25°Cの完璧な秋",
+      "zh": "游客较少，25°C 的完美秋季"
+    },
+    "highlights": {
+      "ko": [
+        "가을 로마, 관광객 감소 쾌적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn Rome, pleasant decrease in tourists",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "秋のローマ、観光客の減少快適",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋天的罗马，游客减少可喜",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "로마 영화제 (10월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "로마 영화제 (10월)"
+      ],
+      "en": [
+        "Rome Film Festival (October)"
+      ],
+      "ja": [
+        "ローマ映画祭（10月）"
+      ],
+      "zh": [
+        "罗马电影节（十月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -187,23 +608,86 @@
     "regionId": "rome",
     "month": 10,
     "rating": 3,
-    "summary": "가을 미식 시즌, 포도 수확과 와인 축제",
-    "highlights": [
-      "가을 로마, 관광객 감소 쾌적",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 10.6일로 실내 대안 준비 권장",
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "로마 영화제 (10월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "가을 미식 시즌, 포도 수확과 와인 축제",
+      "en": "Autumn gastronomic season, grape harvest and wine festival",
+      "ja": "秋のグルメシーズン、ビンテージとワインフェスティバル",
+      "zh": "秋季美食季、葡萄收获与葡萄酒节"
+    },
+    "highlights": {
+      "ko": [
+        "가을 로마, 관광객 감소 쾌적",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn Rome, pleasant decrease in tourists",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "秋のローマ、観光客の減少快適",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋天的罗马，游客减少可喜",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.6일로 실내 대안 준비 권장",
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "With 10.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "雨の日が10.6日で屋内代替準備を推奨",
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "10.6阴雨天，建议室内替代准备",
+        "湿度有点高，78%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "로마 영화제 (10월)"
+      ],
+      "en": [
+        "Rome Film Festival (October)"
+      ],
+      "ja": [
+        "ローマ映画祭（10月）"
+      ],
+      "zh": [
+        "罗马电影节（十月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -211,20 +695,69 @@
     "regionId": "rome",
     "month": 11,
     "rating": 2,
-    "summary": "쌀쌀해지지만 관광객 적어 여유로운 시기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 139mm로 우산 필수",
-      "비 오는 날이 11.4일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "쌀쌀해지지만 관광객 적어 여유로운 시기",
+      "en": "It gets chilly, but there are fewer tourists so it’s a leisurely time",
+      "ja": "肌寒くなるが観光客少なくゆったりとした時期",
+      "zh": "天冷了，但是游客少了，很悠闲"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 139mm로 우산 필수",
+        "비 오는 날이 11.4일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 139mm, so an umbrella is a must",
+        "With 11.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "降水量は 139mm なので傘は必須です",
+        "雨の日が11.4日で屋内代替準備を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量139毫米，雨伞必备",
+        "11.4阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -232,20 +765,69 @@
     "regionId": "rome",
     "month": 12,
     "rating": 2,
-    "summary": "겨울 비, 크리스마스의 바티칸",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 131mm로 우산 필수",
-      "비 오는 날이 11.6일로 실내 대안 준비 권장",
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 비, 크리스마스의 바티칸",
+      "en": "Winter Rain, Vatican at Christmas",
+      "ja": "冬の雨、クリスマスのバチカン",
+      "zh": "冬雨，梵蒂冈圣诞节"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 131mm로 우산 필수",
+        "비 오는 날이 11.6일로 실내 대안 준비 권장",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 131mm, so an umbrella is a must",
+        "With 11.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "降水量は 131mm なので傘は必須です",
+        "雨の日が11.6日で屋内代替案を推奨",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量131毫米，雨伞必备",
+        "11.6阴雨天，建议室内替代准备",
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -253,18 +835,61 @@
     "regionId": "venice",
     "month": 1,
     "rating": 1,
-    "summary": "겨울 추위, 안개와 아쿠아 알타(침수) 위험",
-    "highlights": [
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 추위, 안개와 아쿠아 알타(침수) 위험",
+      "en": "Winter cold, fog and Aqua Alta (flooding) risk",
+      "ja": "冬の寒さ、霧とアクアアルタ（浸水）の危険",
+      "zh": "冬季寒冷、大雾和 Aqua Alta（洪水）风险"
+    },
+    "highlights": {
+      "ko": [
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -272,19 +897,65 @@
     "regionId": "venice",
     "month": 2,
     "rating": 3,
-    "summary": "베네치아 카니발 시즌, 추위에도 축제 분위기",
-    "highlights": [
-      "베네치아 카니발",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [
-      "베네치아 카니발 (2월)"
-    ],
+    "summary": {
+      "ko": "베네치아 카니발 시즌, 추위에도 축제 분위기",
+      "en": "Venice Carnival season, festive atmosphere even in the cold",
+      "ja": "ベネチアカーニバルシーズン、寒さにもお祭りの雰囲気",
+      "zh": "威尼斯狂欢季，寒冷中也有节日气氛"
+    },
+    "highlights": {
+      "ko": [
+        "베네치아 카니발",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Venetian Carnival",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "ヴェネツィアカーニバル",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "威尼斯嘉年华",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度81%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "베네치아 카니발 (2월)"
+      ],
+      "en": [
+        "Venetian Carnival (February)"
+      ],
+      "ja": [
+        "ヴェネツィアカーニバル（2月）"
+      ],
+      "zh": [
+        "威尼斯狂欢节（二月）"
+      ]
+    },
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -292,18 +963,61 @@
     "regionId": "venice",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 카니발 후 관광객 줄어드는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 75%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 카니발 후 관광객 줄어드는 시기",
+      "en": "The beginning of spring, the time when tourists decrease after Carnival",
+      "ja": "春の始まり、カーニバル後に観光客が減る時期",
+      "zh": "立春，狂欢过后游客减少的时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 75%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 75%"
+      ],
+      "ja": [
+        "湿度が75％とやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 75%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -311,22 +1025,82 @@
     "regionId": "venice",
     "month": 4,
     "rating": 3,
-    "summary": "봄 한가운데, 곤돌라 타기 좋은 시기",
-    "highlights": [
-      "수상도시 봄·가을 황금기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "베네치아 비엔날레 (홀수 해)",
-      "베네치아 영화제 (8월 말~9월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "봄 한가운데, 곤돌라 타기 좋은 시기",
+      "en": "Mid-spring, a good time to ride a gondola",
+      "ja": "春の真ん中、ゴンドラに乗るのに良い時期",
+      "zh": "仲春时节，正是乘坐贡多拉的好时节"
+    },
+    "highlights": {
+      "ko": [
+        "수상도시 봄·가을 황금기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "The golden age of spring and fall in the floating city",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "水上都市春・秋の黄金期",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "浮城春秋黄金岁月",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "베네치아 비엔날레 (홀수 해)",
+        "베네치아 영화제 (8월 말~9월)"
+      ],
+      "en": [
+        "Venice Biennale (odd years)",
+        "Venice Film Festival (late August - September)"
+      ],
+      "ja": [
+        "ヴェネツィアビエンナーレ（奇数年）",
+        "ヴェネツィア映画祭（8月末～9月）"
+      ],
+      "zh": [
+        "威尼斯双年展（奇数年）",
+        "威尼斯电影节（八月下旬至九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -334,25 +1108,94 @@
     "regionId": "venice",
     "month": 5,
     "rating": 3,
-    "summary": "비엔날레 시작, 20°C의 완벽한 운하 산책",
-    "highlights": [
-      "수상도시 봄·가을 황금기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 129mm로 우산 필수",
-      "비 오는 날이 14.2일로 실내 대안 준비 권장",
-      "습도가 74%로 다소 높음"
-    ],
-    "events": [
-      "베네치아 비엔날레 (홀수 해)",
-      "베네치아 영화제 (8월 말~9월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "비엔날레 시작, 20°C의 완벽한 운하 산책",
+      "en": "Biennale begins, perfect canal walk in 20°C",
+      "ja": "ビエンナーレの始まり、20℃の完璧な運河の散歩",
+      "zh": "双年展开幕，20°C完美运河漫步"
+    },
+    "highlights": {
+      "ko": [
+        "수상도시 봄·가을 황금기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "The golden age of spring and fall in the floating city",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "水上都市春・秋の黄金期",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "浮城春秋黄金岁月",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 129mm로 우산 필수",
+        "비 오는 날이 14.2일로 실내 대안 준비 권장",
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 129mm, so an umbrella is a must",
+        "With 14.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "降水量は 129mm なので傘は必須です",
+        "雨の日が14.2日で屋内代替準備を推奨",
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "降雨量129毫米，雨伞必备",
+        "14.2阴雨天，建议室内替代准备",
+        "湿度有点高，为 74%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "베네치아 비엔날레 (홀수 해)",
+        "베네치아 영화제 (8월 말~9월)"
+      ],
+      "en": [
+        "Venice Biennale (odd years)",
+        "Venice Film Festival (late August - September)"
+      ],
+      "ja": [
+        "ヴェネツィアビエンナーレ（奇数年）",
+        "ヴェネツィア映画祭（8月末～9月）"
+      ],
+      "zh": [
+        "威尼斯双年展（奇数年）",
+        "威尼斯电影节（八月下旬至九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -360,19 +1203,65 @@
     "regionId": "venice",
     "month": 6,
     "rating": 4,
-    "summary": "초여름, 따뜻하고 긴 해의 베네치아",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 74%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "초여름, 따뜻하고 긴 해의 베네치아",
+      "en": "Venice in early summer, warm and long days",
+      "ja": "初夏、暖かくて長い年のベネチア",
+      "zh": "初夏的威尼斯，温暖而漫长的白天"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 74%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 74%"
+      ],
+      "ja": [
+        "湿度が74％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 74%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -380,17 +1269,52 @@
     "regionId": "venice",
     "month": 7,
     "rating": 5,
-    "summary": "여름 더위, 운하 냄새와 관광객 혼잡",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "여름 더위, 운하 냄새와 관광객 혼잡",
+      "en": "Summer heat, canal smells and tourist crowds",
+      "ja": "夏の暑さ、運河の匂いと観光客の混雑",
+      "zh": "夏季炎热、运河气味和游客人群"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -398,17 +1322,52 @@
     "regionId": "venice",
     "month": 8,
     "rating": 5,
-    "summary": "더위와 혼잡, 운하 악취 주의",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "더위와 혼잡, 운하 악취 주의",
+      "en": "Beware of heat, congestion, and canal odor",
+      "ja": "暑さと混雑、運河の悪臭の注意",
+      "zh": "谨防炎热、拥堵和运河异味"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -416,23 +1375,86 @@
     "regionId": "venice",
     "month": 9,
     "rating": 4,
-    "summary": "베네치아 영화제, 가을의 낭만",
-    "highlights": [
-      "수상도시 봄·가을 황금기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "베네치아 비엔날레 (홀수 해)",
-      "베네치아 영화제 (8월 말~9월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "베네치아 영화제, 가을의 낭만",
+      "en": "Venice Film Festival, fall romance",
+      "ja": "ヴェネツィア映画祭、秋のロマンチック",
+      "zh": "威尼斯电影节，秋季浪漫"
+    },
+    "highlights": {
+      "ko": [
+        "수상도시 봄·가을 황금기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "The golden age of spring and fall in the floating city",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "水上都市春・秋の黄金期",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "浮城春秋黄金岁月",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "베네치아 비엔날레 (홀수 해)",
+        "베네치아 영화제 (8월 말~9월)"
+      ],
+      "en": [
+        "Venice Biennale (odd years)",
+        "Venice Film Festival (late August - September)"
+      ],
+      "ja": [
+        "ヴェネツィアビエンナーレ（奇数年）",
+        "ヴェネツィア映画祭（8月末～9月）"
+      ],
+      "zh": [
+        "威尼斯双年展（奇数年）",
+        "威尼斯电影节（八月下旬至九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -440,22 +1462,82 @@
     "regionId": "venice",
     "month": 10,
     "rating": 2,
-    "summary": "가을, 아쿠아 알타 시작될 수 있는 시기",
-    "highlights": [
-      "수상도시 봄·가을 황금기"
-    ],
-    "cautions": [
-      "강수량이 112mm로 우산 필수",
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [
-      "베네치아 비엔날레 (홀수 해)",
-      "베네치아 영화제 (8월 말~9월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "가을, 아쿠아 알타 시작될 수 있는 시기",
+      "en": "Fall, when Aqua Alta can start",
+      "ja": "秋、アクアアルタ始まることができる時期",
+      "zh": "秋天，Aqua Alta 可以开始"
+    },
+    "highlights": {
+      "ko": [
+        "수상도시 봄·가을 황금기"
+      ],
+      "en": [
+        "The golden age of spring and fall in the floating city"
+      ],
+      "ja": [
+        "水上都市春・秋の黄金期"
+      ],
+      "zh": [
+        "浮城春秋黄金岁月"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 112mm로 우산 필수",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 112mm, so an umbrella is a must",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "降水量が112mmで傘必須",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量112毫米，雨伞必备",
+        "湿度81%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "베네치아 비엔날레 (홀수 해)",
+        "베네치아 영화제 (8월 말~9월)"
+      ],
+      "en": [
+        "Venice Biennale (odd years)",
+        "Venice Film Festival (late August - September)"
+      ],
+      "ja": [
+        "ヴェネツィアビエンナーレ（奇数年）",
+        "ヴェネツィア映画祭（8月末～9月）"
+      ],
+      "zh": [
+        "威尼斯双年展（奇数年）",
+        "威尼斯电影节（八月下旬至九月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -463,16 +1545,48 @@
     "regionId": "venice",
     "month": 11,
     "rating": 1,
-    "summary": "아쿠아 알타(침수) 최빈 시즌, 산마르코 광장 잠김",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도가 79%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "아쿠아 알타(침수) 최빈 시즌, 산마르코 광장 잠김",
+      "en": "Aqua Alta (flooded) Best season, St. Mark's Square flooded",
+      "ja": "アクアアルタ（浸水）チェビンシーズン、サンマルコ広場ロック",
+      "zh": "Aqua Alta（被淹） 最佳季节，圣马可广场被淹"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，79%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -480,16 +1594,48 @@
     "regionId": "venice",
     "month": 12,
     "rating": 1,
-    "summary": "겨울, 안개와 침수 위험 지속",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도 84%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 안개와 침수 위험 지속",
+      "en": "Winter continues, risk of fog and flooding",
+      "ja": "冬は続く、霧と洪水の危険",
+      "zh": "冬天仍在继续，有雾和洪水的危险"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 84%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 84%"
+      ],
+      "ja": [
+        "湿度84％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度84%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -497,20 +1643,69 @@
     "regionId": "amalfi",
     "month": 1,
     "rating": 1,
-    "summary": "겨울, 대부분의 호텔·식당 폐업",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 143mm로 우산 필수",
-      "비 오는 날이 13.4일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 대부분의 호텔·식당 폐업",
+      "en": "Winter, most hotels and restaurants closed",
+      "ja": "冬はほとんどのホテルとレストランが休業",
+      "zh": "冬天，大部分酒店和餐馆关门"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 143mm로 우산 필수",
+        "비 오는 날이 13.4일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 143mm, so an umbrella is a must",
+        "With 13.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "降水量は 143 mm なので傘は必須です",
+        "雨の日が13.4日で屋内代替案を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量143毫米，雨伞必备",
+        "13.4阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -518,18 +1713,61 @@
     "regionId": "amalfi",
     "month": 2,
     "rating": 3,
-    "summary": "겨울, 폐업 지속과 해안도로 위험",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 폐업 지속과 해안도로 위험",
+      "en": "Winter, continued business closures and coastal road danger",
+      "ja": "冬、継続的な営業停止と沿岸道路の危険",
+      "zh": "冬季，持续停业和沿海道路危险"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -537,21 +1775,73 @@
     "regionId": "amalfi",
     "month": 3,
     "rating": 2,
-    "summary": "봄 시작, 일부 시설 오픈 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 113mm로 우산 필수",
-      "비 오는 날이 13일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 일부 시설 오픈 시작",
+      "en": "Spring begins, some facilities begin to open",
+      "ja": "春の始まり、いくつかの施設のオープンスタート",
+      "zh": "春天来了，部分设施开始开放"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 113mm로 우산 필수",
+        "비 오는 날이 13일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 113mm, so an umbrella is a must",
+        "As the rainy day is the 13th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "降水量が113mmで傘必須",
+        "雨の日が13日で屋内代替準備を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "降雨量113毫米，雨伞必备",
+        "由于13号是雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -559,19 +1849,65 @@
     "regionId": "amalfi",
     "month": 4,
     "rating": 3,
-    "summary": "봄꽃 만개, 레몬 과수원이 아름다운 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 12일로 실내 대안 준비 권장",
-      "습도가 76%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄꽃 만개, 레몬 과수원이 아름다운 시기",
+      "en": "Spring flowers are in full bloom and the lemon orchards are beautiful.",
+      "ja": "春の花満開、レモン果樹園が美しい時期",
+      "zh": "春天鲜花盛开，柠檬园美丽。"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12일로 실내 대안 준비 권장",
+        "습도가 76%로 다소 높음"
+      ],
+      "en": [
+        "As the rainy day is on the 12th, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 76%"
+      ],
+      "ja": [
+        "雨の日が12日で屋内代替準備を推奨",
+        "湿度が76％でやや高い"
+      ],
+      "zh": [
+        "由于12号是雨天，建议室内替代准备",
+        "湿度有点高，76%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -579,24 +1915,90 @@
     "regionId": "amalfi",
     "month": 5,
     "rating": 3,
-    "summary": "레몬 시즌, 해안 절경과 따뜻한 바다",
-    "highlights": [
-      "지중해 절경 + 쾌적한 기온",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 12.2일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
-    "events": [
-      "아말피 레가타 (6월)",
-      "포지타노 해변 성수기"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "레몬 시즌, 해안 절경과 따뜻한 바다",
+      "en": "Lemon season, coastal scenery and warm sea",
+      "ja": "レモンシーズン、海岸の絶景と暖かい海",
+      "zh": "柠檬季节、海岸风光、温暖海水"
+    },
+    "highlights": {
+      "ko": [
+        "지중해 절경 + 쾌적한 기온",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Beautiful view of the Mediterranean + comfortable temperature",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "地中海絶景+快適な気温",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "地中海美景+舒适温度",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.2일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "With 12.2 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "雨の日が12.2日で屋内代替案を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "12.2阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "아말피 레가타 (6월)",
+        "포지타노 해변 성수기"
+      ],
+      "en": [
+        "Amalfi Regatta (June)",
+        "Positano beach peak season"
+      ],
+      "ja": [
+        "アマルフィレガッタ（6月）",
+        "ポジターノビーチハイシーズン"
+      ],
+      "zh": [
+        "阿马尔菲帆船赛（六月）",
+        "波西塔诺海滩旺季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -604,23 +2006,86 @@
     "regionId": "amalfi",
     "month": 6,
     "rating": 5,
-    "summary": "여름 시작, 해변과 리모첼로의 계절",
-    "highlights": [
-      "지중해 절경 + 쾌적한 기온",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
-    "events": [
-      "아말피 레가타 (6월)",
-      "포지타노 해변 성수기"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "여름 시작, 해변과 리모첼로의 계절",
+      "en": "Summer begins, the season of beaches and limocello",
+      "ja": "夏の始まり、ビーチとリモチェロの季節",
+      "zh": "夏天开始了，海滩和豪华轿车的季节"
+    },
+    "highlights": {
+      "ko": [
+        "지중해 절경 + 쾌적한 기온",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Beautiful view of the Mediterranean + comfortable temperature",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "地中海絶景+快適な気温",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "地中海美景+舒适温度",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "아말피 레가타 (6월)",
+        "포지타노 해변 성수기"
+      ],
+      "en": [
+        "Amalfi Regatta (June)",
+        "Positano beach peak season"
+      ],
+      "ja": [
+        "アマルフィレガッタ（6月）",
+        "ポジターノビーチハイシーズン"
+      ],
+      "zh": [
+        "阿马尔菲帆船赛（六月）",
+        "波西塔诺海滩旺季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -628,18 +2093,56 @@
     "regionId": "amalfi",
     "month": 7,
     "rating": 5,
-    "summary": "극심한 혼잡, 예약 없이는 못 가는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "극심한 혼잡, 예약 없이는 못 가는 시기",
+      "en": "Extremely crowded, times when you can't go without a reservation",
+      "ja": "激しい混雑、予約なしでは行けない時期",
+      "zh": "人潮拥挤，不预约就不能去"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "high"
   },
@@ -647,18 +2150,56 @@
     "regionId": "amalfi",
     "month": 8,
     "rating": 4,
-    "summary": "가장 혼잡한 시기, 인파와 더위",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "가장 혼잡한 시기, 인파와 더위",
+      "en": "Busiest time, crowds and heat",
+      "ja": "最も混雑した時期、人波と暑さ",
+      "zh": "最繁忙的时间、人群和炎热的天气"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -666,25 +2207,94 @@
     "regionId": "amalfi",
     "month": 9,
     "rating": 4,
-    "summary": "관광객 줄고 바다 여전히 따뜻한 최적기",
-    "highlights": [
-      "지중해 절경 + 쾌적한 기온",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 139mm로 우산 필수",
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "아말피 레가타 (6월)",
-      "포지타노 해변 성수기"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "관광객 줄고 바다 여전히 따뜻한 최적기",
+      "en": "Best time to visit with fewer tourists and still warm seas",
+      "ja": "観光客を減らす海まだ暖かい最適機",
+      "zh": "游客较少、海水依然温暖的最佳游览时间"
+    },
+    "highlights": {
+      "ko": [
+        "지중해 절경 + 쾌적한 기온",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Beautiful view of the Mediterranean + comfortable temperature",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "地中海絶景+快適な気温",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "地中海美景+舒适温度",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 139mm로 우산 필수",
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 139mm, so an umbrella is a must",
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "降水量は 139mm なので傘は必須です",
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "降雨量139毫米，雨伞必备",
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "아말피 레가타 (6월)",
+        "포지타노 해변 성수기"
+      ],
+      "en": [
+        "Amalfi Regatta (June)",
+        "Positano beach peak season"
+      ],
+      "ja": [
+        "アマルフィレガッタ（6月）",
+        "ポジターノビーチハイシーズン"
+      ],
+      "zh": [
+        "阿马尔菲帆船赛（六月）",
+        "波西塔诺海滩旺季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -692,26 +2302,98 @@
     "regionId": "amalfi",
     "month": 10,
     "rating": 3,
-    "summary": "가을, 레몬 수확과 여유로운 해안",
-    "highlights": [
-      "지중해 절경 + 쾌적한 기온",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 108mm로 우산 필수",
-      "비 오는 날이 10.4일로 실내 대안 준비 권장",
-      "습도 81%로 불쾌지수 높음"
-    ],
-    "events": [
-      "아말피 레가타 (6월)",
-      "포지타노 해변 성수기"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "가을, 레몬 수확과 여유로운 해안",
+      "en": "Autumn, lemon harvest and leisurely coast",
+      "ja": "秋、レモンの収穫とリラックスした海岸",
+      "zh": "秋天，柠檬丰收，悠闲海岸"
+    },
+    "highlights": {
+      "ko": [
+        "지중해 절경 + 쾌적한 기온",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Beautiful view of the Mediterranean + comfortable temperature",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "地中海絶景+快適な気温",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "地中海美景+舒适温度",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 108mm로 우산 필수",
+        "비 오는 날이 10.4일로 실내 대안 준비 권장",
+        "습도 81%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 108mm, so an umbrella is a must",
+        "With 10.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 81%"
+      ],
+      "ja": [
+        "降水量が108mmで傘必須",
+        "雨の日が10.4日で屋内代替案を推奨",
+        "湿度81％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量108毫米，雨伞必备",
+        "10.4阴雨天，建议室内替代准备",
+        "湿度81%，不适指数高"
+      ]
+    },
+    "events": {
+      "ko": [
+        "아말피 레가타 (6월)",
+        "포지타노 해변 성수기"
+      ],
+      "en": [
+        "Amalfi Regatta (June)",
+        "Positano beach peak season"
+      ],
+      "ja": [
+        "アマルフィレガッタ（6月）",
+        "ポジターノビーチハイシーズン"
+      ],
+      "zh": [
+        "阿马尔菲帆船赛（六月）",
+        "波西塔诺海滩旺季"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -719,20 +2401,69 @@
     "regionId": "amalfi",
     "month": 11,
     "rating": 2,
-    "summary": "비수기 시작, 시설 폐업 시작",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 223mm로 우기에 해당",
-      "비 오는 날이 14.6일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "비수기 시작, 시설 폐업 시작",
+      "en": "Off-season begins, facility closures begin",
+      "ja": "オフシーズン開始、施設廃業開始",
+      "zh": "淡季开始，设施关闭开始"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 223mm로 우기에 해당",
+        "비 오는 날이 14.6일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 223mm, corresponding to the rainy season",
+        "With 14.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "月降水量223mmで雨季に対応",
+        "雨の日が14.6日で屋内代替案を推奨",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量223毫米，对应雨季",
+        "14.6阴雨天，建议室内替代准备",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -740,20 +2471,69 @@
     "regionId": "amalfi",
     "month": 12,
     "rating": 1,
-    "summary": "겨울, 대부분 폐업",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "월 강수량 191mm로 우기에 해당",
-      "비 오는 날이 14.4일로 실내 대안 준비 권장",
-      "습도 83%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 대부분 폐업",
+      "en": "Winter, most businesses closed",
+      "ja": "冬はほとんどの店が閉まる",
+      "zh": "冬天，大多数企业关门"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "월 강수량 191mm로 우기에 해당",
+        "비 오는 날이 14.4일로 실내 대안 준비 권장",
+        "습도 83%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Monthly precipitation is 191mm, corresponding to the rainy season",
+        "With 14.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 83%"
+      ],
+      "ja": [
+        "月降水量191mmで雨季に対応",
+        "雨の日が14.4日で屋内代替案を推奨",
+        "湿度83％で不快指数が高い"
+      ],
+      "zh": [
+        "月降水量191毫米，对应雨季",
+        "14.4阴雨天，建议室内替代准备",
+        "湿度83%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -761,16 +2541,48 @@
     "regionId": "florence",
     "month": 1,
     "rating": 2,
-    "summary": "겨울 비수기, 우피치 미술관 한적한 관람",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울 비수기, 우피치 미술관 한적한 관람",
+      "en": "Winter off-season, quiet visit to the Uffizi Gallery",
+      "ja": "冬のシーズン、ウピッチ美術館の静かな観覧",
+      "zh": "冬季淡季，安静逛乌菲兹美术馆"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -778,16 +2590,48 @@
     "regionId": "florence",
     "month": 2,
     "rating": 2,
-    "summary": "카니발 시즌, 이탈리아 전통 축제 분위기",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "카니발 시즌, 이탈리아 전통 축제 분위기",
+      "en": "Carnival season, Italian traditional festival atmosphere",
+      "ja": "カーニバルシーズン、イタリアの伝統的な祭りの雰囲気",
+      "zh": "狂欢季，意大利传统节日气氛"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -795,18 +2639,61 @@
     "regionId": "florence",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 보볼리 정원 꽃 피기 시작",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 보볼리 정원 꽃 피기 시작",
+      "en": "Spring begins, Boboli Garden flowers begin to bloom",
+      "ja": "春の始まり、ボボリーガーデンの花が咲き始める",
+      "zh": "春天来了，波波里花园鲜花开始绽放"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -814,21 +2701,78 @@
     "regionId": "florence",
     "month": 4,
     "rating": 3,
-    "summary": "봄 피렌체, 아이리스 가든과 두오모 산책",
-    "highlights": [
-      "봄 피렌체, 두오모와 아르노 강변 산책 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.6일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "피렌체 아이리스 가든 (4~5월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "봄 피렌체, 아이리스 가든과 두오모 산책",
+      "en": "Spring Florence, Iris Garden and Duomo Walk",
+      "ja": "春のフィレンツェ、アイリスガーデンとドゥオーモの散歩",
+      "zh": "春天的佛罗伦萨，鸢尾花花园和大教堂步行道"
+    },
+    "highlights": {
+      "ko": [
+        "봄 피렌체, 두오모와 아르노 강변 산책 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Spring Florence, the best time to walk along the Duomo and Arno River",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "春のフィレンツェ、ドゥオーモとアルノ川沿いの散策最適機",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "春天的佛罗伦萨，沿着大教堂和阿诺河漫步的最佳时机",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.6일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 10.6 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が10.6日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "10.6阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "피렌체 아이리스 가든 (4~5월)"
+      ],
+      "en": [
+        "Florence Iris Garden (April-May)"
+      ],
+      "ja": [
+        "フィレンツェアイリスガーデン（4〜5月）"
+      ],
+      "zh": [
+        "佛罗伦萨鸢尾花园（四月至五月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -836,22 +2780,82 @@
     "regionId": "florence",
     "month": 5,
     "rating": 4,
-    "summary": "봄 절정, 아르노 강변 산책과 젤라토",
-    "highlights": [
-      "봄 피렌체, 두오모와 아르노 강변 산책 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 13.4일로 실내 대안 준비 권장",
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "피렌체 아이리스 가든 (4~5월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "봄 절정, 아르노 강변 산책과 젤라토",
+      "en": "Peak of spring, a walk along the Arno River and gelato",
+      "ja": "春のピーク、アルノ川沿いの散歩とジェラート",
+      "zh": "春天的高峰，沿着阿诺河散步和冰淇淋"
+    },
+    "highlights": {
+      "ko": [
+        "봄 피렌체, 두오모와 아르노 강변 산책 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Spring Florence, the best time to walk along the Duomo and Arno River",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "春のフィレンツェ、ドゥオーモとアルノ川沿いの散策最適機",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "春天的佛罗伦萨，沿着大教堂和阿诺河漫步的最佳时机",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.4일로 실내 대안 준비 권장",
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "With 13.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "雨の日が13.4日で屋内代替案を推奨",
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "13.4阴雨天，建议室内替代准备",
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "피렌체 아이리스 가든 (4~5월)"
+      ],
+      "en": [
+        "Florence Iris Garden (April-May)"
+      ],
+      "ja": [
+        "フィレンツェアイリスガーデン（4〜5月）"
+      ],
+      "zh": [
+        "佛罗伦萨鸢尾花园（四月至五月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -859,20 +2863,69 @@
     "regionId": "florence",
     "month": 6,
     "rating": 4,
-    "summary": "초여름, 토스카나 해바라기밭 시작",
-    "highlights": [
-      "봄 피렌체, 두오모와 아르노 강변 산책 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "초여름, 토스카나 해바라기밭 시작",
+      "en": "Early summer, Tuscan sunflower fields begin",
+      "ja": "初夏、トスカーナひまわり畑が始まり",
+      "zh": "初夏，托斯卡纳向日葵田开始"
+    },
+    "highlights": {
+      "ko": [
+        "봄 피렌체, 두오모와 아르노 강변 산책 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Spring Florence, the best time to walk along the Duomo and Arno River",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "春のフィレンツェ、ドゥオーモとアルノ川沿いの散策最適機",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "春天的佛罗伦萨，沿着大教堂和阿诺河漫步的最佳时机",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "피렌체 아이리스 가든 (4~5월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "피렌체 아이리스 가든 (4~5월)"
+      ],
+      "en": [
+        "Florence Iris Garden (April-May)"
+      ],
+      "ja": [
+        "フィレンツェアイリスガーデン（4〜5月）"
+      ],
+      "zh": [
+        "佛罗伦萨鸢尾花园（四月至五月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -880,19 +2933,60 @@
     "regionId": "florence",
     "month": 7,
     "rating": 5,
-    "summary": "여름 성수기, 35°C 이상 더위 주의",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "여름 성수기, 35°C 이상 더위 주의",
+      "en": "Summer peak season, beware of heat above 35°C",
+      "ja": "夏のピークシーズン、35℃以上の暑さに注意",
+      "zh": "夏季旺季，谨防35℃以上高温"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -900,18 +2994,56 @@
     "regionId": "florence",
     "month": 8,
     "rating": 4,
-    "summary": "폭염, 관광객 많지만 이탈리안 휴가 분위기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "폭염, 관광객 많지만 이탈리안 휴가 분위기",
+      "en": "Heat wave, lots of tourists, but Italian vacation atmosphere",
+      "ja": "猛暑、観光客が多いがイタリアの休暇の雰囲気",
+      "zh": "热浪袭来，游客众多，但意大利度假氛围"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "반팔, 얇은 긴바지. 자외선 차단 필수",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "반팔, 얇은 긴바지. 자외선 차단 필수",
+      "en": "Short sleeves, thin long pants. UV protection is essential",
+      "ja": "半袖、薄い長いパンツ。紫外線カット必須",
+      "zh": "短袖，薄长裤。防紫外线必不可少"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -919,24 +3051,90 @@
     "regionId": "florence",
     "month": 9,
     "rating": 4,
-    "summary": "가을 시작, 포도 수확 축제와 와인 투어",
-    "highlights": [
-      "가을 피렌체, 토스카나 와인 수확 시즌",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 136mm로 우산 필수"
-    ],
-    "events": [
-      "포도 수확 축제",
-      "피렌체 마라톤 (11월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "summary": {
+      "ko": "가을 시작, 포도 수확 축제와 와인 투어",
+      "en": "Autumn begins, grape harvest festival and wine tour",
+      "ja": "秋の始まり、ビンテージフェスティバルとワインツアー",
+      "zh": "秋天开始，葡萄丰收节和葡萄酒之旅"
+    },
+    "highlights": {
+      "ko": [
+        "가을 피렌체, 토스카나 와인 수확 시즌",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn Florence, Tuscan wine harvest season",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "秋のフィレンツェ、トスカーナのワイン収穫シーズン",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋季佛罗伦萨，托斯卡纳葡萄酒收获季节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 136mm로 우산 필수"
+      ],
+      "en": [
+        "Rainfall is 136mm, so an umbrella is a must"
+      ],
+      "ja": [
+        "降水量は 136 mm なので傘は必須です"
+      ],
+      "zh": [
+        "降雨量136毫米，雨伞必备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "포도 수확 축제",
+        "피렌체 마라톤 (11월)"
+      ],
+      "en": [
+        "Grape Harvest Festival",
+        "Florence Marathon (November)"
+      ],
+      "ja": [
+        "ビンテージフェスティバル",
+        "フィレンツェマラソン（11月）"
+      ],
+      "zh": [
+        "葡萄丰收节",
+        "佛罗伦萨马拉松（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -944,25 +3142,94 @@
     "regionId": "florence",
     "month": 10,
     "rating": 3,
-    "summary": "황금빛 가을, 토스카나 와인 수확 시즌",
-    "highlights": [
-      "가을 피렌체, 토스카나 와인 수확 시즌",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "강수량이 130mm로 우산 필수",
-      "비 오는 날이 11.4일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
-    "events": [
-      "포도 수확 축제",
-      "피렌체 마라톤 (11월)"
-    ],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "황금빛 가을, 토스카나 와인 수확 시즌",
+      "en": "Golden autumn, Tuscan wine harvest season",
+      "ja": "黄金の秋、トスカーナのワイン収穫シーズン",
+      "zh": "金秋，托斯卡纳葡萄酒收获季节"
+    },
+    "highlights": {
+      "ko": [
+        "가을 피렌체, 토스카나 와인 수확 시즌",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Autumn Florence, Tuscan wine harvest season",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "秋のフィレンツェ、トスカーナのワイン収穫シーズン",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "秋季佛罗伦萨，托斯卡纳葡萄酒收获季节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 130mm로 우산 필수",
+        "비 오는 날이 11.4일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "Rainfall is 130mm, so an umbrella is a must",
+        "With 11.4 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "降水量は 130mm なので傘は必須です",
+        "雨の日が11.4日で屋内代替準備を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "降雨量130mm，雨伞必备",
+        "11.4阴雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "포도 수확 축제",
+        "피렌체 마라톤 (11월)"
+      ],
+      "en": [
+        "Grape Harvest Festival",
+        "Florence Marathon (November)"
+      ],
+      "ja": [
+        "ビンテージフェスティバル",
+        "フィレンツェマラソン（11月）"
+      ],
+      "zh": [
+        "葡萄丰收节",
+        "佛罗伦萨马拉松（十一月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -970,20 +3237,69 @@
     "regionId": "florence",
     "month": 11,
     "rating": 2,
-    "summary": "올리브 수확 시즌, 맑은 날 주말 산책",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 113mm로 우산 필수",
-      "비 오는 날이 11.4일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "올리브 수확 시즌, 맑은 날 주말 산책",
+      "en": "Olive harvest season, weekend walk on a sunny day",
+      "ja": "オリーブ収穫シーズン、晴れた日の週末の散歩",
+      "zh": "橄榄收获季节，周末阳光明媚的日子散步"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 113mm로 우산 필수",
+        "비 오는 날이 11.4일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 113mm, so an umbrella is a must",
+        "With 11.4 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "降水量が113mmで傘必須",
+        "雨の日が11.4日で屋内代替準備を推奨",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量113毫米，雨伞必备",
+        "11.4阴雨天，建议室内替代准备",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -991,20 +3307,69 @@
     "regionId": "florence",
     "month": 12,
     "rating": 1,
-    "summary": "크리스마스 마켓, 산타 크로체 광장 축제",
-    "highlights": [
-      "현지 일상을 경험하기 좋은 시기"
-    ],
-    "cautions": [
-      "강수량이 145mm로 우산 필수",
-      "월 16일 비가 와 야외 일정에 유의",
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "크리스마스 마켓, 산타 크로체 광장 축제",
+      "en": "Christmas Market, Piazza Santa Croce Festival",
+      "ja": "クリスマスマーケット、サンタクローチェ広場フェスティバル",
+      "zh": "圣诞市场，圣十字广场节日"
+    },
+    "highlights": {
+      "ko": [
+        "현지 일상을 경험하기 좋은 시기"
+      ],
+      "en": [
+        "A good time to experience local daily life"
+      ],
+      "ja": [
+        "地元の日常を体験するのに良い時期"
+      ],
+      "zh": [
+        "体验当地日常生活的好时机"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 145mm로 우산 필수",
+        "월 16일 비가 와 야외 일정에 유의",
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Rainfall is 145mm, so an umbrella is a must",
+        "It's raining on the 16th, so be careful about outdoor schedules",
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "降水量は 145mm なので傘は必須です",
+        "月16日雨と屋外のスケジュールに注意",
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "降雨量145毫米，雨伞必备",
+        "16号有雨，户外行程要注意",
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

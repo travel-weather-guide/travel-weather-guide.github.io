@@ -3,20 +3,69 @@
     "regionId": "budapest",
     "month": 1,
     "rating": 2,
-    "summary": "혹한이지만 세체니 온천 노천탕의 매력",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -2°C로 방한 대비 필요",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "혹한이지만 세체니 온천 노천탕의 매력",
+      "en": "Despite the cold weather, the charm of the open-air baths in Széchenyi Hot Springs",
+      "ja": "酷いけどセチェニー温泉露天風呂の魅力",
+      "zh": "尽管天气寒冷，塞切尼温泉露天浴池的魅力"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "降水少，晴天多",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -2°C로 방한 대비 필요",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "The average minimum temperature is -2°C, so preparation for cold weather is necessary",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "平均最低気温-2℃で防寒コントラストが必要",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "平均最低气温为-2℃，做好防寒准备",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -24,16 +73,48 @@
     "regionId": "budapest",
     "month": 2,
     "rating": 3,
-    "summary": "겨울 막바지, 온천과 루인바 카페 투어",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도가 73%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "겨울 막바지, 온천과 루인바 카페 투어",
+      "en": "End of winter, hot spring and ruin bar cafe tour",
+      "ja": "冬の終わり、温泉とルインバカフェツアー",
+      "zh": "冬末温泉、废墟酒吧咖啡馆之旅"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 73%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 73%"
+      ],
+      "ja": [
+        "湿度が73％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，为 73%"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -41,17 +122,52 @@
     "regionId": "budapest",
     "month": 3,
     "rating": 3,
-    "summary": "봄 시작, 도나우강변 산책 쾌적해지는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "봄 시작, 도나우강변 산책 쾌적해지는 시기",
+      "en": "The beginning of spring, a pleasant time for a walk along the Danube River",
+      "ja": "春の始まり、ドナウ川沿いの散歩快適になる時期",
+      "zh": "立春，多瑙河畔散步的好时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -59,20 +175,69 @@
     "regionId": "budapest",
     "month": 4,
     "rating": 4,
-    "summary": "봄 부다페스트, 봄 축제와 어부의 요새",
-    "highlights": [
-      "봄 부다페스트, 도나우강 유람과 온천 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
+    "summary": {
+      "ko": "봄 부다페스트, 봄 축제와 어부의 요새",
+      "en": "Spring Budapest, Spring Festival and Fisherman's Bastion",
+      "ja": "春のブダペスト、春祭りと漁師の要塞",
+      "zh": "春天的布达佩斯，春节和渔人堡"
+    },
+    "highlights": {
+      "ko": [
+        "봄 부다페스트, 도나우강 유람과 온천 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Budapest in spring, the best time for Danube river cruises and hot springs",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "春のブダペスト、ドナウ川遊覧と温泉最適機",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "春天的布达佩斯，多瑙河游船、泡温泉的最佳时节",
+        "日照时间长，适合户外活动"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "부다페스트 봄 축제 (4월)",
-      "시게트 페스티벌 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "events": {
+      "ko": [
+        "부다페스트 봄 축제 (4월)",
+        "시게트 페스티벌 (8월)"
+      ],
+      "en": [
+        "Budapest Spring Festival (April)",
+        "Sziget Festival (August)"
+      ],
+      "ja": [
+        "ブダペスト春祭り（4月）",
+        "シーゲットフェスティバル（8月）"
+      ],
+      "zh": [
+        "布达佩斯春节（四月）",
+        "西盖特节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -80,22 +245,82 @@
     "regionId": "budapest",
     "month": 5,
     "rating": 3,
-    "summary": "봄 절정, 도나우강 유람과 겔레르트 온천",
-    "highlights": [
-      "봄 부다페스트, 도나우강 유람과 온천 최적기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 11.2일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "부다페스트 봄 축제 (4월)",
-      "시게트 페스티벌 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "봄 절정, 도나우강 유람과 겔레르트 온천",
+      "en": "Peak of spring, Danube River cruise and Gellért Spa",
+      "ja": "春の絶頂、ドナウ川遊覧とジェレルト温泉",
+      "zh": "春天的高峰，多瑙河游船和盖勒特温泉"
+    },
+    "highlights": {
+      "ko": [
+        "봄 부다페스트, 도나우강 유람과 온천 최적기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Budapest in spring, the best time for Danube river cruises and hot springs",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "春のブダペスト、ドナウ川遊覧と温泉最適機",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "春天的布达佩斯，多瑙河游船、泡温泉的最佳时节",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 11.2일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 11.2 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が11.2日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "11.2阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "부다페스트 봄 축제 (4월)",
+        "시게트 페스티벌 (8월)"
+      ],
+      "en": [
+        "Budapest Spring Festival (April)",
+        "Sziget Festival (August)"
+      ],
+      "ja": [
+        "ブダペスト春祭り（4月）",
+        "シーゲットフェスティバル（8月）"
+      ],
+      "zh": [
+        "布达佩斯春节（四月）",
+        "西盖特节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -103,21 +328,73 @@
     "regionId": "budapest",
     "month": 6,
     "rating": 4,
-    "summary": "초여름, 마르기트 섬 야외 수영과 축제",
-    "highlights": [
-      "봄 부다페스트, 도나우강 유람과 온천 최적기",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "초여름, 마르기트 섬 야외 수영과 축제",
+      "en": "Early summer, Margit Island outdoor swimming and festival",
+      "ja": "初夏、マルギット島の屋外スイミングとフェスティバル",
+      "zh": "初夏，玛吉特岛户外游泳和节日"
+    },
+    "highlights": {
+      "ko": [
+        "봄 부다페스트, 도나우강 유람과 온천 최적기",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Budapest in spring, the best time for Danube river cruises and hot springs",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "春のブダペスト、ドナウ川遊覧と温泉最適機",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "春天的布达佩斯，多瑙河游船、泡温泉的最佳时节",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "부다페스트 봄 축제 (4월)",
-      "시게트 페스티벌 (8월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "events": {
+      "ko": [
+        "부다페스트 봄 축제 (4월)",
+        "시게트 페스티벌 (8월)"
+      ],
+      "en": [
+        "Budapest Spring Festival (April)",
+        "Sziget Festival (August)"
+      ],
+      "ja": [
+        "ブダペスト春祭り（4月）",
+        "シーゲットフェスティバル（8月）"
+      ],
+      "zh": [
+        "布达佩斯春节（四月）",
+        "西盖特节（八月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -125,18 +402,56 @@
     "regionId": "budapest",
     "month": 7,
     "rating": 5,
-    "summary": "여름 성수기, 시게트 페스티벌(8월) 대비",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온",
-      "습도가 낮아 쾌적함"
-    ],
+    "summary": {
+      "ko": "여름 성수기, 시게트 페스티벌(8월) 대비",
+      "en": "Summer peak season, preparation for Sziget Festival (August)",
+      "ja": "夏のハイシーズン、シーゲットフェスティバル（8月）に備えて",
+      "zh": "夏季旺季，准备 Sziget 节（八月）"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온",
+        "습도가 낮아 쾌적함"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature",
+        "Comfortable due to low humidity"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温",
+        "湿度が低く快適さ"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度",
+        "湿度低，舒适"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -144,17 +459,52 @@
     "regionId": "budapest",
     "month": 8,
     "rating": 5,
-    "summary": "시게트 페스티벌, 유럽 최대 음악 축제",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "시게트 페스티벌, 유럽 최대 음악 축제",
+      "en": "Sziget Festival, Europe's largest music festival",
+      "ja": "シーゲットフェスティバル、ヨーロッパ最大の音楽祭",
+      "zh": "Sziget Festival，欧洲最大的音乐节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -162,21 +512,73 @@
     "regionId": "budapest",
     "month": 9,
     "rating": 4,
-    "summary": "가을 시작, 와인 축제와 황금빛 도나우강",
-    "highlights": [
-      "가을 부다페스트, 어부의 요새 황금빛 일몰",
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
+    "summary": {
+      "ko": "가을 시작, 와인 축제와 황금빛 도나우강",
+      "en": "Autumn begins, wine festival and golden Danube River",
+      "ja": "秋の始まり、ワインフェスティバルとゴールデンドナウ川",
+      "zh": "秋天开始，葡萄酒节和金色的多瑙河"
+    },
+    "highlights": {
+      "ko": [
+        "가을 부다페스트, 어부의 요새 황금빛 일몰",
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Autumn Budapest, Fisherman's Bastion golden sunset",
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "秋のブダペスト、漁師の要塞黄金の夕日",
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "秋天的布达佩斯，渔人堡金色的夕阳",
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
     "cautions": [],
-    "events": [
-      "부다페스트 와인 축제 (9월)",
-      "국경절 (10월 23일)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "events": {
+      "ko": [
+        "부다페스트 와인 축제 (9월)",
+        "국경절 (10월 23일)"
+      ],
+      "en": [
+        "Budapest Wine Festival (September)",
+        "National Day (October 23)"
+      ],
+      "ja": [
+        "ブダペストワインフェスティバル（9月）",
+        "国境（10月23日）"
+      ],
+      "zh": [
+        "布达佩斯葡萄酒节（九月）",
+        "国庆节（10 月 23 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -184,19 +586,65 @@
     "regionId": "budapest",
     "month": 10,
     "rating": 3,
-    "summary": "가을 절정, 어부의 요새 일몰 최적기",
-    "highlights": [
-      "가을 부다페스트, 어부의 요새 황금빛 일몰"
-    ],
-    "cautions": [
-      "습도가 78%로 다소 높음"
-    ],
-    "events": [
-      "부다페스트 와인 축제 (9월)",
-      "국경절 (10월 23일)"
-    ],
+    "summary": {
+      "ko": "가을 절정, 어부의 요새 일몰 최적기",
+      "en": "Autumn peak, the best time for sunset at Fisherman's Bastion",
+      "ja": "秋のピーク、漁師の要塞の夕日最適機",
+      "zh": "秋高气爽，渔人堡日落最佳时节"
+    },
+    "highlights": {
+      "ko": [
+        "가을 부다페스트, 어부의 요새 황금빛 일몰"
+      ],
+      "en": [
+        "Autumn Budapest, Fisherman's Bastion golden sunset"
+      ],
+      "ja": [
+        "秋のブダペスト、漁師の要塞黄金の夕日"
+      ],
+      "zh": [
+        "秋天的布达佩斯，渔人堡金色的夕阳"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 78%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 78%"
+      ],
+      "ja": [
+        "湿度が78％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，78%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "부다페스트 와인 축제 (9월)",
+        "국경절 (10월 23일)"
+      ],
+      "en": [
+        "Budapest Wine Festival (September)",
+        "National Day (October 23)"
+      ],
+      "ja": [
+        "ブダペストワインフェスティバル（9月）",
+        "国境（10月23日）"
+      ],
+      "zh": [
+        "布达佩斯葡萄酒节（九月）",
+        "国庆节（10 月 23 日）"
+      ]
+    },
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -204,16 +652,48 @@
     "regionId": "budapest",
     "month": 11,
     "rating": 2,
-    "summary": "쌀쌀해지는 초겨울, 온천 시즌 시작",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 86%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "쌀쌀해지는 초겨울, 온천 시즌 시작",
+      "en": "Chilly early winter, hot spring season begins",
+      "ja": "肌寒くなる初冬、温泉シーズンスタート",
+      "zh": "寒冷的初冬，温泉季节开始"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 86%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 86%"
+      ],
+      "ja": [
+        "湿度86％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度86%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -221,24 +701,90 @@
     "regionId": "budapest",
     "month": 12,
     "rating": 1,
-    "summary": "보로슈마르티 크리스마스 마켓, 유럽 최고",
-    "highlights": [
-      "크리스마스 마켓, 유럽 최고 수준",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -0°C로 방한 대비 필요",
-      "비 오는 날이 10.2일로 실내 대안 준비 권장",
-      "습도 87%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
-    "events": [
-      "보로슈마르티 광장 크리스마스 마켓"
-    ],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "보로슈마르티 크리스마스 마켓, 유럽 최고",
+      "en": "Voroshmarti Christmas Market, the best in Europe",
+      "ja": "ボロシュマルティクリスマスマーケット、ヨーロッパトップ",
+      "zh": "Voroshmarti 圣诞市场，欧洲最好的"
+    },
+    "highlights": {
+      "ko": [
+        "크리스마스 마켓, 유럽 최고 수준",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "Christmas market, one of the best in Europe",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "クリスマスマーケット、ヨーロッパトップレベル",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "圣诞市场，欧洲最好的之一",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -0°C로 방한 대비 필요",
+        "비 오는 날이 10.2일로 실내 대안 준비 권장",
+        "습도 87%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "Need to prepare for cold weather with average minimum temperature -0°C",
+        "With 10.2 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 87%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-0℃で防寒コントラストが必要",
+        "雨の日が10.2日で屋内代替案を推奨",
+        "湿度87％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "需要为平均最低气温-0°C的寒冷天气做好准备",
+        "10.2阴雨天，建议室内替代准备",
+        "湿度87%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
+    "events": {
+      "ko": [
+        "보로슈마르티 광장 크리스마스 마켓"
+      ],
+      "en": [
+        "Voroshmarti Square Christmas Market"
+      ],
+      "ja": [
+        "ボロシュマルティ広場クリスマスマーケット"
+      ],
+      "zh": [
+        "沃罗什马蒂广场圣诞市场"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

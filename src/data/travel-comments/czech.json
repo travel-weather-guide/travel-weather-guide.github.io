@@ -3,21 +3,73 @@
     "regionId": "prague",
     "month": 1,
     "rating": 2,
-    "summary": "겨울, 카를교 위 눈과 뜨거운 맥주 한 잔",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -1°C로 방한 대비 필요",
-      "비 오는 날이 11.6일로 실내 대안 준비 권장",
-      "습도 82%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "겨울, 카를교 위 눈과 뜨거운 맥주 한 잔",
+      "en": "Winter, snow on Charles Bridge and a glass of hot beer",
+      "ja": "冬、カレル橋の雪、そして温かいビール",
+      "zh": "冬天，查理大桥上的雪和一杯热啤酒"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "降水少，晴天多",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -1°C로 방한 대비 필요",
+        "비 오는 날이 11.6일로 실내 대안 준비 권장",
+        "습도 82%로 불쾌지수 높음"
+      ],
+      "en": [
+        "Need to prepare for cold weather with average minimum temperature -1°C",
+        "With 11.6 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 82%"
+      ],
+      "ja": [
+        "平均最低気温-1℃で防寒コントラストが必要",
+        "雨の日が11.6日で屋内代替案を推奨",
+        "湿度82％で不快指数が高い"
+      ],
+      "zh": [
+        "需要做好应对平均最低气温-1°C的寒冷天气的准备",
+        "11.6阴雨天，建议室内替代准备",
+        "湿度82%，不适指数高"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -25,20 +77,69 @@
     "regionId": "prague",
     "month": 2,
     "rating": 1,
-    "summary": "추운 겨울, 관광객 적어 여유로운 구시가지",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 13.8일로 실내 대안 준비 권장",
-      "습도가 77%로 다소 높음"
-    ],
+    "summary": {
+      "ko": "추운 겨울, 관광객 적어 여유로운 구시가지",
+      "en": "Cold winter, leisurely old town with few tourists",
+      "ja": "寒い冬、観光客を書き留めてゆったりとした旧市街",
+      "zh": "寒冷的冬天，悠闲的古城，游人稀少"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "降水少，晴天多",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 13.8일로 실내 대안 준비 권장",
+        "습도가 77%로 다소 높음"
+      ],
+      "en": [
+        "With 13.8 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 77%"
+      ],
+      "ja": [
+        "雨の日が13.8日で屋内代替案を推奨",
+        "湿度が77％でやや高い"
+      ],
+      "zh": [
+        "13.8阴雨天，建议室内替代准备",
+        "湿度有点高，77%"
+      ]
+    },
     "events": [],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -46,17 +147,52 @@
     "regionId": "prague",
     "month": 3,
     "rating": 3,
-    "summary": "봄 기운, 하벨 시장에 꽃이 나오는 시기",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
+    "summary": {
+      "ko": "봄 기운, 하벨 시장에 꽃이 나오는 시기",
+      "en": "Spring vibes, the time when flowers appear at Havel Market",
+      "ja": "春のオーラ、ハーベル市場に花が出る時期",
+      "zh": "春意盎然，哈维尔市场花开时节"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
     "cautions": [],
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -64,23 +200,86 @@
     "regionId": "prague",
     "month": 4,
     "rating": 3,
-    "summary": "봄 절정, 카를교와 구시가지 광장 산책 최적",
-    "highlights": [
-      "봄 프라하, 꽃과 함께하는 구시가지 산책",
-      "일조시간이 길어 야외 활동에 좋음",
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "비 오는 날이 10.2일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "프라하 이스터 마켓 (4월)",
-      "프라하 스프링 뮤직 페스티벌 (5~6월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "summary": {
+      "ko": "봄 절정, 카를교와 구시가지 광장 산책 최적",
+      "en": "Spring peak, perfect for a walk around Charles Bridge and Old Town Square",
+      "ja": "春のピーク、カルル橋と旧市街広場の散歩に最適",
+      "zh": "春峰，非常适合在查理大桥和老城广场散步"
+    },
+    "highlights": {
+      "ko": [
+        "봄 프라하, 꽃과 함께하는 구시가지 산책",
+        "일조시간이 길어 야외 활동에 좋음",
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "Spring Prague, walking through the old town with flowers",
+        "Long daylight hours make it good for outdoor activities",
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "春のプラハ、花と一緒に旧市街を散歩",
+        "日照時間が長く、野外活動に良い",
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "春天的布拉格，漫步花团锦簇的老城",
+        "日照时间长，适合户外活动",
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.2일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 10.2 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が10.2日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "10.2阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "프라하 이스터 마켓 (4월)",
+        "프라하 스프링 뮤직 페스티벌 (5~6월)"
+      ],
+      "en": [
+        "Prague Easter Market (April)",
+        "Prague Spring Music Festival (May-June)"
+      ],
+      "ja": [
+        "プラハイースターマーケット（4月）",
+        "プラハスプリングミュージックフェスティバル（5〜6月）"
+      ],
+      "zh": [
+        "布拉格复活节市场（四月）",
+        "布拉格之春音乐节（五月至六月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -88,22 +287,82 @@
     "regionId": "prague",
     "month": 5,
     "rating": 3,
-    "summary": "프라하 봄 축제, 따뜻하고 관광하기 가장 좋은 시기",
-    "highlights": [
-      "봄 프라하, 꽃과 함께하는 구시가지 산책",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "비 오는 날이 12.2일로 실내 대안 준비 권장"
-    ],
-    "events": [
-      "프라하 이스터 마켓 (4월)",
-      "프라하 스프링 뮤직 페스티벌 (5~6월)"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "summary": {
+      "ko": "프라하 봄 축제, 따뜻하고 관광하기 가장 좋은 시기",
+      "en": "Prague Spring Festival, warm and best time to visit",
+      "ja": "プラハ春祭り、暖かく観光するのに最適な時期",
+      "zh": "布拉格春节，温暖，最佳旅游时节"
+    },
+    "highlights": {
+      "ko": [
+        "봄 프라하, 꽃과 함께하는 구시가지 산책",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Spring Prague, walking through the old town with flowers",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "春のプラハ、花と一緒に旧市街を散歩",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "春天的布拉格，漫步花团锦簇的老城",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.2일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 12.2 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が12.2日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "12.2阴雨天，建议室内替代准备"
+      ]
+    },
+    "events": {
+      "ko": [
+        "프라하 이스터 마켓 (4월)",
+        "프라하 스프링 뮤직 페스티벌 (5~6월)"
+      ],
+      "en": [
+        "Prague Easter Market (April)",
+        "Prague Spring Music Festival (May-June)"
+      ],
+      "ja": [
+        "プラハイースターマーケット（4月）",
+        "プラハスプリングミュージックフェスティバル（5〜6月）"
+      ],
+      "zh": [
+        "布拉格复活节市场（四月）",
+        "布拉格之春音乐节（五月至六月）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -111,19 +370,65 @@
     "regionId": "prague",
     "month": 6,
     "rating": 4,
-    "summary": "초여름, 몰다우강 크루즈와 야외 카페",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 12.4일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "초여름, 몰다우강 크루즈와 야외 카페",
+      "en": "Early summer, Moldau River cruise and outdoor cafe",
+      "ja": "初夏、モルダウ川クルーズ、屋外カフェ",
+      "zh": "初夏，摩尔道河游船和户外咖啡馆"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.4일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 12.4 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が12.4日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "12.4阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -131,19 +436,65 @@
     "regionId": "prague",
     "month": 7,
     "rating": 4,
-    "summary": "여름 성수기, 프라하 성 황금빛 전망",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "비 오는 날이 12.4일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "여름 성수기, 프라하 성 황금빛 전망",
+      "en": "High summer season, golden view of Prague Castle",
+      "ja": "夏のハイシーズン、プラハ城ゴールデンビュー",
+      "zh": "盛夏时节，布拉格城堡金色美景"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 12.4일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 12.4 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "雨の日が12.4日で屋内代替準備を推奨"
+      ],
+      "zh": [
+        "12.4阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -151,21 +502,73 @@
     "regionId": "prague",
     "month": 8,
     "rating": 4,
-    "summary": "더운 여름, 관광객 가장 많은 피크 시즌",
-    "highlights": [
-      "일조시간이 길어 야외 활동에 좋음",
-      "쾌적한 기온"
-    ],
-    "cautions": [
-      "강수량이 104mm로 우산 필수",
-      "비 오는 날이 13.2일로 실내 대안 준비 권장"
-    ],
+    "summary": {
+      "ko": "더운 여름, 관광객 가장 많은 피크 시즌",
+      "en": "Hot summer, peak season with the most tourists",
+      "ja": "暑い夏、観光客で最もピークシーズン",
+      "zh": "炎热的夏季，游客最多的旺季"
+    },
+    "highlights": {
+      "ko": [
+        "일조시간이 길어 야외 활동에 좋음",
+        "쾌적한 기온"
+      ],
+      "en": [
+        "Long daylight hours make it good for outdoor activities",
+        "Comfortable temperature"
+      ],
+      "ja": [
+        "日照時間が長く、野外活動に良い",
+        "快適な気温"
+      ],
+      "zh": [
+        "日照时间长，适合户外活动",
+        "舒适温度"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "강수량이 104mm로 우산 필수",
+        "비 오는 날이 13.2일로 실내 대안 준비 권장"
+      ],
+      "en": [
+        "With 104mm of precipitation, an umbrella is a must",
+        "With 13.2 rainy days, indoor alternative preparations are recommended"
+      ],
+      "ja": [
+        "降水量が104mmで傘必須",
+        "雨の日が13.2日で屋内代替案を推奨"
+      ],
+      "zh": [
+        "降水量104毫米，雨伞必备",
+        "13.2阴雨天，建议室内替代准备"
+      ]
+    },
     "events": [],
-    "tips": [
-      "접이식 우산이나 우비 챙기기",
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+    "tips": {
+      "ko": [
+        "접이식 우산이나 우비 챙기기",
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring a foldable umbrella or raincoat",
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "折りたたみ傘やレインコート",
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上折叠雨伞或雨衣",
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "얇은 긴팔, 가디건. 아침저녁 쌀쌀할 수 있음",
+      "en": "Thin long sleeves, cardigan. It can be chilly in the mornings and evenings",
+      "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
+      "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
+    },
     "crowdLevel": "medium",
     "priceLevel": "medium"
   },
@@ -173,22 +576,82 @@
     "regionId": "prague",
     "month": 9,
     "rating": 3,
-    "summary": "가을 시작, 관광객 줄고 쾌적한 황금기",
-    "highlights": [
-      "황금빛 가을 프라하, 관광객 줄어 여유로운 시기",
-      "일조시간이 길어 야외 활동에 좋음"
-    ],
-    "cautions": [
-      "습도가 72%로 다소 높음"
-    ],
-    "events": [
-      "프라하 재즈 페스티벌 (10월)",
-      "체코 와인 시즌"
-    ],
-    "tips": [
-      "선글라스와 모자 챙기기"
-    ],
-    "clothingAdvice": "긴팔, 가벼운 재킷. 레이어드 추천",
+    "summary": {
+      "ko": "가을 시작, 관광객 줄고 쾌적한 황금기",
+      "en": "Autumn begins, fewer tourists and more pleasant golden age",
+      "ja": "秋の始まり、観光客が減って快適な黄金期",
+      "zh": "入秋了，游客少了，黄金时期更宜人"
+    },
+    "highlights": {
+      "ko": [
+        "황금빛 가을 프라하, 관광객 줄어 여유로운 시기",
+        "일조시간이 길어 야외 활동에 좋음"
+      ],
+      "en": [
+        "Golden autumn in Prague, a leisurely time with fewer tourists",
+        "Long daylight hours make it good for outdoor activities"
+      ],
+      "ja": [
+        "黄金の秋のプラハ、観光客を減らすのに十分な時間",
+        "日照時間が長く、野外活動に良い"
+      ],
+      "zh": [
+        "布拉格金秋，游人较少的悠闲时光",
+        "日照时间长，适合户外活动"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도가 72%로 다소 높음"
+      ],
+      "en": [
+        "Humidity is somewhat high at 72%"
+      ],
+      "ja": [
+        "湿度が72％でやや高い"
+      ],
+      "zh": [
+        "湿度有点高，72%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "프라하 재즈 페스티벌 (10월)",
+        "체코 와인 시즌"
+      ],
+      "en": [
+        "Prague Jazz Festival (October)",
+        "Czech wine season"
+      ],
+      "ja": [
+        "プラハジャズフェスティバル（10月）",
+        "チェコワインシーズン"
+      ],
+      "zh": [
+        "布拉格爵士音乐节（十月）",
+        "捷克葡萄酒季节"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "선글라스와 모자 챙기기"
+      ],
+      "en": [
+        "Bring sunglasses and a hat"
+      ],
+      "ja": [
+        "サングラスと帽子を握る"
+      ],
+      "zh": [
+        "带上墨镜和帽子"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "긴팔, 가벼운 재킷. 레이어드 추천",
+      "en": "Long sleeves, light jacket. Layering recommendation",
+      "ja": "長袖、軽いジャケット。レイヤードおすすめ",
+      "zh": "长袖、薄外套。分层推荐"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -196,20 +659,69 @@
     "regionId": "prague",
     "month": 10,
     "rating": 3,
-    "summary": "가을 단풍, 체코 와인과 맥주의 계절",
-    "highlights": [
-      "황금빛 가을 프라하, 관광객 줄어 여유로운 시기"
-    ],
-    "cautions": [
-      "비 오는 날이 10.6일로 실내 대안 준비 권장",
-      "습도가 79%로 다소 높음"
-    ],
-    "events": [
-      "프라하 재즈 페스티벌 (10월)",
-      "체코 와인 시즌"
-    ],
+    "summary": {
+      "ko": "가을 단풍, 체코 와인과 맥주의 계절",
+      "en": "Fall foliage, Czech wine and beer season",
+      "ja": "秋の紅葉、チェコワインとビールの季節",
+      "zh": "秋叶，捷克葡萄酒和啤酒季节"
+    },
+    "highlights": {
+      "ko": [
+        "황금빛 가을 프라하, 관광객 줄어 여유로운 시기"
+      ],
+      "en": [
+        "Golden autumn in Prague, a leisurely time with fewer tourists"
+      ],
+      "ja": [
+        "黄金の秋のプラハ、観光客を減らすのに十分な時間"
+      ],
+      "zh": [
+        "布拉格金秋，游人较少的悠闲时光"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "비 오는 날이 10.6일로 실내 대안 준비 권장",
+        "습도가 79%로 다소 높음"
+      ],
+      "en": [
+        "With 10.6 rainy days, indoor alternative preparations are recommended",
+        "Humidity is somewhat high at 79%"
+      ],
+      "ja": [
+        "雨の日が10.6日で屋内代替準備を推奨",
+        "湿度が79％でやや高い"
+      ],
+      "zh": [
+        "10.6阴雨天，建议室内替代准备",
+        "湿度有点高，79%"
+      ]
+    },
+    "events": {
+      "ko": [
+        "프라하 재즈 페스티벌 (10월)",
+        "체코 와인 시즌"
+      ],
+      "en": [
+        "Prague Jazz Festival (October)",
+        "Czech wine season"
+      ],
+      "ja": [
+        "プラハジャズフェスティバル（10月）",
+        "チェコワインシーズン"
+      ],
+      "zh": [
+        "布拉格爵士音乐节（十月）",
+        "捷克葡萄酒季节"
+      ]
+    },
     "tips": [],
-    "clothingAdvice": "재킷, 니트, 긴바지. 아우터 필수",
+    "clothingAdvice": {
+      "ko": "재킷, 니트, 긴바지. 아우터 필수",
+      "en": "Jacket, knit, long pants. Outerwear required",
+      "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
+      "zh": "外套、针织衫、长裤。需要外套"
+    },
     "crowdLevel": "high",
     "priceLevel": "high"
   },
@@ -217,16 +729,48 @@
     "regionId": "prague",
     "month": 11,
     "rating": 2,
-    "summary": "쌀쌀해지는 초겨울, 크리스마스 마켓 준비",
-    "highlights": [
-      "강수량이 적어 맑은 날이 많음"
-    ],
-    "cautions": [
-      "습도 85%로 불쾌지수 높음"
-    ],
+    "summary": {
+      "ko": "쌀쌀해지는 초겨울, 크리스마스 마켓 준비",
+      "en": "It's getting chilly in early winter, getting ready for the Christmas market",
+      "ja": "肌寒くなる初冬、クリスマスマーケット準備",
+      "zh": "初冬渐凉，准备圣诞集市"
+    },
+    "highlights": {
+      "ko": [
+        "강수량이 적어 맑은 날이 많음"
+      ],
+      "en": [
+        "There is little precipitation and there are many clear days"
+      ],
+      "ja": [
+        "降水量が少なく、晴れた日が多い"
+      ],
+      "zh": [
+        "降水少，晴天多"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "습도 85%로 불쾌지수 높음"
+      ],
+      "en": [
+        "High discomfort index with humidity of 85%"
+      ],
+      "ja": [
+        "湿度85％で不快指数が高い"
+      ],
+      "zh": [
+        "湿度85%，不适指数高"
+      ]
+    },
     "events": [],
     "tips": [],
-    "clothingAdvice": "코트, 목도리, 장갑. 보온 레이어 필요",
+    "clothingAdvice": {
+      "ko": "코트, 목도리, 장갑. 보온 레이어 필요",
+      "en": "Coat, scarf, gloves. Insulating layer required",
+      "ja": "コート、ショール、手袋。保温層が必要",
+      "zh": "外套、围巾、手套。需要绝缘层"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   },
@@ -234,25 +778,94 @@
     "regionId": "prague",
     "month": 12,
     "rating": 1,
-    "summary": "구시가지 크리스마스 마켓, 유럽 최고의 연말",
-    "highlights": [
-      "유럽 최고 크리스마스 마켓 중 하나",
-      "겨울 스포츠에 적합한 시기"
-    ],
-    "cautions": [
-      "평균 최저기온 -0°C로 방한 대비 필요",
-      "비 오는 날이 12.2일로 실내 대안 준비 권장",
-      "습도 85%로 불쾌지수 높음",
-      "일조시간이 짧아 흐린 날이 많음"
-    ],
-    "events": [
-      "프라하 크리스마스 마켓 (12월)",
-      "신년 불꽃놀이 (1월 1일)"
-    ],
-    "tips": [
-      "보온 용품과 핫팩 준비"
-    ],
-    "clothingAdvice": "패딩, 두꺼운 코트, 방한용품 필수",
+    "summary": {
+      "ko": "구시가지 크리스마스 마켓, 유럽 최고의 연말",
+      "en": "Old Town Christmas Market, Europe's best year-end market",
+      "ja": "旧市街のクリスマスマーケット、ヨーロッパで最高の年末",
+      "zh": "老城圣诞市场，欧洲最好的年终市场"
+    },
+    "highlights": {
+      "ko": [
+        "유럽 최고 크리스마스 마켓 중 하나",
+        "겨울 스포츠에 적합한 시기"
+      ],
+      "en": [
+        "One of the best Christmas markets in Europe",
+        "Best time for winter sports"
+      ],
+      "ja": [
+        "ヨーロッパのトップクリスマスマーケットの一つ",
+        "ウィンタースポーツに適した時期"
+      ],
+      "zh": [
+        "欧洲最好的圣诞市场之一",
+        "冬季运动的最佳时间"
+      ]
+    },
+    "cautions": {
+      "ko": [
+        "평균 최저기온 -0°C로 방한 대비 필요",
+        "비 오는 날이 12.2일로 실내 대안 준비 권장",
+        "습도 85%로 불쾌지수 높음",
+        "일조시간이 짧아 흐린 날이 많음"
+      ],
+      "en": [
+        "Need to prepare for cold weather with average minimum temperature -0°C",
+        "With 12.2 rainy days, indoor alternative preparations are recommended",
+        "High discomfort index with humidity of 85%",
+        "There are many cloudy days due to short sunlight"
+      ],
+      "ja": [
+        "平均最低気温-0℃で防寒コントラストが必要",
+        "雨の日が12.2日で屋内代替案を推奨",
+        "湿度85％で不快指数が高い",
+        "日照時間が短く、曇りの日が多い"
+      ],
+      "zh": [
+        "需要为平均最低气温-0°C的寒冷天气做好准备",
+        "12.2阴雨天，建议室内替代准备",
+        "湿度85%，不适指数高",
+        "由于日照时间短，阴天较多"
+      ]
+    },
+    "events": {
+      "ko": [
+        "프라하 크리스마스 마켓 (12월)",
+        "신년 불꽃놀이 (1월 1일)"
+      ],
+      "en": [
+        "Prague Christmas Market (December)",
+        "New Year's Fireworks (January 1)"
+      ],
+      "ja": [
+        "プラハクリスマスマーケット（12月）",
+        "新年花火大会（1月1日）"
+      ],
+      "zh": [
+        "布拉格圣诞市场（十二月）",
+        "新年烟花（1 月 1 日）"
+      ]
+    },
+    "tips": {
+      "ko": [
+        "보온 용품과 핫팩 준비"
+      ],
+      "en": [
+        "Prepare warming supplies and hot packs"
+      ],
+      "ja": [
+        "保温用品とホットパックの準備"
+      ],
+      "zh": [
+        "准备保暖用品和热敷袋"
+      ]
+    },
+    "clothingAdvice": {
+      "ko": "패딩, 두꺼운 코트, 방한용품 필수",
+      "en": "Padding, thick coat, and winter gear are essential",
+      "ja": "パディング、厚いコート、防寒用品必須",
+      "zh": "衬垫、厚外套和冬季装备必不可少"
+    },
     "crowdLevel": "low",
     "priceLevel": "low"
   }

@@ -24,7 +24,12 @@
       "countryId": "denmark",
       "latitude": 55.6761,
       "longitude": 12.5683,
-      "climateType": "서안 해양성",
+      "climateType": {
+        "ko": "서안 해양성",
+        "en": "Oceanic",
+        "ja": "西岸海洋性",
+        "zh": "温带海洋性"
+      },
       "monthlyData": [
         {
           "month": 1,
@@ -35,7 +40,12 @@
           "humidity": 86.4,
           "sunshineHours": 2.9,
           "seaTemp": 2.9,
-          "weatherSummary": "추움"
+          "weatherSummary": {
+            "ko": "추움",
+            "en": "Cold",
+            "ja": "寒い",
+            "zh": "寒冷"
+          }
         },
         {
           "month": 2,
@@ -46,7 +56,12 @@
           "humidity": 84,
           "sunshineHours": 4.8,
           "seaTemp": 2.9,
-          "weatherSummary": "추움"
+          "weatherSummary": {
+            "ko": "추움",
+            "en": "Cold",
+            "ja": "寒い",
+            "zh": "寒冷"
+          }
         },
         {
           "month": 3,
@@ -57,7 +72,12 @@
           "humidity": 79.2,
           "sunshineHours": 7.4,
           "seaTemp": 3.7,
-          "weatherSummary": "추움"
+          "weatherSummary": {
+            "ko": "추움",
+            "en": "Cold",
+            "ja": "寒い",
+            "zh": "寒冷"
+          }
         },
         {
           "month": 4,
@@ -68,7 +88,12 @@
           "humidity": 73.3,
           "sunshineHours": 10.5,
           "seaTemp": 7.2,
-          "weatherSummary": "쌀쌀"
+          "weatherSummary": {
+            "ko": "쌀쌀",
+            "en": "Chilly",
+            "ja": "肌寒い",
+            "zh": "微凉"
+          }
         },
         {
           "month": 5,
@@ -79,7 +104,12 @@
           "humidity": 74.7,
           "sunshineHours": 12.2,
           "seaTemp": 12.7,
-          "weatherSummary": "쌀쌀"
+          "weatherSummary": {
+            "ko": "쌀쌀",
+            "en": "Chilly",
+            "ja": "肌寒い",
+            "zh": "微凉"
+          }
         },
         {
           "month": 6,
@@ -90,7 +120,12 @@
           "humidity": 74.1,
           "sunshineHours": 13.1,
           "seaTemp": 17.3,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 7,
@@ -101,7 +136,12 @@
           "humidity": 74.9,
           "sunshineHours": 12.2,
           "seaTemp": 19,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 8,
@@ -112,7 +152,12 @@
           "humidity": 76.8,
           "sunshineHours": 10.8,
           "seaTemp": 19.1,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 9,
@@ -123,7 +168,12 @@
           "humidity": 77.8,
           "sunshineHours": 9.4,
           "seaTemp": 18.2,
-          "weatherSummary": "온화"
+          "weatherSummary": {
+            "ko": "온화",
+            "en": "Mild",
+            "ja": "温暖",
+            "zh": "温和"
+          }
         },
         {
           "month": 10,
@@ -134,7 +184,12 @@
           "humidity": 82,
           "sunshineHours": 5.6,
           "seaTemp": 12.4,
-          "weatherSummary": "쌀쌀"
+          "weatherSummary": {
+            "ko": "쌀쌀",
+            "en": "Chilly",
+            "ja": "肌寒い",
+            "zh": "微凉"
+          }
         },
         {
           "month": 11,
@@ -145,7 +200,12 @@
           "humidity": 83.9,
           "sunshineHours": 3.1,
           "seaTemp": 8.1,
-          "weatherSummary": "쌀쌀"
+          "weatherSummary": {
+            "ko": "쌀쌀",
+            "en": "Chilly",
+            "ja": "肌寒い",
+            "zh": "微凉"
+          }
         },
         {
           "month": 12,
@@ -156,7 +216,12 @@
           "humidity": 87.1,
           "sunshineHours": 1.7,
           "seaTemp": 4.8,
-          "weatherSummary": "추움"
+          "weatherSummary": {
+            "ko": "추움",
+            "en": "Cold",
+            "ja": "寒い",
+            "zh": "寒冷"
+          }
         }
       ]
     }
