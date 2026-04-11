@@ -52,8 +52,12 @@ interface RegionDetailContentProps {
 export default function RegionDetailContent({ country, region, comments, dailyData, countryId, defaultMonth }: RegionDetailContentProps) {
   const { locale } = useLocale();
   const { record } = useRecentlyViewed();
-  const currentMonth = new Date().getMonth() + 1;
-  const [selectedMonth, setSelectedMonth] = useState(defaultMonth ?? currentMonth);
+  const [selectedMonth, setSelectedMonth] = useState(defaultMonth ?? 1);
+  useEffect(() => {
+    if (defaultMonth === undefined) {
+      setSelectedMonth(new Date().getMonth() + 1);
+    }
+  }, [defaultMonth]);
   const [selectedYear, setSelectedYear] = useState(2025);
 
   useEffect(() => {
@@ -79,7 +83,7 @@ export default function RegionDetailContent({ country, region, comments, dailyDa
         ← {getLocalizedName(country.name, locale)}
       </Link>
       <h1 className="mt-2 text-2xl md:text-3xl font-bold text-gray-900">
-        {getLocalizedName(region.name, locale)} {locale === 'ko' ? '날씨' : locale === 'ja' ? '天気' : locale === 'zh' ? '天气' : 'Weather'}
+        {getLocalizedName(region.name, locale)} {defaultMonth ? `${t(messages.months[defaultMonth as keyof typeof messages.months], locale)} ` : ''}{locale === 'ko' ? '날씨' : locale === 'ja' ? '天気' : locale === 'zh' ? '天气' : 'Weather'}
       </h1>
       <p className="mt-1 text-gray-500">{region.name.en} · {resolveLocalizedString(region.climateType, locale)} · {locale === 'ko' ? '월별날씨 · 과거날씨 데이터' : locale === 'ja' ? '過去の気候データに基づく月間天気' : locale === 'zh' ? '基于历史气候数据的月度天气' : 'Monthly weather based on historical climate data'}</p>
 
@@ -117,7 +121,7 @@ export default function RegionDetailContent({ country, region, comments, dailyDa
 
       {/* Sticky Month Selector */}
       <div className="sticky top-16 z-30 bg-white/90 backdrop-blur-sm py-4 -mx-4 px-4 mt-8">
-        <MonthSelector selected={selectedMonth} onChange={setSelectedMonth} />
+        <MonthSelector selected={selectedMonth} linkBase={`/country/${countryId}/${region.id}/`} />
       </div>
 
       {/* All sections in single scroll */}
@@ -167,7 +171,7 @@ export default function RegionDetailContent({ country, region, comments, dailyDa
           <h2 className="text-lg font-semibold text-gray-800 mb-4">{t(SECTION_TITLES.annual, locale)}</h2>
           <BestSeasonBadge data={region.monthlyData} ratings={comments.map((c) => c.rating)} />
           <div className="mt-4">
-            <WeatherChart data={region.monthlyData} />
+            <WeatherChart data={region.monthlyData} highlightMonth={selectedMonth} />
           </div>
         </section>
 
@@ -185,26 +189,9 @@ export default function RegionDetailContent({ country, region, comments, dailyDa
         {/* Section: Monthly Data Table */}
         <section>
           <h2 className="text-lg font-semibold text-gray-800 mb-4">{t(SECTION_TITLES.monthlyData, locale)}</h2>
-          <WeatherTable data={region.monthlyData} />
+          <WeatherTable data={region.monthlyData} highlightMonth={selectedMonth} />
         </section>
 
-        {/* Section: Monthly page links (SEO internal linking) */}
-        <section>
-          <h2 className="text-lg font-semibold text-gray-800 mb-3">
-            {getLocalizedName(region.name, locale)} {locale === 'ko' ? '월별 날씨' : locale === 'ja' ? '月別天気' : locale === 'zh' ? '月度天气' : 'Monthly Weather'}
-          </h2>
-          <div className="flex flex-wrap gap-2">
-            {Array.from({ length: 12 }, (_, i) => i + 1).map(mo => (
-              <Link
-                key={mo}
-                href={`/country/${countryId}/${region.id}/${mo}`}
-                className="rounded-lg border border-slate-200 px-3 py-1.5 text-sm text-gray-600 hover:border-sky-200 hover:text-sky-500 transition-colors"
-              >
-                {getLocalizedName(region.name, locale)} {t(messages.months[mo as keyof typeof messages.months], locale)} {locale === 'ko' ? '날씨' : locale === 'ja' ? '天気' : locale === 'zh' ? '天气' : 'Weather'}
-              </Link>
-            ))}
-          </div>
-        </section>
       </div>
     </main>
   );
