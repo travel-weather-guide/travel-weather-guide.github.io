@@ -98,8 +98,8 @@ export default function Home() {
       />
 
       {/* Hero section */}
-      <section className="-mx-4 px-4 pt-8 pb-6 text-center">
-        <h1 className="text-2xl font-extrabold tracking-tight text-gray-900 md:text-3xl">
+      <section className="-mx-4 px-4 pt-10 pb-8 text-center bg-gradient-to-b from-sky-50/80 to-transparent">
+        <h1 className="text-3xl font-extrabold tracking-tight text-gray-900 md:text-4xl">
           {t(messages.home.hero, locale)}
         </h1>
         <p className="mt-3 text-base text-gray-500">
@@ -158,7 +158,7 @@ export default function Home() {
 
       {recentItems.length > 0 && (
         <section className="mt-12">
-          <h2 className="mb-3 text-sm font-medium text-gray-500">{RECENT_LABEL[locale] ?? RECENT_LABEL.ko}</h2>
+          <h2 className="mb-3 text-base font-semibold text-gray-700">{RECENT_LABEL[locale] ?? RECENT_LABEL.ko}</h2>
           <div className="flex flex-wrap gap-2">
             {recentItems.map((r) => (
               <Link

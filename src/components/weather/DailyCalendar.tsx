@@ -139,7 +139,7 @@ export default function DailyCalendar({ days, month, year, commentBadge }: Daily
               onMouseEnter={() => setHoveredDay(cell)}
               onMouseLeave={() => setHoveredDay(null)}
               onClick={() => setTappedDay(prev => prev?.day === cell.day ? null : cell)}
-              className={`relative min-h-16 cursor-pointer p-1.5 transition-colors hover:bg-white md:min-h-20 md:p-2 ${cellBg(cell.tempHigh, cell.tempLow)} ${tappedDay?.day === cell.day ? 'ring-2 ring-sky-400 ring-inset' : ''}`}
+              className={`relative min-h-16 cursor-pointer p-1.5 transition-colors hover:bg-sky-100/50 md:min-h-20 md:p-2 ${cellBg(cell.tempHigh, cell.tempLow)} ${tappedDay?.day === cell.day ? 'ring-2 ring-sky-400 ring-inset' : ''}`}
             >
               <div className={`text-xs leading-none ${
                 dow === 0 ? 'text-rose-400' : dow === 6 ? 'text-blue-400' : 'text-gray-400'

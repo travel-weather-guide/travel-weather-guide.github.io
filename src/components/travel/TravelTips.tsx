@@ -16,6 +16,7 @@ export default function TravelTips({ comment }: TravelTipsProps) {
   const clothingAdvice = resolveLocalizedString(comment.clothingAdvice, locale);
   const highlights = resolveLocalizedStringArray(comment.highlights, locale);
   const cautions = resolveLocalizedStringArray(comment.cautions, locale);
+  const events = resolveLocalizedStringArray(comment.events, locale);
   const tips = resolveLocalizedStringArray(comment.tips, locale);
 
   return (
@@ -50,6 +51,20 @@ export default function TravelTips({ comment }: TravelTipsProps) {
             {cautions.map((c, i) => (
               <li key={i} className="text-sm text-gray-700">
                 <span className="text-orange-500 mr-1">▲</span>{c}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {/* Events */}
+      {events.length > 0 && (
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-wide text-violet-600">{locale === 'ko' ? '축제·이벤트' : locale === 'ja' ? '祭り・イベント' : locale === 'zh' ? '节日·活动' : 'Events'}</p>
+          <ul className="mt-1 space-y-1">
+            {events.map((e, i) => (
+              <li key={i} className="text-sm text-gray-700">
+                <span className="text-violet-500 mr-1">★</span>{e}
               </li>
             ))}
           </ul>

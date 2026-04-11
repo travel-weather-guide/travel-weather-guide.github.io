@@ -10,6 +10,7 @@ import {
   CartesianGrid,
   Tooltip,
   Legend,
+  Cell,
 } from 'recharts';
 import type { MonthlyData } from '@/types';
 import { useLocale } from '@/contexts/LocaleContext';
@@ -17,6 +18,7 @@ import { messages, t } from '@/i18n/messages';
 
 interface WeatherChartProps {
   data: MonthlyData[];
+  highlightMonth?: number;
 }
 
 function CustomTooltip({ active, payload, label, locale }: { active?: boolean; payload?: Array<{ value: number; dataKey: string; color: string }>; label?: string; locale: 'ko' | 'en' | 'ja' | 'zh' }) {
@@ -36,7 +38,7 @@ function CustomTooltip({ active, payload, label, locale }: { active?: boolean; p
   );
 }
 
-export default function WeatherChart({ data }: WeatherChartProps) {
+export default function WeatherChart({ data, highlightMonth }: WeatherChartProps) {
   const { locale } = useLocale();
 
   const chartData = data.map((d) => ({
@@ -93,10 +95,13 @@ export default function WeatherChart({ data }: WeatherChartProps) {
             dataKey="rainfall"
             name={t(messages.weather.chartRainfall, locale)}
             fill="#7dd3fc"
-            opacity={0.5}
             radius={[3, 3, 0, 0]}
             barSize={20}
-          />
+          >
+            {chartData.map((_, index) => (
+              <Cell key={index} opacity={highlightMonth && index + 1 !== highlightMonth ? 0.3 : 0.6} />
+            ))}
+          </Bar>
           <Line
             yAxisId="temp"
             type="monotone"
@@ -114,7 +119,7 @@ export default function WeatherChart({ data }: WeatherChartProps) {
             name={t(messages.weather.chartTempLow, locale)}
             stroke="#6b7280"
             strokeWidth={2}
-            dot={{ r: 3, fill: '#3b82f6' }}
+            dot={{ r: 3, fill: '#6b7280' }}
             activeDot={{ r: 5 }}
           />
         </ComposedChart>

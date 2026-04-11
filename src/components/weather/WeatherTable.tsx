@@ -7,9 +7,10 @@ import { resolveLocalizedString } from '@/utils/data';
 
 interface WeatherTableProps {
   data: MonthlyData[];
+  highlightMonth?: number;
 }
 
-export default function WeatherTable({ data }: WeatherTableProps) {
+export default function WeatherTable({ data, highlightMonth }: WeatherTableProps) {
   const { locale } = useLocale();
 
   return (
@@ -29,11 +30,11 @@ export default function WeatherTable({ data }: WeatherTableProps) {
         </thead>
         <tbody>
           {data.map((d, i) => (
-            <tr key={d.month} className={`border-t border-slate-100 ${i % 2 === 0 ? 'bg-slate-50/50' : ''}`}>
+            <tr key={d.month} className={`border-t border-slate-100 ${highlightMonth === d.month ? 'bg-sky-50' : i % 2 === 0 ? 'bg-slate-50/50' : ''}`}>
               <td className="px-3 py-2.5 font-medium text-gray-900">{t(messages.months[d.month as keyof typeof messages.months], locale)}</td>
-              <td className="px-3 py-2.5 text-rose-500 font-medium">{d.tempHigh}</td>
-              <td className="px-3 py-2.5 text-gray-500 font-medium">{d.tempLow}</td>
-              <td className="px-3 py-2.5">{d.rainfall}</td>
+              <td className="px-3 py-2.5 text-rose-500 font-medium">{d.tempHigh}°</td>
+              <td className="px-3 py-2.5 text-gray-500 font-medium">{d.tempLow}°</td>
+              <td className="px-3 py-2.5">{d.rainfall}mm</td>
               <td className="px-3 py-2.5">{d.rainyDays}</td>
               <td className="px-3 py-2.5">{d.humidity}</td>
               <td className="px-3 py-2.5">{d.sunshineHours}</td>

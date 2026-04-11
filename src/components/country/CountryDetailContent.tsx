@@ -51,6 +51,25 @@ export default function CountryDetailContent({ country, comments, countryId }: C
         ))}
       </div>
 
+      {/* 베스트 시즌 배너 */}
+      {(() => {
+        const bestMonths = comments
+          .filter(c => c.rating >= 4)
+          .map(c => c.month)
+          .filter((m, i, arr) => arr.indexOf(m) === i)
+          .sort((a, b) => a - b);
+        return bestMonths.length > 0 ? (
+          <div className="mt-4 rounded-2xl bg-emerald-50 border border-emerald-100 p-4 flex flex-wrap items-center gap-2">
+            <span className="text-sm font-semibold text-emerald-700">{locale === 'ko' ? '베스트 시즌' : locale === 'ja' ? 'ベストシーズン' : locale === 'zh' ? '最佳季节' : 'Best Season'}</span>
+            {bestMonths.map(m => (
+              <span key={m} className="rounded-full bg-emerald-100 px-2.5 py-0.5 text-xs font-medium text-emerald-700">
+                {t(messages.months[m as keyof typeof messages.months], locale)}
+              </span>
+            ))}
+          </div>
+        ) : null;
+      })()}
+
       {/* 지역 목록 */}
       <section className="mt-10">
         <h2 className="mb-4 text-xl font-bold text-gray-900">
