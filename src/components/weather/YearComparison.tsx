@@ -4,14 +4,13 @@ import type { DayData } from './DailyCalendar';
 import { useLocale } from '@/contexts/LocaleContext';
 import { messages, t } from '@/i18n/messages';
 
-const YEARS = [2025, 2024, 2023, 2022];
-
 interface YearComparisonProps {
   years: Record<string, DayData[]>;
   selectedYear: number;
 }
 
 export default function YearComparison({ years, selectedYear }: YearComparisonProps) {
+  const YEARS = Object.keys(years).map(Number).sort((a, b) => b - a);
   const { locale } = useLocale();
 
   return (

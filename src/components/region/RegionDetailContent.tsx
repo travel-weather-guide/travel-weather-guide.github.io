@@ -29,7 +29,24 @@ const ratingConfig: Record<number, { color: string }> = {
   1: { color: 'bg-red-100 text-red-700' },
 };
 
-const YEARS = [2025, 2024, 2023, 2022];
+function getAvailableYears(dailyData: DailyDataMap): number[] {
+  const yearSet = new Set<number>();
+  for (const monthKey of Object.keys(dailyData)) {
+    const monthData = dailyData[Number(monthKey)];
+    if (monthData?.years) {
+      for (const y of Object.keys(monthData.years)) yearSet.add(Number(y));
+    }
+  }
+  return [...yearSet].sort((a, b) => b - a);
+}
+
+function getDefaultYear(dailyData: DailyDataMap, month: number, years: number[]): number {
+  for (const y of years) {
+    const days = dailyData[month]?.years?.[String(y)];
+    if (days && days.length > 0) return y;
+  }
+  return years[0] ?? 2025;
+}
 
 const SECTION_TITLES = {
   calendar: { ko: '일별 날씨', en: 'Daily Weather', ja: '日別天気', zh: '每日天气' },
@@ -58,7 +75,9 @@ export default function RegionDetailContent({ country, region, comments, dailyDa
       setSelectedMonth(new Date().getMonth() + 1);
     }
   }, [defaultMonth]);
-  const [selectedYear, setSelectedYear] = useState(2025);
+  const YEARS = getAvailableYears(dailyData);
+  const initMonth = defaultMonth ?? new Date().getMonth() + 1;
+  const [selectedYear, setSelectedYear] = useState(() => getDefaultYear(dailyData, initMonth, YEARS));
 
   useEffect(() => {
     record({

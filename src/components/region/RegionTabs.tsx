@@ -28,13 +28,32 @@ interface RegionTabsProps {
 
 type TabId = 'calendar' | 'overview' | 'guide';
 
-const YEARS = [2024, 2023, 2022];
+function getAvailableYears(dailyData: Record<number, RegionDailyMonth>): number[] {
+  const yearSet = new Set<number>();
+  for (const monthKey of Object.keys(dailyData)) {
+    const monthData = dailyData[Number(monthKey)];
+    if (monthData?.years) {
+      for (const y of Object.keys(monthData.years)) yearSet.add(Number(y));
+    }
+  }
+  return [...yearSet].sort((a, b) => b - a);
+}
+
+function getDefaultYear(dailyData: Record<number, RegionDailyMonth>, month: number, years: number[]): number {
+  for (const y of years) {
+    const days = dailyData[month]?.years?.[String(y)];
+    if (days && (days as unknown[]).length > 0) return y;
+  }
+  return years[0] ?? 2025;
+}
 
 export default function RegionTabs({ region, comments, dailyData }: RegionTabsProps) {
   const { locale } = useLocale();
+  const YEARS = getAvailableYears(dailyData);
+  const initMonth = new Date().getMonth() + 1;
   const [activeTab, setActiveTab] = useState<TabId>('calendar');
   const [calendarMonth, setCalendarMonth] = useState(1);
-  const [calendarYear, setCalendarYear] = useState(2024);
+  const [calendarYear, setCalendarYear] = useState(() => getDefaultYear(dailyData, initMonth, YEARS));
   const [guideMonth, setGuideMonth] = useState(1);
   useEffect(() => {
     const m = new Date().getMonth() + 1;
@@ -132,6 +151,7 @@ function CalendarTab({
   onYearChange: (y: number) => void;
 }) {
   const { locale } = useLocale();
+  const YEARS = getAvailableYears(dailyData);
   const monthData = dailyData[month];
   const days = (monthData?.years[String(year)] ?? []) as DayData[];
   const comment = comments.find((c) => c.month === month);
