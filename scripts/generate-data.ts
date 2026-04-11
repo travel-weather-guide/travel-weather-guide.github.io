@@ -10,7 +10,7 @@
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'fs';
 import { join } from 'path';
 import { countries, visaInfo, countryImageUrls } from './regions';
-import { fetchClimateAndDailyData } from './fetch-climate-data';
+import { fetchClimateAndDailyData, setDateRange } from './fetch-climate-data';
 import { fetchCountryInfo } from './fetch-country-info';
 import { generateTravelComments } from './generate-travel-comments';
 import type { Country, MonthlyRecommendation, TravelComment } from '../src/types';
@@ -160,7 +160,21 @@ function rebuildIndexAndRecommendations() {
 
 // --- main ---
 
+function parseStringArg(name: string): string | undefined {
+  const eq = process.argv.find((a) => a.startsWith(`--${name}=`))?.replace(`--${name}=`, '');
+  if (eq) return eq;
+  const idx = process.argv.indexOf(`--${name}`);
+  return idx !== -1 ? process.argv[idx + 1] : undefined;
+}
+
 async function main() {
+  const sd = parseStringArg('start-date');
+  const ed = parseStringArg('end-date');
+  if (sd && ed) {
+    setDateRange(sd, ed);
+    console.log(`날짜 범위 변경: ${sd} ~ ${ed}\n`);
+  }
+
   const onlySet = parseOnlyArg();
   const targetCountries = onlySet ? countries.filter((c) => onlySet.has(c.id)) : countries;
 

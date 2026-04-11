@@ -8,8 +8,16 @@ import type { RegionDef } from './regions';
 
 const BASE_URL = 'https://archive-api.open-meteo.com/v1/archive';
 const MARINE_BASE_URL = 'https://marine-api.open-meteo.com/v1/marine';
-const START_DATE = '2020-01-01';
-const END_DATE = '2024-12-31';
+let startDate = '2020-01-01';
+let endDate = '2024-12-31';
+let dailyStartYear = 2022;
+
+/** 월별 평균 계산에 사용할 날짜 범위 변경 */
+export function setDateRange(start: string, end: string, dailyStart?: number) {
+  startDate = start;
+  endDate = end;
+  if (dailyStart !== undefined) dailyStartYear = dailyStart;
+}
 
 interface DailyResponse {
   daily: {
@@ -43,14 +51,14 @@ async function fetchArchiveData(region: RegionDef): Promise<DailyResponse> {
   const params = new URLSearchParams({
     latitude: String(region.latitude),
     longitude: String(region.longitude),
-    start_date: START_DATE,
-    end_date: END_DATE,
+    start_date: startDate,
+    end_date: endDate,
     daily: 'temperature_2m_max,temperature_2m_min,precipitation_sum,relative_humidity_2m_mean,sunshine_duration',
     timezone: 'auto',
   });
 
   const url = `${BASE_URL}?${params}`;
-  console.log(`  Fetching climate data for ${region.name.en}...`);
+  console.log(`  Fetching climate data for ${region.name.en} (${startDate} ~ ${endDate})...`);
 
   let res: Response | undefined;
   for (let attempt = 0; attempt < 8; attempt++) {
@@ -80,7 +88,7 @@ function extractDailyCalendar(data: DailyResponse): DailyCalendarData {
   for (let i = 0; i < time.length; i++) {
     const date = time[i];
     const year = parseInt(date.substring(0, 4));
-    if (year < 2022) continue; // daily 캘린더는 2022~2024만
+    if (year < dailyStartYear) continue;
 
     const month = parseInt(date.substring(5, 7));
     const day = parseInt(date.substring(8, 10));
@@ -120,8 +128,8 @@ async function fetchSeaTemp(lat: number, lon: number): Promise<Record<number, nu
   const params = new URLSearchParams({
     latitude: String(lat),
     longitude: String(lon),
-    start_date: START_DATE,
-    end_date: END_DATE,
+    start_date: startDate,
+    end_date: endDate,
     daily: 'sea_surface_temperature_max',
     timezone: 'auto',
   });
