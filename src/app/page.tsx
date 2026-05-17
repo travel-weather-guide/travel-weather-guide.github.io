@@ -98,7 +98,7 @@ export default function Home() {
       />
 
       {/* Hero section */}
-      <section className="-mx-4 px-4 pt-10 pb-8 text-center bg-gradient-to-b from-sky-50/80 to-transparent">
+      <section className="-mx-4 px-4 pt-10 pb-8 text-center">
         <h1 className="text-3xl font-extrabold tracking-tight text-gray-900 md:text-4xl">
           {t(messages.home.hero, locale)}
         </h1>
