@@ -8,7 +8,7 @@ const BASE_URL = 'https://travel-weather-guide.github.io';
 const LOCALES = ['en', 'ja', 'zh'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date();
+  const now = new Date().toISOString().split('T')[0];
   const entries: MetadataRoute.Sitemap = [
     { url: `${BASE_URL}/`, changeFrequency: 'monthly', priority: 1.0, lastModified: now },
     { url: `${BASE_URL}/country/`, changeFrequency: 'monthly', priority: 0.9, lastModified: now },
