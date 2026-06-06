@@ -1,0 +1,106 @@
+{
+  "slug": "cool-summer",
+  "title": {
+    "ko": "여름 시원한 해외여행지 추천 — 더위 피하는 해외여행지 14곳",
+    "en": "Cool Summer Destinations — 14 Places to Escape the Heat Abroad",
+    "ja": "夏も涼しい海外旅行先 — 暑さを避ける旅行地14選",
+    "zh": "夏季凉爽的海外旅行地推荐 — 避暑海外旅行地14选"
+  },
+  "h1": {
+    "ko": "여름 시원한 해외여행지 — 7월 더위 피하고 싶을 때",
+    "en": "Cool Summer Escapes — When You Need to Beat the Heat",
+    "ja": "夏も涼しい海外旅行先 — 7月の暑さから逃げたいとき",
+    "zh": "夏季凉爽的海外旅行地 — 想逃离七月酷暑时"
+  },
+  "metaDescription": {
+    "ko": "한국의 한여름 더위를 피해 떠나기 좋은 해외여행지를 실제 기후 데이터로 줄 세웠습니다. 6~8월 낮 최고기온이 가장 낮은 레이캬비크·에든버러·샌프란시스코 등 시원한 여행지 14곳.",
+    "en": "The world's coolest summer destinations ranked by real climate data. Reykjavik, Edinburgh, San Francisco and more — 14 places where June–August highs stay genuinely cool.",
+    "ja": "韓国の真夏の暑さを避けて行ける海外旅行先を実際の気候データでランキング。6〜8月の最高気温が最も低いレイキャビク・エジンバラ・サンフランシスコなど涼しい旅行地14選。",
+    "zh": "用真实气候数据排出夏季最凉爽的海外旅行目的地。雷克雅未克、爱丁堡、旧金山等14个6~8月白天最高气温最低的凉爽旅行地。"
+  },
+  "intro": {
+    "ko": [
+      "한국의 7~8월은 35도를 웃도는 폭염에 습도까지 높아 그야말로 숨이 막힙니다. 이때 에어컨 없이도 쾌적하게 돌아다닐 수 있는 곳으로 떠나고 싶다면 두 가지 선택지가 있어요. 첫 번째는 우리의 여름이 그쪽의 겨울인 남반구, 즉 멜버른·시드니·오클랜드입니다. 두 번째는 위도가 높아서 한여름에도 최고기온이 20도 안팎에 그치는 북유럽·서유럽·서부 캐나다, 레이캬비크·헬싱키·에든버러·샌프란시스코 같은 곳이죠.",
+      "이 두 유형은 '시원한 이유'가 전혀 다릅니다. 남반구 도시들은 6~8월이 그곳의 겨울이기 때문에 기온이 낮은 것이고, 북반구 고위도 도시들은 여름이지만 위도 덕분에 원래 서늘한 겁니다. 이 페이지는 한국의 여름(6~8월) 기간 중 각 도시의 낮 최고기온 평균을 기후 데이터에서 직접 계산해 낮은 순서대로 정리했습니다. 아이슬란드 레이캬비크의 6~8월 평균 낮 최고기온은 12.2°C, 멜버른은 13.9°C로 서울 한여름과는 비교 자체가 안 됩니다."
+    ],
+    "en": [
+      "July and August in Korea are relentlessly hot and humid — temperatures routinely push past 35°C, and the air feels thick even in the shade. If you want to spend summer somewhere you can actually walk around without melting, there are two very different ways to do it. The first is the Southern Hemisphere, where Korea's summer is their winter: Melbourne, Sydney, and Auckland are genuinely cold in June–August. The second is staying in the Northern Hemisphere but heading far enough north or west that even summer highs barely climb: Reykjavik, Helsinki, Edinburgh, and San Francisco all fit that description.",
+      "The reason these two groups feel cool is completely different. Southern Hemisphere cities are cold in June–August simply because those months are their winter. Northern Hemisphere cities on this list are cool because their high latitude or ocean exposure keeps summer temperatures naturally low. This page calculates each city's average daytime high during Korea's summer months (June–August) directly from historical climate data, then sorts from coolest to warmest. Reykjavik averages just 12.2°C on a summer afternoon; Melbourne sits at 13.9°C — figures that make Seoul's August feel like another planet."
+    ],
+    "ja": [
+      "韓国の7〜8月は35度を超える猛暑に高湿度が重なり、外を歩くだけで体力を奪われます。エアコンなしでも快適に観光できる場所に逃げたいなら、大きく二つの選択肢があります。一つ目は、私たちの夏がそこの冬にあたる南半球の都市、メルボルン・シドニー・オークランドです。二つ目は、北半球でも緯度が高すぎて真夏でも最高気温が20度前後にとどまる北欧・西欧・カナダ西部、レイキャビク・ヘルシンキ・エジンバラ・サンフランシスコといった都市です。",
+      "この二つのタイプが涼しい理由はまったく異なります。南半球の都市は6〜8月がその地の冬だから気温が低いのであり、北半球の高緯度都市は夏であっても緯度のおかげで元々涼しいのです。このページでは韓国の夏(6〜8月)の期間に各都市の日中最高気温の平均を気候データから直接算出し、低い順に並べました。アイスランドのレイキャビクの6〜8月平均最高気温は12.2°C、メルボルンは13.9°Cで、ソウルの真夏とは比較になりません。"
+    ],
+    "zh": [
+      "韩国7~8月酷热潮湿，气温常常突破35°C，就算在树荫下也喘不过气。如果你想在不开空调的情况下也能舒适游玩，有两种截然不同的选择。第一种是南半球城市——墨尔本、悉尼、奥克兰：韩国的夏天正是那里的冬天，所以天气真的很冷。第二种是留在北半球，但前往纬度足够高或受海洋影响显著的地方，让夏季最高气温也不超过20°C出头，雷克雅未克、赫尔辛基、爱丁堡、旧金山都属于这一类。",
+      "这两类城市凉爽的原因完全不同：南半球城市在6~8月气温低，是因为那正是它们的冬季；而北半球高纬度城市即便在夏天，也因纬度或海洋影响而天然凉爽。本页直接从历史气候数据中计算各城市在韩国夏季（6~8月）的平均白天最高气温，并从低到高排序。冰岛雷克雅未克6~8月平均最高气温仅12.2°C，墨尔本13.9°C，与首尔的八月相比简直是两个世界。"
+    ]
+  },
+  "tableCaption": {
+    "ko": "6~8월 낮 최고기온 평균이 낮은 순 — 과거 기후 평년값 기준",
+    "en": "Ranked by lowest average daytime high (June–August) — based on historical climate averages",
+    "ja": "6〜8月の平均日中最高気温が低い順 — 過去の気候平年値に基づく",
+    "zh": "按6~8月平均白天最高气温从低到高排序 — 基于历史气候平均值"
+  },
+  "faq": [
+    {
+      "q": {
+        "ko": "여름에 시원한 해외여행지는 어디인가요?",
+        "en": "Which overseas destinations are genuinely cool in summer?",
+        "ja": "夏でも涼しい海外旅行先はどこですか？",
+        "zh": "夏天真正凉爽的海外旅行地有哪些？"
+      },
+      "a": {
+        "ko": "기후 데이터 기준으로 가장 시원한 곳은 아이슬란드 레이캬비크(6~8월 평균 최고 12.2°C)이고, 그 뒤를 호주 멜버른(13.9°C), 뉴질랜드 오클랜드(14.9°C)가 잇습니다. 멜버른과 오클랜드는 남반구라 6~8월이 겨울이기 때문에 시원한 것이고, 레이캬비크·에든버러·헬싱키·샌프란시스코는 고위도 또는 해양성 기후 덕분에 여름에도 선선합니다.",
+        "en": "By climate data, the coolest is Reykjavik, Iceland (average June–August high of 12.2°C), followed by Melbourne, Australia (13.9°C) and Auckland, New Zealand (14.9°C). Melbourne and Auckland are cool because June–August is their winter — they're in the Southern Hemisphere. Reykjavik, Edinburgh, Helsinki, and San Francisco stay cool for a different reason: high latitude or marine climate keeps their summers naturally mild.",
+        "ja": "気候データ基準で最も涼しいのはアイスランドのレイキャビク（6〜8月平均最高気温12.2°C）で、続いてオーストラリアのメルボルン（13.9°C）、ニュージーランドのオークランド（14.9°C）です。メルボルンとオークランドは南半球のため6〜8月が冬であることが涼しい理由で、レイキャビク・エジンバラ・ヘルシンキ・サンフランシスコは高緯度または海洋性気候のおかげで夏でも涼しいのです。",
+        "zh": "按气候数据，最凉爽的是冰岛雷克雅未克（6~8月平均最高气温12.2°C），其次是澳大利亚墨尔本（13.9°C）和新西兰奥克兰（14.9°C）。墨尔本和奥克兰凉爽是因为6~8月正是它们的冬季——它们位于南半球。雷克雅未克、爱丁堡、赫尔辛基、旧金山凉爽则是另一个原因：高纬度或海洋性气候让其夏季本就温和。"
+      }
+    },
+    {
+      "q": {
+        "ko": "남반구 여행지와 북유럽 여행지 중 어디가 더 시원한가요?",
+        "en": "Is the Southern Hemisphere or northern Europe cooler in Korea's summer?",
+        "ja": "南半球の旅行先と北欧の旅行先、どちらが涼しいですか？",
+        "zh": "南半球旅行地和北欧旅行地，哪个更凉爽？"
+      },
+      "a": {
+        "ko": "6~8월 기온만 놓고 보면 남반구(멜버른 13.9°C, 오클랜드 14.9°C, 시드니 17.4°C)와 아이슬란드(12.2°C)가 가장 낮습니다. 그러나 멜버른·시드니·오클랜드는 겨울 여행이므로 날씨가 흐리거나 비가 오는 날도 잦습니다. 반면 에든버러(17.8°C)·헬싱키(20.4°C)·코펜하겐(20.1°C)은 그쪽의 여름이라 낮이 길고 맑은 날이 많아 관광하기 쾌적합니다. 어떤 분위기를 원하느냐에 따라 선택이 달라집니다.",
+        "en": "By the raw numbers for June–August, the Southern Hemisphere trio (Melbourne 13.9°C, Auckland 14.9°C, Sydney 17.4°C) and Iceland (12.2°C) come out coldest. But Melbourne, Sydney, and Auckland are in their winter then — expect grey skies and frequent rain. Edinburgh (17.8°C), Helsinki (20.4°C), and Copenhagen (20.1°C) are in their summer, so days are long and often sunny, making sightseeing pleasant. The right choice depends on what kind of trip you're after.",
+        "ja": "6〜8月の気温だけで見ると、南半球（メルボルン13.9°C、オークランド14.9°C、シドニー17.4°C）とアイスランド（12.2°C）が最も低いです。ただしメルボルン・シドニー・オークランドはその地の冬なので曇りや雨の日も多くなります。一方エジンバラ（17.8°C）・ヘルシンキ（20.4°C）・コペンハーゲン（20.1°C）はその地の夏なので日が長く晴れの日が多く、観光しやすいです。どんな旅の雰囲気を求めるかによって選択が変わります。",
+        "zh": "单看6~8月气温数字，南半球三城（墨尔本13.9°C、奥克兰14.9°C、悉尼17.4°C）和冰岛（12.2°C）最低。但墨尔本、悉尼、奥克兰那时正值冬季，阴天和雨天较多。相比之下，爱丁堡（17.8°C）、赫尔辛基（20.4°C）、哥本哈根（20.1°C）处于当地夏季，白天漫长、晴天较多，观光体验更舒适。选哪个取决于你想要什么样的旅行氛围。"
+      }
+    },
+    {
+      "q": {
+        "ko": "기온 데이터는 어디서 가져온 건가요?",
+        "en": "Where does the temperature data come from?",
+        "ja": "気温データはどこから取得していますか？",
+        "zh": "气温数据来自哪里？"
+      },
+      "a": {
+        "ko": "Open-Meteo의 과거 기후 데이터(Historical Weather API, CC BY 4.0)를 사용했습니다. 각 도시의 6·7·8월 낮 최고기온 평년값을 평균 내어 순위를 매겼으며, 주관적인 평가는 전혀 들어가지 않았습니다.",
+        "en": "We use Open-Meteo's historical climate data (Historical Weather API, CC BY 4.0). The ranking averages each city's June, July, and August daytime high climate normals — no subjective scoring involved.",
+        "ja": "Open-Meteoの過去の気候データ（Historical Weather API、CC BY 4.0）を使用しています。各都市の6・7・8月の日中最高気温の平年値を平均して順位を付けており、主観的な評価は一切含まれていません。",
+        "zh": "我们使用 Open-Meteo 的历史气候数据（Historical Weather API，CC BY 4.0）。排名将各城市6、7、8月白天最高气温平均值取均值后排序，不含任何主观评分。"
+      }
+    }
+  ],
+  "citations": [
+    {
+      "label": {
+        "ko": "Open-Meteo 과거 기후 데이터 (CC BY 4.0)",
+        "en": "Open-Meteo Historical Weather API (CC BY 4.0)",
+        "ja": "Open-Meteo 過去の気候データ (CC BY 4.0)",
+        "zh": "Open-Meteo 历史气候数据 (CC BY 4.0)"
+      },
+      "url": "https://open-meteo.com/"
+    }
+  ],
+  "dataNote": {
+    "ko": "순위는 각 도시의 6·7·8월 낮 최고기온 평년값을 평균한 결정론적 계산이며, 주관적 평가가 들어가지 않았습니다.",
+    "en": "The ranking is a deterministic average of each city's June, July, and August daytime high climate normals — no subjective scoring.",
+    "ja": "順位は各都市の6・7・8月の日中最高気温の平年値を平均した決定論的な計算であり、主観的評価は含まれていません。",
+    "zh": "排名是对各城市6、7、8月白天最高气温平均值的确定性计算，不含主观评分。"
+  }
+}

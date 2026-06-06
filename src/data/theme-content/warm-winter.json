@@ -1,0 +1,106 @@
+{
+  "slug": "warm-winter",
+  "title": {
+    "ko": "겨울 따뜻한 해외여행지 추천 — 한국 겨울에 한낮 30도 넘는 여행지 14곳",
+    "en": "Warm Winter Destinations — 14 Places Above 30 °C While Korea Freezes",
+    "ja": "冬に暖かい海外旅行先 — 韓国の冬に日中30度を超える旅行地14選",
+    "zh": "冬季温暖海外旅行地推荐 — 韩国冬天白天超过30度的旅行地14选"
+  },
+  "h1": {
+    "ko": "겨울 따뜻한 해외여행지 — 1월에도 한낮 30도, 동남아 건기 성수기",
+    "en": "Warm Winter Escapes — 30 °C in January, Southeast Asia's Peak Dry Season",
+    "ja": "冬に暖かい海外旅行先 — 1月でも日中30度、東南アジア乾季の旅行シーズン",
+    "zh": "冬季温暖海外旅行地 — 1月白天30度，东南亚干季旺季"
+  },
+  "metaDescription": {
+    "ko": "한국이 영하로 떨어지는 12~2월, 동남아·남아시아 14개 도시의 실제 최고기온 데이터로 따뜻한 해외여행지를 줄 세웠습니다. 호치민·방콕·크라비 등 겨울 여행하기 좋은 나라 추천.",
+    "en": "While Korea dips below freezing, these 14 Southeast and South Asian cities hit 30 °C+ in winter. Ranked by actual December–February daytime highs — Ho Chi Minh City, Bangkok, Krabi and more.",
+    "ja": "韓国が氷点下になる12〜2月、東南アジア・南アジア14都市の実際の最高気温データで暖かい旅行先をランキング。ホーチミン・バンコク・クラビなど冬に旅行しやすい国を紹介。",
+    "zh": "韩国气温降至零下的12月至2月，用东南亚和南亚14个城市的实际最高气温数据排出冬季温暖旅行地。胡志明市、曼谷、甲米等冬季出行推荐。"
+  },
+  "intro": {
+    "ko": [
+      "서울이 영하 10도로 꽁꽁 얼어붙는 1월, 호치민의 한낮 기온은 32도를 웃돕니다. 비행기 타고 네다섯 시간이면 닿는 동남아는 12월부터 2월까지 건기 성수기와 딱 맞아떨어져, 따뜻한 날씨에 비까지 거의 안 오는 최고의 여행 환경이 펼쳐집니다. 겨울 외투를 캐리어에 넣는 대신, 반팔 티셔츠 한 장으로 여행을 준비할 수 있다는 게 이 시기 동남아 여행의 매력이에요.",
+      "이 페이지는 한국 겨울(12~2월) 동안 각 도시의 평균 최고기온을 실제 기후 데이터로 계산해 높은 순서대로 정리했습니다. 호치민·방콕·크라비처럼 건기와 겹쳐 비 걱정도 없는 곳들이 상위권을 차지합니다. 건기는 곧 성수기, 우기는 비수기라는 단순한 기준으로 봐도 됩니다. 표의 기온은 주관적 평가 없이 과거 기후 평년값을 그대로 계산한 수치입니다."
+    ],
+    "en": [
+      "While Seoul locks down under −10 °C in January, Ho Chi Minh City's afternoon high pushes past 32 °C. Just four to five hours away by plane, Southeast Asia's December–February window lands squarely in dry season — meaning you get the warmth and almost no rain at the same time. Trading a winter coat for a short-sleeve shirt is exactly the kind of packing win that makes a winter escape to this region so appealing.",
+      "This page calculates each city's average daytime high during Korea's winter months (December–February) from real historical climate data, then ranks them warmest first. Cities like Ho Chi Minh City, Bangkok, and Krabi sit near the top because their dry season overlaps perfectly with Korean winter — dry season is peak season, wet season is low season. The temperatures shown are deterministic averages from past climate records, with no subjective scoring."
+    ],
+    "ja": [
+      "ソウルが氷点下10度で凍えつく1月、ホーチミンの日中気温は32度を超えます。飛行機で4〜5時間の東南アジアは12月から2月がちょうど乾季の旅行シーズンと重なり、暖かい気候に加えてほとんど雨も降らない絶好の旅行環境が広がります。冬のコートをスーツケースに詰める代わりに、半袖1枚で旅の準備ができるのが、この時期の東南アジア旅行の魅力です。",
+      "このページでは韓国の冬（12〜2月）の間、各都市の平均最高気温を実際の気候データから計算し、高い順に並べました。ホーチミン・バンコク・クラビのように乾季と重なって雨の心配も少ない都市が上位を占めています。乾季＝旅行シーズン（成り立ち）、雨季＝オフシーズン（閑散期）というシンプルな基準で考えてもらえれば大丈夫です。表の気温は主観的評価なしに、過去の気候平年値をそのまま計算した数値です。"
+    ],
+    "zh": [
+      "首尔在1月冻成零下10度的时候，胡志明市的白天气温超过32度。乘飞机四到五小时就能到达的东南亚，12月至2月恰好与干季旺季重合，暖和的天气加上几乎不下雨，旅行体验极佳。不用带厚外套，一件短袖就能出发，这就是冬季东南亚旅行最吸引人的地方。",
+      "本页用真实历史气候数据计算各城市在韩国冬季（12月至2月）的平均最高气温，按从高到低排序。胡志明市、曼谷、甲米等城市名列前茅，因为它们的干季与韩国冬季完美重合——干季即旺季，雨季即淡季，就这么简单。表中气温是对过去气候平均值的确定性计算，不含任何主观评分。"
+    ]
+  },
+  "tableCaption": {
+    "ko": "한국 겨울(12~2월) 평균 최고기온 높은 순 — 과거 기후 평년값 기준",
+    "en": "Ranked by average daytime high during Korean winter (Dec–Feb) — based on historical climate averages",
+    "ja": "韓国の冬（12〜2月）の平均最高気温が高い順 — 過去の気候平年値に基づく",
+    "zh": "按韩国冬季（12月至2月）平均最高气温从高到低排序 — 基于历史气候平均值"
+  },
+  "faq": [
+    {
+      "q": {
+        "ko": "겨울에 따뜻한 해외여행지로 어디가 제일 좋나요?",
+        "en": "What are the best warm destinations for a winter trip?",
+        "ja": "冬に暖かい海外旅行先でどこが一番おすすめですか？",
+        "zh": "冬季最适合去哪些温暖的海外旅行地？"
+      },
+      "a": {
+        "ko": "기온 데이터 기준으로는 베트남 호치민(평균 최고 32.6°C), 태국 방콕·크라비(31.9°C), 캄보디아 프놈펜·시엠립(31°C대)이 상위권입니다. 모두 12~2월이 건기 성수기와 겹쳐 기온도 높고 비도 거의 오지 않습니다.",
+        "en": "By temperature data, Vietnam's Ho Chi Minh City tops the list (avg. high 32.6 °C), followed by Bangkok and Krabi in Thailand (31.9 °C), then Phnom Penh and Siem Reap in Cambodia (around 31 °C). All of these overlap with their dry season in December–February, so it's warm and barely rainy.",
+        "ja": "気温データ基準では、ベトナムのホーチミン（平均最高32.6°C）、タイのバンコク・クラビ（31.9°C）、カンボジアのプノンペン・シェムリアップ（31度台）が上位です。いずれも12〜2月が乾季の旅行シーズンと重なり、気温も高く雨もほとんど降りません。",
+        "zh": "按气温数据，越南胡志明市位居榜首（平均最高32.6°C），其次是泰国曼谷和甲米（31.9°C），柬埔寨金边和暹粒（31°C左右）也名列前茅。这些城市12月至2月均与干季旺季重合，天气暖和且几乎不下雨。"
+      }
+    },
+    {
+      "q": {
+        "ko": "1월에 따뜻한 여행지를 고를 때 기온 말고 또 뭘 봐야 하나요?",
+        "en": "Besides temperature, what else should I check when picking a warm January destination?",
+        "ja": "1月に暖かい旅行先を選ぶとき、気温以外に何を確認すればいいですか？",
+        "zh": "选择1月温暖旅行地时，除了气温还需要关注什么？"
+      },
+      "a": {
+        "ko": "강수량과 건기 여부가 핵심입니다. 같은 동남아라도 발리(인도네시아)처럼 1월이 우기인 곳은 비가 자주 내립니다. 이 순위에 오른 호치민·방콕·푸켓·시엠립 등은 12~2월이 건기 성수기라 비 걱정 없이 여행할 수 있습니다.",
+        "en": "Rainfall and dry-season overlap are key. Even within Southeast Asia, some destinations like Bali (Indonesia) have a rainy January. The cities in this ranking — Ho Chi Minh City, Bangkok, Phuket, Siem Reap and others — are in their dry season (peak season) from December to February, so you can travel without worrying about rain.",
+        "ja": "降水量と乾季かどうかが重要です。同じ東南アジアでもバリ（インドネシア）のように1月が雨季の場所は雨がよく降ります。このランキングに入ったホーチミン・バンコク・プーケット・シェムリアップなどは12〜2月が乾季の旅行シーズンなので、雨の心配なく旅行できます。",
+        "zh": "降水量和是否处于干季是关键。即便同在东南亚，巴厘岛（印度尼西亚）等地1月仍是雨季，雨水较多。本排名中的胡志明市、曼谷、普吉岛、暹粒等城市在12月至2月处于干季旺季，旅行无需担心降雨。"
+      }
+    },
+    {
+      "q": {
+        "ko": "겨울 따뜻한 여행지 기온 데이터는 어디서 가져온 건가요?",
+        "en": "Where does the winter temperature data come from?",
+        "ja": "冬の暖かい旅行先の気温データはどこから取得していますか？",
+        "zh": "冬季温暖旅行地的气温数据来自哪里？"
+      },
+      "a": {
+        "ko": "Open-Meteo의 과거 기후 데이터(Historical Weather API, CC BY 4.0)를 사용했습니다. 각 도시의 12월·1월·2월 일별 최고기온 평년값을 평균 내어 순위를 매겼습니다.",
+        "en": "We use Open-Meteo's historical climate data (Historical Weather API, CC BY 4.0). The ranking averages each city's daily maximum temperature across December, January, and February from long-term climate records.",
+        "ja": "Open-Meteoの過去の気候データ（Historical Weather API、CC BY 4.0）を使用しています。各都市の12月・1月・2月の日別最高気温の平年値を平均してランキングを作成しました。",
+        "zh": "我们使用 Open-Meteo 的历史气候数据（Historical Weather API，CC BY 4.0）。排名对各城市12月、1月、2月的逐日最高气温平均值进行计算得出。"
+      }
+    }
+  ],
+  "citations": [
+    {
+      "label": {
+        "ko": "Open-Meteo 과거 기후 데이터 (CC BY 4.0)",
+        "en": "Open-Meteo Historical Weather API (CC BY 4.0)",
+        "ja": "Open-Meteo 過去の気候データ (CC BY 4.0)",
+        "zh": "Open-Meteo 历史气候数据 (CC BY 4.0)"
+      },
+      "url": "https://open-meteo.com/"
+    }
+  ],
+  "dataNote": {
+    "ko": "순위는 각 도시의 12월·1월·2월 평균 최고기온 평년값을 산술 평균한 결정론적 계산이며, 주관적 평가가 들어가지 않았습니다.",
+    "en": "The ranking is a deterministic average of each city's December, January, and February mean daily maximum temperatures — no subjective scoring.",
+    "ja": "順位は各都市の12月・1月・2月の平均最高気温の平年値を算術平均した決定論的な計算で、主観的評価は含まれていません。",
+    "zh": "排名是对各城市12月、1月、2月平均最高气温平均值的确定性计算，不含主观评分。"
+  }
+}

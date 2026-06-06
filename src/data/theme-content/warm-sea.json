@@ -1,0 +1,106 @@
+{
+  "slug": "warm-sea",
+  "title": {
+    "ko": "바다 수온 따뜻한 해외여행지 추천 — 물놀이 하기 좋은 여행지 14곳",
+    "en": "Warmest Sea Destinations — 14 Places to Swim Comfortably Abroad",
+    "ja": "海水温が暖かい海外旅行先 — 水遊びが楽しめる旅行地14選",
+    "zh": "海水温暖的海外旅行地推荐 — 适合戏水的目的地14选"
+  },
+  "h1": {
+    "ko": "바다 수온 따뜻한 해외여행지 — 물놀이 언제 가야 제대로 즐길 수 있나",
+    "en": "Warm-Sea Destinations — When to Go for the Best Swimming",
+    "ja": "海水温が暖かい海外旅行先 — 水遊びを思う存分楽しむ時期",
+    "zh": "海水温暖的海外旅行地 — 什么时候去才能尽情戏水"
+  },
+  "metaDescription": {
+    "ko": "바다 수온 데이터로 물놀이 하기 좋은 해외여행지를 골랐습니다. 지중해 여름, 동남아 건기, 카리브해까지 — 26~30°C 수온에 강수일수도 적은 최적 시기를 14곳 소개합니다.",
+    "en": "Sea-temperature data ranks the best destinations for warm-water swimming abroad. Mediterranean summers, Southeast Asian dry seasons, and the Caribbean — 14 picks with 26–30°C water and few rainy days.",
+    "ja": "海水温データから水遊びに最適な海外旅行先を選びました。地中海の夏、東南アジアの乾季、カリブ海まで — 水温26〜30°Cで降水日数も少ない最適な時期を14か所紹介します。",
+    "zh": "用海水温度数据筛出最适合戏水的海外旅行地。地中海夏季、东南亚旱季、加勒比海 — 14个水温26~30°C且雨天极少的最佳时期一览。"
+  },
+  "intro": {
+    "ko": [
+      "물놀이의 만족도는 '바다 수온'이 거의 전부를 결정합니다. 수온 23°C 이하면 입수 몇 분 만에 몸이 굳어버리고, 26°C를 넘어서면 몇 시간이고 물 밖으로 나오기 싫어지죠. 그런데 대부분의 여행 사이트는 기온만 알려줄 뿐, 정작 '그 달에 바다 수온이 몇 도인지'는 말해주지 않습니다.",
+      "이 페이지는 월별 바다 수온 데이터를 직접 뽑아, 수온이 26°C 이상이면서 강수일수까지 적은 달을 각 도시의 '최적 물놀이 시기'로 골랐습니다. 지중해 한여름의 니스·두브로브니크·아말피·바르셀로나, 건기 동남아의 파타야·몰디브, 카리브해의 칸쿤까지 — 여행 계획을 세우기 전에 이 표 한 번만 보면 '언제 가야 물이 따뜻한지' 바로 알 수 있습니다."
+    ],
+    "en": [
+      "When it comes to swimming, sea temperature is almost everything. Below 23°C, most people are shivering within minutes; above 26°C, you can stay in for hours without a second thought. Yet most travel sites only tell you the air temperature — they never mention what the water actually feels like in a given month.",
+      "This page pulls monthly sea-temperature data and picks each city's single best month: 26°C or warmer water, combined with the fewest rainy days. From the Mediterranean summer heat of Nice, Dubrovnik, Amalfi and Barcelona, to Southeast Asia's dry-season warmth in Pattaya and the Maldives, and the Caribbean blue of Cancún — one look at the table tells you exactly when to book."
+    ],
+    "ja": [
+      "水遊びの満足度は「海水温」がほぼすべてを決めます。水温23°C以下では数分で体が固まってしまいますが、26°Cを超えると何時間でも水の中にいたくなります。それなのに多くの旅行サイトは気温しか教えてくれず、「その月の海水温が何度か」は教えてくれません。",
+      "このページでは月別の海水温データを直接抽出し、水温26°C以上かつ降水日数が少ない月を各都市の「最適な水遊び時期」として選びました。地中海真夏のニース・ドゥブロヴニク・アマルフィ・バルセロナ、乾季の東南アジアのパタヤ・モルディブ、カリブ海のカンクンまで — 旅行計画を立てる前にこの表を一度見れば「いつ行けば海が暖かいか」がすぐわかります。"
+    ],
+    "zh": [
+      "戏水体验好不好，「海水温度」几乎决定一切。水温低于23°C，下水几分钟就会冻得难受；超过26°C，泡上几个小时都不想上岸。然而大多数旅行网站只告诉你气温，从不说那个月海水到底有多暖。",
+      "本页直接提取月度海水温度数据，以水温26°C以上且降水天数最少的月份，作为各城市的「最佳戏水时机」。地中海盛夏的尼斯、杜布罗夫尼克、阿马尔菲、巴塞罗那，东南亚旱季的芭提雅、马尔代夫，以及加勒比海的坎昆——翻开这张表，一眼就知道什么时候去海水最暖。"
+    ]
+  },
+  "tableCaption": {
+    "ko": "수온 26°C 이상 + 강수일수 최소 달 기준 — Open-Meteo Marine API 평년값",
+    "en": "Best month with sea temp ≥ 26°C and fewest rainy days — Open-Meteo Marine API climate averages",
+    "ja": "水温26°C以上かつ降水日数最少の月基準 — Open-Meteo Marine API 平年値",
+    "zh": "水温≥26°C且降水天数最少月份 — 基于Open-Meteo Marine API气候平均值"
+  },
+  "faq": [
+    {
+      "q": {
+        "ko": "물놀이 하기 좋은 해외여행지는 어디인가요?",
+        "en": "Which overseas destinations are best for warm-water swimming?",
+        "ja": "水遊びに最適な海外旅行先はどこですか？",
+        "zh": "哪些海外旅行地最适合戏水？"
+      },
+      "a": {
+        "ko": "수온 기준으로는 몰디브(2월, 28.7°C), 파타야(12월, 28.6°C), 아말피·바르셀로나(7~8월, 27~28°C), 두브로브니크(7월, 27.5°C), 칸쿤(4월, 27.2°C) 등이 상위권입니다. 여름에만 따뜻해지는 지중해와, 건기 내내 따뜻한 동남아·몰디브는 적합한 여행 시기가 다르니 표를 참고해 달을 맞춰 떠나는 게 핵심입니다.",
+        "en": "By sea temperature, the top picks are the Maldives (Feb, 28.7°C), Pattaya (Dec, 28.6°C), Amalfi and Barcelona (Jul–Aug, 27–28°C), Dubrovnik (Jul, 27.5°C), and Cancún (Apr, 27.2°C). The Mediterranean warms up only in summer, while Southeast Asia and the Maldives stay warm throughout the dry season — the right month varies, so check the table before you book.",
+        "ja": "水温基準ではモルディブ（2月、28.7°C）、パタヤ（12月、28.6°C）、アマルフィ・バルセロナ（7〜8月、27〜28°C）、ドゥブロヴニク（7月、27.5°C）、カンクン（4月、27.2°C）などが上位です。夏だけ暖かくなる地中海と、乾季を通じて暖かい東南アジア・モルディブでは適切な旅行時期が異なるため、表を参考に月を合わせて出発することが大切です。",
+        "zh": "按海水温度，靠前的有马尔代夫（2月，28.7°C）、芭提雅（12月，28.6°C）、阿马尔菲和巴塞罗那（7~8月，27~28°C）、杜布罗夫尼克（7月，27.5°C）、坎昆（4月，27.2°C）。地中海只在夏季变暖，而东南亚和马尔代夫在整个旱季都暖和——最佳月份各不相同，订票前请对照表格确认。"
+      }
+    },
+    {
+      "q": {
+        "ko": "바다 수온이 따뜻한 달은 어떻게 알 수 있나요?",
+        "en": "How can I find out when the sea is warmest at a destination?",
+        "ja": "海水温が暖かい時期はどうやって調べればわかりますか？",
+        "zh": "怎么知道某个目的地哪个月海水最暖？"
+      },
+      "a": {
+        "ko": "이 사이트는 Open-Meteo Marine API의 과거 기후 데이터를 기반으로 각 지역의 월별 바다 수온을 제공합니다. 국가·지역 상세 페이지의 '날씨 캘린더'에서 월별 수온을 직접 확인할 수 있으며, 이 페이지의 표는 그중 수온이 가장 높고 비가 가장 적은 달을 골라 정리한 것입니다.",
+        "en": "This site provides monthly sea-temperature data for each destination based on Open-Meteo Marine API historical records. You can check the monthly figures on each region's weather calendar page; the table here highlights the single month with the warmest water and fewest rainy days.",
+        "ja": "このサイトでは、Open-Meteo Marine APIの過去の気候データをもとに各地域の月別海水温を提供しています。国・地域の詳細ページの「天気カレンダー」で月別の海水温を直接確認でき、このページの表はその中から水温が最も高く降水日数が最も少ない月を選んでまとめたものです。",
+        "zh": "本站基于Open-Meteo Marine API历史气候数据，提供各地区逐月海水温度。您可在各地区天气日历页面直接查看月度水温；本页表格则从中筛选出水温最高且降水天数最少的那个月。"
+      }
+    },
+    {
+      "q": {
+        "ko": "지중해와 동남아 중 물놀이로 어디가 더 좋나요?",
+        "en": "For swimming, which is better — the Mediterranean or Southeast Asia?",
+        "ja": "水遊びなら地中海と東南アジア、どちらがおすすめですか？",
+        "zh": "戏水的话，地中海和东南亚哪个更好？"
+      },
+      "a": {
+        "ko": "수온만 보면 동남아·몰디브 쪽이 연중 고온으로 유리합니다. 파타야 12월은 28.6°C, 몰디브 말레 2월은 28.7°C로, 성수기에 비가 적고 수온이 높습니다. 지중해(니스·두브로브니크·아말피·바르셀로나)는 7~8월에만 26~28°C 수온에 도달하지만, 그 시기에 비가 거의 내리지 않아 물놀이 조건 자체는 동등하게 좋습니다. 여행 시기와 예산, 비행시간을 함께 고려해서 고르면 됩니다.",
+        "en": "On sea temperature alone, Southeast Asia and the Maldives have the edge — warm water year-round. Pattaya in December hits 28.6°C and Male in February reaches 28.7°C, both during their dry season. The Mediterranean (Nice, Dubrovnik, Amalfi, Barcelona) only reaches 26–28°C in July and August, but those months are nearly rain-free, making the swimming conditions equally good. Factor in travel dates, budget and flight time to decide which suits you.",
+        "ja": "水温だけで見ると東南アジア・モルディブは年間を通じて高温で有利です。パタヤの12月は28.6°C、モルディブのマレの2月は28.7°Cで、それぞれ乾季にあたり雨も少なく水温も高い。地中海（ニース・ドゥブロヴニク・アマルフィ・バルセロナ）は7〜8月にだけ26〜28°Cに達しますが、その時期はほとんど雨が降らず、水遊びの条件としては同様に良好です。旅行時期・予算・フライト時間を合わせて検討して選んでください。",
+        "zh": "单看水温，东南亚和马尔代夫全年高温更占优势。芭提雅12月水温28.6°C，马尔代夫马累2月水温28.7°C，恰逢旱季，雨天少、水温高。地中海（尼斯、杜布罗夫尼克、阿马尔菲、巴塞罗那）仅在7~8月达到26~28°C，但那段时间几乎不下雨，戏水条件同样出色。结合出行时间、预算和飞行时长综合考虑即可。"
+      }
+    }
+  ],
+  "citations": [
+    {
+      "label": {
+        "ko": "Open-Meteo Marine & Historical API (CC BY 4.0)",
+        "en": "Open-Meteo Marine & Historical API (CC BY 4.0)",
+        "ja": "Open-Meteo Marine & Historical API (CC BY 4.0)",
+        "zh": "Open-Meteo Marine & Historical API (CC BY 4.0)"
+      },
+      "url": "https://open-meteo.com/"
+    }
+  ],
+  "dataNote": {
+    "ko": "순위는 각 도시에서 수온 26°C 이상인 달 중 강수일수가 가장 적은 달을 결정론적으로 선정한 것이며, 주관적 평가가 들어가지 않았습니다.",
+    "en": "The ranking is deterministic — each city's warmest-sea month (26–30.5°C) with the fewest rainy days; no subjective scoring.",
+    "ja": "順位は各都市の水温26°C以上の月のうち降水日数が最も少ない月を決定論的に選定したもので、主観的評価は含まれていません。",
+    "zh": "排名为确定性计算——从各城市水温26~30.5°C的月份中选出降水天数最少的月份，不含主观评分。"
+  }
+}

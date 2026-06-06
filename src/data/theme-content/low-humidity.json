@@ -1,0 +1,106 @@
+{
+  "slug": "low-humidity",
+  "title": {
+    "ko": "습도 낮은 해외여행지 추천 — 건조한 여름 여행지 14곳",
+    "en": "Low-Humidity Travel Destinations — 14 Places for a Dry-Air Summer",
+    "ja": "湿度が低い海外旅行先 — 乾燥した夏の旅行地14選",
+    "zh": "湿度低的海外旅行地推荐 — 14个干爽夏日旅行地"
+  },
+  "h1": {
+    "ko": "습도 낮은 해외여행지 — 끈적한 한국 여름을 피하고 싶을 때",
+    "en": "Low-Humidity Destinations — Escape the Sticky Korean Summer",
+    "ja": "湿度が低い海外旅行先 — じめじめした夏から逃げ出したいとき",
+    "zh": "湿度低的海外旅行地 — 逃离韩国闷热夏天时的首选"
+  },
+  "metaDescription": {
+    "ko": "연간 평균 습도가 가장 낮은 해외여행지를 실제 기후 데이터로 줄 세웠습니다. 라스베이거스·룩소르·마드리드 등 같은 더위도 쾌적하게 느껴지는 건조한 여행지 14곳.",
+    "en": "The world's lowest-humidity travel destinations, ranked from real climate data. Las Vegas, Luxor, Madrid and more — 14 places where the heat feels bearable because the air stays dry.",
+    "ja": "年間平均湿度が最も低い海外旅行先を実際の気候データでランキング。ラスベガス・ルクソール・マドリードなど、同じ暑さでも快適に感じられる乾燥した旅行地14選。",
+    "zh": "用真实气候数据排出全球湿度最低的旅行目的地。拉斯维加斯、卢克索、马德里等14个即使高温也因空气干燥而感觉舒适的旅行地。"
+  },
+  "intro": {
+    "ko": [
+      "한국의 여름은 습도 80~90%가 기본입니다. 30도라도 끈적끈적하고 불쾌지수가 치솟아서, 그늘에 들어가도 시원하지 않은 그 특유의 불쾌함이 있죠. 그런데 같은 30도라도 습도가 낮은 곳은 전혀 다른 이야기입니다. 땀이 금방 마르고, 그늘만 찾으면 바로 쾌적해지고, 머리카락도 빨래도 금세 뽀송해집니다.",
+      "이 페이지는 전 세계 여행지의 월별 습도 데이터를 실제로 평균 내어 연간 평균 습도가 낮은 곳부터 순서대로 정리했습니다. 습도 26%의 라스베이거스·29%의 룩소르 같은 사막권, 마드리드·그라나다·아테네처럼 여름이 바싹 마르는 지중해권, 그리고 울란바토르 같은 고원 초원 지대까지 크게 세 가지 타입으로 나뉩니다. 어떤 타입이든 공통점은 하나, 한국 여름의 그 끈적함이 없다는 것입니다."
+    ],
+    "en": [
+      "Korea's summer humidity hovers around 80–90%. Even at 30°C the air is thick and sticky — stepping into the shade barely helps. But at the same temperature in a low-humidity destination, everything changes. Sweat evaporates instantly, shade feels genuinely cool, and your hair and laundry dry before you know it.",
+      "This page averages the monthly humidity figures for cities around the world and ranks them from driest to most humid. The results fall into three broad types: desert cities like Las Vegas (26%) and Luxor (29%), Mediterranean destinations like Madrid, Granada and Athens where summers turn crisp and dry, and high-altitude steppe cities like Ulaanbaatar. What they all share is the one thing missing from a Korean summer — air you can actually breathe in."
+    ],
+    "ja": [
+      "韓国の夏は湿度80〜90%が当たり前です。気温30度でもべたべたして不快感が高く、日陰に入っても涼しくならない独特のじめじめ感があります。でも同じ30度でも湿度が低い場所はまったく別の話。汗がすぐ乾いて、日陰に入ればすぐ快適になり、髪も洗濯物もあっという間にさらさらになります。",
+      "このページは世界中の旅行先の月別湿度データを実際に平均し、年間平均湿度が低い順に並べました。湿度26%のラスベガス・29%のルクソールのような砂漠地帯、マドリード・グラナダ・アテネのように夏が乾燥する地中海地域、そしてウランバートルのような高原草原地帯の大きく三つのタイプに分かれます。どのタイプにも共通するのは一つ、韓国の夏のあのべたつきがないということです。"
+    ],
+    "zh": [
+      "韩国夏天的湿度常年在80～90%之间。同样是30度，空气却黏腻不堪，不适感居高不下，躲进阴凉也难觉凉爽。而在湿度低的地方，同样的气温却是完全不同的体验：汗水瞬间蒸发，走进阴影立刻舒适，头发和晾的衣服也很快变得干爽。",
+      "本页将全球各旅行地的逐月湿度数据取平均值，从年均湿度最低的地方开始排序。结果大致分为三类：以拉斯维加斯（26%）和卢克索（29%）为代表的沙漠地带，以马德里、格拉纳达和雅典为代表的夏季干燥地中海地区，以及乌兰巴托这样的高原草原城市。它们的共同点只有一个——没有韩国夏天那种让人窒息的潮湿感。"
+    ]
+  },
+  "tableCaption": {
+    "ko": "연간 평균 습도가 낮은 순 — 과거 기후 평년값 기준",
+    "en": "Ranked by lowest annual average humidity — based on historical climate averages",
+    "ja": "年間平均湿度の低い順 — 過去の気候平年値に基づく",
+    "zh": "按年均湿度从低到高排序 — 基于历史气候平均值"
+  },
+  "faq": [
+    {
+      "q": {
+        "ko": "여름에 습도가 낮은 해외여행지는 어디인가요?",
+        "en": "Which destinations have low humidity in summer?",
+        "ja": "夏に湿度が低い海外旅行先はどこですか？",
+        "zh": "夏天湿度低的海外旅行地有哪些？"
+      },
+      "a": {
+        "ko": "연중 내내 건조한 곳으로는 미국 라스베이거스, 이집트 룩소르·카이로, UAE 두바이·아부다비가 대표적입니다. 여름철에 특히 건조해지는 곳으로는 스페인 마드리드·그라나다, 그리스 아테네, 터키 카파도키아·안탈리아가 있어 유럽 여행을 원하는 분께 잘 맞습니다.",
+        "en": "For year-round dryness, Las Vegas (USA), Luxor and Cairo (Egypt), and Dubai and Abu Dhabi (UAE) top the list. For destinations that turn especially dry in summer, Madrid and Granada (Spain), Athens (Greece), and Cappadocia and Antalya (Turkey) are great fits — especially if you want a European trip.",
+        "ja": "一年中乾燥している場所としては、米国ラスベガス、エジプトのルクソール・カイロ、UAEのドバイ・アブダビが代表的です。夏に特に乾燥する場所としては、スペインのマドリード・グラナダ、ギリシャのアテネ、トルコのカッパドキア・アンタルヤがあり、ヨーロッパ旅行を希望される方に向いています。",
+        "zh": "全年皆干燥的地方有美国拉斯维加斯、埃及卢克索和开罗、阿联酋迪拜和阿布扎比。夏季尤为干燥的地方有西班牙马德里和格拉纳达、希腊雅典、土耳其卡帕多奇亚和安塔利亚，非常适合想体验欧洲旅行的人。"
+      }
+    },
+    {
+      "q": {
+        "ko": "습도가 낮으면 여행이 왜 더 쾌적한가요?",
+        "en": "Why does low humidity make travel more comfortable?",
+        "ja": "湿度が低いと旅行がなぜ快適になるのですか？",
+        "zh": "为什么湿度低旅行会更舒适？"
+      },
+      "a": {
+        "ko": "사람 몸은 땀이 증발하면서 체온을 식힙니다. 습도가 높으면 땀이 증발하지 못해 불쾌지수가 치솟지만, 건조한 곳에서는 같은 기온이라도 땀이 빠르게 날아가 훨씬 시원하게 느껴집니다. 그늘 아래서 쉬거나 그냥 바람만 맞아도 금방 회복되는 것도 이 때문입니다.",
+        "en": "Your body cools itself by evaporating sweat. High humidity blocks that evaporation and sends the discomfort index soaring, but in dry air sweat evaporates quickly — so the same temperature feels noticeably cooler. That's why a bit of shade or a light breeze is all you need to feel refreshed.",
+        "ja": "人の体は汗が蒸発することで体温を下げます。湿度が高いと汗が蒸発できず不快感が急上昇しますが、乾燥した場所では同じ気温でも汗が素早く飛んでずっと涼しく感じます。日陰で休んだり風に当たるだけですぐ回復できるのもそのためです。",
+        "zh": "人体通过汗液蒸发来降温。湿度高时汗液无法蒸发，不适感急剧上升；而在干燥的地方，同样的气温下汗液蒸发迅速，会感觉凉爽得多。这也是为什么在干燥地区只需找到阴凉或吹一下风就能立刻恢复舒适。"
+      }
+    },
+    {
+      "q": {
+        "ko": "습도 데이터는 어디서 가져온 건가요?",
+        "en": "Where does the humidity data come from?",
+        "ja": "湿度データはどこから取得していますか？",
+        "zh": "湿度数据来自哪里？"
+      },
+      "a": {
+        "ko": "Open-Meteo의 과거 기후 데이터(Historical Weather API, CC BY 4.0)를 사용했습니다. 각 도시의 12개월 상대습도 월평균값을 그대로 평균 내어 순위를 매겼습니다.",
+        "en": "We use Open-Meteo's historical climate data (Historical Weather API, CC BY 4.0). The ranking simply averages each city's 12 monthly relative-humidity values.",
+        "ja": "Open-Meteoの過去の気候データ（Historical Weather API、CC BY 4.0）を使用しています。各都市の12か月の月平均相対湿度をそのまま平均して順位を付けました。",
+        "zh": "我们使用 Open-Meteo 的历史气候数据（Historical Weather API，CC BY 4.0）。排名直接将各城市12个月的月均相对湿度取平均值得出。"
+      }
+    }
+  ],
+  "citations": [
+    {
+      "label": {
+        "ko": "Open-Meteo 과거 기후 데이터 (CC BY 4.0)",
+        "en": "Open-Meteo Historical Weather API (CC BY 4.0)",
+        "ja": "Open-Meteo 過去の気候データ (CC BY 4.0)",
+        "zh": "Open-Meteo 历史气候数据 (CC BY 4.0)"
+      },
+      "url": "https://open-meteo.com/"
+    }
+  ],
+  "dataNote": {
+    "ko": "순위는 각 도시의 월별 상대습도 평년값을 12개월 평균한 결정론적 계산이며, 주관적 평가가 들어가지 않았습니다.",
+    "en": "The ranking is a deterministic average of each city's 12 monthly relative-humidity averages — no subjective scoring.",
+    "ja": "順位は各都市の月別相対湿度の平年値を12か月で平均した決定論的な計算で、主観的評価は含まれていません。",
+    "zh": "排名是对各城市逐月相对湿度平均值取12个月平均的确定性计算，不含主观评分。"
+  }
+}

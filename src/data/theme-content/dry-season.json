@@ -1,0 +1,106 @@
+{
+  "slug": "dry-season",
+  "title": {
+    "ko": "비 안 오는 해외여행지 추천 — 우기 피하는 건조한 여행지 14곳",
+    "en": "Driest Travel Destinations — 14 Places to Avoid the Rain",
+    "ja": "雨が降らない海外旅行先 — 雨季を避ける乾燥した旅行地14選",
+    "zh": "不下雨的海外旅行地推荐 — 避开雨季的干燥目的地14选"
+  },
+  "h1": {
+    "ko": "비 안 오는 해외여행지 — 우기 피하고 싶을 때",
+    "en": "Driest Destinations — When You Want to Skip the Rain",
+    "ja": "雨が降らない海外旅行先 — 雨季を避けたいとき",
+    "zh": "不下雨的海外旅行地 — 想避开雨季时"
+  },
+  "metaDescription": {
+    "ko": "연간 강수량이 가장 적은 해외여행지를 실제 기후 데이터로 줄 세웠습니다. 룩소르·두바이·산토리니 등 비 걱정 없이 떠나기 좋은 건조한 여행지 14곳.",
+    "en": "The world's driest travel destinations, ranked from real climate data. Luxor, Dubai, Santorini and more — 14 places where rain rarely spoils a trip.",
+    "ja": "年間降水量が最も少ない海外旅行先を実際の気候データでランキング。ルクソール・ドバイ・サントリーニなど、雨の心配が少ない乾燥した旅行地14選。",
+    "zh": "用真实气候数据排出全球最干燥的旅行目的地。卢克索、迪拜、圣托里尼等14个几乎不被雨水打扰的旅行地。"
+  },
+  "intro": {
+    "ko": [
+      "모처럼 떠난 여행이 비로 망가지는 것만큼 허무한 일도 없습니다. 일정 내내 우산을 들고 다니거나, 우기에 걸려 호텔에만 갇혀 있던 경험이 있다면 아예 '비가 잘 안 오는 곳'으로 목적지를 정하는 게 가장 확실한 방법이에요.",
+      "이 페이지는 전 세계 여행지의 월별 강수량·강수일수 데이터를 직접 합산해 1년 내내 가장 건조한 곳부터 순서대로 정리했습니다. 사막 한가운데의 룩소르·두바이처럼 비가 거의 내리지 않는 곳부터, 여름이 바싹 마르는 산토리니·아테네 같은 지중해 휴양지까지. 표의 강수량·강수일수는 과거 기후 평년값이라 '운'이 아니라 '확률'로 비를 피할 수 있다는 뜻입니다."
+    ],
+    "en": [
+      "Few things ruin a trip like rain you didn't plan for. If you've ever spent a holiday stuck under an umbrella or trapped indoors by monsoon downpours, the surest fix is simple: pick a destination where it barely rains in the first place.",
+      "This page adds up the monthly rainfall and rainy-day data for cities worldwide and ranks them from driest to wettest. From near-rainless desert cities like Luxor and Dubai to bone-dry Mediterranean summers in Santorini and Athens. Because the figures are long-term climate averages, you're playing the odds — not just hoping for luck."
+    ],
+    "ja": [
+      "せっかくの旅行が雨で台無しになるほど残念なことはありません。日程中ずっと傘を持ち歩いたり、雨季に当たってホテルに閉じ込められた経験があるなら、最初から「雨がほとんど降らない場所」を選ぶのが一番確実です。",
+      "このページでは世界中の旅行先の月別降水量・降水日数データを実際に合算し、一年で最も乾燥した場所から順に並べました。砂漠の真ん中で雨がほとんど降らないルクソール・ドバイから、夏がカラッと乾くサントリーニ・アテネのような地中海のリゾートまで。表の数値は過去の平年値なので、「運」ではなく「確率」で雨を避けられます。"
+    ],
+    "zh": [
+      "没有什么比一场没料到的雨更能毁掉旅行了。如果你曾整趟假期撑着伞，或被雨季困在酒店里，那么最稳妥的办法很简单：直接挑一个几乎不下雨的目的地。",
+      "本页将全球各旅行地的逐月降水量与降水天数实际相加，从全年最干燥的地方开始排序。从沙漠腹地几乎不下雨的卢克索、迪拜，到夏季干爽的圣托里尼、雅典等地中海度假地。表中的数值是多年气候平均值，所以你是在用「概率」而非「运气」来避雨。"
+    ]
+  },
+  "tableCaption": {
+    "ko": "연간 강수량이 적은 순 — 과거 기후 평년값 기준",
+    "en": "Ranked by lowest annual rainfall — based on historical climate averages",
+    "ja": "年間降水量の少ない順 — 過去の気候平年値に基づく",
+    "zh": "按年降水量从少到多排序 — 基于历史气候平均值"
+  },
+  "faq": [
+    {
+      "q": {
+        "ko": "비 안 오는 해외여행지는 어디인가요?",
+        "en": "Where are the driest places to travel abroad?",
+        "ja": "雨が降らない海外旅行先はどこですか？",
+        "zh": "不下雨的海外旅行地有哪些？"
+      },
+      "a": {
+        "ko": "연간 강수량 기준으로는 이집트 룩소르·카이로, UAE 두바이·아부다비, 미국 라스베이거스가 가장 건조합니다. 여름철에 한해서는 그리스 산토리니·미코노스, 스페인 그라나다 같은 지중해 지역도 거의 비가 내리지 않습니다.",
+        "en": "By annual rainfall, the driest are Luxor and Cairo (Egypt), Dubai and Abu Dhabi (UAE), and Las Vegas (USA). In summer specifically, Mediterranean spots like Santorini, Mykonos and Granada see almost no rain either.",
+        "ja": "年間降水量で見るとエジプトのルクソール・カイロ、UAEのドバイ・アブダビ、米国のラスベガスが最も乾燥しています。夏に限ればギリシャのサントリーニ・ミコノス、スペインのグラナダなど地中海地域もほとんど雨が降りません。",
+        "zh": "按年降水量，最干燥的是埃及卢克索和开罗、阿联酋迪拜和阿布扎比、美国拉斯维加斯。仅就夏季而言，圣托里尼、米科诺斯、格拉纳达等地中海地区也几乎不下雨。"
+      }
+    },
+    {
+      "q": {
+        "ko": "우기를 피하려면 어떻게 목적지를 골라야 하나요?",
+        "en": "How do I pick a destination to avoid the rainy season?",
+        "ja": "雨季を避けるにはどう目的地を選べばいいですか？",
+        "zh": "想避开雨季该如何选择目的地？"
+      },
+      "a": {
+        "ko": "같은 나라도 달에 따라 건기와 우기가 나뉩니다. 표의 '가장 건조한 달'을 참고해 그 시기에 맞춰 떠나는 것이 핵심이에요. 동남아처럼 우기·건기가 뚜렷한 지역은 건기에만 가면 전혀 다른 여행이 됩니다.",
+        "en": "Even within one country, months split into dry and wet seasons. The key is to use each destination's driest months (shown in the table) and time your trip accordingly. In places with a sharp wet/dry split like Southeast Asia, visiting in the dry season makes for a completely different trip.",
+        "ja": "同じ国でも月によって乾季と雨季に分かれます。表の「最も乾燥する月」を参考に、その時期に合わせて出発するのがポイントです。東南アジアのように雨季・乾季がはっきりした地域は、乾季に行くだけで全く違う旅になります。",
+        "zh": "即使是同一个国家，不同月份也分干季和雨季。关键是参考表中「最干燥月份」并据此安排行程。在东南亚这类干湿季分明的地区，只在干季前往就会是完全不同的体验。"
+      }
+    },
+    {
+      "q": {
+        "ko": "강수량 데이터는 어디서 가져온 건가요?",
+        "en": "Where does the rainfall data come from?",
+        "ja": "降水量データはどこから取得していますか？",
+        "zh": "降水量数据来自哪里？"
+      },
+      "a": {
+        "ko": "Open-Meteo의 과거 기후 데이터(Historical Weather API, CC BY 4.0)를 사용했습니다. 각 도시의 12개월 강수량과 강수일수를 그대로 합산해 순위를 매겼습니다.",
+        "en": "We use Open-Meteo's historical climate data (Historical Weather API, CC BY 4.0). The ranking simply sums each city's 12 months of rainfall and rainy days.",
+        "ja": "Open-Meteoの過去の気候データ（Historical Weather API、CC BY 4.0）を使用しています。各都市の12か月分の降水量と降水日数をそのまま合算して順位を付けました。",
+        "zh": "我们使用 Open-Meteo 的历史气候数据（Historical Weather API，CC BY 4.0）。排名直接将各城市12个月的降水量与降水天数相加得出。"
+      }
+    }
+  ],
+  "citations": [
+    {
+      "label": {
+        "ko": "Open-Meteo 과거 기후 데이터 (CC BY 4.0)",
+        "en": "Open-Meteo Historical Weather API (CC BY 4.0)",
+        "ja": "Open-Meteo 過去の気候データ (CC BY 4.0)",
+        "zh": "Open-Meteo 历史气候数据 (CC BY 4.0)"
+      },
+      "url": "https://open-meteo.com/"
+    }
+  ],
+  "dataNote": {
+    "ko": "순위는 각 도시의 월별 강수량·강수일수 평년값을 합산한 결정론적 계산이며, 주관적 평가가 들어가지 않았습니다.",
+    "en": "The ranking is a deterministic sum of each city's monthly rainfall and rainy-day averages — no subjective scoring.",
+    "ja": "順位は各都市の月別降水量・降水日数の平年値を合算した決定論的な計算で、主観的評価は含まれていません。",
+    "zh": "排名是对各城市逐月降水量与降水天数平均值的确定性求和，不含主观评分。"
+  }
+}
