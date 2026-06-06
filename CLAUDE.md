@@ -340,6 +340,7 @@ interface RecommendedDestination {
 4. `src/utils/data.ts` — `FLAG_ALPHA2`에 국가 ISO alpha-2 코드 추가 (없으면 국기 이미지 깨짐)
 5. `scripts/generate-recommendations.py` — `CATEGORIES`, `POPULAR`, `COMMENTS`, `TYPHOON_PENALTY`/`FLOOD_PENALTY` dict에 지역 추가
 6. `python3 scripts/generate-recommendations.py` — 추천 데이터 재생성
+   - ⚠️ travel-comments의 `summary.ko`만 갱신하고 다국어 객체(`{ko,en,ja,zh}`)는 보존한다. ko 변경 후 `en/ja/zh`가 stale해지므로 **translate 스크립트로 재번역 필요**. (과거 summary를 한국어 문자열로 통째 덮어 번역을 파괴하던 버그 수정됨 — 2026-06-07)
 7. `npx tsx scripts/add-2025-data.ts --only <regionId>` — 2025 daily 데이터 추가
 8. `npm run build` — 빌드 성공 확인
 

@@ -1924,9 +1924,18 @@ def generate_all():
 
             new_summary = generate_reason(w, score, new_rating, rid, month)
 
-            if entry.get("rating") != new_rating or entry.get("summary") != new_summary:
+            # summary는 {ko,en,ja,zh} 다국어 객체다. 한국어 문자열로 통째로 덮으면
+            # en/ja/zh 번역이 파괴된다 → ko만 갱신하고 객체 형태를 보존한다.
+            # (ko 변경 후에는 translate 스크립트로 en/ja/zh를 다시 맞춰야 함)
+            cur = entry.get("summary")
+            cur_ko = cur.get("ko") if isinstance(cur, dict) else cur
+
+            if entry.get("rating") != new_rating or cur_ko != new_summary:
                 entry["rating"] = new_rating
-                entry["summary"] = new_summary
+                if isinstance(cur, dict):
+                    cur["ko"] = new_summary
+                else:
+                    entry["summary"] = new_summary
                 changed = True
                 updated += 1
 
