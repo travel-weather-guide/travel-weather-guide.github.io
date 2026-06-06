@@ -401,3 +401,4 @@ interface RecommendedDestination {
 | 2026-04-04 | 차트 | 미정 → Recharts 확정 (기온 라인 + 강수량 바 복합 ��트) |
 | 2026-04-04 | 페이지 구조 | /month/[month] 삭제, 지역 상세를 탭 기반 단일 소스로 통합, 국가 상세에서 날씨 차트/테이블 제거 |
 | 2026-04-04 | 일별 데이터 | daily/[month].json → daily/[regionId]/all.json 지역별 분할 |
+| 2026-06-06 | 사이트맵 | sitemap index + 청크(/sitemap/[id].xml) → 단일 flat /sitemap.xml로 복귀 (총 6,046 URL, 한도 50K 이내). GSC "가져올 수 없음"이 다른 flat 사이트맵 사이트와 달리 이 사이트만 지속된 원인이 index 구조로 판단. generate-sitemap-index.ts 삭제, build 스크립트에서 호출 제거 |
