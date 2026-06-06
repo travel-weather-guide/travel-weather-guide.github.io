@@ -15,8 +15,7 @@
  */
 import type { Locale } from '@/contexts/LocaleContext';
 
-/** TODO(owner): replace with a real, monitored contact address. */
-export const CONTACT_EMAIL = 'your-email@example.com';
+export const CONTACT_EMAIL = 'hjg000223@naver.com';
 
 /** Last updated — bump when content materially changes. */
 export const LEGAL_EFFECTIVE_DATE = '2026-06-07';
