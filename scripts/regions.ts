@@ -142,7 +142,7 @@ export const countries: CountryDef[] = [
     countryCode: 'ID',
     isoNumeric: '360',
     regions: [
-      { id: 'bali', name: { ko: '발리', en: 'Bali' }, latitude: -8.3405, longitude: 115.0920, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [7, 8, 6, 9] },
+      { id: 'bali', name: { ko: '발리', en: 'Bali' }, latitude: -8.65, longitude: 115.22, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [7, 8, 6, 9] },
       { id: 'lombok', name: { ko: '롬복', en: 'Lombok' }, latitude: -8.6500, longitude: 116.3240, climateType: '열대 몬순', isCoastal: true, category: 'beach', peakTourismMonths: [7, 8, 6, 9] },
       { id: 'jakarta', name: { ko: '자카르타', en: 'Jakarta' }, latitude: -6.2088, longitude: 106.8456, climateType: '열대 몬순', isCoastal: true, category: 'city', peakTourismMonths: [7, 8, 6, 9] },
       { id: 'yogyakarta', name: { ko: '족자카르타', en: 'Yogyakarta' }, latitude: -7.7956, longitude: 110.3695, climateType: '열대 몬순', isCoastal: false, category: 'culture', peakTourismMonths: [7, 8, 6, 9] },
