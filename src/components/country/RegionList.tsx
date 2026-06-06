@@ -26,6 +26,8 @@ interface RegionListProps {
 export default function RegionList({ countryId, regions, comments = [] }: RegionListProps) {
   const { locale } = useLocale();
   const [currentMonth, setCurrentMonth] = useState(1);
+  // 정적 export: 방문자의 실제 현재 월로 동기화(빌드타임 값 아님).
+  // eslint-disable-next-line react-hooks/set-state-in-effect
   useEffect(() => { setCurrentMonth(new Date().getMonth() + 1); }, []);
 
   return (

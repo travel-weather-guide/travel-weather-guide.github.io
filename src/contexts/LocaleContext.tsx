@@ -58,6 +58,9 @@ export function LocaleProvider({ children, initialLocale }: { children: React.Re
       return;
     }
     const initial = resolveInitialLocale();
+    // 정적 export라 서버는 기본 로케일로 렌더 → 클라이언트 마운트 후 저장된 로케일로 동기화.
+    // 초기값을 localStorage로 바로 잡으면 하이드레이션 불일치가 나므로 effect가 올바른 패턴.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setLocaleState(initial);
     document.documentElement.lang = initial;
   }, [initialLocale]);

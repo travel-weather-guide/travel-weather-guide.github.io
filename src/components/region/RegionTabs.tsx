@@ -56,7 +56,9 @@ export default function RegionTabs({ region, comments, dailyData }: RegionTabsPr
   const [calendarYear, setCalendarYear] = useState(() => getDefaultYear(dailyData, initMonth, YEARS));
   const [guideMonth, setGuideMonth] = useState(1);
   useEffect(() => {
+    // 정적 export: 방문자의 실제 현재 월로 동기화(빌드타임 값 아님).
     const m = new Date().getMonth() + 1;
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setCalendarMonth(m);
     setGuideMonth(m);
   }, []);

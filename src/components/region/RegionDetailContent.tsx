@@ -72,6 +72,8 @@ export default function RegionDetailContent({ country, region, comments, dailyDa
   const [selectedMonth, setSelectedMonth] = useState(defaultMonth ?? 1);
   useEffect(() => {
     if (defaultMonth === undefined) {
+      // 정적 export: 빌드타임이 아닌 방문자의 실제 현재 월로 동기화.
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setSelectedMonth(new Date().getMonth() + 1);
     }
   }, [defaultMonth]);

@@ -32,6 +32,8 @@ export function useRecentlyViewed() {
   const [items, setItems] = useState<RecentRegion[]>([]);
 
   useEffect(() => {
+    // localStorage는 클라이언트에서만 접근 가능 → 마운트 후 로드(SSR-safe 표준 패턴).
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setItems(load());
   }, []);
 
