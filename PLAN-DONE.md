@@ -800,3 +800,52 @@
 | 04-12 | scripts/pipeline.ts 통합 파이프라인 생성 |
 | 04-12 | 112개 전체 지역 2026년 1~3월 데이터 추가 완료 |
 | 04-12 | npm run build 성공 확인 |
+
+---
+
+## SEO 콘텐츠 최적화 — Deploy 1 구현 (2026-06-07 완료)
+
+색인 O / 노출 0 탈출 전략. 헤드 키워드(N월 추천·벚꽃 등)는 OTA 독점(HARD)이라, 우리 기후 데이터로만 정량 답변 가능한 "날씨 조건 롱테일"(POSSIBLE)에 품질 집중. 6천 일괄 차별화(scaled-content 위험) 대신 소수 큐레이션 페이지 신설.
+
+### Phase 0 — 키워드 조사 [GATE-1] ✅
+- [x] 3개 병렬 에이전트 조사 (autocomplete/SERP 경쟁도/데이터적합도) → 헤드 HARD, 날씨조건 롱테일 POSSIBLE 수렴
+- [x] [GATE-1] 1차 배치 5종 확정 (출처검증 불필요·고데이터적합)
+
+### Phase 1 — 페이지 아키텍처 ✅
+- [x] `/theme/[theme]` 5종 + `[locale]` 변형, 서버 정적 컴포넌트(ThemeContent, 'use client' 없음), 기존 client 미변경
+- [x] 비교표 monthlyData 실값, 기온 gray-900(빨강 0), 결정론적 랭킹, BreadcrumbList/ItemList/FAQPage JSON-LD
+- [x] sitemap 테마 20 URL 추가
+
+### Phase 2 — 콘텐츠 ✅ (reason 재작성만 이월)
+- [x] `src/data/theme-content/` 5종 JSON (ko/en/ja/zh + Open-Meteo citation)
+- [x] 품질 루브릭 4종, 정확성 보정(발리 이상치 제외, snorkeling→warm-sea 재정의)
+- [x] 역방향 내부링크: 전역 Footer 테마 링크 (전 페이지 권위 전달)
+- [ ] 기존 기계적 reason 583개 → **분리 배포로 이월** (아래 후속 플랜)
+
+### Phase 3 — 빌드·검증 ✅ (모니터링 이월)
+- [x] npm run build 성공, 정적 HTML/SSR/JSON-LD 검증, lint 신규 에러 0
+- [ ] GSC 베이스라인·배포·4~8주 모니터링 → **후속 플랜으로 이월** (사용자·시간)
+
+### 추가 — AdSense/신뢰 페이지 ✅
+- [x] 진단: 법적 페이지 0·github.io·Open-Meteo 무료=비상업적(광고시 €15/mo 유료)
+- [x] `/legal/{privacy,about,contact}` 신설 (ko+3로케일, 서버 정적, sitemap+Footer 사이트와이드). 분석/쿠키 없음 반영. CONTACT_EMAIL placeholder(사용자 입력 필요)
+
+### 신규/변경 파일
+- `src/lib/theme-data.ts`, `src/components/theme/ThemeContent.tsx`, `src/app/theme/[theme]/`, `src/app/[locale]/theme/[theme]/`
+- `src/data/theme-content/*.json` (5)
+- `src/content/legal.ts`, `src/components/legal/LegalDoc.tsx`, `src/app/legal/[doc]/`, `src/app/[locale]/legal/[doc]/`
+- `src/app/sitemap.ts`, `src/components/layout/Footer.tsx` (additive)
+
+### 핵심 결정
+- 품질>수량: 6천 일괄 대신 5 테마 집중 (scaled-content 회피)
+- 정직한 전제: 노출 0의 진짜 원인이 도메인 권위일 수 있음 → noindex(Phase 4) 분리·게이트로 인과 측정
+- 서버 컴포넌트 합성으로 client 회귀 0
+
+### 진행 로그
+| 시간 | 작업 내용 |
+|------|----------|
+| 2026-06-07 | 합의 플랜에서 체크리스트 추출, 키워드 조사 3 병렬 에이전트 |
+| 2026-06-07 | 테마 5종 구현(theme-data 랭킹엔진 + content JSON 4언어 + 서버 컴포넌트 + 라우트 + sitemap + Footer 역링크) |
+| 2026-06-07 | 정확성 보정(발리 제외, warm-sea 재정의), build/HTML/JSON-LD 검증 |
+| 2026-06-07 | AdSense 진단 → /legal 신뢰 페이지 3종 신설, 사이트와이드 링크 |
+| 2026-06-07 | Deploy 1 구현·검증 완료. 모니터링·GATE-2·reason 재작성은 후속 플랜 이월 |
