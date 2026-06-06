@@ -15,7 +15,7 @@
  */
 import type { Locale } from '@/contexts/LocaleContext';
 
-export const CONTACT_EMAIL = 'hjg000223@naver.com';
+export const CONTACT_EMAIL = 'hjg000223@gmail.com';
 
 /** Last updated — bump when content materially changes. */
 export const LEGAL_EFFECTIVE_DATE = '2026-06-07';
