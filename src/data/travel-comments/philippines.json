@@ -250,7 +250,7 @@
   {
     "regionId": "manila",
     "month": 4,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "극심한 더위, 40°C에 달하는 폭염",
       "en": "Extreme heat, heat wave reaching 40°C",
@@ -314,8 +314,8 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "manila",

@@ -2,7 +2,7 @@
   {
     "regionId": "hanoi",
     "month": 1,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "겨울 안개와 보슬비, 쌀쌀하고 흐린 날이 많은 시기",
       "en": "Winter is a time of fog, drizzle, chilly and cloudy days",
@@ -66,13 +66,13 @@
       "ja": "長袖、軽いジャケット。レイヤードおすすめ",
       "zh": "长袖、薄外套。分层推荐"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "hanoi",
     "month": 2,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "아직 쌀쌀하지만 봄기운이 시작되는 시기",
       "en": "It's still chilly, but the spring vibes are starting",
@@ -144,8 +144,8 @@
       "ja": "長袖、軽いジャケット。レイヤードおすすめ",
       "zh": "长袖、薄外套。分层推荐"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "hanoi",
@@ -686,7 +686,7 @@
   {
     "regionId": "hanoi",
     "month": 10,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "건기 시작, 25°C의 가장 쾌적한 시기",
       "en": "The beginning of the dry season, the most comfortable time at 25°C",
@@ -767,13 +767,13 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "hanoi",
     "month": 11,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "건기, 선선하고 맑은 하노이 여행 최적기",
       "en": "Dry season, cool and clear, the best time to travel to Hanoi",
@@ -839,7 +839,7 @@
   {
     "regionId": "hanoi",
     "month": 12,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "건기 지속, 쌀쌀하지만 맑은 겨울",
       "en": "Dry season continues, chilly but clear winter",
@@ -1036,7 +1036,7 @@
   {
     "regionId": "ho-chi-minh",
     "month": 3,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "건기 지속, 더위가 올라오지만 아직 쾌적",
       "en": "The dry season continues, the heat rises, but it is still comfortable",
@@ -3231,10 +3231,10 @@
     "month": 6,
     "rating": 4,
     "summary": {
-      "ko": "우기 중반, 해변보다 시내 관광 위주로",
-      "en": "Mid-rainy season, mainly city tours rather than beaches",
-      "ja": "雨期半ば、ビーチよりも市内観光中心に",
-      "zh": "雨季中期，主要是城市游览而不是海滩"
+      "ko": "건기 막바지, 맑은 날 많고 해변과 스노클링 즐기기 좋은 시기",
+      "en": "At the end of the dry season, there are many sunny days and it is a good time to enjoy the beach and snorkeling",
+      "ja": "乾季の最後の日、晴れた日にたくさんのビーチとシュノーケリングを楽​​しむのに良い時期",
+      "zh": "旱季结束，晴天多，正是享受海滩、浮潜的好时机"
     },
     "highlights": {
       "ko": [

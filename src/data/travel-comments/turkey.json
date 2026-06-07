@@ -1243,10 +1243,10 @@
     "month": 7,
     "rating": 5,
     "summary": {
-      "ko": "40°C 폭염, 열기구 조건 악화",
-      "en": "40°C heat wave worsens hot air balloon conditions",
-      "ja": "40°C爆炎、熱気球条件の悪化",
-      "zh": "40°C热浪使热气球条件恶化"
+      "ko": "강렬한 햇볕에 낮엔 덥지만 일교차 커, 열기구는 이른 아침 추천",
+      "en": "It is hot during the day due to the strong sunlight, but the daily temperature range is large, so hot air ballooning is recommended early in the morning",
+      "ja": "強烈な日差しで昼は暑いけど一交車大きく、熱気球は早朝おすすめ",
+      "zh": "白天由于阳光强烈，天气炎热，但日温差较大，建议清晨乘坐热气球"
     },
     "highlights": {
       "ko": [
@@ -1304,10 +1304,10 @@
     "month": 8,
     "rating": 5,
     "summary": {
-      "ko": "폭염 지속, 야외 활동 힘든 시기",
-      "en": "Heat wave continues, difficult time for outdoor activities",
-      "ja": "猛烈な持続、野外活動の困難な時期",
-      "zh": "热浪持续，户外活动艰难"
+      "ko": "연중 가장 더운 달, 한낮엔 그늘 필수지만 아침저녁은 쾌적",
+      "en": "The hottest month of the year, shade is essential during the day, but mornings and evenings are comfortable",
+      "ja": "一年で最も暑い月、日中は日陰が必須ですが、朝夕は快適",
+      "zh": "一年中最热的月份，白天遮阳是必不可少的，但早晚却很舒服"
     },
     "highlights": {
       "ko": [
@@ -1986,7 +1986,7 @@
   {
     "regionId": "antalya",
     "month": 7,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "비치 피크 시즌, 수온 27°C의 뜨거운 여름",
       "en": "Peak beach season, hot summer with water temperature of 27°C",
@@ -2081,7 +2081,7 @@
   {
     "regionId": "antalya",
     "month": 8,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "수온 최고(29°C), 지중해 해변의 절정",
       "en": "Highest water temperature (29°C), the pinnacle of Mediterranean beaches",

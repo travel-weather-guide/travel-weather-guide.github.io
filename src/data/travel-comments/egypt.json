@@ -154,7 +154,7 @@
   {
     "regionId": "cairo",
     "month": 3,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "봄 시작, 모래바람(하마신) 시작 전 마지막 쾌적 시기",
       "en": "The beginning of spring, the last pleasant period before the sandstorm (hamashin) begins",
@@ -371,7 +371,7 @@
   {
     "regionId": "cairo",
     "month": 6,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "40°C 이상 폭염, 박물관·실내 위주 여행",
       "en": "Heat wave over 40°C, travel focused on museums and indoors",
@@ -449,7 +449,7 @@
   {
     "regionId": "cairo",
     "month": 7,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "극한 더위, 유럽인 관광객 감소로 한산",
       "en": "Due to extreme heat and a decrease in European tourists",
@@ -531,7 +531,7 @@
   {
     "regionId": "cairo",
     "month": 8,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "폭염 지속, 해질 무렵 나일강 유람선 추천",
       "en": "As the heat wave continues, a cruise on the Nile River at dusk is recommended",
@@ -613,7 +613,7 @@
   {
     "regionId": "cairo",
     "month": 9,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "더위 가시기 시작, 이른 가을 여행 가능",
       "en": "As the heat begins to subside, early fall travel is possible",
@@ -748,7 +748,7 @@
   {
     "regionId": "cairo",
     "month": 11,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "건기 여행 황금기, 이집트 박물관 & 유적 순례",
       "en": "The golden age of dry season travel, pilgrimage to Egyptian museums and ruins",
@@ -830,7 +830,7 @@
   {
     "regionId": "cairo",
     "month": 12,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "겨울 성수기, 나일강 크루즈 + 유적 패키지 인기",
       "en": "Winter peak season, Nile River cruise + ruins package popular",
@@ -1142,7 +1142,7 @@
   {
     "regionId": "luxor",
     "month": 4,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "더위 시작, 오전 유적 관광 필수",
       "en": "As the heat begins, a morning tour of the ruins is a must",
@@ -1216,7 +1216,7 @@
   {
     "regionId": "luxor",
     "month": 5,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "고온 시작, 열기구 취소 가능성 증가",
       "en": "High temperature start, increased chance of hot air balloon cancellation",
@@ -1294,7 +1294,7 @@
   {
     "regionId": "luxor",
     "month": 6,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "45°C 이상 극한 더위, 아침 일찍만 유적 가능",
       "en": "Extreme heat above 45°C, ruins only possible early in the morning",
@@ -1376,7 +1376,7 @@
   {
     "regionId": "luxor",
     "month": 7,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "폭염 절정, 외국 관광객 거의 없는 시기",
       "en": "The peak of the heat wave, a time when there are almost no foreign tourists",
@@ -1458,7 +1458,7 @@
   {
     "regionId": "luxor",
     "month": 8,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "극한 더위 지속, 나일강 펠루카 저녁에만",
       "en": "Extreme heat continues, Nile felucca only in the evening",
@@ -1534,13 +1534,13 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "luxor",
     "month": 9,
-    "rating": 5,
+    "rating": 2,
     "summary": {
       "ko": "더위 가시기 시작, 가을 여행 시즌 준비",
       "en": "The heat is starting to subside, preparing for the fall travel season",
@@ -1612,13 +1612,13 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "luxor",
     "month": 10,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "쾌적해지는 룩소르, 열기구·유적 투어 재개",
       "en": "Luxor becomes more comfortable, hot air balloon and ruins tours resume",
@@ -1774,7 +1774,7 @@
   {
     "regionId": "luxor",
     "month": 12,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "성수기 절정, 나일강 크루즈와 유적 탐방 러시",
       "en": "Peak season, rush to take Nile River cruises and explore ruins",

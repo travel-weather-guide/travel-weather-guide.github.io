@@ -93,7 +93,7 @@
   {
     "regionId": "luang-prabang",
     "month": 2,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "건기 절정, 황금빛 사원과 쾌청한 하늘",
       "en": "Peak of the dry season, golden temples and clear skies",
@@ -171,7 +171,7 @@
   {
     "regionId": "luang-prabang",
     "month": 3,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "건기 막바지, 더위 시작되는 시기",
       "en": "The end of the dry season, the beginning of the heat",
@@ -235,13 +235,13 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "luang-prabang",
     "month": 4,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "라오스 신년 물축제, 폭염 속 씻겨주는 물",
       "en": "Laos New Year Water Festival, water to wash away during the heat wave",
@@ -326,8 +326,8 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "luang-prabang",
@@ -1134,7 +1134,7 @@
   {
     "regionId": "vientiane",
     "month": 3,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "더위 시작, 사원 투어는 오전에",
       "en": "The heat begins, the temple tour begins in the morning",
@@ -1187,7 +1187,7 @@
   {
     "regionId": "vientiane",
     "month": 4,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "라오스 신년(분피마이), 물축제와 폭염",
       "en": "Laos New Year (Bun Phi Mai), water festival and heat wave",
@@ -1264,8 +1264,8 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "vientiane",

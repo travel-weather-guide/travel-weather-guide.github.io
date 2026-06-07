@@ -2,7 +2,7 @@
   {
     "regionId": "bali",
     "month": 1,
-    "rating": 1,
+    "rating": 2,
     "summary": {
       "ko": "우기 한가운데, 매일 폭우와 높은 습도",
       "en": "In the middle of the rainy season, heavy rain and high humidity every day",
@@ -348,7 +348,7 @@
   {
     "regionId": "bali",
     "month": 5,
-    "rating": 2,
+    "rating": 3,
     "summary": {
       "ko": "건기, 서핑과 사원 투어 최적기",
       "en": "Dry season, best time for surfing and temple tours",
@@ -422,7 +422,7 @@
   {
     "regionId": "bali",
     "month": 6,
-    "rating": 2,
+    "rating": 3,
     "summary": {
       "ko": "건기 절정, 선선하고 맑은 발리 여행 최적기",
       "en": "The peak of the dry season, the best time to travel to Bali when it is cool and clear",
@@ -517,7 +517,7 @@
   {
     "regionId": "bali",
     "month": 7,
-    "rating": 2,
+    "rating": 3,
     "summary": {
       "ko": "건기, 성수기라 관광객 많지만 날씨 최고",
       "en": "It is the dry season and peak season, so there are a lot of tourists, but the weather is great",
@@ -604,7 +604,7 @@
   {
     "regionId": "bali",
     "month": 8,
-    "rating": 2,
+    "rating": 3,
     "summary": {
       "ko": "건기, 우붓 예술축제와 해변 시즌",
       "en": "Dry season, Ubud art festival and beach season",
@@ -691,7 +691,7 @@
   {
     "regionId": "bali",
     "month": 9,
-    "rating": 2,
+    "rating": 3,
     "summary": {
       "ko": "건기 막바지, 관광객 줄고 쾌적",
       "en": "End of dry season, fewer tourists and more comfortable",
@@ -786,7 +786,7 @@
   {
     "regionId": "bali",
     "month": 10,
-    "rating": 2,
+    "rating": 3,
     "summary": {
       "ko": "건기 끝자락, 간간이 소나기 시작",
       "en": "At the end of the dry season, occasional showers begin",
@@ -860,7 +860,7 @@
   {
     "regionId": "bali",
     "month": 11,
-    "rating": 1,
+    "rating": 2,
     "summary": {
       "ko": "우기 시작, 오후 스콜이 잦아지는 시기",
       "en": "The beginning of the rainy season, the time when afternoon squalls become more frequent",
@@ -942,7 +942,7 @@
   {
     "regionId": "bali",
     "month": 12,
-    "rating": 1,
+    "rating": 2,
     "summary": {
       "ko": "우기, 연말 성수기라 비에도 관광객 많은 시기",
       "en": "It is the rainy season and the peak season at the end of the year, so there are many tourists even in the rain",
@@ -3094,10 +3094,10 @@
     "month": 4,
     "rating": 2,
     "summary": {
-      "ko": "건기 시작, 프람바난 일출 사진 최적기",
-      "en": "The beginning of the dry season, the best time to take sunrise photos of Prambanan",
-      "ja": "乾季開始、フランバナン日の出写真最適機",
-      "zh": "旱季开始，普兰巴南拍摄日出照片的最佳时机"
+      "ko": "우기 끝자락, 비 줄어들기 시작해 유적 방문 가능해지는 시기",
+      "en": "At the end of the rainy season, the rain begins to decrease and it becomes possible to visit the ruins",
+      "ja": "雨期の終わり、雨が減り始め、遺跡訪問可能になる時期",
+      "zh": "雨季结束，雨水开始减少，可以参观遗址"
     },
     "highlights": {
       "ko": [

@@ -512,7 +512,7 @@
   {
     "regionId": "singapore",
     "month": 7,
-    "rating": 2,
+    "rating": 1,
     "summary": {
       "ko": "세일 시즌(GSS), 쇼핑하기 좋은 시기",
       "en": "Sale Season (GSS), a great time to shop",
@@ -611,7 +611,7 @@
   {
     "regionId": "singapore",
     "month": 8,
-    "rating": 2,
+    "rating": 1,
     "summary": {
       "ko": "국경일 시즌, 축제 분위기",
       "en": "National Day season, festive atmosphere",
@@ -689,7 +689,7 @@
   {
     "regionId": "singapore",
     "month": 9,
-    "rating": 2,
+    "rating": 1,
     "summary": {
       "ko": "헤이즈(인니 산불 연무) 가능성 있는 시기",
       "en": "Haze (Indonesia forest fire haze) probable period",

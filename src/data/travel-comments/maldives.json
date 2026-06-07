@@ -836,10 +836,10 @@
     "month": 11,
     "rating": 2,
     "summary": {
-      "ko": "건기 시작, 잔잔한 라군과 석양",
-      "en": "Dry season begins, calm lagoon and sunset",
-      "ja": "乾季開始、穏やかなラグーンと夕日",
-      "zh": "旱季开始，平静的泻湖和日落"
+      "ko": "우기 끝자락, 비 줄어들며 NE 몬순으로 전환 중",
+      "en": "At the end of the rainy season, rain is decreasing and transitioning to the NE monsoon",
+      "ja": "雨期の終わり、雨が降り、NEモンスーンに切り替える",
+      "zh": "雨季结束时，降雨量减少并过渡到东北季风"
     },
     "highlights": {
       "ko": [
@@ -914,10 +914,10 @@
     "month": 12,
     "rating": 2,
     "summary": {
-      "ko": "건기, 크리스마스 시즌의 몰디브 리조트",
-      "en": "Maldives resorts during dry season and Christmas season",
-      "ja": "乾季、クリスマスシーズンのモルディブリゾート",
-      "zh": "旱季和圣诞节期间的马尔代夫度假村"
+      "ko": "건기 진입 시작, 크리스마스 시즌의 몰디브 리조트",
+      "en": "Dry season begins, Maldives resort during Christmas season",
+      "ja": "乾季入り、クリスマスシーズンのモルディブリゾート",
+      "zh": "旱季开始，马尔代夫度假胜地圣诞季"
     },
     "highlights": {
       "ko": [

@@ -896,10 +896,10 @@
     "month": 11,
     "rating": 2,
     "summary": {
-      "ko": "북동 몬순 시작, 콜롬보는 쾌청해지는 시기",
-      "en": "The beginning of the northeast monsoon, a sunny season in Colombo",
-      "ja": "北東モンスーン開始、コロンボは快晴になる時期",
-      "zh": "东北季风初起，科伦坡阳光灿烂的季节"
+      "ko": "북동 몬순 우기, 열대저압부 영향으로 콜롬보 강수 절정",
+      "en": "Northeast monsoon rainy season, rainfall in Colombo peaks due to tropical depression",
+      "ja": "北東モンスーン雨期、熱帯低圧部の影響でコロンボ降水のピーク",
+      "zh": "东北季风雨季，受热带低气压影响科伦坡降雨量达到峰值"
     },
     "highlights": {
       "ko": [

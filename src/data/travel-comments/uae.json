@@ -297,7 +297,7 @@
   {
     "regionId": "dubai",
     "month": 5,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "더위 본격화, 야외 활동 오전으로 제한",
       "en": "Heat intensifies, outdoor activities limited to mornings",
@@ -375,7 +375,7 @@
   {
     "regionId": "dubai",
     "month": 6,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "40°C대 폭염, 실내 몰에서 쇼핑만",
       "en": "Heatwave in the 40°C range, shopping only at indoor malls",
@@ -447,13 +447,13 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "dubai",
     "month": 7,
-    "rating": 4,
+    "rating": 1,
     "summary": {
       "ko": "45°C+ 극한 더위, 야외는 위험 수준",
       "en": "45°C+ extreme heat, dangerous outdoors",
@@ -525,13 +525,13 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "dubai",
     "month": 8,
-    "rating": 4,
+    "rating": 1,
     "summary": {
       "ko": "극심한 폭염, 실내 리조트 풀에서만 생존",
       "en": "Extreme heat wave, surviving only in indoor resort pool",
@@ -603,13 +603,13 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "dubai",
     "month": 9,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "여전히 40°C+, 아직 바깥은 힘든 시기",
       "en": "Still 40°C+, still difficult times outside",
@@ -683,7 +683,7 @@
   {
     "regionId": "dubai",
     "month": 10,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "더위 물러나기 시작, 야외 조금씩 가능",
       "en": "The heat is starting to recede, allowing the outdoors little by little",
@@ -1208,7 +1208,7 @@
   {
     "regionId": "abu-dhabi",
     "month": 5,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "초여름, 오전 관광 후 실내로",
       "en": "Early summer, after sightseeing in the morning, we go indoors",
@@ -1286,7 +1286,7 @@
   {
     "regionId": "abu-dhabi",
     "month": 6,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "40°C 폭염, 모스크는 오전 이른 방문 필수",
       "en": "40°C heat wave, must visit mosque early in the morning",
@@ -1358,13 +1358,13 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "abu-dhabi",
     "month": 7,
-    "rating": 4,
+    "rating": 1,
     "summary": {
       "ko": "극한의 더위, 쇼핑몰과 워터파크 시즌",
       "en": "Extreme heat, shopping mall and water park season",
@@ -1436,13 +1436,13 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "abu-dhabi",
     "month": 8,
-    "rating": 4,
+    "rating": 1,
     "summary": {
       "ko": "폭염 지속, 실내 리조트 휴가",
       "en": "Heat wave continues, indoor resort vacation",
@@ -1514,13 +1514,13 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "abu-dhabi",
     "month": 9,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "더위 서서히 가라앉는 시기",
       "en": "When the heat gradually subsides",

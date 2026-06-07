@@ -2,12 +2,12 @@
   {
     "regionId": "new-york",
     "month": 1,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "쌀쌀한 날씨, 방한 준비 필요",
-      "en": "Chilly weather, need to prepare for winter",
-      "ja": "寒い天候、防寒準備が必要",
-      "zh": "天气寒冷，需要做好过冬准备"
+      "ko": "영하의 혹한과 폭설, 브로드웨이와 실내 관광 위주",
+      "en": "Sub-zero cold and heavy snow, focusing on Broadway and indoor tourism",
+      "ja": "零下の酷寒と大雪、ブロードウェイと屋内観光中心",
+      "zh": "零下严寒大雪，聚焦百老汇和室内旅游"
     },
     "highlights": {
       "ko": [
@@ -71,17 +71,17 @@
       "zh": "衬垫、厚外套和冬季装备必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 2,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "쌀쌀한 날씨, 방한 준비 필요",
-      "en": "Chilly weather, need to prepare for winter",
-      "ja": "寒い天候、防寒準備が必要",
-      "zh": "天气寒冷，需要做好过冬准备"
+      "ko": "가장 추운 시기, 밸런타인 분위기의 도시",
+      "en": "The coldest time, a city with a Valentine's atmosphere",
+      "ja": "最も寒い時期、バランタインの雰囲気の街",
+      "zh": "最冷的时候，一座充满情人节气息的城市"
     },
     "highlights": {
       "ko": [
@@ -133,17 +133,17 @@
       "zh": "衬垫、厚外套和冬季装备必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 3,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "아직 쌀쌀하지만 봄기운이 느껴지는 시기",
+      "en": "It's still chilly, but it feels like spring",
+      "ja": "まだ肌寒いけど春の気運が感じられる時期",
+      "zh": "虽然还是很冷，但感觉像春天"
     },
     "highlights": {
       "ko": [
@@ -202,18 +202,18 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 4,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "센트럴파크에 봄꽃이 피는 시기",
+      "en": "When spring flowers bloom in Central Park",
+      "ja": "セントラルパークに春の花が咲く時期",
+      "zh": "当中央公园春暖花开"
     },
     "highlights": {
       "ko": [
@@ -293,18 +293,18 @@
       "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
       "zh": "外套、针织衫、长裤。需要外套"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 5,
-    "rating": 5,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "센트럴파크 녹음, 뉴욕 여행의 가장 좋은 시기",
+      "en": "Greenery in Central Park, the best time to travel to New York",
+      "ja": "セントラルパーク録音、ニューヨーク旅行の最高の時期",
+      "zh": "中央公园绿意盎然，纽约最佳旅游时间"
     },
     "highlights": {
       "ko": [
@@ -382,12 +382,12 @@
   {
     "regionId": "new-york",
     "month": 6,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "따뜻한 초여름, 야외 이벤트와 공원 콘서트",
+      "en": "Warm early summer, outdoor events and park concerts",
+      "ja": "暖かい初夏、屋外イベントと公園のコンサート",
+      "zh": "温暖的初夏，户外活动和公园音乐会"
     },
     "highlights": {
       "ko": [
@@ -437,10 +437,10 @@
     "month": 7,
     "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "폭염과 높은 습도, 에어컨 없이 힘든 시기",
+      "en": "Heat waves, high humidity, difficult times without air conditioning",
+      "ja": "爆炎と高湿度、エアコンなしで大変な時期",
+      "zh": "热浪、高湿度、没有空调的困难时期"
     },
     "highlights": {
       "ko": [
@@ -515,10 +515,10 @@
     "month": 8,
     "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "무더위 지속, 실외 관광이 힘든 한여름",
+      "en": "The midsummer heat continues, making outdoor tourism difficult",
+      "ja": "暑さの持続、屋外観光が難しい真夏",
+      "zh": "盛夏酷暑持续，户外旅游艰难"
     },
     "highlights": {
       "ko": [
@@ -593,10 +593,10 @@
     "month": 9,
     "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "더위가 물러간 쾌적한 가을의 시작",
+      "en": "A pleasant start to fall with the heat gone",
+      "ja": "暑さが退いた快適な秋の始まり",
+      "zh": "随着炎热的消退，秋天的一个愉快的开始"
     },
     "highlights": {
       "ko": [
@@ -665,12 +665,12 @@
   {
     "regionId": "new-york",
     "month": 10,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "센트럴파크 단풍 절정, 할로윈의 도시",
+      "en": "Central Park’s fall foliage peak, the city of Halloween",
+      "ja": "セントラルパーク紅葉ピーク、ハロウィーンの街",
+      "zh": "中央公园的秋叶巅峰，万圣节之城"
     },
     "highlights": {
       "ko": [
@@ -756,12 +756,12 @@
   {
     "regionId": "new-york",
     "month": 11,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "추워지지만 추수감사절·홀리데이 시즌 시작",
+      "en": "It's getting colder, but the Thanksgiving/holiday season has begun",
+      "ja": "寒いけど感謝祭・ホリデーシーズンスタート",
+      "zh": "天气越来越冷，但感恩节/假期已经开始"
     },
     "highlights": {
       "ko": [
@@ -803,18 +803,18 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "new-york",
     "month": 12,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "쌀쌀한 날씨, 방한 준비 필요",
-      "en": "Chilly weather, need to prepare for winter",
-      "ja": "寒い天候、防寒準備が必要",
-      "zh": "天气寒冷，需要做好过冬准备"
+      "ko": "록펠러 트리, 홀리데이 쇼핑의 연말 분위기",
+      "en": "Rockefeller Tree, the end-of-year atmosphere of holiday shopping",
+      "ja": "ロックフェラーツリー、ホリデーショッピングの年末の雰囲気",
+      "zh": "洛克菲勒树，年末度假购物氛围"
     },
     "highlights": {
       "ko": [
@@ -902,18 +902,18 @@
       "ja": "パディング、厚いコート、防寒用品必須",
       "zh": "衬垫、厚外套和冬季装备必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "los-angeles",
     "month": 1,
-    "rating": 5,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "온화한 겨울, 15°C 전후의 쾌적한 날씨",
+      "en": "Mild winter, comfortable weather around 15°C",
+      "ja": "穏やかな冬、15℃前後の快適な天気",
+      "zh": "冬季温和，15°C 左右气候舒适"
     },
     "highlights": {
       "ko": [
@@ -957,12 +957,12 @@
   {
     "regionId": "los-angeles",
     "month": 2,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "겨울비가 가끔 오지만 대체로 맑은 날씨",
+      "en": "Winter rain occasionally falls, but mostly clear weather",
+      "ja": "冬の雨が時々来るが、概ね晴れた天気",
+      "zh": "冬季偶尔会下雨，但天气大多晴朗"
     },
     "highlights": {
       "ko": [
@@ -1027,12 +1027,12 @@
   {
     "regionId": "los-angeles",
     "month": 3,
-    "rating": 5,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "봄 시작, 야생화가 피는 슈퍼블룸 시즌",
+      "en": "Spring begins, super bloom season with wildflowers blooming",
+      "ja": "春の始まり、野生の花が咲くスーパーブルームシーズン",
+      "zh": "春天来了，超级花开的季节，野花盛开"
     },
     "highlights": {
       "ko": [
@@ -1112,10 +1112,10 @@
     "month": 4,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "봄 야생화와 쾌적한 기온, 하이킹 최적기",
+      "en": "Spring wildflowers and comfortable temperatures, the best time for hiking",
+      "ja": "春の野生の花と快適な気温、ハイキング最適期",
+      "zh": "春天的野花和舒适的气温，徒步旅行的最佳时节"
     },
     "highlights": {
       "ko": [
@@ -1165,10 +1165,10 @@
     "month": 5,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "해변 시즌 시작 전 쾌적한 날씨",
+      "en": "Pleasant weather before beach season begins",
+      "ja": "ビーチシーズン開始前に快適な天気",
+      "zh": "海滩季节开始前的宜人天气"
     },
     "highlights": {
       "ko": [
@@ -1222,10 +1222,10 @@
     "month": 6,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "June Gloom(해안 안개), 오전 흐리고 오후 맑음",
+      "en": "June Gloom (coastal fog), cloudy morning, clear afternoon",
+      "ja": "June Gloom（海岸霧）、午前曇り午後晴れ",
+      "zh": "六月阴沉（沿海雾），上午多云，下午晴"
     },
     "highlights": {
       "ko": [
@@ -1288,7 +1288,7 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
@@ -1296,10 +1296,10 @@
     "month": 7,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름 해변 시즌, 산타모니카·베니스 비치",
+      "en": "Summer beach season, Santa Monica·Venice Beach",
+      "ja": "夏のビーチシーズン、サンタモニカ・ベニスビーチ",
+      "zh": "夏季海滩季节，圣莫尼卡·威尼斯海滩"
     },
     "highlights": {
       "ko": [
@@ -1362,7 +1362,7 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
@@ -1370,10 +1370,10 @@
     "month": 8,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름 피크, 더위지만 해변은 최고",
+      "en": "Summer peak, hot but the beach is the best",
+      "ja": "夏のピーク、暑いがビーチは最高",
+      "zh": "夏季高峰，炎热但海滩最好"
     },
     "highlights": {
       "ko": [
@@ -1436,7 +1436,7 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
@@ -1444,10 +1444,10 @@
     "month": 9,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름 인파 줄고, 따뜻한 가을 해변",
+      "en": "Fewer summer crowds, warmer autumn beaches",
+      "ja": "夏の人差し、暖かい秋のビーチ",
+      "zh": "夏季人群减少，秋季海滩温暖"
     },
     "highlights": {
       "ko": [
@@ -1501,10 +1501,10 @@
     "month": 10,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "인디언 서머, 맑고 따뜻한 최적기",
+      "en": "Indian Summer, the best time for clear and warm weather",
+      "ja": "インディアンサマー、澄んで暖かい最適期",
+      "zh": "小阳春，天气晴朗、温暖的最佳时节"
     },
     "highlights": {
       "ko": [
@@ -1562,10 +1562,10 @@
     "month": 11,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "가을 끝자락, 여전히 쾌적한 날씨",
+      "en": "End of fall, still pleasant weather",
+      "ja": "秋の終わり、まだ快適な天気",
+      "zh": "秋末，天气依然宜人"
     },
     "highlights": {
       "ko": [
@@ -1617,12 +1617,12 @@
   {
     "regionId": "los-angeles",
     "month": 12,
-    "rating": 5,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "온화한 겨울, 연말 분위기의 할리우드",
+      "en": "Hollywood with a mild winter and year-end atmosphere",
+      "ja": "穏やかな冬、年末の雰囲気のハリウッド",
+      "zh": "温暖的冬季和年终气氛的好莱坞"
     },
     "highlights": {
       "ko": [
@@ -1679,12 +1679,12 @@
   {
     "regionId": "hawaii",
     "month": 1,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "우기이지만 따뜻, 고래 관찰 시즌",
+      "en": "Rainy season but warm, whale watching season",
+      "ja": "雨季だが暖かい、クジラ観察シーズン",
+      "zh": "雨季但温暖，观鲸季节"
     },
     "highlights": {
       "ko": [
@@ -1768,10 +1768,10 @@
     "month": 2,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "고래 관찰 피크, 서핑 빅웨이브 시즌",
+      "en": "Peak whale watching, big wave surfing season",
+      "ja": "クジラ観察ピーク、サーフィンビッグウェーブシーズン",
+      "zh": "观鲸高峰、大浪冲浪季节"
     },
     "highlights": {
       "ko": [
@@ -1859,10 +1859,10 @@
     "month": 3,
     "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "우기 끝자락, 점차 맑아지는 시기",
+      "en": "At the end of the rainy season, it becomes gradually clearer",
+      "ja": "雨期の終わり、徐々に澄んでいる時期",
+      "zh": "雨季结束，天气逐渐晴朗"
     },
     "highlights": {
       "ko": [
@@ -1927,12 +1927,12 @@
   {
     "regionId": "hawaii",
     "month": 4,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 시작, 맑은 하늘과 쾌적한 기온",
+      "en": "Dry season begins, clear skies and comfortable temperatures",
+      "ja": "乾季開始、澄んだ空と快適な気温",
+      "zh": "旱季开始，晴朗的天空和舒适的温度"
     },
     "highlights": {
       "ko": [
@@ -2003,10 +2003,10 @@
     "month": 5,
     "rating": 5,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "건기, 스노클링과 하이킹 최적기",
+      "en": "Dry season, best time for snorkeling and hiking",
+      "ja": "乾季、シュノーケリング、ハイキング最適期",
+      "zh": "旱季，浮潜和徒步的最佳时间"
     },
     "highlights": {
       "ko": [
@@ -2065,18 +2065,18 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
     "month": 6,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 절정, 완벽한 해변과 맑은 바다",
+      "en": "Peak of the dry season, perfect beaches and clear sea",
+      "ja": "乾季のピーク、完璧なビーチと澄んだ海",
+      "zh": "旱季高峰期，完美的海滩和清澈的海水"
     },
     "highlights": {
       "ko": [
@@ -2147,10 +2147,10 @@
     "month": 7,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름 피크 시즌, 가족 관광객 많은 시기",
+      "en": "Peak summer season, a time when there are many family tourists",
+      "ja": "夏のピークシーズン、家族観光客の多くの時期",
+      "zh": "夏季旺季，家庭游客众多"
     },
     "highlights": {
       "ko": [
@@ -2234,10 +2234,10 @@
     "month": 8,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름 성수기, 서핑·다이빙 최적",
+      "en": "Summer peak season, perfect for surfing and diving",
+      "ja": "夏のハイシーズン、サーフィン・ダイビングに最適",
+      "zh": "夏季旺季，非常适合冲浪和潜水"
     },
     "highlights": {
       "ko": [
@@ -2308,10 +2308,10 @@
     "month": 9,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 막바지, 관광객 적고 가성비 최고",
+      "en": "At the end of the dry season, there are few tourists and best value for money",
+      "ja": "乾季の最後、観光客が少なくてコスパ最高",
+      "zh": "旱季末，游客很少，性价比最高"
     },
     "highlights": {
       "ko": [
@@ -2357,18 +2357,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
     "month": 10,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "날씨 좋고 관광객 적은 황금 시기",
+      "en": "Golden time when the weather is good and there are few tourists",
+      "ja": "天気が良く観光客が少ない黄金時期",
+      "zh": "天气好游客少的黄金时段"
     },
     "highlights": {
       "ko": [
@@ -2431,18 +2431,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
     "month": 11,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "우기 시작, 간간이 소나기가 오는 시기",
+      "en": "The beginning of the rainy season, with occasional showers",
+      "ja": "雨季の始まり、肝臓がシャワーが来る時期",
+      "zh": "雨季开始，偶有阵雨"
     },
     "highlights": {
       "ko": [
@@ -2501,18 +2501,18 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "hawaii",
     "month": 12,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "홀리데이 피크, 고래 관찰 시즌 시작",
+      "en": "Holiday peak, whale watching season begins",
+      "ja": "ホリデーピーク、クジラ観察シーズン開始",
+      "zh": "假期高峰，观鲸季开始"
     },
     "highlights": {
       "ko": [
@@ -2594,12 +2594,12 @@
   {
     "regionId": "san-francisco",
     "month": 1,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "겨울 비 시즌, 피셔맨스워프 클램차우더",
+      "en": "Winter Rain Season, Fisherman's Wharf Clam Chowder",
+      "ja": "冬の雨シーズン、フィッシャーマンスワーフクラムチャウダー",
+      "zh": "冬雨时节，渔人码头蛤蜊浓汤"
     },
     "highlights": {
       "ko": [
@@ -2654,18 +2654,18 @@
       "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
       "zh": "外套、针织衫、长裤。需要外套"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "san-francisco",
     "month": 2,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "비 줄어들기 시작, 차이나타운 춘절 퍼레이드",
+      "en": "Rain begins to subside, Chinatown Lunar New Year Parade",
+      "ja": "雨が降り始め、チャイナタウン春節パレード",
+      "zh": "雨开始消退，唐人街农历新年游行"
     },
     "highlights": {
       "ko": [
@@ -2722,12 +2722,12 @@
   {
     "regionId": "san-francisco",
     "month": 3,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "봄 시작, 안개 걷히고 골든게이트 뷰 개선",
+      "en": "Spring begins, fog clears and Golden Gate views improve",
+      "ja": "春の始まり、霧が歩き、ゴールデンゲートビューを改善",
+      "zh": "春天来了，雾气消散，金门景色改善"
     },
     "highlights": {
       "ko": [
@@ -2788,12 +2788,12 @@
   {
     "regionId": "san-francisco",
     "month": 4,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "봄 꽃 시즌, 쾌적한 골든게이트파크 산책",
+      "en": "Spring flower season, a pleasant walk in Golden Gate Park",
+      "ja": "春の花シーズン、快適なゴールデンゲートパークを散歩",
+      "zh": "春暖花开时节，金门公园惬意漫步"
     },
     "highlights": {
       "ko": [
@@ -2871,12 +2871,12 @@
   {
     "regionId": "san-francisco",
     "month": 5,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "맑은 봄, Bay to Breakers 마라톤 축제",
+      "en": "Clear Spring, Bay to Breakers Marathon Festival",
+      "ja": "晴れた春、ベイツーブレーカーズマラソンフェスティバル",
+      "zh": "清泉，Bay to Breakers 马拉松节"
     },
     "highlights": {
       "ko": [
@@ -2954,12 +2954,12 @@
   {
     "regionId": "san-francisco",
     "month": 6,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름이지만 서늘(15°C), 안개 낀 골든게이트",
+      "en": "Summer but cool (15°C), foggy Golden Gate",
+      "ja": "夏だが涼しい（15℃）、霧のゴールデンゲート",
+      "zh": "夏季但凉爽（15°C），有雾的金门"
     },
     "highlights": {
       "ko": [
@@ -3020,12 +3020,12 @@
   {
     "regionId": "san-francisco",
     "month": 7,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "안개 시즌 절정, 마크 트웨인의 그 겨울 여름",
+      "en": "The peak of the fog season, Mark Twain's That Winter Summer",
+      "ja": "霧の季節のピーク、マーク・トウェインのその冬の夏",
+      "zh": "雾季高峰期，马克·吐温的《那年冬天》"
     },
     "highlights": {
       "ko": [
@@ -3088,10 +3088,10 @@
     "month": 8,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여전히 서늘하고 안개, 겉옷 필수",
+      "en": "Still cool and foggy, outerwear required",
+      "ja": "まだ涼しくて霧、アウター必須",
+      "zh": "仍然凉爽多雾，需要外套"
     },
     "highlights": {
       "ko": [
@@ -3146,18 +3146,18 @@
       "ja": "長袖、軽いジャケット。レイヤードおすすめ",
       "zh": "长袖、薄外套。分层推荐"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "high",
+    "priceLevel": "high"
   },
   {
     "regionId": "san-francisco",
     "month": 9,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "인디안 서머, 1년 중 가장 따뜻하고 맑은 시기",
+      "en": "Indian Summer, the warmest and clearest time of the year",
+      "ja": "インディアンサマー、一年で最も暖かくて澄んだ時期",
+      "zh": "小阳春，一年中最温暖、最晴朗的时节"
     },
     "highlights": {
       "ko": [
@@ -3239,12 +3239,12 @@
   {
     "regionId": "san-francisco",
     "month": 10,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "맑고 따뜻, 알카트래즈·케이블카 최적기",
+      "en": "Clear and warm, the best time for Alcatraz and cable car",
+      "ja": "澄んだ暖かい、アルカトラズ・ケーブルカー最適期",
+      "zh": "晴朗温暖，恶魔岛和缆车的最佳时光"
     },
     "highlights": {
       "ko": [
@@ -3326,12 +3326,12 @@
   {
     "regionId": "san-francisco",
     "month": 11,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "비 시즌 시작, 추수감사절 분위기",
+      "en": "Rain season begins, Thanksgiving mood",
+      "ja": "非シーズン開始、感謝祭の雰囲気",
+      "zh": "雨季开始，感恩心情"
     },
     "highlights": {
       "ko": [
@@ -3388,12 +3388,12 @@
   {
     "regionId": "san-francisco",
     "month": 12,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "겨울 비, 유니언스퀘어 크리스마스 트리",
+      "en": "Winter Rain, Union Square Christmas Tree",
+      "ja": "冬の雨、ユニオンスクエアクリスマスツリー",
+      "zh": "冬雨，联合广场圣诞树"
     },
     "highlights": {
       "ko": [
@@ -3453,17 +3453,17 @@
       "zh": "外套、针织衫、长裤。需要外套"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "las-vegas",
     "month": 1,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "겨울이지만 온화, CES 기간 호텔 예약 힘듦",
+      "en": "Winter is mild, but hotel reservations during CES are difficult",
+      "ja": "冬ですが穏やかな、CES期間のホテル予約が難しい",
+      "zh": "冬季温和，但CES期间酒店预订难"
     },
     "highlights": {
       "ko": [
@@ -3515,12 +3515,12 @@
   {
     "regionId": "las-vegas",
     "month": 2,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "쾌적한 사막, 그랜드캐니언 투어 적기",
+      "en": "Pleasant desert, perfect time to tour the Grand Canyon",
+      "ja": "快適な砂漠、グランドキャニオンツアーの赤字",
+      "zh": "宜人的沙漠，游览大峡谷的绝佳时机"
     },
     "highlights": {
       "ko": [
@@ -3574,10 +3574,10 @@
     "month": 3,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "봄 시작, 야외 풀파티 시즌 오픈",
+      "en": "Spring begins, outdoor pool party season opens",
+      "ja": "春の始まり、屋外フルパーティーシーズンオープン",
+      "zh": "春天来了，户外泳池派对季开启"
     },
     "highlights": {
       "ko": [
@@ -3652,10 +3652,10 @@
     "month": 4,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "쾌적한 봄, 스트립 산책과 쇼 관람 최적기",
+      "en": "Pleasant spring, the best time to walk the Strip and see shows",
+      "ja": "快適な春、ストリップの散歩とショーの観覧最適期",
+      "zh": "春意盎然，正是逛街看秀的最佳时节"
     },
     "highlights": {
       "ko": [
@@ -3734,10 +3734,10 @@
     "month": 5,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "더워지기 시작, EDC 뮤직 페스티벌",
+      "en": "It's starting to get hot, EDC Music Festival",
+      "ja": "暑くなり始め、EDCミュージックフェスティバル",
+      "zh": "开始火热了，EDC音乐节"
     },
     "highlights": {
       "ko": [
@@ -3814,12 +3814,12 @@
   {
     "regionId": "las-vegas",
     "month": 6,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "40°C 폭염, 호텔 풀사이드 위주 여행",
+      "en": "40°C heat wave, travel focused on hotel poolside",
+      "ja": "40°Cの猛暑、ホテルのプールサイドへの旅行",
+      "zh": "40℃热浪，出行聚焦酒店池畔"
     },
     "highlights": {
       "ko": [
@@ -3892,12 +3892,12 @@
   {
     "regionId": "las-vegas",
     "month": 7,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "극심한 폭염, 낮엔 실내·밤엔 스트립",
+      "en": "Extreme heat wave, indoors during the day, strip at night",
+      "ja": "激しい爆炎、昼は屋内・夜はストリップ",
+      "zh": "极端热浪，白天室内，晚上脱衣"
     },
     "highlights": {
       "ko": [
@@ -3964,18 +3964,18 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "las-vegas",
     "month": 8,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "폭염 지속, 간헐적 사막 폭풍 주의",
+      "en": "Heat wave continues, watch out for intermittent desert storms",
+      "ja": "炎の持続、断続的な砂漠の嵐の注意",
+      "zh": "热浪持续，留意间歇性沙漠风暴"
     },
     "highlights": {
       "ko": [
@@ -4048,12 +4048,12 @@
   {
     "regionId": "las-vegas",
     "month": 9,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "더위 가시기 시작, 가을 시즌 준비",
+      "en": "The heat is starting to subside, getting ready for the fall season",
+      "ja": "暑さの始まり、秋のシーズンの準備",
+      "zh": "炎热的天气开始消退，准备迎接秋季"
     },
     "highlights": {
       "ko": [
@@ -4124,10 +4124,10 @@
     "month": 10,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "쾌적한 가을, 그랜드캐니언 단풍 투어",
+      "en": "Pleasant fall, Grand Canyon fall foliage tour",
+      "ja": "快適な秋、グランドキャニオンの紅葉ツアー",
+      "zh": "秋意宜人，大峡谷秋叶之旅"
     },
     "highlights": {
       "ko": [
@@ -4204,12 +4204,12 @@
   {
     "regionId": "las-vegas",
     "month": 11,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "선선한 가을, F1 라스베이거스 GP",
+      "en": "Cool fall, F1 Las Vegas GP",
+      "ja": "鮮やかな秋、F1ラスベガスGP",
+      "zh": "凉爽的秋天，F1 拉斯维加斯 GP"
     },
     "highlights": {
       "ko": [
@@ -4282,12 +4282,12 @@
   {
     "regionId": "las-vegas",
     "month": 12,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "겨울이지만 온화, 연말 카운트다운 파티",
+      "en": "Winter but mild, year-end countdown party",
+      "ja": "冬ですが穏やか、年末のカウントダウンパーティー",
+      "zh": "冬日却温和，年终倒计时派对"
     },
     "highlights": {
       "ko": [

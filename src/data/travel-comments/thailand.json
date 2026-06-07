@@ -4,10 +4,10 @@
     "month": 1,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 한가운데, 선선한 바람이 부는 여행 최적기",
+      "en": "The best time to travel in the middle of the dry season, with cool winds blowing",
+      "ja": "乾期の真ん中に、涼しい風が吹く旅行最適期",
+      "zh": "旱季中期出游的最佳时间，凉风习习"
     },
     "highlights": {
       "ko": [
@@ -80,12 +80,12 @@
   {
     "regionId": "bangkok",
     "month": 2,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 지속, 기온이 조금씩 오르기 시작",
+      "en": "Dry season continues, temperature begins to rise little by little",
+      "ja": "乾期持続、気温が少しずつ上がり始める",
+      "zh": "旱季持续，气温开始一点点上升"
     },
     "highlights": {
       "ko": [
@@ -158,12 +158,12 @@
   {
     "regionId": "bangkok",
     "month": 3,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "더위가 시작되는 과도기, 오후 폭염 주의",
+      "en": "Transition period when the heat begins, beware of afternoon heat waves",
+      "ja": "暑さが始まる過渡期、午後の猛暑注意",
+      "zh": "酷暑过渡期，谨防午后热浪"
     },
     "highlights": {
       "ko": [
@@ -232,12 +232,12 @@
   {
     "regionId": "bangkok",
     "month": 4,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "송크란(물축제)이 있지만 40°C 극심한 더위",
+      "en": "There is Songkran (Water Festival), but extreme heat of 40°C",
+      "ja": "ソンクラン（水まつり）がありますが、40°C極端な暑さ",
+      "zh": "有宋干节（泼水节），但酷热高达40°C"
     },
     "highlights": {
       "ko": [
@@ -327,12 +327,12 @@
   {
     "regionId": "bangkok",
     "month": 5,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 시작, 매일 오후 스콜이 쏟아지는 시기",
+      "en": "The beginning of the rainy season, a time when squalls pour down every afternoon",
+      "ja": "雨期開始、毎日午後のスコールが降り注ぐ時期",
+      "zh": "雨季开始，每天下午都有狂风倾盆"
     },
     "highlights": {
       "ko": [
@@ -408,17 +408,17 @@
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 6,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "본격 우기, 오후마다 집중 호우",
+      "en": "Rainy season in full swing, heavy rain every afternoon",
+      "ja": "本格雨期、午後ごとに集中豪雨",
+      "zh": "雨季如火如荼，每天下午都下大雨"
     },
     "highlights": {
       "ko": [
@@ -486,17 +486,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 7,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 지속, 도로 침수가 빈번한 시기",
+      "en": "Rainy season continues, frequent road flooding",
+      "ja": "雨期の継続、道路の浸水が頻繁な時期",
+      "zh": "雨季持续，道路水浸频繁"
     },
     "highlights": {
       "ko": [
@@ -556,17 +556,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 8,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기와 높은 습도, 야외 관광이 힘든 시기",
+      "en": "Rainy season and high humidity, difficult time for outdoor tourism",
+      "ja": "雨季と高湿度、屋外観光が難しい時期",
+      "zh": "雨季湿度大，户外旅游困难时期"
     },
     "highlights": {
       "ko": [
@@ -634,17 +634,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 9,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 절정, 방콕 침수 위험이 가장 높은 시기",
+      "en": "Peak of the rainy season, the highest risk of flooding in Bangkok",
+      "ja": "雨期のピーク、バンコクの浸水リスクが最も高い時期",
+      "zh": "雨季高峰，曼谷洪水风险最高"
     },
     "highlights": {
       "ko": [
@@ -708,17 +708,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 10,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 막바지, 비가 줄어들기 시작",
+      "en": "At the end of the rainy season, rain begins to decrease",
+      "ja": "雨季の終わり、雨が降り始める",
+      "zh": "雨季结束，雨水开始减少"
     },
     "highlights": {
       "ko": [
@@ -786,17 +786,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "bangkok",
     "month": 11,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "건기 시작, 러이끄라통 축제의 낭만",
+      "en": "The beginning of the dry season, the romance of Loy Krathong Festival",
+      "ja": "乾季開始、ラチュラトン祭りのロマン",
+      "zh": "旱季开始，水灯节浪漫"
     },
     "highlights": {
       "ko": [
@@ -884,10 +884,10 @@
     "month": 12,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기의 선선한 바람, 연말 분위기의 여행 최적기",
+      "en": "The cool breeze of the dry season, the best time to travel with the end-of-year atmosphere",
+      "ja": "乾季の涼しい風、年末の雰囲気の旅最適期",
+      "zh": "旱季凉风习习，年末气息出游最佳时节"
     },
     "highlights": {
       "ko": [
@@ -962,10 +962,10 @@
     "month": 1,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기의 서늘한 날씨, 트레킹과 사원 투어 최적기",
+      "en": "The cool weather of the dry season is the best time for trekking and temple tours",
+      "ja": "乾季の涼しい天気、トレッキングと寺院ツアー最適期",
+      "zh": "旱季凉爽的天气是徒步旅行和寺庙游览的最佳时机"
     },
     "highlights": {
       "ko": [
@@ -1032,18 +1032,18 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "chiang-mai",
     "month": 2,
-    "rating": 5,
+    "rating": 3,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 지속, 쾌적하지만 연무 시작될 수 있는 시기",
+      "en": "The dry season continues, comfortable but when haze may begin.",
+      "ja": "乾期持続、快適だが煙霧が始まる時期",
+      "zh": "旱季仍在继续，气候舒适，但可能会出现雾霾。"
     },
     "highlights": {
       "ko": [
@@ -1120,12 +1120,12 @@
   {
     "regionId": "chiang-mai",
     "month": 3,
-    "rating": 5,
+    "rating": 3,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "산불 연무(스모그) 시작, 대기질 급격히 악화",
+      "en": "Forest fire haze (smog) begins, air quality rapidly deteriorates",
+      "ja": "山火事演舞（スモッグ）開始、大気質急激に悪化",
+      "zh": "森林火霾（雾霾）开始，空气质量迅速恶化"
     },
     "highlights": {
       "ko": [
@@ -1194,12 +1194,12 @@
   {
     "regionId": "chiang-mai",
     "month": 4,
-    "rating": 4,
+    "rating": 1,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "산불 연무 절정, 세계 최악 수준의 대기질",
+      "en": "Forest fire haze peaks, air quality among world's worst",
+      "ja": "山火事の煙のピーク、世界最悪の大気質",
+      "zh": "森林火灾雾霾达到顶峰，空气质量位居全球最差"
     },
     "highlights": {
       "ko": [
@@ -1275,18 +1275,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "chiang-mai",
     "month": 5,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "연무 끝자락과 우기 시작이 겹치는 시기",
+      "en": "The end of the haze and the beginning of the rainy season overlap",
+      "ja": "煙霧の終わりと雨期の始まりが重なる時期",
+      "zh": "雾霾的结束和雨季的开始重叠"
     },
     "highlights": {
       "ko": [
@@ -1358,17 +1358,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "chiang-mai",
     "month": 6,
     "rating": 2,
     "summary": {
-      "ko": "우기로 비가 많은 시기",
-      "en": "Rainy season with a lot of rain",
-      "ja": "雨期に雨が多い時期",
-      "zh": "雨季，雨水较多"
+      "ko": "우기이지만 공기가 맑아지고 녹음이 짙어지는 시기",
+      "en": "Although it is the rainy season, it is a time when the air becomes clearer and the greenery becomes thicker",
+      "ja": "雨気ですが空気が澄んで録音が濃くなる時期",
+      "zh": "虽然现在是雨季，但却是空气变得更加清澈、绿意变得更加浓密的时候"
     },
     "highlights": {
       "ko": [
@@ -1451,10 +1451,10 @@
     "month": 7,
     "rating": 2,
     "summary": {
-      "ko": "우기로 비가 많은 시기",
-      "en": "Rainy season with a lot of rain",
-      "ja": "雨期に雨が多い時期",
-      "zh": "雨季，雨水较多"
+      "ko": "우기 지속, 짧은 오후 소나기 후 맑은 하늘",
+      "en": "Rainy season continues, clear skies after brief afternoon showers",
+      "ja": "雨期の持続、短い午後のシャワー後の澄んだ空",
+      "zh": "雨季仍在继续，下午短暂阵雨后天空晴朗"
     },
     "highlights": {
       "ko": [
@@ -1537,10 +1537,10 @@
     "month": 8,
     "rating": 1,
     "summary": {
-      "ko": "폭우 시즌, 여행 피하는 것이 좋음",
-      "en": "Heavy rain season, it is better to avoid travel",
-      "ja": "大雨の季節、旅行を避けるのが良い",
-      "zh": "大雨季节，最好避免出行"
+      "ko": "우기, 산길이 미끄럽고 트레킹 주의",
+      "en": "Rainy season, mountain paths are slippery, so be careful when trekking",
+      "ja": "雨期、山道が滑りやすいトレッキング注意",
+      "zh": "雨季山路湿滑，徒步需小心"
     },
     "highlights": {
       "ko": [
@@ -1615,10 +1615,10 @@
     "month": 9,
     "rating": 2,
     "summary": {
-      "ko": "우기로 비가 많은 시기",
-      "en": "Rainy season with a lot of rain",
-      "ja": "雨期に雨が多い時期",
-      "zh": "雨季，雨水较多"
+      "ko": "우기 절정, 강우량이 가장 많은 시기",
+      "en": "Peak of the rainy season, the time with the most rainfall",
+      "ja": "雨期のピーク、降雨量が最も多い時期",
+      "zh": "雨季高峰期，降雨量最多的时间"
     },
     "highlights": {
       "ko": [
@@ -1701,10 +1701,10 @@
     "month": 10,
     "rating": 3,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 마무리, 논 풍경이 아름다운 시기",
+      "en": "The end of the rainy season, a time of beautiful rice field scenery",
+      "ja": "ウギ仕上げ、田んぼ風景が美しい時期",
+      "zh": "雨季结束，稻田美景时节"
     },
     "highlights": {
       "ko": [
@@ -1779,10 +1779,10 @@
     "month": 11,
     "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "이펑 축제, 건기 시작과 함께 환상적인 밤하늘",
+      "en": "Yifeng Festival, fantastic night sky with the start of the dry season",
+      "ja": "イパンフェスティバル、乾季の始まりと素晴らしい夜空",
+      "zh": "宜风节，梦幻夜空伴随旱季开始"
     },
     "highlights": {
       "ko": [
@@ -1866,10 +1866,10 @@
     "month": 12,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기, 서늘하고 맑은 날씨로 트레킹 최적기",
+      "en": "The dry season is the best time for trekking with cool, clear weather",
+      "ja": "乾季、涼しく澄んだ天気でトレッキング最適期",
+      "zh": "旱季气候凉爽、晴朗，是徒步旅行的最佳时间"
     },
     "highlights": {
       "ko": [
@@ -1949,18 +1949,18 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
     "regionId": "phuket",
     "month": 1,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 절정, 맑고 잔잔한 안다만 바다의 최적기",
+      "en": "The peak of the dry season, the best time for the clear and calm Andaman Sea",
+      "ja": "乾季絶頂、澄んだ穏やかなアンダマン海の最適期",
+      "zh": "旱季高峰期，欣赏清澈平静的安达曼海的最佳时间"
     },
     "highlights": {
       "ko": [
@@ -2050,12 +2050,12 @@
   {
     "regionId": "phuket",
     "month": 2,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 지속, 다이빙과 스노클링 최고 시야",
+      "en": "Dry season continues, best visibility for diving and snorkeling",
+      "ja": "乾季持続、ダイビングとシュノーケリングの最高視野",
+      "zh": "旱季持续，潜水和浮潜的最佳能见度"
     },
     "highlights": {
       "ko": [
@@ -2141,12 +2141,12 @@
   {
     "regionId": "phuket",
     "month": 3,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "건기이지만 더위가 서서히 올라오는 시기",
+      "en": "Although it is the dry season, the heat gradually rises",
+      "ja": "乾季だが暑さが徐々に上がる時期",
+      "zh": "虽然是旱季，但炎热却逐渐升高"
     },
     "highlights": {
       "ko": [
@@ -2232,12 +2232,12 @@
   {
     "regionId": "phuket",
     "month": 4,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "건기 막바지, 아직 해변을 즐기기 좋은 시기",
+      "en": "The end of the dry season is still a good time to enjoy the beach",
+      "ja": "乾期最後、まだビーチを楽しむのに良い時期",
+      "zh": "旱季结束仍然是享受海滩的好时机"
     },
     "highlights": {
       "ko": [
@@ -2310,12 +2310,12 @@
   {
     "regionId": "phuket",
     "month": 5,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기 시작, 파도가 높아지고 해수욕 주의",
+      "en": "Rainy season begins, waves rise, be careful when swimming in the sea",
+      "ja": "雨期の始まり、波が高くなり、海水浴の注意",
+      "zh": "雨季开始，海浪上涨，海里游泳要小心"
     },
     "highlights": {
       "ko": [
@@ -2382,18 +2382,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 6,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "우기 본격화, 2~3m 파도로 해수욕 위험",
+      "en": "Rainy season in full swing, beach bathing dangerous due to 2~3m waves",
+      "ja": "雨期本格化、2～3m波で海水浴の危険",
+      "zh": "雨季如火如荼，沙滩浴2~3m海浪危险"
     },
     "highlights": {
       "ko": [
@@ -2460,18 +2460,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 7,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기, 비와 거친 파도가 지속되는 시기",
+      "en": "Rainy season, a period of continuous rain and rough waves",
+      "ja": "雨季、雨、荒波が続く時期",
+      "zh": "雨季，一段持续阴雨、惊涛骇浪的时期"
     },
     "highlights": {
       "ko": [
@@ -2539,17 +2539,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 8,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "우기 지속, 다이빙 시야가 떨어지는 시기",
+      "en": "Rainy season continues, diving visibility decreases",
+      "ja": "雨期継続、ダイビング視界が落ちる時期",
+      "zh": "雨季持续，潜水能见度下降"
     },
     "highlights": {
       "ko": [
@@ -2616,18 +2616,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 9,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 절정, 가장 비가 많은 시기",
+      "en": "Peak of the rainy season, the rainiest time",
+      "ja": "雨季のピーク、最も雨の多い時期",
+      "zh": "雨季高峰，最多雨的时候"
     },
     "highlights": {
       "ko": [
@@ -2695,17 +2695,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 10,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 끝자락, 비가 줄어들기 시작",
+      "en": "At the end of the rainy season, rain begins to decrease",
+      "ja": "雨期の終わり、雨が降り始める",
+      "zh": "雨季结束，雨水开始减少"
     },
     "highlights": {
       "ko": [
@@ -2773,17 +2773,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 11,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 막바지, 비 줄어들지만 아직 파도 높은 시기",
+      "en": "At the end of the rainy season, the rain is decreasing but the waves are still high.",
+      "ja": "雨季の終わり、雨が減るが、まだ波の高い時期",
+      "zh": "雨季结束时，雨势渐小，但海浪依然很高。"
     },
     "highlights": {
       "ko": [
@@ -2871,18 +2871,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "phuket",
     "month": 12,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "건기 피크, 크리스마스 분위기의 해변 휴양",
+      "en": "Peak dry season, Christmas-like beach vacation",
+      "ja": "乾季ピーク、クリスマスの雰囲気のビーチレクリエーション",
+      "zh": "旱季高峰，圣诞般的海滩度假"
     },
     "highlights": {
       "ko": [
@@ -2978,10 +2978,10 @@
     "month": 1,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 성수기, 맑고 잔잔한 바다에서 수상 스포츠",
+      "en": "During the peak dry season, water sports in clear and calm seas",
+      "ja": "乾期ハイシーズン、澄んだ穏やかな海でウォータースポーツ",
+      "zh": "在旱季高峰期，在清澈平静的海水中进行水上运动"
     },
     "highlights": {
       "ko": [
@@ -3054,12 +3054,12 @@
   {
     "regionId": "pattaya",
     "month": 2,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 지속, 해변에서 여유로운 파타야 최고의 시기",
+      "en": "The dry season continues, the best time to relax on the beach in Pattaya",
+      "ja": "乾期持続、ビーチでのんびりパタヤ最高の時期",
+      "zh": "旱季持续，芭堤雅海滩放松的最佳时机"
     },
     "highlights": {
       "ko": [
@@ -3145,12 +3145,12 @@
   {
     "regionId": "pattaya",
     "month": 3,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "더워지기 시작하지만 여전히 맑은 바다",
+      "en": "It's starting to get warmer, but the sea is still clear",
+      "ja": "暑くなり始めますが、まだ澄んだ海",
+      "zh": "天气开始变暖了，但海水依然清澈"
     },
     "highlights": {
       "ko": [
@@ -3236,12 +3236,12 @@
   {
     "regionId": "pattaya",
     "month": 4,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "송크란 물축제, 파타야 해변 파티 피크",
+      "en": "Songkran Water Festival, Pattaya Beach Party Peak",
+      "ja": "ソンクランウォーターフェスティバル、パタヤビーチパーティーピーク",
+      "zh": "宋干节泼水节，芭堤雅海滩派对高峰"
     },
     "highlights": {
       "ko": [
@@ -3323,12 +3323,12 @@
   {
     "regionId": "pattaya",
     "month": 5,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기 시작, 오후 스콜 잦아지는 시기",
+      "en": "The beginning of the rainy season, when afternoon squalls become more frequent",
+      "ja": "雨期開始、午後のスコール頻繁になる時期",
+      "zh": "雨季开始，下午的暴风雨更加频繁"
     },
     "highlights": {
       "ko": [
@@ -3395,18 +3395,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "pattaya",
     "month": 6,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기, 해변보다 쇼핑·야시장 탐방 추천",
+      "en": "In the rainy season, shopping and visiting the night market are recommended rather than the beach",
+      "ja": "雨期、ビーチよりショッピング・ナイトマーケット探訪おすすめ",
+      "zh": "雨季更推荐购物、逛夜市而不是海滩"
     },
     "highlights": {
       "ko": [
@@ -3473,18 +3473,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "pattaya",
     "month": 7,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기 지속, 리조트 풀빌라 중심 여행",
+      "en": "Rainy season continues, travel focused on resort pool villas",
+      "ja": "ウギ持続、リゾートプールヴィラ中心部旅行",
+      "zh": "雨季持续，出行重点关注度假村泳池别墅"
     },
     "highlights": {
       "ko": [
@@ -3551,18 +3551,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "pattaya",
     "month": 8,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기 중반, 성수기 대비 항공권·숙박 저렴",
+      "en": "Mid-rainy season, cheaper flights and lodging compared to peak season",
+      "ja": "雨期半ば、ピークシーズンに比べて航空券・宿泊格安",
+      "zh": "雨季中期，航班和住宿比旺季便宜"
     },
     "highlights": {
       "ko": [
@@ -3629,18 +3629,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "pattaya",
     "month": 9,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 막바지, 파도가 높아지는 시기",
+      "en": "At the end of the rainy season, when the waves rise",
+      "ja": "雨期の最後、波が上がる時期",
+      "zh": "雨季结束，海浪高涨"
     },
     "highlights": {
       "ko": [
@@ -3700,17 +3700,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "pattaya",
     "month": 10,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "비가 줄어들기 시작, 건기 준비기",
+      "en": "Rain begins to decrease, preparation for dry season",
+      "ja": "雨が減り始め、乾期準備機",
+      "zh": "降雨开始减少，为旱季做准备"
     },
     "highlights": {
       "ko": [
@@ -3778,17 +3778,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "pattaya",
     "month": 11,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "건기 시작, 파타야 국제 불꽃놀이 축제",
+      "en": "Dry season begins, Pattaya International Fireworks Festival",
+      "ja": "乾季開始、パタヤ国際花火大会",
+      "zh": "旱季开始，芭堤雅国际烟花节"
     },
     "highlights": {
       "ko": [
@@ -3884,10 +3884,10 @@
     "month": 12,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "성수기 재개, 카운트다운 파티로 붐비는 해변",
+      "en": "High season resumes, beaches crowded with countdown parties",
+      "ja": "ピークシーズンの再開、カウントダウンパーティーで混雑したビーチ",
+      "zh": "旺季恢复，海滩挤满倒计时派对"
     },
     "highlights": {
       "ko": [
@@ -3960,12 +3960,12 @@
   {
     "regionId": "krabi",
     "month": 1,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "건기 절정, 라일레이 비치·4개 섬 투어 최적기",
+      "en": "The peak of the dry season, the best time to tour Railay Beach and the four islands",
+      "ja": "乾季絶頂、ライレイビーチ・4島ツアー最適期",
+      "zh": "旱季高峰期，游览莱利海滩及四岛的最佳时机"
     },
     "highlights": {
       "ko": [
@@ -4047,12 +4047,12 @@
   {
     "regionId": "krabi",
     "month": 2,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "건기 지속, 태국 최고의 해변 크라비 황금기",
+      "en": "Dry season continues, Thailand's best beach Krabi's golden age",
+      "ja": "乾期持続、タイで最高のビーチクラビゴールデン",
+      "zh": "旱季持续，泰国最佳海滩甲米的黄金时代"
     },
     "highlights": {
       "ko": [
@@ -4138,12 +4138,12 @@
   {
     "regionId": "krabi",
     "month": 3,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "더워지지만 바다는 맑고 아름다운 시기",
+      "en": "It's getting hotter, but the sea is clear and beautiful",
+      "ja": "暑いけど海は澄んで美しい時期",
+      "zh": "天气越来越热，但是海水却清澈美丽"
     },
     "highlights": {
       "ko": [
@@ -4229,12 +4229,12 @@
   {
     "regionId": "krabi",
     "month": 4,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기 직전, 비가 늘기 시작해 섬 투어 서두르기",
+      "en": "Just before the rainy season, rain begins to increase, so hurry up to tour the island",
+      "ja": "雨期直前、雨が増え始めて島ツアー急いで",
+      "zh": "临近雨季，雨水开始增多，赶紧去海岛游"
     },
     "highlights": {
       "ko": [
@@ -4318,18 +4318,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "krabi",
     "month": 5,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 시작, 섬 투어 중단 권고",
+      "en": "Rainy season begins, island tours advised to be suspended",
+      "ja": "雨期開始、島ツアー中断勧告",
+      "zh": "雨季来临，海岛游建议暂停"
     },
     "highlights": {
       "ko": [
@@ -4401,17 +4401,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "krabi",
     "month": 6,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "우기, 강한 파도로 섬 투어 불가",
+      "en": "During the rainy season, island tours are not possible due to strong waves",
+      "ja": "雨期、強い波で島ツアー不可",
+      "zh": "雨季期间，海浪较大，无法进行海岛游"
     },
     "highlights": {
       "ko": [
@@ -4482,18 +4482,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "krabi",
     "month": 7,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 절정, 서퍼들의 시즌으로 전환",
+      "en": "Peak rainy season, transition into surfer season",
+      "ja": "雨期絶頂、サーファーたちのシーズンに転換",
+      "zh": "雨季高峰，过渡到冲浪季节"
     },
     "highlights": {
       "ko": [
@@ -4565,17 +4565,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "krabi",
     "month": 8,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "우기 지속, 저가 숙박 시즌",
+      "en": "Rainy season continues, budget accommodation season",
+      "ja": "雨期継続、低価格宿泊シーズン",
+      "zh": "雨季持续，经济型住宿旺季"
     },
     "highlights": {
       "ko": [
@@ -4646,18 +4646,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "krabi",
     "month": 9,
-    "rating": 3,
+    "rating": 2,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 막바지, 파도 높고 비 많은 시기",
+      "en": "The end of the rainy season, high waves and heavy rain",
+      "ja": "雨季の終わり、波が高く雨が多い時期",
+      "zh": "雨季结束，大浪大雨"
     },
     "highlights": {
       "ko": [
@@ -4721,17 +4721,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "krabi",
     "month": 10,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 절정, 비 가장 많고 섬 투어 취소 잦은 시기",
+      "en": "Peak of the rainy season, the season with the most rain and frequent island tour cancellations",
+      "ja": "雨季のピーク、雨が多い島ツアーキャンセル頻繁な時期",
+      "zh": "雨季高峰，雨水最多、海岛游取消频繁的季节"
     },
     "highlights": {
       "ko": [
@@ -4795,17 +4795,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "krabi",
     "month": 11,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "우기 끝자락, 날씨 회복되며 라일레이 비치 서서히 재개",
+      "en": "At the end of the rainy season, the weather recovers and Railay Beach gradually reopens",
+      "ja": "雨期の終わり、天候が回復し、ライレイビーチが徐々に再開",
+      "zh": "雨季结束，天气回暖，莱利海滩逐渐重新开放"
     },
     "highlights": {
       "ko": [
@@ -4881,18 +4881,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "krabi",
     "month": 12,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "건기 성수기, 에메랄드빛 바다로 돌아온 크라비",
+      "en": "Krabi returns to the emerald sea during the peak dry season",
+      "ja": "乾期ハイシーズン、エメラルドの海に戻ったクラビ",
+      "zh": "甲米在旱季重回翡翠海"
     },
     "highlights": {
       "ko": [
@@ -4976,18 +4976,18 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "koh-samui",
     "month": 1,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "건기 해변, 맑고 잔잔한 에메랄드 바다",
+      "en": "Dry season beach, clear and calm emerald sea",
+      "ja": "乾季ビーチ、澄んだ穏やかなエメラルド海",
+      "zh": "旱季海滩，清澈平静的翡翠海"
     },
     "highlights": {
       "ko": [
@@ -5071,10 +5071,10 @@
     "month": 2,
     "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "건기 절정, 스노클링·다이빙 시야 최고",
+      "en": "Peak dry season, best snorkeling and diving visibility",
+      "ja": "乾季絶頂、シュノーケリング・ダイビング視界最高",
+      "zh": "旱季高峰期，浮潜和潜水能见度最佳"
     },
     "highlights": {
       "ko": [
@@ -5156,12 +5156,12 @@
   {
     "regionId": "koh-samui",
     "month": 3,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "건기 지속, 앙통 국립해양공원 투어 적기",
+      "en": "As the dry season continues, it is a good time to tour Ang Thong National Marine Park",
+      "ja": "乾期持続、アントン国立海洋公園ツアーが少ない",
+      "zh": "随着旱季持续，正是游览安通国家海洋公园的好时机"
     },
     "highlights": {
       "ko": [
@@ -5247,12 +5247,12 @@
   {
     "regionId": "koh-samui",
     "month": 4,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "건기 막바지, 풀문 파티(인근 팡안섬)",
+      "en": "At the end of the dry season, full moon party (nearby Phangan Island)",
+      "ja": "乾期終盤、フルムーンパーティー（近くのパンガン島）",
+      "zh": "旱季结束时，满月派对（帕岸岛附近）"
     },
     "highlights": {
       "ko": [
@@ -5334,12 +5334,12 @@
   {
     "regionId": "koh-samui",
     "month": 5,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기 전환기, 아직 해변 즐기기 가능",
+      "en": "Transition to the rainy season, you can still enjoy the beach",
+      "ja": "雨期コンバーター、まだビーチを楽しむことができます",
+      "zh": "过渡到雨季，依然可以享受海滩"
     },
     "highlights": {
       "ko": [
@@ -5412,12 +5412,12 @@
   {
     "regionId": "koh-samui",
     "month": 6,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기 시작이지만 짧은 스콜 위주",
+      "en": "The rainy season has begun, but mainly short squalls",
+      "ja": "雨期は始まりますが、短いスコアを中心",
+      "zh": "雨季已经开始，但主要是短时狂风"
     },
     "highlights": {
       "ko": [
@@ -5482,12 +5482,12 @@
   {
     "regionId": "koh-samui",
     "month": 7,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기, 오후 소나기 후 맑은 하늘",
+      "en": "Rainy season, clear sky after afternoon shower",
+      "ja": "雨期、午後のシャワー後の澄んだ空",
+      "zh": "雨季，午后阵雨后天空晴朗"
     },
     "highlights": {
       "ko": [
@@ -5560,12 +5560,12 @@
   {
     "regionId": "koh-samui",
     "month": 8,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "우기 지속, 비 사이사이 해변 이용 가능",
+      "en": "Rainy season continues, beach available between rains",
+      "ja": "雨期継続、非サイサイビーチ利用可能",
+      "zh": "雨季仍在继续，雨季期间海滩可用"
     },
     "highlights": {
       "ko": [
@@ -5638,12 +5638,12 @@
   {
     "regionId": "koh-samui",
     "month": 9,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "우기, 강수량 증가하는 시기",
+      "en": "Rainy season, a period of increased rainfall",
+      "ja": "雨期、降水量の増加時期",
+      "zh": "雨季，降雨量增加的时期"
     },
     "highlights": {
       "ko": [
@@ -5716,12 +5716,12 @@
   {
     "regionId": "koh-samui",
     "month": 10,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "몬순 시작, 폭우와 강풍 주의",
+      "en": "Monsoon begins, beware of heavy rain and strong winds",
+      "ja": "モンスーンの始まり、大雨と強風の注意",
+      "zh": "季风来临，谨防大雨大风"
     },
     "highlights": {
       "ko": [
@@ -5793,17 +5793,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "koh-samui",
     "month": 11,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "비가 잦지만 여행 가능한 시기",
-      "en": "Although it rains often, it is still possible to travel",
-      "ja": "雨が多いが旅行可能な時期",
-      "zh": "虽然经常下雨，但还是可以出行的"
+      "ko": "몬순 절정, 해수욕 위험하고 페리 결항",
+      "en": "Monsoon peak, beach bathing dangerous, ferry cancellation",
+      "ja": "モンスーンのピーク、海水浴危険、フェリー欠航",
+      "zh": "季风高峰，海滩沐浴危险，渡轮取消"
     },
     "highlights": {
       "ko": [
@@ -5875,17 +5875,17 @@
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "koh-samui",
     "month": 12,
-    "rating": 4,
+    "rating": 1,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "몬순 끝자락, 날씨 회복 시작",
+      "en": "End of monsoon, weather recovery begins",
+      "ja": "モンスーンの終わり、天気回復を開始",
+      "zh": "季风结束，天气开始恢复"
     },
     "highlights": {
       "ko": [
@@ -5952,7 +5952,7 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

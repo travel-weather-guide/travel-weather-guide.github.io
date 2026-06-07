@@ -2,7 +2,7 @@
   {
     "regionId": "new-delhi",
     "month": 1,
-    "rating": 3,
+    "rating": 1,
     "summary": {
       "ko": "쾌적한 겨울, 타지마할·붉은 요새 관광 최적기",
       "en": "Pleasant winter, the best time to visit the Taj Mahal and Red Fort",
@@ -83,13 +83,13 @@
       "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
       "zh": "外套、针织衫、长裤。需要外套"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "new-delhi",
     "month": 2,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "공화국의 날 후, 상쾌한 겨울 여행 계속",
       "en": "After Republic Day, continue your refreshing winter journey",
@@ -224,7 +224,7 @@
   {
     "regionId": "new-delhi",
     "month": 4,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "기온 급상승 시작, 야외 관광 아침·저녁만",
       "en": "Temperature begins to rise rapidly, outdoor tourism only in the morning and evening",
@@ -298,7 +298,7 @@
   {
     "regionId": "new-delhi",
     "month": 5,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "45°C 이상 폭염, 야외 유적 관광 자제",
       "en": "Heatwave over 45°C, refrain from touring outdoor monuments",
@@ -376,7 +376,7 @@
   {
     "regionId": "new-delhi",
     "month": 6,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "몬순 직전 극한 더위, 실내 박물관 위주",
       "en": "Extreme heat just before monsoon, focus on indoor museums",
@@ -448,8 +448,8 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "new-delhi",
@@ -708,7 +708,7 @@
   {
     "regionId": "new-delhi",
     "month": 10,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "건기 복귀, 디왈리 빛 축제 시즌",
       "en": "Return to dry season, Diwali light festival season",
@@ -765,7 +765,7 @@
   {
     "regionId": "new-delhi",
     "month": 11,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "쾌적한 건기, 뉴델리 여행 황금기",
       "en": "Pleasant dry season, golden time to travel to New Delhi",
@@ -843,7 +843,7 @@
   {
     "regionId": "new-delhi",
     "month": 12,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "선선한 겨울, 크리스마스 분위기와 관광 성수기",
       "en": "Cool winter, Christmas atmosphere and peak tourist season",
@@ -911,8 +911,8 @@
       "ja": "長袖、軽いジャケット。レイヤードおすすめ",
       "zh": "长袖、薄外套。分层推荐"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "mumbai",
@@ -1155,7 +1155,7 @@
   {
     "regionId": "mumbai",
     "month": 4,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "고온다습, 오전 위주 관광으로 체력 관리",
       "en": "Manage your physical strength with high temperature and humidity and sightseeing mainly in the morning",
@@ -1229,7 +1229,7 @@
   {
     "regionId": "mumbai",
     "month": 5,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "몬순 직전 극심한 더위, 여행 비비추천",
       "en": "Extreme heat just before monsoon, travel BB recommendation",
@@ -1293,8 +1293,8 @@
       "ja": "半袖、ショーツ、軽いワンピース。風通しの良い素材おすすめ",
       "zh": "短袖、短裤、浅色连衣裙。推荐通风良好的材料"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "mumbai",

@@ -109,6 +109,56 @@ FLOOD_PENALTY = {
     ("hoi-an", 10): 20, ("hoi-an", 11): 15,
 }
 
+# 대기질(스모그/연무/황사/모래폭풍) 감점. 출처 검증된 계절성 패턴만 포함.
+# SEVERE(30)=세계 최악 수준 정기적 도래(강한 태풍급) / MODERATE(15)=매년 unhealthy 도래.
+# 연도편차 큰 SE아시아 헤이즈(자카르타·발리·페낭 등)는 보수적으로 제외.
+# 근거: IQAir·NASA·정부 AQI·피어리뷰 (조사 2026-06-07).
+_SEV, _MOD = 30, 15
+AIR_QUALITY_PENALTY = {
+    # 북부 태국·라오스 산불/농경 소각 시즌 2-4월 (세계 최악권)
+    ("chiang-mai", 2): _SEV, ("chiang-mai", 3): _SEV, ("chiang-mai", 4): _SEV,
+    ("luang-prabang", 2): _SEV, ("luang-prabang", 3): _SEV, ("luang-prabang", 4): _SEV,
+    ("vientiane", 2): _MOD, ("vientiane", 3): _MOD, ("vientiane", 4): _MOD,
+    # 북인도 추수 후 짚 소각 + 겨울 역전층 10-2월 (세계 최악 수도)
+    ("new-delhi", 10): _SEV, ("new-delhi", 11): _SEV, ("new-delhi", 12): _SEV,
+    ("new-delhi", 1): _SEV, ("new-delhi", 2): _SEV,
+    ("hanoi", 10): _MOD, ("hanoi", 11): _MOD, ("hanoi", 12): _MOD,
+    ("hanoi", 1): _MOD, ("hanoi", 2): _MOD,
+    # 몽골 석탄 난방 스모그 11-3월
+    ("ulaanbaatar", 11): _SEV, ("ulaanbaatar", 12): _SEV, ("ulaanbaatar", 1): _SEV,
+    ("ulaanbaatar", 2): _SEV, ("ulaanbaatar", 3): _SEV,
+    # 북중국 석탄 난방(겨울) + 고비사막 황사(봄)
+    ("harbin", 10): _SEV, ("harbin", 11): _SEV, ("harbin", 12): _SEV,
+    ("harbin", 1): _SEV, ("harbin", 2): _SEV,
+    ("beijing", 12): _MOD, ("beijing", 1): _MOD, ("beijing", 2): _MOD,
+    ("beijing", 3): _MOD, ("beijing", 4): _MOD,
+    ("xian", 11): _MOD, ("xian", 12): _MOD, ("xian", 1): _MOD, ("xian", 2): _MOD,
+    ("chengdu", 12): _MOD, ("chengdu", 1): _MOD, ("chengdu", 2): _MOD,
+    ("hangzhou", 12): _MOD, ("hangzhou", 1): _MOD, ("hangzhou", 2): _MOD,
+    ("qingdao", 12): _MOD, ("qingdao", 1): _MOD, ("qingdao", 2): _MOD,
+    ("shanghai", 12): _MOD, ("shanghai", 1): _MOD,
+    ("shenzhen", 11): _MOD, ("shenzhen", 12): _MOD, ("shenzhen", 1): _MOD,
+    # 이집트 나일밸리 "블랙클라우드" 볏짚 소각(9-12월) + 함신 모래폭풍(3-4월)
+    ("cairo", 9): _MOD, ("cairo", 10): _MOD, ("cairo", 11): _MOD, ("cairo", 12): _MOD,
+    ("cairo", 3): _MOD, ("cairo", 4): _MOD,
+    ("luxor", 9): _MOD, ("luxor", 10): _MOD, ("luxor", 11): _MOD, ("luxor", 12): _MOD,
+    ("luxor", 3): _MOD, ("luxor", 4): _MOD,
+    # 걸프 여름 먼지·모래 시즌 5-8월
+    ("dubai", 5): _MOD, ("dubai", 6): _MOD, ("dubai", 7): _MOD, ("dubai", 8): _MOD,
+    ("abu-dhabi", 5): _MOD, ("abu-dhabi", 6): _MOD, ("abu-dhabi", 7): _MOD, ("abu-dhabi", 8): _MOD,
+    # 인도네시아 화전 연무 (SW 몬순 7-10월, 매년 도래분만 보수 반영)
+    ("singapore", 7): _MOD, ("singapore", 8): _MOD, ("singapore", 9): _MOD,
+    ("kuala-lumpur", 8): _MOD, ("kuala-lumpur", 9): _MOD, ("kuala-lumpur", 10): _MOD,
+}
+
+# 전몬순(4-5월) 도시 극한 습열 감점. 기온은 33-34°C라 단순 임계엔 안 걸리지만
+# 고습+무풍 도시 체감은 40°C+로 보건경보 상시 — 건기 해변(크라비 등)과 구분해 (지역,월) 명시.
+# 근거: IMD 열파 경보·뉴스 보도 (mumbai 4-5월, manila 4월). 동남아 건기 해변은 제외.
+HUMID_HEAT_PENALTY = {
+    ("mumbai", 4): 18, ("mumbai", 5): 20,
+    ("manila", 4): 18,
+}
+
 # ============================================================
 # 2. 카테고리
 # ============================================================
@@ -274,8 +324,20 @@ def calc_sunshine_score(hours):
         return 0
 
 
+def calc_heat_penalty(temp_high):
+    """극한더위 감점. 여행자가 실제 맞는 주간 최고기온(tempHigh) 기준.
+    기온 점수(평균 기준)만으로는 저습·맑은 사막형 폭염이 best로 남는 문제를 보정."""
+    if temp_high >= 40:
+        return 28
+    elif temp_high >= 37:
+        return 25
+    elif temp_high >= 35:
+        return 15
+    return 0
+
+
 def calc_score(region_id, month, weather):
-    """총 점수 산출 (0-100). 기후 점수 - 자연재해 감점."""
+    """총 점수 산출 (0-100). 기후 점수 - 자연재해/대기질/극한더위 감점."""
     climate = (
         calc_temp_score(weather["tempHigh"], weather["tempLow"])
         + calc_rainfall_score(weather["rainfall"])
@@ -286,6 +348,9 @@ def calc_score(region_id, month, weather):
     penalty = (
         TYPHOON_PENALTY.get((region_id, month), 0)
         + FLOOD_PENALTY.get((region_id, month), 0)
+        + AIR_QUALITY_PENALTY.get((region_id, month), 0)
+        + HUMID_HEAT_PENALTY.get((region_id, month), 0)
+        + calc_heat_penalty(weather["tempHigh"])
     )
     return max(0, climate - penalty)
 
@@ -402,7 +467,7 @@ COMMENTS = {
     ("phuket", 8): "우기 지속, 다이빙 시야가 떨어지는 시기",
     ("phuket", 9): "우기 절정, 가장 비가 많은 시기",
     ("phuket", 10): "우기 끝자락, 비가 줄어들기 시작",
-    ("phuket", 11): "건기 시작, 바다가 잔잔해지는 시기",
+    ("phuket", 11): "우기 막바지, 비 줄어들지만 아직 파도 높은 시기",
     ("phuket", 12): "건기 피크, 크리스마스 분위기의 해변 휴양",
     # ── Paris ──
     ("paris", 1): "겨울 한가운데, 관광객 적고 항공권 저렴한 비수기",
@@ -775,8 +840,8 @@ COMMENTS = {
     ("cappadocia", 4): "야생화 만개, 열기구 최적 조건의 시작",
     ("cappadocia", 5): "열기구 완벽, 봄꽃과 쾌적한 기온",
     ("cappadocia", 6): "따뜻한 초여름, 하이킹과 열기구",
-    ("cappadocia", 7): "40°C 폭염, 열기구 조건 악화",
-    ("cappadocia", 8): "폭염 지속, 야외 활동 힘든 시기",
+    ("cappadocia", 7): "강렬한 햇볕에 낮엔 덥지만 일교차 커, 열기구는 이른 아침 추천",
+    ("cappadocia", 8): "연중 가장 더운 달, 한낮엔 그늘 필수지만 아침저녁은 쾌적",
     ("cappadocia", 9): "더위 물러간 가을, 열기구 최적 시즌 재개",
     ("cappadocia", 10): "가을 단풍과 열기구, 카파도키아 최고의 시기",
     ("cappadocia", 11): "쌀쌀해지는 늦가을, 열기구 아직 가능",
@@ -935,7 +1000,7 @@ COMMENTS = {
     ("langkawi", 8): "우기 지속, 비와 흐린 날 많은 시기",
     ("langkawi", 9): "우기 끝자락, 아직 비 잦음",
     ("langkawi", 10): "우기 마무리, 날씨 서서히 회복",
-    ("langkawi", 11): "건기 시작, 맑아지는 안다만해",
+    ("langkawi", 11): "우기 끝자락, 비 줄어들며 안다만해 서서히 회복",
     ("langkawi", 12): "건기, 면세 쇼핑과 해변의 연말",
     # ── Siem Reap ──
     ("siem-reap", 1): "건기 절정, 앙코르와트 일출 최고의 시기",
@@ -974,8 +1039,8 @@ COMMENTS = {
     ("male", 8): "우기 지속, 비 많지만 수중 생물 풍부",
     ("male", 9): "우기 끝자락, 만타가오리 시즌",
     ("male", 10): "우기 마무리, 날씨 서서히 회복",
-    ("male", 11): "건기 시작, 잔잔한 라군과 석양",
-    ("male", 12): "건기, 크리스마스 시즌의 몰디브 리조트",
+    ("male", 11): "우기 끝자락, 비 줄어들며 NE 몬순으로 전환 중",
+    ("male", 12): "건기 진입 시작, 크리스마스 시즌의 몰디브 리조트",
     # ── Ulaanbaatar ──
     ("ulaanbaatar", 1): "영하 30°C 혹한, 여행 부적합한 시기",
     ("ulaanbaatar", 2): "극한의 추위 지속, 초원은 눈으로 덮임",
@@ -1216,7 +1281,7 @@ COMMENTS = {
     ("nha-trang", 3): "쾌청한 하늘과 맑은 바다, 섬 투어 최적기",
     ("nha-trang", 4): "더워지지만 바다는 맑고 파도 잔잔",
     ("nha-trang", 5): "우기 시작되지만 아직 맑은 날 많은 시기",
-    ("nha-trang", 6): "우기 중반, 해변보다 시내 관광 위주로",
+    ("nha-trang", 6): "건기 막바지, 맑은 날 많고 해변과 스노클링 즐기기 좋은 시기",
     ("nha-trang", 7): "우기, 오후 스콜 잦지만 리조트 즐기기엔 무방",
     ("nha-trang", 8): "우기 지속, 다이빙 시야 다소 감소",
     ("nha-trang", 9): "우기 끝자락, 파도가 높아지는 시기",
@@ -1253,20 +1318,20 @@ COMMENTS = {
     ("krabi", 1): "건기 절정, 라일레이 비치·4개 섬 투어 최적기",
     ("krabi", 2): "건기 지속, 태국 최고의 해변 크라비 황금기",
     ("krabi", 3): "더워지지만 바다는 맑고 아름다운 시기",
-    ("krabi", 4): "우기 직전 마지막 건기, 섬 투어 서두르기",
+    ("krabi", 4): "우기 직전, 비가 늘기 시작해 섬 투어 서두르기",
     ("krabi", 5): "우기 시작, 섬 투어 중단 권고",
     ("krabi", 6): "우기, 강한 파도로 섬 투어 불가",
     ("krabi", 7): "우기 절정, 서퍼들의 시즌으로 전환",
     ("krabi", 8): "우기 지속, 저가 숙박 시즌",
     ("krabi", 9): "우기 막바지, 파도 높고 비 많은 시기",
-    ("krabi", 10): "건기 전환 시작, 날씨 조금씩 회복",
-    ("krabi", 11): "건기 재개, 라일레이 비치가 다시 열리는 시기",
+    ("krabi", 10): "우기 절정, 비 가장 많고 섬 투어 취소 잦은 시기",
+    ("krabi", 11): "우기 끝자락, 날씨 회복되며 라일레이 비치 서서히 재개",
     ("krabi", 12): "건기 성수기, 에메랄드빛 바다로 돌아온 크라비",
     # ── Yogyakarta (족자카르타) ──
     ("yogyakarta", 1): "우기, 하지만 보로부두르 새벽 안개 사진 명소",
     ("yogyakarta", 2): "우기 지속, 실내 바틱 공방 투어 추천",
     ("yogyakarta", 3): "우기 막바지, 점점 맑아지는 날씨",
-    ("yogyakarta", 4): "건기 시작, 프람바난 일출 사진 최적기",
+    ("yogyakarta", 4): "우기 끝자락, 비 줄어들기 시작해 유적 방문 가능해지는 시기",
     ("yogyakarta", 5): "쾌청한 날씨, 보로부두르·프람바난 함께 투어",
     ("yogyakarta", 6): "건기 성수기, 웨삭 축제와 아트 페스티벌",
     ("yogyakarta", 7): "건기 절정, 성수기 맞아 유적지 붐빔",
@@ -1285,8 +1350,8 @@ COMMENTS = {
     ("penang", 7): "우기 시작, 오후 스콜 잦은 시기",
     ("penang", 8): "우기 지속, 음식의 도시 특성상 실내 탐방 지속",
     ("penang", 9): "우기 막바지, 조금씩 맑아지는 페낭",
-    ("penang", 10): "건기 전환, 조지타운 페스티벌 시즌",
-    ("penang", 11): "건기 재개, 다시 쾌청해진 조지타운",
+    ("penang", 10): "우기 절정, 강수량 최고치로 조지타운 거리 탐방 위주",
+    ("penang", 11): "우기 끝자락, 비 줄고 날씨 회복 시작",
     ("penang", 12): "건기 성수기, 연말 연휴 페낭 음식 축제",
     # ── Zhangjiajie (장가계) ──
     ("zhangjiajie", 1): "겨울 설경, 눈 덮인 아바타 산의 신비로운 풍경",
@@ -1442,7 +1507,7 @@ COMMENTS = {
     ("colombo", 8): "우기, 서퍼들이 찾는 우기 전용 파도 시즌",
     ("colombo", 9): "우기 막바지, 동부 해안 건기 시작",
     ("colombo", 10): "서남부 우기 마무리, 날씨 회복 중",
-    ("colombo", 11): "북동 몬순 시작, 콜롬보는 쾌청해지는 시기",
+    ("colombo", 11): "북동 몬순 우기, 열대저압부 영향으로 콜롬보 강수 절정",
     ("colombo", 12): "건기 재개, 갈레 문학 축제 시즌",
     # ── Nagoya (나고야) ──
     ("nagoya", 1): "겨울이지만 아쓰타 신궁 첫 참배와 미소니코미 우동",
@@ -1824,6 +1889,15 @@ def generate_reason(weather, score, rating, region_id, month):
         parts.append("태풍 주의")
     if fp >= 20:
         parts.append("홍수 위험")
+    aq = AIR_QUALITY_PENALTY.get(key_t, 0)
+    if aq >= 20:
+        parts.append("대기질 최악")
+    elif aq >= 10:
+        parts.append("대기질 주의")
+    if weather["tempHigh"] >= 40:
+        parts.append(f"극심한 폭염({weather['tempHigh']:.0f}°C)")
+    elif weather["tempHigh"] >= 37:
+        parts.append(f"폭염 주의({weather['tempHigh']:.0f}°C)")
 
     return ", ".join(parts) if parts else RATING_LABELS[rating]
 

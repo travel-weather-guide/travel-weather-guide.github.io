@@ -2,7 +2,7 @@
   {
     "regionId": "ulaanbaatar",
     "month": 1,
-    "rating": 3,
+    "rating": 1,
     "summary": {
       "ko": "영하 30°C 혹한, 여행 부적합한 시기",
       "en": "Extreme cold of -30°C, unsuitable time to travel",
@@ -66,13 +66,13 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "ulaanbaatar",
     "month": 2,
-    "rating": 3,
+    "rating": 1,
     "summary": {
       "ko": "극한의 추위 지속, 초원은 눈으로 덮임",
       "en": "Extreme cold continues, grasslands covered with snow",
@@ -140,13 +140,13 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "ulaanbaatar",
     "month": 3,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "아직 혹한, 초봄 바람이 차가운 시기",
       "en": "It's still cold, early spring, when the wind is cold",
@@ -218,8 +218,8 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "ulaanbaatar",
@@ -730,7 +730,7 @@
   {
     "regionId": "ulaanbaatar",
     "month": 11,
-    "rating": 3,
+    "rating": 1,
     "summary": {
       "ko": "혹한 시작, 여행 비추천 시기",
       "en": "Severe cold begins, not recommended time to travel",
@@ -790,13 +790,13 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "ulaanbaatar",
     "month": 12,
-    "rating": 3,
+    "rating": 1,
     "summary": {
       "ko": "영하 25°C 이하, 겨울왕국 혹한기",
       "en": "Below -25°C, Frozen cold weather",
@@ -856,7 +856,7 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

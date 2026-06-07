@@ -370,7 +370,7 @@
   {
     "regionId": "madrid",
     "month": 7,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "40°C 넘는 극심한 폭염, 낮에는 야외 불가",
       "en": "Extreme heat wave exceeding 40°C, no outdoor activities allowed during the day",
@@ -1907,7 +1907,7 @@
   {
     "regionId": "seville",
     "month": 7,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "45°C까지 오르는 유럽 최악의 폭염",
       "en": "Europe's worst heat wave reaching up to 45°C",
@@ -1985,7 +1985,7 @@
   {
     "regionId": "seville",
     "month": 8,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "폭염 지속, 야외 활동 사실상 불가",
       "en": "Heatwave continues, outdoor activities virtually impossible",
@@ -2703,7 +2703,7 @@
   {
     "regionId": "granada",
     "month": 7,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "40°C 폭염, 오전 관광·오후 시에스타",
       "en": "40°C heat wave, morning sightseeing and afternoon siesta",
@@ -2777,7 +2777,7 @@
   {
     "regionId": "granada",
     "month": 8,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "폭염 지속, 시에라네바다 산악 피서",
       "en": "Heat wave continues, Sierra Nevada mountain retreat",

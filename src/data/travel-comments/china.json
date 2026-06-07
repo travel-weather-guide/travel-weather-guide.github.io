@@ -2,7 +2,7 @@
   {
     "regionId": "beijing",
     "month": 1,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "혹한의 자금성, 관광객 적어 여유로운 겨울",
       "en": "Forbidden City in extreme cold, leisurely winter with few tourists",
@@ -66,13 +66,13 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "beijing",
     "month": 2,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "춘절 연휴, 폭죽과 빨간 등불의 베이징",
       "en": "Chinese New Year holiday, Beijing with firecrackers and red lanterns",
@@ -150,7 +150,7 @@
   {
     "regionId": "beijing",
     "month": 3,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "황사와 모래바람 시작, 마스크 필수",
       "en": "Yellow dust and sandstorms begin, masks are required",
@@ -207,7 +207,7 @@
   {
     "regionId": "beijing",
     "month": 4,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "벚꽃과 함께 봄이 오지만 황사 여전",
       "en": "Spring comes with cherry blossoms, but yellow dust still remains",
@@ -755,7 +755,7 @@
   {
     "regionId": "beijing",
     "month": 12,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "혹한이지만 스키와 눈 덮인 자금성의 매력",
       "en": "Although it is cold, the charm of skiing and the snow-covered Forbidden City",
@@ -819,13 +819,13 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "shanghai",
     "month": 1,
-    "rating": 2,
+    "rating": 1,
     "summary": {
       "ko": "쌀쌀한 겨울, 와이탄 야경과 실내 쇼핑",
       "en": "Chilly winter, night view of the Bund and indoor shopping",
@@ -1610,7 +1610,7 @@
   {
     "regionId": "shanghai",
     "month": 12,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "겨울 한파, 상하이 크리스마스 분위기",
       "en": "Winter cold wave, Christmas atmosphere in Shanghai",
@@ -1653,13 +1653,13 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "qingdao",
     "month": 1,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "혹한의 해변 도시, 관광객 거의 없는 시기",
       "en": "A seaside city in the harshest cold, a time when there are almost no tourists",
@@ -1719,13 +1719,13 @@
       "ja": "パディング、厚いコート、防寒用品必須",
       "zh": "衬垫、厚外套和冬季装备必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "qingdao",
     "month": 2,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "여전히 추운 겨울, 독일식 건축 투어",
       "en": "Still cold winter, German architecture tour",
@@ -1785,8 +1785,8 @@
       "ja": "パディング、厚いコート、防寒用品必須",
       "zh": "衬垫、厚外套和冬季装备必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "qingdao",
@@ -2394,7 +2394,7 @@
   {
     "regionId": "qingdao",
     "month": 12,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "겨울 한파, 해산물 요리로 따뜻하게",
       "en": "Warm up during the winter cold with seafood dishes",
@@ -2454,8 +2454,8 @@
       "ja": "パディング、厚いコート、防寒用品必須",
       "zh": "衬垫、厚外套和冬季装备必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "zhangjiajie",
@@ -4154,7 +4154,7 @@
   {
     "regionId": "chengdu",
     "month": 1,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "겨울 안개 잦지만 사천 훠궈로 몸 녹이기",
       "en": "Warming up with Sichuan hot pot despite frequent winter fog",
@@ -4197,13 +4197,13 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "chengdu",
     "month": 2,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "춘절 분위기, 진리 거리 등불 축제",
       "en": "Lunar New Year atmosphere, Jinri Street Lantern Festival",
@@ -4246,8 +4246,8 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "chengdu",
@@ -4886,7 +4886,7 @@
   {
     "regionId": "chengdu",
     "month": 12,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "겨울 안개, 실내 찻집·훠궈 미식 투어",
       "en": "Winter fog, indoor tea house and hot pot gourmet tour",
@@ -4929,13 +4929,13 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "xian",
     "month": 1,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "혹한이지만 관광객 적어 병마용 여유 관람",
       "en": "Although it is cold, there are few tourists so you can take your time watching the Terracotta Warriors",
@@ -4995,13 +4995,13 @@
       "ja": "パディング、厚いコート、防寒用品必須",
       "zh": "衬垫、厚外套和冬季装备必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "xian",
     "month": 2,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "춘절 성벽 등불축제, 환상적인 야경",
       "en": "Lunar New Year City Wall Lantern Festival, fantastic night view",
@@ -5588,7 +5588,7 @@
   {
     "regionId": "xian",
     "month": 11,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "늦가을, 화청지 은행나무 단풍 절경",
       "en": "Late fall, Huaqingji ginkgo tree maple view",
@@ -5618,13 +5618,13 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "xian",
     "month": 12,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "겨울 시안, 눈 덮인 성벽의 장엄한 풍경",
       "en": "Xi'an in winter, majestic scenery of snow-covered city walls",
@@ -5688,13 +5688,13 @@
       "ja": "パディング、厚いコート、防寒用品必須",
       "zh": "衬垫、厚外套和冬季装备必不可少"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "hangzhou",
     "month": 1,
-    "rating": 2,
+    "rating": 1,
     "summary": {
       "ko": "겨울 서호, 단교잔설(끊어진 다리 위 잔설) 절경",
       "en": "West Lake in winter, the remaining snow on the broken bridge (remaining snow on the broken bridge) spectacular view",
@@ -6492,7 +6492,7 @@
   {
     "regionId": "hangzhou",
     "month": 12,
-    "rating": 3,
+    "rating": 2,
     "summary": {
       "ko": "겨울 서호, 관광객 적어 고즈넉한 운치",
       "en": "West Lake in winter, quiet atmosphere with few tourists",
@@ -6535,13 +6535,13 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "shenzhen",
     "month": 1,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "쾌적한 겨울, 세계의 창·해변 산책 적기",
       "en": "Pleasant winter, the perfect time to take a walk on the world's largest beach",
@@ -7263,7 +7263,7 @@
   {
     "regionId": "shenzhen",
     "month": 11,
-    "rating": 4,
+    "rating": 3,
     "summary": {
       "ko": "맑고 선선, 다메이사 해변·OCT 창의단지 적기",
       "en": "Clear and cool, perfect time for Dameisa Beach and OCT Creative Complex",
@@ -7329,7 +7329,7 @@
   {
     "regionId": "shenzhen",
     "month": 12,
-    "rating": 5,
+    "rating": 4,
     "summary": {
       "ko": "쾌적한 겨울, 홍콩 연계 여행 최적기",
       "en": "Pleasant winter, the best time to travel to Hong Kong",
@@ -7399,7 +7399,7 @@
   {
     "regionId": "harbin",
     "month": 1,
-    "rating": 3,
+    "rating": 1,
     "summary": {
       "ko": "빙설제 절정, -20°C 속 얼음 궁전의 환상",
       "en": "The peak of the Ice and Snow Festival, the illusion of an ice palace in -20°C",
@@ -7484,13 +7484,13 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "harbin",
     "month": 2,
-    "rating": 3,
+    "rating": 1,
     "summary": {
       "ko": "빙설제 막바지, 여전히 볼거리 풍성",
       "en": "At the end of the Ice and Snow Festival, there is still plenty to see",
@@ -7579,8 +7579,8 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "harbin",
@@ -8099,7 +8099,7 @@
   {
     "regionId": "harbin",
     "month": 10,
-    "rating": 4,
+    "rating": 2,
     "summary": {
       "ko": "급격히 추워지는 초겨울, 첫 눈 가능",
       "en": "Rapidly cooling early winter, first snow possible",
@@ -8146,13 +8146,13 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "harbin",
     "month": 11,
-    "rating": 2,
+    "rating": 1,
     "summary": {
       "ko": "초겨울, 빙설제 준비 시작되는 시기",
       "en": "Early winter, when preparations for the ice and snow festival begin",
@@ -8222,7 +8222,7 @@
   {
     "regionId": "harbin",
     "month": 12,
-    "rating": 3,
+    "rating": 1,
     "summary": {
       "ko": "빙설제 개막, 빙등 대세계 오픈",
       "en": "Ice and Snow Festival opens, Ice Lantern World opens",
@@ -8282,7 +8282,7 @@
       "ja": "防寒服、パディング、ホットパック。極限防寒準備必須",
       "zh": "冬衣、衬垫、热敷袋。应对极端寒冷的准备至关重要"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

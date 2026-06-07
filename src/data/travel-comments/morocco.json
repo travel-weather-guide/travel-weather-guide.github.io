@@ -407,7 +407,7 @@
   {
     "regionId": "marrakech",
     "month": 7,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "40°C 극한 더위, 실내 전통 궁전 관람 위주",
       "en": "Extreme heat of 40°C, focusing on indoor traditional palace viewing",
@@ -489,7 +489,7 @@
   {
     "regionId": "marrakech",
     "month": 8,
-    "rating": 5,
+    "rating": 3,
     "summary": {
       "ko": "폭염 지속, 산악 지역 아이트벤하두로 피서",
       "en": "As the heat wave continues, retreat to the mountainous region of Ait Ben Haddou",

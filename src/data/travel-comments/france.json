@@ -2,12 +2,12 @@
   {
     "regionId": "paris",
     "month": 1,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "쌀쌀한 날씨, 방한 준비 필요",
-      "en": "Chilly weather, need to prepare for winter",
-      "ja": "寒い天候、防寒準備が必要",
-      "zh": "天气寒冷，需要做好过冬准备"
+      "ko": "겨울 한가운데, 관광객 적고 항공권 저렴한 비수기",
+      "en": "Mid-winter, off-season with few tourists and cheap airline tickets",
+      "ja": "冬の真ん中に、観光客が少なく、航空券の安いシーズン",
+      "zh": "仲冬淡季，游客稀少，机票便宜"
     },
     "highlights": {
       "ko": [
@@ -67,17 +67,17 @@
       "zh": "衬垫、厚外套和冬季装备必不可少"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "paris",
     "month": 2,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "아직 쌀쌀한 겨울, 미술관 투어에 좋은 시기",
+      "en": "Winter is still chilly, a good time for an art museum tour.",
+      "ja": "まだ肌寒い冬、美術館ツアーに良い時期",
+      "zh": "冬天依然寒冷，正是游览美术馆的好时节。"
     },
     "highlights": {
       "ko": [
@@ -119,18 +119,18 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "paris",
     "month": 3,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "봄기운이 시작, 카페 테라스가 열리기 시작",
+      "en": "Spring has begun, cafe terraces are starting to open",
+      "ja": "春のオーラが始まり、カフェテラスが開き始める",
+      "zh": "春天来了，咖啡馆露台开始营业"
     },
     "highlights": {
       "ko": [
@@ -172,18 +172,18 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "paris",
     "month": 4,
-    "rating": 5,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "봄 한가운데, 튈르리 정원 꽃과 야외 마르셰",
+      "en": "In the middle of spring, Tuileries Garden flowers and outdoor Marché",
+      "ja": "春の真ん中、チュイルリーガーデンの花と屋外マルシェ",
+      "zh": "仲春时节，杜乐丽花园鲜花盛开，户外集市"
     },
     "highlights": {
       "ko": [
@@ -248,12 +248,12 @@
   {
     "regionId": "paris",
     "month": 5,
-    "rating": 5,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "장미 만개, 파리 여행의 가장 완벽한 시기",
+      "en": "Roses in full bloom, the perfect time to travel to Paris",
+      "ja": "バラ満開、パリ旅行の最も完璧な時期",
+      "zh": "玫瑰盛开，巴黎旅游最佳时节"
     },
     "highlights": {
       "ko": [
@@ -331,12 +331,12 @@
   {
     "regionId": "paris",
     "month": 6,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "긴 일조시간, 센강 산책과 야외 카페의 매력",
+      "en": "The charm of long sunshine hours, walks along the Seine River, and outdoor cafes",
+      "ja": "長い日照時間、千川の散歩と屋外カフェの魅力",
+      "zh": "日照时间长、塞纳河畔漫步、露天咖啡馆的魅力"
     },
     "highlights": {
       "ko": [
@@ -418,12 +418,12 @@
   {
     "regionId": "paris",
     "month": 7,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "여름 성수기, 바스티유 데이(7/14) 축제",
+      "en": "Summer peak season, Bastille Day (7/14) festival",
+      "ja": "夏のハイシーズン、バスティーユデー（7/14）祭り",
+      "zh": "夏季旺季，巴士底日（7/14）节日"
     },
     "highlights": {
       "ko": [
@@ -471,12 +471,12 @@
   {
     "regionId": "paris",
     "month": 8,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "여름 피크, 파리지앵은 떠나고 관광객이 채우는 시기",
+      "en": "Summer peak, the time when Parisians leave and tourists fill up",
+      "ja": "夏のピーク、パリジアンは去って観光客がいっぱいの時期",
+      "zh": "夏季高峰，巴黎人离开、游客挤满的时候"
     },
     "highlights": {
       "ko": [
@@ -537,12 +537,12 @@
   {
     "regionId": "paris",
     "month": 9,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "관광객 줄고 날씨 쾌적, 가을 파리의 진수",
+      "en": "Fewer tourists, pleasant weather, the essence of Paris in autumn",
+      "ja": "観光客を減らす天気の快適さ、秋のパリの進水",
+      "zh": "游客少，气候宜人，巴黎秋天的精髓"
     },
     "highlights": {
       "ko": [
@@ -624,12 +624,12 @@
   {
     "regionId": "paris",
     "month": 10,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "가을빛 파리, 뤽상부르 공원 단풍",
+      "en": "Autumn colors in Paris, fall foliage in Luxembourg Park",
+      "ja": "秋の光のパリ、リュクサンブール公園の紅葉",
+      "zh": "巴黎的秋色，卢森堡公园的秋叶"
     },
     "highlights": {
       "ko": [
@@ -688,18 +688,18 @@
       "ja": "ジャケット、ニット、ショートパンツ。アウター必須",
       "zh": "外套、针织衫、长裤。需要外套"
     },
-    "crowdLevel": "high",
-    "priceLevel": "high"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "paris",
     "month": 11,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "쌀쌀해지고 해가 짧아지는 초겨울",
+      "en": "Early winter when it gets chilly and the days get shorter",
+      "ja": "寒くなって太陽が短くなる初冬",
+      "zh": "初冬，天气变冷，白天变短"
     },
     "highlights": {
       "ko": [
@@ -741,18 +741,18 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "paris",
     "month": 12,
-    "rating": 3,
+    "rating": 1,
     "summary": {
-      "ko": "쌀쌀한 날씨, 방한 준비 필요",
-      "en": "Chilly weather, need to prepare for winter",
-      "ja": "寒い天候、防寒準備が必要",
-      "zh": "天气寒冷，需要做好过冬准备"
+      "ko": "크리스마스 마켓과 일루미네이션의 연말 분위기",
+      "en": "The end-of-year atmosphere of Christmas markets and illuminations",
+      "ja": "クリスマスマーケットとイルミネーションの年末の雰囲気",
+      "zh": "圣诞市场和灯饰的年末气氛"
     },
     "highlights": {
       "ko": [
@@ -816,17 +816,17 @@
       "zh": "外套、围巾、手套。需要绝缘层"
     },
     "crowdLevel": "low",
-    "priceLevel": "medium"
+    "priceLevel": "low"
   },
   {
     "regionId": "nice",
     "month": 1,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "겨울이지만 온화한 지중해, 해변은 부적합",
+      "en": "Although it is winter, the Mediterranean Sea is mild and the beach is not suitable",
+      "ja": "冬だが穏やかな地中海、ビーチは不適切",
+      "zh": "虽然是冬天，但地中海气候温和，海滩不太适合"
     },
     "highlights": {
       "ko": [
@@ -859,10 +859,10 @@
     "month": 2,
     "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "니스 카니발 시즌, 축제 분위기의 겨울",
+      "en": "Nice Carnival season, a festive winter",
+      "ja": "ニースカーニバルシーズン、祭りの雰囲気の冬",
+      "zh": "美好的狂欢季，欢乐的冬天"
     },
     "highlights": {
       "ko": [
@@ -940,12 +940,12 @@
   {
     "regionId": "nice",
     "month": 3,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "봄 시작, 지중해 해안 산책이 쾌적해지는 시기",
+      "en": "Spring begins, a time when walking along the Mediterranean coast becomes pleasant",
+      "ja": "春の始まり、地中海沿岸の散歩が快適になる時期",
+      "zh": "春天来了，地中海沿岸散步变得惬意"
     },
     "highlights": {
       "ko": [
@@ -989,12 +989,12 @@
   {
     "regionId": "nice",
     "month": 4,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "따뜻해지는 봄, 해변 시즌 직전의 여유",
+      "en": "Warmer spring, relaxation just before beach season",
+      "ja": "暖かい春、ビーチシーズンの直前の余裕",
+      "zh": "温暖的春天，海滩季节来临前的放松"
     },
     "highlights": {
       "ko": [
@@ -1044,10 +1044,10 @@
     "month": 5,
     "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "지중해 해변 시즌 시작, 쾌적한 기온",
+      "en": "Mediterranean beach season begins, pleasant temperatures",
+      "ja": "地中海ビーチシーズン開始、快適な気温",
+      "zh": "地中海海滩季节开始，气温宜人"
     },
     "highlights": {
       "ko": [
@@ -1106,10 +1106,10 @@
     "month": 6,
     "rating": 5,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "본격 해변 시즌, 따뜻한 바다와 긴 해",
+      "en": "Beach season in full swing, warm seas and long days",
+      "ja": "本格的なビーチシーズン、暖かい海と長い年",
+      "zh": "海滩季节如火如荼，温暖的海水和漫长的白天"
     },
     "highlights": {
       "ko": [
@@ -1185,7 +1185,7 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
@@ -1193,10 +1193,10 @@
     "month": 7,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름 성수기, 코트다쥐르 해변 만석",
+      "en": "Summer peak season, Cote d'Azur beaches full",
+      "ja": "夏のハイシーズン、コートダジュールビーチ満席",
+      "zh": "夏季旺季，蔚蓝海岸海滩爆满"
     },
     "highlights": {
       "ko": [
@@ -1263,7 +1263,7 @@
       "ja": "薄い長袖、カーディガン。朝夕は冷たいことができる",
       "zh": "薄款长袖，开衫。早上和晚上可能会很冷"
     },
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
@@ -1271,10 +1271,10 @@
     "month": 8,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름 피크, 해변 혼잡하지만 바다 최고",
+      "en": "Summer peak, beach crowded but sea best",
+      "ja": "夏のピーク、ビーチが混雑しているが海の最高",
+      "zh": "夏季高峰，海滩拥挤但海水最好"
     },
     "highlights": {
       "ko": [
@@ -1341,7 +1341,7 @@
       "ja": "半袖、薄い長いパンツ。紫外線カット必須",
       "zh": "短袖，薄长裤。防紫外线必不可少"
     },
-    "crowdLevel": "high",
+    "crowdLevel": "medium",
     "priceLevel": "high"
   },
   {
@@ -1349,10 +1349,10 @@
     "month": 9,
     "rating": 5,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "바다 여전히 따뜻(23~25°C), 관광객 줄어든 최적기",
+      "en": "The sea is still warm (23-25°C), the best time to visit with fewer tourists",
+      "ja": "海はまだ暖かい（23〜25℃）、観光客が減った最適期",
+      "zh": "海水依然温暖（23-25°C），游客较少的最佳游览时间"
     },
     "highlights": {
       "ko": [
@@ -1400,12 +1400,12 @@
   {
     "regionId": "nice",
     "month": 10,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "지중해 황금빛 가을, 온화한 바다",
+      "en": "Mediterranean golden autumn, gentle sea",
+      "ja": "地中海の金色の秋、穏やかな海",
+      "zh": "地中海金秋，温柔的大海"
     },
     "highlights": {
       "ko": [
@@ -1470,12 +1470,12 @@
   {
     "regionId": "nice",
     "month": 11,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "가을 끝자락, 해변 시즌 마무리",
+      "en": "End of fall, end of beach season",
+      "ja": "秋の終わり、ビーチシーズン仕上げ",
+      "zh": "秋天结束，海滩季节结束"
     },
     "highlights": {
       "ko": [
@@ -1506,12 +1506,12 @@
   {
     "regionId": "nice",
     "month": 12,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "겨울이지만 온화, 크리스마스 마켓",
+      "en": "Winter but mild, Christmas market",
+      "ja": "冬ですが穏やか、クリスマスマーケット",
+      "zh": "冬天但温和，圣诞市场"
     },
     "highlights": {
       "ko": [
@@ -1549,18 +1549,18 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   },
   {
     "regionId": "marseille",
     "month": 1,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "겨울 지중해, 구항구 부야베스와 실내 마르셰",
+      "en": "Winter Mediterranean, Old Port Bouillabaisse and Indoor Marché",
+      "ja": "冬の地中海、旧港のブヤベスと屋内マルシェ",
+      "zh": "冬季地中海、布亚巴斯老港和室内市场"
     },
     "highlights": {
       "ko": [
@@ -1604,12 +1604,12 @@
   {
     "regionId": "marseille",
     "month": 2,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "온화한 겨울, 이프 성 보트 투어 가능",
+      "en": "Mild winters, boat tours to If Castle available",
+      "ja": "穏やかな冬、イフ城ボートツアー可能",
+      "zh": "温和的冬季，可乘船游览伊夫城堡"
     },
     "highlights": {
       "ko": [
@@ -1670,12 +1670,12 @@
   {
     "regionId": "marseille",
     "month": 3,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "봄 시작, 깔랑크 트레킹 시즌 오픈",
+      "en": "Spring begins, Calanque trekking season opens",
+      "ja": "春の始まり、クランクトレッキングシーズンオープン",
+      "zh": "春天来了，卡兰克徒步季节开始"
     },
     "highlights": {
       "ko": [
@@ -1736,12 +1736,12 @@
   {
     "regionId": "marseille",
     "month": 4,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "쾌적한 봄, 깔랑크 해안 절벽 하이킹",
+      "en": "Pleasant spring, Calanque coastal cliff hike",
+      "ja": "快適な春、クランク海岸の崖ハイキング",
+      "zh": "宜人的春天，卡兰克沿海悬崖徒步"
     },
     "highlights": {
       "ko": [
@@ -1789,12 +1789,12 @@
   {
     "regionId": "marseille",
     "month": 5,
-    "rating": 5,
+    "rating": 4,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "해변 시즌 직전, 구항구 노천카페 산책",
+      "en": "Just before the beach season, a stroll through an open-air cafe in the old port",
+      "ja": "ビーチシーズンの直前、九港区露天カフェ散歩",
+      "zh": "海滩季节来临之前，在老港口的露天咖啡馆里漫步"
     },
     "highlights": {
       "ko": [
@@ -1870,10 +1870,10 @@
     "month": 6,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "지중해 해변 시즌 시작, 깔랑크 해수욕",
+      "en": "Mediterranean beach season begins, bathing in Calanque Beach",
+      "ja": "地中海ビーチシーズン開始、クランク海水浴",
+      "zh": "地中海海滩季节开始，在卡兰克海滩沐浴"
     },
     "highlights": {
       "ko": [
@@ -1944,10 +1944,10 @@
     "month": 7,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름 성수기, 재즈 페스티벌과 해변 만석",
+      "en": "Summer peak season, jazz festivals and beaches full",
+      "ja": "夏のハイシーズン、ジャズフェスティバル、ビーチ満席",
+      "zh": "夏季旺季，爵士音乐节和海滩爆满"
     },
     "highlights": {
       "ko": [
@@ -2018,10 +2018,10 @@
     "month": 8,
     "rating": 5,
     "summary": {
-      "ko": "맑고 건조한 날씨, 여행 최적기",
-      "en": "Clear and dry weather, the best time to travel",
-      "ja": "澄んで乾燥した天気、旅行最適化",
-      "zh": "天气晴朗干燥，正是出游的最佳时节"
+      "ko": "여름 피크, 뜨거운 지중해 해변 휴양",
+      "en": "Summer peak, hot Mediterranean beach vacation",
+      "ja": "夏のピーク、熱い地中海のビーチレクリエーション",
+      "zh": "夏季高峰，炎热的地中海海滩度假"
     },
     "highlights": {
       "ko": [
@@ -2092,10 +2092,10 @@
     "month": 9,
     "rating": 5,
     "summary": {
-      "ko": "쾌적한 기온, 여행하기 좋은 시기",
-      "en": "Pleasant temperature, good time to travel",
-      "ja": "快適な気温、旅行に良い時期",
-      "zh": "气温宜人，旅游好时节"
+      "ko": "바다 따뜻(23°C), 관광객 줄어든 최적기",
+      "en": "Warm sea (23°C), optimal time for fewer tourists",
+      "ja": "海の暖かい（23°C）、観光客が減った最適期",
+      "zh": "温暖的海水（23°C），游客较少的最佳时间"
     },
     "highlights": {
       "ko": [
@@ -2160,12 +2160,12 @@
   {
     "regionId": "marseille",
     "month": 10,
-    "rating": 5,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "가을 지중해, 온화한 바다와 해산물 미식",
+      "en": "Autumn Mediterranean, gentle sea and seafood gourmet",
+      "ja": "秋の地中海、穏やかな海とシーフードのグルメ",
+      "zh": "秋季地中海，温柔的大海，海鲜美食"
     },
     "highlights": {
       "ko": [
@@ -2222,12 +2222,12 @@
   {
     "regionId": "marseille",
     "month": 11,
-    "rating": 4,
+    "rating": 3,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "늦가을, 해변 시즌 마무리 쌀쌀",
+      "en": "Late fall, chilly weather at the end of the beach season",
+      "ja": "晩秋、ビーチシーズン仕上げライス",
+      "zh": "深秋，海滩季节结束时天气寒冷"
     },
     "highlights": {
       "ko": [
@@ -2271,12 +2271,12 @@
   {
     "regionId": "marseille",
     "month": 12,
-    "rating": 4,
+    "rating": 2,
     "summary": {
-      "ko": "날씨가 좋아 여행하기 적합한 시기",
-      "en": "A good time to travel when the weather is good",
-      "ja": "天気の良い旅行に適した時期",
-      "zh": "天气好，正是出游的好时机"
+      "ko": "겨울이지만 온화, 크리스마스 마르셰",
+      "en": "Winter but mild, Christmas Marche",
+      "ja": "冬ですが穏やか、クリスマスマルシェ",
+      "zh": "冬天但温和，圣诞马尔凯"
     },
     "highlights": {
       "ko": [
@@ -2314,7 +2314,7 @@
       "ja": "コート、ショール、手袋。保温層が必要",
       "zh": "外套、围巾、手套。需要绝缘层"
     },
-    "crowdLevel": "medium",
-    "priceLevel": "medium"
+    "crowdLevel": "low",
+    "priceLevel": "low"
   }
 ]

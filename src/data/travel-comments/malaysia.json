@@ -594,7 +594,7 @@
   {
     "regionId": "kuala-lumpur",
     "month": 8,
-    "rating": 2,
+    "rating": 1,
     "summary": {
       "ko": "우기 지속, 헤이즈 가능성 있는 시기",
       "en": "Rainy season continues, haze is possible",
@@ -693,7 +693,7 @@
   {
     "regionId": "kuala-lumpur",
     "month": 9,
-    "rating": 2,
+    "rating": 1,
     "summary": {
       "ko": "연무와 비가 번갈아 오는 시기",
       "en": "A period of alternating haze and rain",
@@ -771,7 +771,7 @@
   {
     "regionId": "kuala-lumpur",
     "month": 10,
-    "rating": 2,
+    "rating": 1,
     "summary": {
       "ko": "북동 몬순 전환기, 비 늘어나는 시기",
       "en": "Northeast monsoon transition period, a period of increased rain",
@@ -2872,10 +2872,10 @@
     "month": 11,
     "rating": 1,
     "summary": {
-      "ko": "건기 시작, 맑아지는 안다만해",
-      "en": "Dry season begins, Andaman Sea becomes clear",
-      "ja": "乾き始め、澄んでいるアンダマンヘ",
-      "zh": "旱季开始，安达曼海变得清澈"
+      "ko": "우기 끝자락, 비 줄어들며 안다만해 서서히 회복",
+      "en": "At the end of the rainy season, the Andaman Sea gradually recovers as rain decreases",
+      "ja": "雨期の終わり、雨が減り、アンダマンして徐々に回復",
+      "zh": "雨季结束，安达曼海随着降雨减少而逐渐恢复"
     },
     "highlights": {
       "ko": [
@@ -3857,10 +3857,10 @@
     "month": 10,
     "rating": 1,
     "summary": {
-      "ko": "건기 전환, 조지타운 페스티벌 시즌",
-      "en": "Dry season transition, Georgetown festival season",
-      "ja": "乾季転換、ジョージタウンフェスティバルシーズン",
-      "zh": "旱季过渡，乔治敦节日"
+      "ko": "우기 절정, 강수량 최고치로 조지타운 거리 탐방 위주",
+      "en": "At the peak of the rainy season, with the highest rainfall, we focus on exploring the streets of Georgetown",
+      "ja": "雨期絶頂、降水量最高値でジョージタウン街探訪中心",
+      "zh": "雨季高峰期，降雨量最高，我们重点探索乔治城的街道"
     },
     "highlights": {
       "ko": [
@@ -3935,10 +3935,10 @@
     "month": 11,
     "rating": 1,
     "summary": {
-      "ko": "건기 재개, 다시 쾌청해진 조지타운",
-      "en": "Dry season resumes, Georgetown becomes sunny again",
-      "ja": "乾季再開、再び元気になったジョージタウン",
-      "zh": "旱季恢复，乔治城再次阳光明媚"
+      "ko": "우기 끝자락, 비 줄고 날씨 회복 시작",
+      "en": "At the end of the rainy season, rain decreases and the weather begins to recover",
+      "ja": "雨期の終わり、雨が降って天気の回復を開始",
+      "zh": "雨季结束，雨水减少，天气开始恢复"
     },
     "highlights": {
       "ko": [
