@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import BestInMonthContent from '@/components/best-in/BestInMonthContent';
 import { getRecommendation, buildRegionLookup } from '@/lib/data-server';
+import { SITE_URL } from '@/lib/site';
 
 const MONTH_NAMES = ['', '1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월'];
 
@@ -59,8 +60,8 @@ export default async function BestInMonthPage({
               '@context': 'https://schema.org',
               '@type': 'BreadcrumbList',
               itemListElement: [
-                { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather-guide.github.io' },
-                { '@type': 'ListItem', position: 2, name: `${MONTH_NAMES[m]} 추천`, item: `https://travel-weather-guide.github.io/best-in/${month}` },
+                { '@type': 'ListItem', position: 1, name: '홈', item: SITE_URL },
+                { '@type': 'ListItem', position: 2, name: `${MONTH_NAMES[m]} 추천`, item: `${SITE_URL}/best-in/${month}` },
               ],
             },
             {
@@ -74,7 +75,7 @@ export default async function BestInMonthPage({
                   '@type': 'ListItem',
                   position: i + 1,
                   name: info ? `${info.regionName.ko}, ${info.countryName.ko}` : dest.regionId,
-                  url: info ? `https://travel-weather-guide.github.io/country/${info.countryId}/${dest.regionId}` : undefined,
+                  url: info ? `${SITE_URL}/country/${info.countryId}/${dest.regionId}` : undefined,
                 };
               }),
             },

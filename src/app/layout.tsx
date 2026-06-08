@@ -3,6 +3,7 @@ import { Noto_Sans_KR, Noto_Sans_JP, Noto_Sans_SC } from 'next/font/google';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import Providers from '@/components/Providers';
+import { SITE_URL } from '@/lib/site';
 import './globals.css';
 
 const notoSansKR = Noto_Sans_KR({
@@ -24,7 +25,7 @@ const notoSansSC = Noto_Sans_SC({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://travel-weather-guide.github.io'),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: 'Travel Weather - 여행하기 좋은 날씨, 한눈에',
     template: '%s | Travel Weather',

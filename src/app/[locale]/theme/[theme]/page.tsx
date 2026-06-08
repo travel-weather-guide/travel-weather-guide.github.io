@@ -12,8 +12,9 @@ import {
   isThemeSlug,
   type Loc,
 } from '@/lib/theme-data';
+import { SITE_URL } from '@/lib/site';
 
-const BASE = 'https://travel-weather-guide.github.io';
+const BASE = SITE_URL;
 
 export function generateStaticParams() {
   return THEME_SLUGS.map((theme) => ({ theme }));

@@ -4,6 +4,7 @@ import type { Locale } from '@/contexts/LocaleContext';
 import RegionDetailContent from '@/components/region/RegionDetailContent';
 import { localName, seo } from '@/utils/seo-locale';
 import { getCountry, getComments, getDailyData, getAllRegionParams } from '@/lib/data-server';
+import { SITE_URL } from '@/lib/site';
 
 export function generateStaticParams() {
   return getAllRegionParams();
@@ -64,10 +65,10 @@ export default async function LocaleRegionDetailPage({
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: localName({ ko: '홈', en: 'Home', ja: 'ホーム', zh: '首页' }, l), item: 'https://travel-weather-guide.github.io' },
-        { '@type': 'ListItem', position: 2, name: localName({ ko: '국가', en: 'Countries', ja: '国・地域', zh: '国家' }, l), item: `https://travel-weather-guide.github.io/${locale}/country` },
-        { '@type': 'ListItem', position: 3, name: countryNameLocal, item: `https://travel-weather-guide.github.io/${locale}/country/${countryId}` },
-        { '@type': 'ListItem', position: 4, name: regionNameLocal, item: `https://travel-weather-guide.github.io/${locale}/country/${countryId}/${regionId}` },
+        { '@type': 'ListItem', position: 1, name: localName({ ko: '홈', en: 'Home', ja: 'ホーム', zh: '首页' }, l), item: SITE_URL },
+        { '@type': 'ListItem', position: 2, name: localName({ ko: '국가', en: 'Countries', ja: '国・地域', zh: '国家' }, l), item: `${SITE_URL}/${locale}/country` },
+        { '@type': 'ListItem', position: 3, name: countryNameLocal, item: `${SITE_URL}/${locale}/country/${countryId}` },
+        { '@type': 'ListItem', position: 4, name: regionNameLocal, item: `${SITE_URL}/${locale}/country/${countryId}/${regionId}` },
       ],
     },
     {

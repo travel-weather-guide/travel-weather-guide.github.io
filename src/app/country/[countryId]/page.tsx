@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import CountryDetailContent from '@/components/country/CountryDetailContent';
 import { getCountry, getComments, getAllCountryIds } from '@/lib/data-server';
+import { SITE_URL } from '@/lib/site';
 
 export function generateStaticParams() {
   return getAllCountryIds().map((countryId) => ({ countryId }));
@@ -55,9 +56,9 @@ export default async function CountryDetailPage({
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather-guide.github.io' },
-        { '@type': 'ListItem', position: 2, name: '국가', item: 'https://travel-weather-guide.github.io/country' },
-        { '@type': 'ListItem', position: 3, name: country.name.ko, item: `https://travel-weather-guide.github.io/country/${countryId}` },
+        { '@type': 'ListItem', position: 1, name: '홈', item: SITE_URL },
+        { '@type': 'ListItem', position: 2, name: '국가', item: `${SITE_URL}/country` },
+        { '@type': 'ListItem', position: 3, name: country.name.ko, item: `${SITE_URL}/country/${countryId}` },
       ],
     },
     {
@@ -65,7 +66,7 @@ export default async function CountryDetailPage({
       '@type': 'Country',
       name: country.name.ko,
       alternateName: [country.name.en, country.name.ja, country.name.zh].filter(Boolean),
-      url: `https://travel-weather-guide.github.io/country/${countryId}`,
+      url: `${SITE_URL}/country/${countryId}`,
     },
   ];
 

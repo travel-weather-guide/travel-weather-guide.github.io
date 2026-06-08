@@ -4,6 +4,7 @@ import type { Locale } from '@/contexts/LocaleContext';
 import { localName, seo, monthName } from '@/utils/seo-locale';
 import BestInMonthContent from '@/components/best-in/BestInMonthContent';
 import { getRecommendation, buildRegionLookup } from '@/lib/data-server';
+import { SITE_URL } from '@/lib/site';
 
 export function generateStaticParams() {
   return Array.from({ length: 12 }, (_, i) => ({ month: String(i + 1) }));
@@ -55,7 +56,7 @@ export default async function LocaleBestInMonthPage({
 
   const regionLookup = buildRegionLookup();
 
-  const BASE = 'https://travel-weather-guide.github.io';
+  const BASE = SITE_URL;
 
   return (
     <>

@@ -3,10 +3,11 @@ import type { MetadataRoute } from 'next';
 import { getAllCountryIds, getCountry } from '@/utils/data';
 import { THEME_SLUGS } from '@/lib/theme-data';
 import { LEGAL_DOCS } from '@/content/legal';
+import { SITE_URL } from '@/lib/site';
 
 export const dynamic = 'force-static';
 
-const BASE_URL = 'https://travel-weather-guide.github.io';
+const BASE_URL = SITE_URL;
 const LOCALES = ['en', 'ja', 'zh'];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

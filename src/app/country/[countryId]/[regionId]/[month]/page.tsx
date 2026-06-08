@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import RegionDetailContent from '@/components/region/RegionDetailContent';
 import { getCountry, getComments, getDailyData, getAllMonthlyRegionParams } from '@/lib/data-server';
+import { SITE_URL } from '@/lib/site';
 
 const MONTH_NAMES = ['', '1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월'];
 const MONTH_EN = ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
@@ -57,7 +58,7 @@ export default async function MonthlyWeatherPage({
   const dailyData = getDailyData(regionId);
   const comment = comments.find(c => c.month === m);
 
-  const BASE = 'https://travel-weather-guide.github.io';
+  const BASE = SITE_URL;
   const md = region.monthlyData?.[m - 1];
 
   const schemas: Record<string, unknown>[] = [

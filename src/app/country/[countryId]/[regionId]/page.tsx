@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import RegionDetailContent from '@/components/region/RegionDetailContent';
 import { getCountry, getComments, getDailyData, getAllRegionParams } from '@/lib/data-server';
+import { SITE_URL } from '@/lib/site';
 
 export function generateStaticParams() {
   return getAllRegionParams();
@@ -52,10 +53,10 @@ export default async function RegionDetailPage({
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: '홈', item: 'https://travel-weather-guide.github.io' },
-        { '@type': 'ListItem', position: 2, name: '국가', item: 'https://travel-weather-guide.github.io/country' },
-        { '@type': 'ListItem', position: 3, name: country.name.ko, item: `https://travel-weather-guide.github.io/country/${countryId}` },
-        { '@type': 'ListItem', position: 4, name: region.name.ko, item: `https://travel-weather-guide.github.io/country/${countryId}/${regionId}` },
+        { '@type': 'ListItem', position: 1, name: '홈', item: SITE_URL },
+        { '@type': 'ListItem', position: 2, name: '국가', item: `${SITE_URL}/country` },
+        { '@type': 'ListItem', position: 3, name: country.name.ko, item: `${SITE_URL}/country/${countryId}` },
+        { '@type': 'ListItem', position: 4, name: region.name.ko, item: `${SITE_URL}/country/${countryId}/${regionId}` },
       ],
     },
     {

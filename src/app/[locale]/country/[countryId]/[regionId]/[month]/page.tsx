@@ -4,6 +4,7 @@ import type { Locale } from '@/contexts/LocaleContext';
 import { localName, seo, monthName } from '@/utils/seo-locale';
 import RegionDetailContent from '@/components/region/RegionDetailContent';
 import { getCountry, getComments, getDailyData, getAllMonthlyRegionParams } from '@/lib/data-server';
+import { SITE_URL } from '@/lib/site';
 
 export function generateStaticParams() {
   return getAllMonthlyRegionParams();
@@ -63,7 +64,7 @@ export default async function LocaleMonthlyWeatherPage({
   const dailyData = getDailyData(regionId);
   const comment = comments.find(c => c.month === m);
 
-  const BASE = 'https://travel-weather-guide.github.io';
+  const BASE = SITE_URL;
   const md = region.monthlyData?.[m - 1];
 
   const schemas: Record<string, unknown>[] = [
